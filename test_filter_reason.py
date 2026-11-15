@@ -2,6 +2,8 @@
 import json
 from pathlib import Path
 
+import pytest
+
 import job_scout as js
 import filter_audit as fa
 
@@ -44,3 +46,33 @@ def test_audit_flags_engineering_rule_once():
     assert [item[1][0] for item in flagged] == ["1"]
     assert counts == {"mechanical": 1, "senior": 1}
     assert not fa.audit(data, {"Acme:1"})[0][0][3]
+
+
+@pytest.mark.parametrize("intake,expected", [
+    ("Summer 2026", ("internship_year", "2026")),
+    ("Summer 2028", ("internship_year", "2028")),
+    ("2026-2028", ("internship_year", "2026")),
+    ("2026-2027", None), ("2027-2028", None), ("2026 / 2027 / 2028", None),
+    ("Summer 2027 (class of 2028)", None), ("Summer 2027 (graduating 2028)", None),
+    ("Summer2027 (class of 2028)", None), ("Summer", None), ("2027", None), ("", None),
+    ("Spring 2027", ("internship_season", "spring")),
+    ("Fall 2027", ("internship_season", "fall")),
+    ("Winter/Spring 2027", ("internship_season", "winter")),
+    ("Fall Co-op", ("internship_season", "fall")),
+    ("Summer/Fall 2027", None), ("Spring & Summer 2027", None),
+    ("Spring/Summer 2027", None), ("Summer 2027 or Fall 2027", None),
+])
+def test_title_date_reasons_use_target_presence(intake, expected):
+    filters = dict(internship_year=2027, internship_season="summer")
+    listing = dict(title=f"Mechanical Intern {intake}", desc="Summer 2027; graduating 2028.", location="CO")
+    assert js.internship_filter_reason(listing, filters) == expected
+    assert js.title_filter_reason(listing, filters) == expected
+    assert js.matches(listing, filters) == (expected is None)
+
+
+def test_description_target_cannot_rescue_wrong_title_dates():
+    filters = dict(internship_year=2027, internship_season="summer")
+    assert js.internship_filter_reason(dict(title="Mechanical Intern 2028", description="Summer 2027"), filters) == (
+        "internship_year", "2028")
+    assert js.internship_filter_reason(dict(title="Mechanical Intern Winter 2027", description="Summer 2027"), filters) == (
+        "internship_season", "winter")

@@ -64,6 +64,7 @@ from keyword_matching import contains_any, contains_term, first_match  # noqa: E
 
 HOME = Path(os.environ.get("JOB_SCOUT_HOME", REPO_DIR / "data"))
 # User-facing configuration.
+DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER = ("spring", "fall", "autumn", "winter", "semester")
 JD_PROXY_URL = os.environ.get("JD_PROXY_URL", "")
 UA = {"User-Agent": "job-scout/1.0", "Accept": "application/json"}
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -296,7 +297,7 @@ def _parallel_terms(fetch=None, board=None, default_workers=3):
 def _load_title_terms(cfg):
     global TITLE_TERMS
     filters = cfg.get("filters") or {}
-    terms = filters.get("title_include", [])
+    terms = filters.get("search_terms") or filters.get("title_include", [])  # internship markers keep search-based boards cheap
     if not terms and filters.get("title_require_all_groups"):
         terms = filters["title_require_all_groups"][0]
     TITLE_TERMS = [t for t in dict.fromkeys(terms) if t]
@@ -3173,24 +3174,27 @@ _SUMMER_2027_RE = re.compile(r"\bsummer\s*(?:of\s*)?2027\b", re.I)
 _INTERNSHIP_YEAR_RE = re.compile(r"\b20\d{2}\b")
 _INTERNSHIP_SEASON_RE = re.compile(r"\b(?:spring|summer|fall|autumn|winter)\b", re.I)
 _COMPACT_SEASON_RE = re.compile(r"\b(spring|summer|fall|autumn|winter)(?=20\d{2}\b)", re.I)
+_WAIVABLE_SEASON_EXCLUDE_RE = re.compile(r"(spring|fall|autumn|winter|semester)(?:\s+20\d{2})?", re.I)
 
 
 def internship_filter_reason(job, f):
-    """Check listing text and enriched descriptions before queueing or alerting."""
+    """Check title dates and exclusions across title and descriptions before intake."""
     text = " ".join(strip_html(str(job.get(key) or "")) for key in ("title", "desc", "description"))
     text = _COMPACT_SEASON_RE.sub(r"\1 ", text)
     excluded = first_match(text, f.get("description_exclude", []))
     if excluded:
         return ("description_exclude", excluded.lower())
+    title = _COMPACT_SEASON_RE.sub(r"\1 ", strip_html(str(job.get("title") or "")))
     year, season = f.get("internship_year"), f.get("internship_season")
     if year is not None:
-        other = next((m.group() for m in _INTERNSHIP_YEAR_RE.finditer(text) if int(m.group()) != year), None)
-        if other:
-            return ("internship_year", other)
+        years = _INTERNSHIP_YEAR_RE.findall(title)
+        if years and str(year) not in years:
+            return ("internship_year", years[0])
     if season:
-        other = next((m.group().lower() for m in _INTERNSHIP_SEASON_RE.finditer(text)
-                      if m.group().lower().replace("autumn", "fall") != season), None)
-        if other:
+        seasons = [m.group().lower() for m in _INTERNSHIP_SEASON_RE.finditer(title)]
+        other = next((value for value in seasons
+                      if value.replace("autumn", "fall") != season), None)
+        if other and not (season == "summer" and "summer" in seasons):
             return ("internship_season", other)
     return None
 
@@ -3206,7 +3210,15 @@ def title_filter_reason(job, f):
     title = " ".join(job["title"].split())
     if not _title_candidate(title, f):
         return None
-    term = first_match(title, f.get("title_exclude", []))
+    excludes = f.get("title_exclude", [])
+    season_title = _COMPACT_SEASON_RE.sub(r"\1 ", title)
+    if contains_term(season_title, "summer"):
+        waived = {" ".join(word.lower().split()) for word in
+                  f.get("season_words_waived_by_summer", DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER)}
+        excludes = [word for word in excludes
+                    if not ((match := _WAIVABLE_SEASON_EXCLUDE_RE.fullmatch(word.strip()))
+                            and (" ".join(word.lower().split()) in waived or match.group(1).lower() in waived))]
+    term = first_match(title, excludes)
     if term:
         return ("title_exclude", term.lower())
     for rule in f.get("title_exclude_unless", []):

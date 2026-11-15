@@ -185,10 +185,18 @@ def test_every_scout_fetcher_is_known_to_the_validator():
     ("internship_year", "2027"), ("internship_year", True), ("internship_year", 1999),
     ("internship_season", "autumn"), ("locations_us_only", "yes"),
     ("locations_us_only", True), ("description_exclude", [1]),
+    ("season_words_waived_by_summer", "fall"), ("season_words_waived_by_summer", None),
+    ("season_words_waived_by_summer", [None]), ("season_words_waived_by_summer", [1]),
+    ("season_words_waived_by_summer", [""]), ("season_words_waived_by_summer", [" "]),
 ])
 def test_invalid_filter_options_fail(key, value):
     errors, _ = vc.validate(dict(companies=[], filters={key: value}), [])
     assert errors
+
+
+@pytest.mark.parametrize("words", [[], ["fall"], ["spring", "fall 2027", "winter", "semester"]])
+def test_season_waiver_list_validates(words):
+    assert vc.validate_filters(dict(filters=dict(season_words_waived_by_summer=words))) == []
 
 
 def test_draft_and_example_filters_agree():

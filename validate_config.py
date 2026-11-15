@@ -96,7 +96,8 @@ def validate_filters(config):
     filters = config.get("filters", {})
     if not isinstance(filters, dict):
         return ["config.filters must be an object"]
-    for key in ("title_include", "title_exclude", "locations_include", "locations_exclude", "description_exclude"):
+    for key in ("title_include", "title_exclude", "locations_include", "locations_exclude", "description_exclude",
+                "season_words_waived_by_summer"):
         if key in filters and (not isinstance(filters[key], list) or any(not _text(v) for v in filters[key])):
             errors.append(f"filters.{key} must be a list of nonempty strings")
     groups = filters.get("title_require_all_groups", [])

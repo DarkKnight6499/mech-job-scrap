@@ -85,7 +85,72 @@ def test_non_summer_terms_fail(title):
 
 @pytest.mark.parametrize("title", [
     "Mechanical Engineering Intern", "Summer 2027 Materials Intern", "2027 Summer Intern - Process Engineer",
-    "Aerospace Co-op",
+    "Aerospace Co-op", "Mechanical Intern 2026-2027", "Mechanical Intern 2027-2028",
+    "Mechanical Intern Summer 2027 (class of 2028)", "Mechanical Intern Summer 2027 (graduating 2028)",
 ])
 def test_summer_or_undated_pass(title):
     assert kept(title)
+
+
+@pytest.mark.parametrize("intake", [
+    "Summer/Fall 2027", "Spring & Summer 2027", "Spring/Summer 2027",
+    "Summer 2027 or Fall 2027", "Winter/Summer 2027", "Summer/Autumn 2027",
+    "Summer Semester 2027", "SUMMER / FALL 2027", "Spring 2028 / Summer 2027",
+    "Fall 2026 / Summer 2027", "Summer2027 / Winter2027",
+])
+def test_summer_waives_only_season_title_exclusions(intake):
+    assert kept(f"Mechanical Intern {intake}")
+
+
+@pytest.mark.parametrize("intake", [
+    "Spring 2027", "Fall 2027", "Winter/Spring 2027", "Fall Co-op",
+    "Autumn 2027", "Semester 2027", "Winter2027/Spring2027",
+])
+def test_non_summer_intakes_still_reject(intake):
+    assert not kept(f"Mechanical Intern {intake}")
+
+
+@pytest.mark.parametrize("term", [
+    "Year Round", "Year-Round", "Yearround", "Senior", "MBA Intern", "High School",
+    "Jan - July", "Spring Analyst", "Fall Co-op", "Winter Research",
+])
+def test_summer_preserves_other_title_exclusions(term):
+    filters = dict(FILTERS, title_exclude=["spring", term])
+    assert not kept(f"Mechanical Intern Spring / Summer 2027 {term}", filters)
+
+
+@pytest.mark.parametrize("term", [
+    "spring", "fall", "autumn", "winter", "semester",
+    "spring 2027", "fall 2027", "winter 2027", "autumn 2028", "fall 2026",
+])
+def test_default_waiver_accepts_season_words_and_season_year_entries(term):
+    filters = dict(FILTERS, title_exclude=[term])
+    filters.pop("season_words_waived_by_summer", None)
+    assert kept(f"Mechanical Intern Summer 2027 / {term}", filters)
+
+
+def test_season_waiver_list_is_configurable():
+    filters = dict(FILTERS, title_exclude=["spring", "fall"], season_words_waived_by_summer=["FALL"])
+    assert kept("Mechanical Intern Summer/Fall 2027", filters)
+    assert not kept("Mechanical Intern Spring/Summer 2027", filters)
+    assert not kept("Mechanical Intern Summer/Fall 2027", dict(filters, season_words_waived_by_summer=[]))
+    filters = dict(filters, title_exclude=["fall 2027", "fall 2028"], season_words_waived_by_summer=["fall 2027"])
+    assert kept("Mechanical Intern Summer 2027 / Fall 2027", filters)
+    assert not kept("Mechanical Intern Summer 2027 / Fall 2028", filters)
+
+
+@pytest.mark.parametrize("term", ["year round", "senior", "spring analyst", "fall co-op", "summer 2028"])
+def test_waiver_list_cannot_disable_non_season_exclusions(term):
+    filters = dict(FILTERS, title_exclude=[term], season_words_waived_by_summer=[term])
+    assert not kept(f"Mechanical Intern Summer 2027 {term}", filters)
+
+
+def test_description_summer_cannot_waive_title_exclusions():
+    assert not js.matches(job("Mechanical Intern Fall 2027", desc="Summer 2027 also offered."), FILTERS)
+    assert not kept("Mechanical Intern Spring Summertime 2027")
+
+
+def test_summer_waiver_preserves_conditional_exclusions_and_candidate_groups():
+    assert not kept("Software Engineering Intern Summer/Fall 2027")
+    assert not kept("Mechanical Engineer Summer/Fall")
+    assert not kept("Marketing Intern Summer/Fall 2027")

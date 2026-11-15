@@ -187,7 +187,13 @@
    "brakes",
    "vehicle dynamics",
    "thermal management",
-   "calibration"
+   "calibration",
+   "engineering",
+   "engineer",
+   "R & D",
+   "R and D",
+   "science and engineering",
+   "technology development"
   ],
   "title_require_all_groups": [
    [
@@ -384,7 +390,13 @@
     "brakes",
     "vehicle dynamics",
     "thermal management",
-    "calibration"
+    "calibration",
+    "engineering",
+    "engineer",
+    "R & D",
+    "R and D",
+    "science and engineering",
+    "technology development"
    ]
   ],
   "title_exclude": [
@@ -402,7 +414,6 @@
    "PhD required",
    "Ph.D. required",
    "doctoral",
-   "MBA",
    "finance",
    "financial",
    "accounting",
@@ -446,7 +457,20 @@
    "High School",
    "Apprentice",
    "Apprenticeship",
-   "Winter 2027"
+   "Winter 2027",
+   "MBA Intern",
+   "MBA Candidate",
+   "MBA Associate",
+   "MBA Summer",
+   "Data Engineer",
+   "Data Engineering",
+   "Cloud",
+   "DevOps",
+   "Cybersecurity",
+   "Network Engineer",
+   "Information Technology",
+   "IT Intern",
+   "Analytics Intern"
   ],
   "title_exclude_unless": [
    {
@@ -454,7 +478,12 @@
      "software",
      "developer",
      "web",
-     "data science"
+     "data science",
+     "full stack",
+     "backend",
+     "frontend",
+     "machine learning",
+     "AI"
     ],
     "unless": [
      "hardware",
@@ -705,6 +734,12 @@
    "Remote worldwide",
    "Worldwide",
    "Global"
+  ],
+  "search_terms": [
+   "intern",
+   "internship",
+   "co-op",
+   "summer 2027"
   ]
  },
  "companies": [
@@ -2282,6 +2317,846 @@
    "name": "Merlin Labs",
    "ats": "lever",
    "slug": "merlinlabs"
+  },
+  {
+   "name": "Axiom Space",
+   "ats": "workday",
+   "host": "axiomspace.wd5.myworkdayjobs.com",
+   "tenant": "axiomspace",
+   "site": "External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Firefly Aerospace",
+   "ats": "workday",
+   "host": "fireflyspace.wd115.myworkdayjobs.com",
+   "tenant": "fireflyspace",
+   "site": "Firefly",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Zipline",
+   "ats": "greenhouse",
+   "slug": "flyzipline"
+  },
+  {
+   "name": "Veolia",
+   "ats": "smartrecruiters",
+   "slug": "VeoliaEnvironnementSA"
+  },
+  {
+   "name": "ASML US",
+   "ats": "workday",
+   "host": "asml.wd3.myworkdayjobs.com",
+   "tenant": "asml",
+   "site": "ASMLEXT1",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Electric Hydrogen",
+   "ats": "greenhouse",
+   "slug": "eh2"
+  },
+  {
+   "name": "GE Aerospace",
+   "ats": "workday",
+   "host": "geaerospace.wd5.myworkdayjobs.com",
+   "tenant": "geaerospace",
+   "site": "GE_ExternalSite",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "L3Harris",
+   "ats": "talentbrew",
+   "host": "careers.l3harris.com"
+  },
+  {
+   "name": "Spirit AeroSystems",
+   "ats": "jibe",
+   "host": "careers.spiritaero.com",
+   "job_path": "jobs"
+  },
+  {
+   "name": "Howmet",
+   "ats": "oracle",
+   "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Triumph Group",
+   "ats": "successfactors",
+   "host": "careers.triumphgroup.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Leonardo DRS",
+   "ats": "successfactors",
+   "host": "careers.leonardodrs.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Huntington Ingalls",
+   "ats": "successfactors",
+   "host": "careers.huntingtoningalls.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Joby Aviation",
+   "ats": "icims",
+   "hosts": [
+    "careers-jobyaviation.icims.com"
+   ]
+  },
+  {
+   "name": "Ford",
+   "ats": "oracle",
+   "host": "efds.fa.em5.oraclecloud.com",
+   "site": "CX_1",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Hyundai",
+   "ats": "successfactors",
+   "host": "careers-americas.hyundai.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Navistar (International)",
+   "ats": "jibe",
+   "host": "careers.international.com",
+   "job_path": "jobs"
+  },
+  {
+   "name": "Volvo Group North America",
+   "ats": "successfactors",
+   "host": "jobs.volvogroup.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Harley-Davidson",
+   "ats": "successfactors",
+   "host": "jobs.harley-davidson.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Lear",
+   "ats": "successfactors",
+   "host": "jobs.lear.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Tenneco",
+   "ats": "successfactors",
+   "host": "jobs.tenneco.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Eastman",
+   "ats": "successfactors",
+   "host": "jobs.eastman.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Celanese",
+   "ats": "icims",
+   "hosts": [
+    "career-celanese.icims.com"
+   ]
+  },
+  {
+   "name": "Arkema",
+   "ats": "successfactors",
+   "host": "jobs.arkema.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Trinseo",
+   "ats": "icims",
+   "hosts": [
+    "careers-trinseo.icims.com"
+   ]
+  },
+  {
+   "name": "Ball Corp",
+   "ats": "successfactors",
+   "host": "jobs.ball.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kurita",
+   "ats": "icims",
+   "hosts": [
+    "careers-kurita.icims.com"
+   ]
+  },
+  {
+   "name": "AGCO",
+   "ats": "successfactors",
+   "host": "careers.agcocorp.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Ingersoll Rand",
+   "ats": "successfactors",
+   "host": "careers.irco.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Timken",
+   "ats": "successfactors",
+   "host": "careers.timken.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Lincoln Electric",
+   "ats": "successfactors",
+   "host": "jobs.lincolnelectric.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kennametal",
+   "ats": "successfactors",
+   "host": "jobs.kennametal.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Honeywell",
+   "ats": "oracle",
+   "host": "icfcjb.fa.ocs.oraclecloud.com",
+   "site": "CX_1",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Boston Scientific",
+   "ats": "successfactors",
+   "host": "jobs.bostonscientific.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Texas Instruments",
+   "ats": "oracle",
+   "host": "edbz.fa.us2.oraclecloud.com",
+   "site": "CX",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Skyworks",
+   "ats": "successfactors",
+   "host": "careers.skyworksinc.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Qorvo",
+   "ats": "successfactors",
+   "host": "careers.qorvo.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "onsemi",
+   "ats": "oracle",
+   "host": "hctz.fa.us2.oraclecloud.com",
+   "site": "onsemi",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Oak Ridge",
+   "ats": "successfactors",
+   "host": "jobs.ornl.gov",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Pacific Northwest",
+   "ats": "jibe",
+   "host": "careers.pnnl.gov",
+   "job_path": "jobs"
+  },
+  {
+   "name": "Johns Hopkins APL",
+   "ats": "jibe",
+   "host": "careers.jhuapl.edu",
+   "job_path": "jobs"
+  },
+  {
+   "name": "Hach",
+   "ats": "workday",
+   "host": "veralto.wd1.myworkdayjobs.com",
+   "tenant": "veralto",
+   "site": "HachJobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Vaya Space",
+   "ats": "bamboohr",
+   "slug": "vayaspace"
+  },
+  {
+   "name": "Fluor",
+   "ats": "eightfold",
+   "host": "fluor.eightfold.ai",
+   "domain": "fluor.com"
+  },
+  {
+   "name": "Black and Veatch",
+   "ats": "successfactors",
+   "host": "careers.bv.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kimley-Horn",
+   "ats": "jibe",
+   "host": "careers.kimley-horn.com"
+  },
+  {
+   "name": "Terracon",
+   "ats": "oracle",
+   "host": "ibspjb.fa.ocs.oraclecloud.com",
+   "site": "CX",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Westinghouse",
+   "ats": "successfactors",
+   "host": "careers.westinghousenuclear.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Vestas",
+   "ats": "successfactors",
+   "host": "careers.vestas.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Berkshire Grey",
+   "ats": "bamboohr",
+   "slug": "berkshiregrey"
+  },
+  {
+   "name": "VulcanForms",
+   "ats": "rippling",
+   "slug": "vulcanforms"
+  },
+  {
+   "name": "Kraton",
+   "ats": "successfactors",
+   "host": "jobs.kraton.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Lubrizol",
+   "ats": "successfactors",
+   "host": "jobs.lubrizol.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Momentive",
+   "ats": "workday",
+   "host": "momentive.wd1.myworkdayjobs.com",
+   "tenant": "momentive",
+   "site": "MC",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Wacker",
+   "ats": "successfactors",
+   "host": "jobs.wacker.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Mitsubishi Chemical America",
+   "ats": "workday",
+   "host": "mitsubishichemicalgroup.wd3.myworkdayjobs.com",
+   "tenant": "mitsubishichemicalgroup",
+   "site": "MCCGroupCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Shaw Industries",
+   "ats": "workday",
+   "host": "shawinc.wd1.myworkdayjobs.com",
+   "tenant": "shawinc",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Interface",
+   "ats": "workday",
+   "host": "interface.wd1.myworkdayjobs.com",
+   "tenant": "interface",
+   "site": "interface",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Axalta",
+   "ats": "workday",
+   "host": "axalta.wd1.myworkdayjobs.com",
+   "tenant": "axalta",
+   "site": "Axalta",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "RPM International",
+   "ats": "oracle",
+   "host": "hcwx.fa.us2.oraclecloud.com",
+   "site": "CX_1",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Chemours",
+   "ats": "workday",
+   "host": "chemours.wd103.myworkdayjobs.com",
+   "tenant": "chemours",
+   "site": "Chemours",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kinetico",
+   "ats": "workday",
+   "host": "kinetico.wd503.myworkdayjobs.com",
+   "tenant": "kinetico",
+   "site": "kineticocareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kemira",
+   "ats": "successfactors",
+   "host": "careers.kemira.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Ingevity",
+   "ats": "workday",
+   "host": "ingevity.wd1.myworkdayjobs.com",
+   "tenant": "ingevity",
+   "site": "Ingevity",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "BWX Technologies",
+   "ats": "successfactors",
+   "host": "careers.bwxt.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Centrus Energy",
+   "ats": "oracle",
+   "host": "eese.fa.us8.oraclecloud.com",
+   "site": "CentrusEnergyCareers",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Hexcel",
+   "ats": "workday",
+   "host": "hexcel.wd5.myworkdayjobs.com",
+   "tenant": "hexcel",
+   "site": "HexcelCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Airbus US",
+   "ats": "workday",
+   "host": "ag.wd3.myworkdayjobs.com",
+   "tenant": "ag",
+   "site": "Airbus",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Cirrus Aircraft",
+   "ats": "icims",
+   "hosts": [
+    "careers-cirrusaircraft.icims.com"
+   ]
+  },
+  {
+   "name": "Terumo",
+   "ats": "successfactors",
+   "host": "careers.terumoamericas.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Olympus America",
+   "ats": "successfactors",
+   "host": "careers.olympusamerica.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Siemens Healthineers",
+   "ats": "workday",
+   "host": "onehealthineers.wd3.myworkdayjobs.com",
+   "tenant": "onehealthineers",
+   "site": "SHSJB",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "GE HealthCare",
+   "ats": "workday",
+   "host": "gehc.wd5.myworkdayjobs.com",
+   "tenant": "gehc",
+   "site": "GEHC_ExternalSite",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Insulet",
+   "ats": "workday",
+   "host": "insulet.wd5.myworkdayjobs.com",
+   "tenant": "insulet",
+   "site": "insuletcareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Dexcom",
+   "ats": "workday",
+   "host": "dexcom.wd1.myworkdayjobs.com",
+   "tenant": "dexcom",
+   "site": "Dexcom",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Globus Medical",
+   "ats": "workday",
+   "host": "globusmedical.wd5.myworkdayjobs.com",
+   "tenant": "globusmedical",
+   "site": "GMED_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Integra LifeSciences",
+   "ats": "workday",
+   "host": "integralife.wd1.myworkdayjobs.com",
+   "tenant": "integralife",
+   "site": "Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Agilent",
+   "ats": "workday",
+   "host": "agilent.wd5.myworkdayjobs.com",
+   "tenant": "agilent",
+   "site": "Agilent_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Bio-Rad",
+   "ats": "icims",
+   "hosts": [
+    "careers-biorad.icims.com"
+   ]
+  },
+  {
+   "name": "Illumina",
+   "ats": "workday",
+   "host": "illumina.wd1.myworkdayjobs.com",
+   "tenant": "illumina",
+   "site": "illumina-careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "PerkinElmer (Revvity)",
+   "ats": "workday",
+   "host": "revvity.wd103.myworkdayjobs.com",
+   "tenant": "revvity",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Avantor",
+   "ats": "workday",
+   "host": "vwr.wd1.myworkdayjobs.com",
+   "tenant": "vwr",
+   "site": "avantorJobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Fox Factory",
+   "ats": "workday",
+   "host": "foxfactory.wd1.myworkdayjobs.com",
+   "tenant": "foxfactory",
+   "site": "FOX",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Dana Incorporated",
+   "ats": "successfactors",
+   "host": "jobs.dana.com",
+   "locale": "en_US",
+   "search": [
+    "intern"
+   ],
+   "max_per_term": 200
   }
  ],
  "keywords": [

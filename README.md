@@ -13,10 +13,11 @@ Finds Summer 2027 engineering internships in the USA from public ATS boards. Fla
 
 - `title_include`: alternatives used for title matching and search-based ATS queries.
 - `title_require_all_groups`: every group must match at least one term. Keep both internship markers and engineering terms.
-- `title_exclude`: unconditional title exclusions.
+- `title_exclude`: title exclusions, with the summer season waiver below.
+- `season_words_waived_by_summer`: optional list, default `["spring", "fall", "autumn", "winter", "semester"]`. When the title contains summer, waive these exclusions, including each word followed by a year. Exact season+year entries are also supported; `[]` disables the waiver. Year-round and other exclusions remain active even if listed here.
 - `title_exclude_unless`: exclude software titles unless hardware, embedded, robotics, or related terms appear in the title.
-- `description_exclude`: reject explicit degree-only restrictions such as PhD required, while allowing PhD preferred.
-- `internship_year: 2027`, `internship_season: "summer"`: reject any other year or season in titles or descriptions, including mixed years. No stated year or season passes. This strict rule also rejects unrelated years, such as graduation dates.
+- `description_exclude`: scan title and both description fields for explicit degree-only restrictions such as PhD required, while allowing PhD preferred.
+- `internship_year: 2027`, `internship_season: "summer"`: check titles only. Reject other years only when 2027 is absent. Summer passes the season check even alongside another season. No stated year or season passes; description dates never reject.
 - `locations_us_only: true`: require a configured US country/state marker. Blank locations and unqualified remote roles fail. State codes should be uppercase; codes after commas or hyphens also match lowercase text. A multi-site posting passes when at least one site qualifies.
 - `locations_include` / `locations_exclude`: US markers and overseas exclusions. Explicit foreign locations override state-name collisions.
 - `keywords`: engineering skill tags, not an extra eligibility gate.

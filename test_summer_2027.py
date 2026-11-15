@@ -1,4 +1,4 @@
-"""Summer intake checks apply to title, listing descriptions and enriched descriptions."""
+"""Title dates control intake; description exclusions also apply after enrichment."""
 import argparse
 import json
 from pathlib import Path
@@ -17,6 +17,10 @@ def kept(title="Mechanical Intern", description=""):
 @pytest.mark.parametrize("title,description", [
     ("Mechanical Intern Summer 2027", ""), ("Mechanical Intern", "Summer 2027 opportunity."),
     ("Mechanical Intern 2027", ""), ("Mechanical Intern", ""), ("Mechanical Intern", "Summer opportunity."),
+    ("Mechanical Intern", "Summer 2028."),
+    ("Mechanical Intern Summer 2027", "Program runs in 2026."),
+    ("Mechanical Intern", "Autumn 2027 placement."), ("Mechanical Intern", "Spring placement."),
+    ("Mechanical Intern", "Summer 2027. Graduation in 2028."),
 ])
 def test_target_or_unspecified_year_passes(title, description):
     assert kept(title, description)
@@ -25,17 +29,14 @@ def test_target_or_unspecified_year_passes(title, description):
 @pytest.mark.parametrize("title,description", [
     ("Mechanical Intern Summer 2026", ""), ("Mechanical Intern Summer 2028", ""),
     ("Mechanical Intern Fall 2026", ""), ("Mechanical Intern Spring 2027", ""),
-    ("Mechanical Intern Winter 2027", ""), ("Mechanical Intern", "Summer 2028."),
-    ("Mechanical Intern Summer 2027", "Program runs in 2026."),
-    ("Mechanical Intern", "Autumn 2027 placement."), ("Mechanical Intern", "Spring placement."),
-    ("Mechanical Intern", "Summer 2027. Graduation in 2028."),
+    ("Mechanical Intern Winter 2027", ""),
 ])
 def test_other_years_or_seasons_fail(title, description):
     assert not kept(title, description)
 
 
-def test_description_alias_is_checked():
-    assert not js.matches(dict(title="Mechanical Intern", description="Summer 2028", location="CO"), FILTERS)
+def test_description_alias_dates_do_not_reject():
+    assert js.matches(dict(title="Mechanical Intern", description="Summer 2028", location="CO"), FILTERS)
 
 
 def test_phd_only_description_fails_but_preference_passes():
@@ -44,13 +45,17 @@ def test_phd_only_description_fails_but_preference_passes():
 
 
 def test_target_year_and_season_are_configurable():
-    filters = dict(FILTERS, internship_year=2028, internship_season="fall")
-    job = dict(title="Mechanical Intern", desc="Fall 2028", location="CO")
+    filters = dict(FILTERS, title_exclude=[], internship_year=2028, internship_season="fall")
+    job = dict(title="Mechanical Intern Fall 2028", desc="Summer 2026", location="CO")
     assert js.matches(job, filters)
-    assert not js.matches(dict(job, desc="Summer 2028"), filters)
+    assert not js.matches(dict(job, title="Mechanical Intern Summer 2028"), filters)
+    assert not js.matches(dict(job, title="Mechanical Intern Fall 2027"), filters)
 
 
-@pytest.mark.parametrize("description,expected", [("Summer 2028.", 0), ("Summer 2027.", 1), ("", 1)])
+@pytest.mark.parametrize("description,expected", [
+    ("Summer 2028.", 1), ("Summer 2027.", 1), ("", 1),
+    ("Fall 2026. Graduating 2028.", 1), ("Ph.D. required", 0),
+])
 def test_enriched_description_checked_before_queue_and_alert(monkeypatch, description, expected):
     notifications = []
     monkeypatch.setattr(js, "notify", lambda *args: notifications.append(args) or True)
@@ -71,21 +76,51 @@ def test_summer_page_marker():
     assert not js._SUMMER_2027_RE.search("Mechanical Intern Spring 2027")
 
 
-@pytest.mark.parametrize("description", ["Summer2026", "Summer2028", "Spring2027", "Fall2027"])
-def test_compact_season_years_fail(description):
-    assert not kept(description=description)
+@pytest.mark.parametrize("season_year", ["Summer2026", "Summer2028", "Spring2027", "Fall2027"])
+def test_compact_title_season_years_fail(season_year):
+    assert not kept(title=f"Mechanical Intern {season_year}")
 
 
 def test_compact_target_season_year_passes():
-    assert kept(description="Summer2027")
+    assert kept(title="Mechanical Intern Summer2027")
 
 
-def test_recovered_description_closes_wrong_season_and_cancels_alert(monkeypatch):
-    monkeypatch.setattr(js, "describe", lambda company, job: ("Summer 2028 internship.", "", ""))
+@pytest.mark.parametrize("description,rejected", [
+    ("Summer 2028 internship.", False), ("Winter 2026; graduating 2028.", False),
+    ("Ph.D. required", True),
+])
+def test_recovered_description_only_closes_for_description_exclusions(monkeypatch, description, rejected):
+    monkeypatch.setattr(js, "describe", lambda company, job: (description, "", ""))
     entry = dict(id="Acme:1", company="Acme", role="Mechanical Intern", location="CO",
                  link="https://example.com/1", posted="", state="new", closed_on=None,
                  description_status="failed", alert_pending=True)
     config = dict(filters=FILTERS, companies=[dict(name="Acme", ats="greenhouse", slug="acme")])
     js._retry_enrichment([entry], config, [])
-    assert entry["closed_on"] and entry["closed_reason"] == "filters"
-    assert not entry["alert_pending"]
+    if rejected:
+        assert entry["closed_on"] and entry["closed_reason"] == "filters"
+        assert not entry["alert_pending"]
+    else:
+        assert entry["closed_on"] is None and entry["alert_pending"]
+        assert entry["description_status"] == "ok"
+
+
+@pytest.mark.parametrize("title", ["Mechanical Intern", "Mechanical Intern Summer 2027"])
+@pytest.mark.parametrize("field", ["desc", "description"])
+@pytest.mark.parametrize("description", [
+    "Fall rotations available.", "Winter break availability.", "Spring coursework required.",
+    "Autumn intake also available.", "Applications opened in 2026.", "Graduating 2028.",
+    "Summer2026 and Winter2028 programs.", "Summer 2027 or Fall 2027.",
+])
+def test_description_seasons_and_years_do_not_reject(title, field, description):
+    listing = dict(title=title, location="CO", **{field: description})
+    assert js.internship_filter_reason(listing, FILTERS) is None
+    assert js.title_filter_reason(listing, FILTERS) is None
+    assert js.matches(listing, FILTERS)
+
+
+@pytest.mark.parametrize("field", ["title", "desc", "description"])
+def test_description_exclusions_still_scan_every_text_field(field):
+    listing = dict(title="Mechanical Intern Summer 2027", location="CO")
+    listing[field] = listing.get(field, "") + " Ph.D. required"
+    assert js.internship_filter_reason(listing, FILTERS) == ("description_exclude", "ph.d. required")
+    assert not js.matches(listing, FILTERS)

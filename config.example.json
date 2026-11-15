@@ -187,7 +187,13 @@
    "brakes",
    "vehicle dynamics",
    "thermal management",
-   "calibration"
+   "calibration",
+   "engineering",
+   "engineer",
+   "R & D",
+   "R and D",
+   "science and engineering",
+   "technology development"
   ],
   "title_require_all_groups": [
    [
@@ -384,7 +390,13 @@
     "brakes",
     "vehicle dynamics",
     "thermal management",
-    "calibration"
+    "calibration",
+    "engineering",
+    "engineer",
+    "R & D",
+    "R and D",
+    "science and engineering",
+    "technology development"
    ]
   ],
   "title_exclude": [
@@ -402,7 +414,6 @@
    "PhD required",
    "Ph.D. required",
    "doctoral",
-   "MBA",
    "finance",
    "financial",
    "accounting",
@@ -446,7 +457,20 @@
    "High School",
    "Apprentice",
    "Apprenticeship",
-   "Winter 2027"
+   "Winter 2027",
+   "MBA Intern",
+   "MBA Candidate",
+   "MBA Associate",
+   "MBA Summer",
+   "Data Engineer",
+   "Data Engineering",
+   "Cloud",
+   "DevOps",
+   "Cybersecurity",
+   "Network Engineer",
+   "Information Technology",
+   "IT Intern",
+   "Analytics Intern"
   ],
   "title_exclude_unless": [
    {
@@ -454,7 +478,12 @@
      "software",
      "developer",
      "web",
-     "data science"
+     "data science",
+     "full stack",
+     "backend",
+     "frontend",
+     "machine learning",
+     "AI"
     ],
     "unless": [
      "hardware",
@@ -705,6 +734,12 @@
    "Remote worldwide",
    "Worldwide",
    "Global"
+  ],
+  "search_terms": [
+   "intern",
+   "internship",
+   "co-op",
+   "summer 2027"
   ]
  },
  "companies": [],
