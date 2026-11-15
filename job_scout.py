@@ -67,6 +67,12 @@ HOME = Path(os.environ.get("JOB_SCOUT_HOME", REPO_DIR / "data"))
 JD_PROXY_URL = os.environ.get("JD_PROXY_URL", "")
 UA = {"User-Agent": "job-scout/1.0", "Accept": "application/json"}
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+AMAZON_SEARCH_URL = "https://www.amazon.jobs/en/search.json"
+AMAZON_JOB_URL = "https://www.amazon.jobs/en/jobs/"
+AMAZON_COUNTRY = "USA"
+AMAZON_PAGE_SIZE = 100
+AMAZON_MAX_PER_TERM = 200
+AMAZON_TEXT_FIELDS = ("description", "basic_qualifications", "preferred_qualifications")
 RETRY_429_MAX = 4  # Workday 429s on bursts; a short backoff clears them (40 of 40 recovered in testing)
 QUEUE_STATES = ("new", "shortlisted", "applied", "dismissed", "opt_only", "auto_blocked")
 NO_SPONSORSHIP_STATUSES = ("No Sponsorship", "OPT Only")  # Read legacy queue rows until reclassified.
@@ -2212,6 +2218,45 @@ def brassring(c):
     return out, len(rows) >= total
 
 
+@_parallel_terms
+def amazon(c):
+    """Search Amazon's public JSON API and retain full text to avoid detail requests."""
+    out, seen, complete = [], set(), True
+    ceiling = max(0, int(c.get("max_per_term", AMAZON_MAX_PER_TERM)))
+    for term in _terms(c):
+        offset, term_complete = 0, False
+        while offset < ceiling:
+            query = urllib.parse.urlencode(dict(base_query=term, country=c.get("country", AMAZON_COUNTRY),
+                                               result_limit=AMAZON_PAGE_SIZE, offset=offset, sort="recent"))
+            data = http(f"{AMAZON_SEARCH_URL}?{query}", timeout=40)
+            if data.get("error"):
+                raise ValueError(f"Amazon search failed: {data['error']}")
+            total = int(data["hits"])
+            rows = (data.get("jobs") or [])[:ceiling - offset]
+            for job in rows:
+                jid = str(job.get("id_icims") or "")
+                if not jid or jid in seen:
+                    continue
+                seen.add(jid)
+                posted = ""
+                try:
+                    posted = datetime.strptime(job.get("posted_date") or "", "%B %d, %Y").date().isoformat()
+                except ValueError:
+                    pass
+                out.append(dict(id=jid, title=(job.get("title") or "").strip(),
+                                location=job.get("normalized_location") or job.get("location") or "",
+                                url=urllib.parse.urljoin(AMAZON_JOB_URL, job.get("job_path") or jid),
+                                posted=posted, desc=strip_html(" ".join(job.get(field) or "" for field in AMAZON_TEXT_FIELDS))))
+            offset += len(rows)
+            if offset >= total:
+                term_complete = True
+                break
+            if not rows:
+                break
+        complete = complete and term_complete
+    return out, complete
+
+
 def jibe(c):
     """iCIMS Career Sites ("Jibe") front ends - public /api/jobs?page=N&limit=100 on the careers host.
     Needs host and job_path (the site's public job URL prefix, e.g. "us/jobs"). Verified live 2026-10-02
@@ -2605,7 +2650,7 @@ def phenom(c):
     return out, False
 
 
-FETCH = dict(greenhouse=greenhouse, lever=lever, ashby=ashby, smartrecruiters=smartrecruiters, workday=workday,
+FETCH = dict(amazon=amazon, greenhouse=greenhouse, lever=lever, ashby=ashby, smartrecruiters=smartrecruiters, workday=workday,
              oracle=oracle, personio=personio, successfactors=successfactors, icims=icims, eightfold=eightfold, talentbrew=talentbrew, avature=avature, adp_rm=adp_rm, adp_wfn=adp_wfn, ukg=ukg, ukg_ready=ukg_ready, taleo_be=taleo_be, taleo_cws=taleo_cws, csod=csod, peoplesoft_hrs=peoplesoft_hrs, talentsoft=talentsoft, paylocity=paylocity, brassring=brassring, jibe=jibe, taleo=taleo, hrmdirect=hrmdirect, phenom=phenom,
              tal=tal,
              dayforce=dayforce, rippling=rippling, careerpuck=careerpuck, sitecore_search=sitecore_search, bamboohr=bamboohr,
@@ -2657,6 +2702,9 @@ def fetch_all(companies, budget=SHARD_BUDGET_SECONDS):
 
 
 def _fetch_cost(c):
+    if c["ats"] == "amazon":
+        pages = max(1, (int(c.get("max_per_term", AMAZON_MAX_PER_TERM)) + AMAZON_PAGE_SIZE - 1) // AMAZON_PAGE_SIZE)
+        return len(_terms(c)) * pages
     if c["ats"] != "workday":
         return 1
     sites = c["site"] if isinstance(c["site"], list) else [c["site"]]
@@ -2851,6 +2899,11 @@ def describe(c, job):
         return job.get("desc") or strip_html(text), posted, "exact" if posted else ""
     if job.get("desc"):
         return job["desc"], "", ""
+    if ats == "amazon":
+        raw = http(AMAZON_JOB_URL + str(job["id"]), raw=True, timeout=40).decode("utf-8", "ignore")
+        posted = _page_date(raw)
+        text = strip_html(re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", raw))[:30000]
+        return text, posted, "exact" if posted else ""
     if ats == "ukg":
         return _ukg_detail(c, job), "", ""
     if ats == "greenhouse":
@@ -5141,7 +5194,7 @@ def _send_summaries(notify_cfg, floods, counts, dry):
 
 
 def _still_listed(c, e):
-    """Closure double-check for term-search boards (Workday, Oracle, Eightfold): True unless the posting's own
+    """Closure double-check for term-search boards: True unless the posting's own
     detail lookup definitively says it is gone. A list miss alone must not close it, because a keyword
     search can drop a live posting. Any failure answers True so an unverifiable posting stays open."""
     ats = c.get("ats")
@@ -5149,6 +5202,9 @@ def _still_listed(c, e):
         return _workday_still_listed(c, e)
     pid = e["id"].split(":", 1)[1]
     try:
+        if ats == "amazon":
+            http(AMAZON_JOB_URL + pid, raw=True, timeout=40)
+            return True
         if ats == "oracle":
             d = http(f"https://{c['host']}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?"
                      + urllib.parse.urlencode({"onlyData": "true", "finder": f"ById;Id={pid}"}))
@@ -5240,7 +5296,7 @@ def _update_liveness(name, jobs, complete, queue, counts, c=None):
     if not complete:
         return  # a truncated/capped listing can't prove absence - a job outside the window isn't closed
     close_after = CLOSE_AFTER_MISSES * 3 if mass_vanish else CLOSE_AFTER_MISSES
-    checkable = bool(c and c.get("ats") in ("workday", "oracle", "eightfold", "smartrecruiters"))
+    checkable = bool(c and c.get("ats") in ("amazon", "workday", "oracle", "eightfold", "smartrecruiters"))
     due = [e for e in missing if e.get("miss_count", 0) + 1 >= close_after and (e.get("last_seen_live") or "") < today]
     listed = {}
     if checkable and due:

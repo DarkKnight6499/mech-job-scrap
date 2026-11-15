@@ -9,6 +9,7 @@ import unicodedata
 
 # Required by the fetchers. Fields with fetcher defaults stay optional.
 REQUIRED_FIELDS = {
+    "amazon": (),
     "greenhouse": ("slug",), "lever": ("slug",), "ashby": ("slug",),
     "jazzhr": ("host",), "workable": ("slug",), "nas_recruitment": ("host",),
     "teamtailor": ("host",), "comeet": ("host",), "kula": ("slug",), "breezy": ("slug",), "jobvite": ("company",), "isolvedhire": ("host",), "silkroad": ("portal",), "jobaps": ("agency",), "applicantstack": ("host",),
