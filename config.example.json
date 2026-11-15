@@ -207,7 +207,23 @@
    "Contract Student Worker",
    "Technician",
    "Machine Learning",
-   "LLM"
+   "LLM",
+   "Year Round",
+   "Year-Round",
+   "Yearround",
+   "Fall",
+   "Autumn",
+   "Spring",
+   "Fall 2027",
+   "Spring 2028",
+   "Jan - July",
+   "January",
+   "Jan-Jul",
+   "Semester",
+   "High School",
+   "Apprentice",
+   "Apprenticeship",
+   "Winter 2027"
   ],
   "title_exclude_unless": [
    {

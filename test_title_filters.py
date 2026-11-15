@@ -72,3 +72,20 @@ def test_search_terms_use_includes_or_first_required_group(monkeypatch):
     assert js._terms(dict(search=True)) == ["intern", "student"]
     js._load_title_terms(dict(filters=dict(title_include=["hardware", "hardware", "mechanical"])))
     assert js._terms(dict(search=True)) == ["hardware", "mechanical"]
+
+
+@pytest.mark.parametrize("title", [
+    "Mechanical Engineering Intern (Year Round)", "Co-op, Hardware Development Engineer (Jan - July 2027)",
+    "Fall 2027 Mechanical Intern", "Spring Robotics Co-op", "Winter Aerospace Intern",
+    "Manufacturing Engineering Semester Intern",
+])
+def test_non_summer_terms_fail(title):
+    assert not kept(title)
+
+
+@pytest.mark.parametrize("title", [
+    "Mechanical Engineering Intern", "Summer 2027 Materials Intern", "2027 Summer Intern - Process Engineer",
+    "Aerospace Co-op",
+])
+def test_summer_or_undated_pass(title):
+    assert kept(title)
