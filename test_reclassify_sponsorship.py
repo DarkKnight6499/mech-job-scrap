@@ -45,6 +45,11 @@ def test_refetch_uses_queue_link(tmp_path, monkeypatch, capsys, dry_run):
 @pytest.mark.parametrize("flag,status,state,text,expected_status,expected_state", [
     ("--opt-only", "OPT Only", "opt_only", "We will not sponsor visas.", "No Sponsorship", "new"),
     ("--blocked", "Blocked", "auto_blocked", "No visa sponsorship.", "No Sponsorship", "new"),
+    ("--blocked", "Blocked", "auto_blocked", "Do not apply if you will need immigration sponsorship (e.g., H1B, TN, STEM OPT).", "No Sponsorship", "new"),
+    ("--blocked", "Blocked", "auto_blocked", "We will not provide paperwork for STEM OPT.", "No Sponsorship", "new"),
+    ("--blocked", "Blocked", "auto_blocked", "No sponsorship. Do not apply if you need CPT.", "Blocked", "auto_blocked"),
+    ("--blocked", "Blocked", "auto_blocked", "F-1 students are not eligible.", "Blocked", "auto_blocked"),
+    ("--no-sponsorship", "No Sponsorship", "new", "International students are not eligible.", "Blocked", "auto_blocked"),
     ("--blocked", "Blocked", "auto_blocked", "Clearance not required.", "Unclear", "new"),
     ("--blocked", "Blocked", "auto_blocked", "This role is subject to ITAR.", "Unclear", "new"),
     ("--opt-only", "OPT Only", "opt_only", "F-1 students are not eligible.", "Blocked", "auto_blocked"),
@@ -77,6 +82,8 @@ def test_status_migration(tmp_path, monkeypatch, capsys, dry_run, flag, status, 
         assert saved["sponsorship_status"] == expected_status
         assert saved["state"] == expected_state
         assert saved["sponsorship_evidence"] != "old evidence"
+        if expected_status == "No Sponsorship":
+            assert "[sponsorship/support refused]" in saved["sponsorship_evidence"]
         assert saved["link"] == entry["link"] and saved["closed_on"] is None
 
 

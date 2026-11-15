@@ -185,28 +185,32 @@ _PREFERRED_PREFIX_RE = re.compile(r"\b(?:preferred|desired|optional)(?:\s+qualif
 _CLAUSE_BREAK_RE = re.compile(r"[.!?;\n]|\b(?:but|however|although)\b", re.I)
 _F1_ALTERNATIVE_RE = re.compile(
     r"\b(?:or|and)\s+(?:(?:have|hold)\s+|candidates?\s+(?:on\s+)?)?(?:f[-\s]?1|opt|cpt)\b", re.I)
-_OPT_TERM = r"\b(?:opt|cpt|f[-\s]?1)\b"
-_OPT_EXCLUSION_PATTERNS = [
-    _OPT_TERM + r"[^.!?;\n]{0,70}?\b(?:not\s+(?:(?:be|being)\s+)?(?:accepted|eligible|considered|supported|permitted|allowed)"
+_STUDENT_TERM = r"\b(?:cpt|curricular\s+practical\s+training|f[-\s]?1|international\s+students?)\b"
+# OPT-only restrictions do not exclude a student working on CPT.
+_OPT_TERM = r"\b(?:(?:stem\s+)?opt|optional\s+practical\s+training|cpt|curricular\s+practical\s+training|f[-\s]?1|international\s+students?)\b"
+_STUDENT_EXCLUSION_PATTERNS = [
+    _STUDENT_TERM + r"[^.!?;\n]{0,70}?\b(?:not\s+(?:(?:be|being)\s+)?(?:accepted|eligible|considered|supported|permitted|allowed)"
     r"|ineligible|excluded|(?:are|is)\s+restricted)\b",
     r"\b(?:no|not\s+eligible\s+for|(?:do|does|will)\s+not\s+(?:accept|consider|support|hire))\s+"
-    r"(?:(?:candidates?|applicants?|students?)\s+(?:on|with)\s+)?(?:stem\s+)?" + _OPT_TERM
+    r"(?:(?:candidates?|applicants?|students?)\s+(?:on|with)\s+)?"
+    r"(?:(?:stem\s+)?opt\s*(?:[/,&]\s*|or\s+))*" + _STUDENT_TERM
     + r"(?!(?:\s*[/&]\s*(?:opt|cpt))?\s+(?:restrictions?|exclusions?|limitations?)\b)",
-    r"\b(?:not|n't)\s+[^.!?;\n]{0,80}?\bparticipate\s+in\s+(?:stem\s+)?" + _OPT_TERM,
-    r"\b(?:do\s+not|don't|should\s+not)\s+apply\b[^.!?;\n]{0,350}?" + _OPT_TERM,
+    r"\b(?:not|n't)\s+[^.!?;\n]{0,80}?\bparticipate\s+in\s+" + _STUDENT_TERM,
+    r"\b(?:do\s+not|don't|should\s+not)\s+apply\b[^.!?;\n]{0,350}?" + _STUDENT_TERM,
     r"\b(?:not\s+require|without\s+(?:the\s+)?need\s+for)[^.!?;\n]{0,250}?"
-    r"\b(?:support|sponsorship|assistance)\b[^.!?;\n]{0,100}?\b(?:including|such\s+as|e\s+g)\b[^.!?;\n]{0,100}?" + _OPT_TERM,
+    r"\b(?:support|sponsorship|assistance)\b[^.!?;\n]{0,100}?\b(?:including|such\s+as|e\s+g)\b[^.!?;\n]{0,100}?" + _STUDENT_TERM,
     r"\b(?:(?:will|do|does)\s+not|won't|cannot|unable\s+to)\s+"
     r"(?:(?:provide|offer)\s+(?:(?:any|the|administrative|immigration|application)\s+){0,4}"
     r"(?:assistance|support|documentation|paperwork)|(?:sign|execute|complete)\s+(?:any\s+)?(?:documentation|paperwork|forms))"
-    r"\b[^.!?;\n]{0,250}?" + _OPT_TERM,
-    r"\bno\s+(?:administrative\s+)?(?:support|assistance|paperwork)\s+(?:for|with)\s+(?:stem\s+)?" + _OPT_TERM,
+    r"\b[^.!?;\n]{0,250}?" + _STUDENT_TERM,
+    r"\bno\s+(?:administrative\s+)?(?:support|assistance|paperwork)\s+(?:for|with)\s+" + _STUDENT_TERM,
 ]
-_OPT_EXCLUSION_RES = [re.compile(p, re.I) for p in _OPT_EXCLUSION_PATTERNS]
-_OPT_CONTINUATION_RE = re.compile(
+_STUDENT_EXCLUSION_RES = [re.compile(p, re.I) for p in _STUDENT_EXCLUSION_PATTERNS]
+_OPT_REFUSAL_RES = [re.compile(p.replace(_STUDENT_TERM, _OPT_TERM), re.I) for p in _STUDENT_EXCLUSION_PATTERNS]
+_STUDENT_CONTINUATION_RE = re.compile(
     r"\bthis\s+includes\b[^.!?;\n]{0,250}?\b(?:documentation|paperwork|assistance)\b"
-    r"[^.!?;\n]{0,100}?" + _OPT_TERM, re.I)
-_OPT_WELCOME_SUFFIX_RE = re.compile(
+    r"[^.!?;\n]{0,100}?" + _STUDENT_TERM, re.I)
+_STUDENT_WELCOME_SUFFIX_RE = re.compile(
     r"^\s*(?:candidates?|students?|applicants?)?\s*(?:are\s+|is\s+)?"
     r"(?:welcome|accepted|eligible\s+to\s+apply|(?:can|may)\s+apply)\b", re.I)
 REQUIREMENT_CONTEXT_CHARS = 200
@@ -3059,10 +3063,8 @@ _BARE_NON_US_CODE_RE = re.compile(
     r"^\s*(?:ph|mx|uk|gb|sg|hk|jp|kr|cn|br|pl|au|my|th|vn|tw|nz|ng|ke|pk|bd|lk|ae|ch|se|dk|fi|pt|ro|bg|cz|hu|ua|tr|cl)\s*$"
 )
 
-# "Wellington, nz" / "Adelaide, AU": trailing non-US country code. Codes that double as US state codes are absent.
-_TRAILING_NON_US_CC_RE = re.compile(
-    r",\s*(?:nz|au|uk|gb|sg|hk|jp|kr|cn|br|pl|ph|mx|ae|ie|nl|be|fr|es|it|se|dk|fi|pt|ro|bg|cz|hu|ua|tr|cl|za|eg|ch|th|vn|tw|ng|ke|pk|bd|lk|my)\s*$"
-)
+# Lowercase ATS country suffixes take precedence over configured US state markers.
+_TRAILING_COUNTRY_CODE_RE = re.compile(r",\s*([a-z]{2})\s*$")
 
 # "Wellington, nz" / "Adelaide, AU": trailing non-US country code. Codes that are also US state codes
 # (de, il, ma, co, ca, in, id, ar, pa, ga, md, me, mt, tn, va, al...) are deliberately absent.
@@ -3176,6 +3178,9 @@ def _location_matches(job_loc, f):
     loc_folded = _fold_accents(loc)
     locs = f.get("locations_include", [])
     loc_exc = f.get("locations_exclude", [])
+    country = _TRAILING_COUNTRY_CODE_RE.search(job_loc)
+    if f.get("locations_us_only") and country and country.group(1) != "us":
+        return False
     if _BARE_HQ_RE.match(loc_folded):
         return False
     if _BARE_NON_US_CITY_RE.match(loc_folded):
@@ -3212,6 +3217,9 @@ def _location_matches(job_loc, f):
 
 def _us_location(location, includes):
     """Require a configured country/state marker; reject unqualified remote or blank sites."""
+    country = _TRAILING_COUNTRY_CODE_RE.search(location)
+    if country:
+        return country.group(1) == "us"
     for term in includes:
         if len(term) == 2 and term.isupper() and term != "US":
             if re.search(r"(?<![A-Za-z0-9])" + re.escape(term) + r"(?![A-Za-z0-9])", location):
@@ -3264,29 +3272,34 @@ def classify_sponsorship(text):
     _, requirement = sponsorship_requirement(text)
     if requirement:
         return "Blocked", evidence(requirement)
-    for rx in _OPT_EXCLUSION_RES:
+    for rx in _STUDENT_EXCLUSION_RES:
         for m in rx.finditer(normalized):
-            if _OPT_WELCOME_SUFFIX_RE.match(normalized[m.end():]):
+            if _STUDENT_WELCOME_SUFFIX_RE.match(normalized[m.end():]):
                 continue
-            tag = "[no STEM OPT] " if re.search(r"\bstem\s+opt\b", m.group(0), re.I) else ""
-            return "Blocked", tag + evidence(m)
+            return "Blocked", "[student exclusion] " + evidence(m)
     first = None
     for rx in BLOCK_RES:
         for m in rx.finditer(normalized):
             if first is None or m.start() < first.start():
                 first = m
-            continuation = _OPT_CONTINUATION_RE.match(normalized, m.end())
+            continuation = _STUDENT_CONTINUATION_RE.match(normalized, m.end())
             if not continuation:
                 continuation = re.match(r"[^.!?;\n]*[.!?]\s*", normalized[m.end():])
                 if continuation:
-                    continuation = _OPT_CONTINUATION_RE.match(normalized, m.end() + continuation.end())
+                    continuation = _STUDENT_CONTINUATION_RE.match(normalized, m.end() + continuation.end())
             if continuation:
-                if _OPT_WELCOME_SUFFIX_RE.match(normalized[continuation.end():]):
+                if _STUDENT_WELCOME_SUFFIX_RE.match(normalized[continuation.end():]):
                     continue
-                return "Blocked", evidence(continuation)
+                return "Blocked", "[student exclusion] " + evidence(continuation)
+    for rx in _OPT_REFUSAL_RES:
+        for m in rx.finditer(normalized):
+            if _STUDENT_WELCOME_SUFFIX_RE.match(normalized[m.end():]):
+                continue
+            if first is None or m.start() < first.start():
+                first = m
     if first:
         tag = "[now or future] " if re.search(r"\bfuture\b", normalized[first.start():first.end() + 60], re.I) else ""
-        return "No Sponsorship", tag + evidence(first)
+        return "No Sponsorship", tag + "[sponsorship/support refused] " + evidence(first)
     return "Unclear", "No sponsorship language in the description."
 
 

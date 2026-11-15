@@ -14,6 +14,11 @@ import job_scout as js
     ("Must be a U.S. citizen.", "Blocked", True),
     ("Must hold an active Secret clearance.", "Blocked", True),
     ("OPT/CPT not accepted.", "Blocked", True),
+    ("Do not apply if you will need immigration sponsorship (e.g., H1B, TN, STEM OPT).", "No Sponsorship", False),
+    ("We will not sign documentation for STEM OPT.", "No Sponsorship", False),
+    ("No sponsorship. Do not apply if you need CPT.", "Blocked", True),
+    ("F-1 students are not eligible.", "Blocked", True),
+    ("International students are not considered.", "Blocked", True),
 ])
 def test_intake_alerts_unless_explicitly_blocked(monkeypatch, text, status, blocked):
     sent = []
@@ -31,6 +36,8 @@ def test_intake_alerts_unless_explicitly_blocked(monkeypatch, text, status, bloc
     assert len(sent) == counts["alerted"] == counts["queued"] == int(not blocked)
     assert counts["blocked"] == int(blocked)
     assert counts.get("no_sponsorship", 0) == int(status == "No Sponsorship")
+    if status == "No Sponsorship":
+        assert "[sponsorship/support refused]" in queue[0]["sponsorship_evidence"]
 
 
 def queue_entry(status="No Sponsorship", state="new"):

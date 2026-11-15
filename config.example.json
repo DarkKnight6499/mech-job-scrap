@@ -191,7 +191,23 @@
    "Spring 2027",
    "Winter",
    "Summer 2026",
-   "Summer 2028"
+   "Summer 2028",
+   "PhD Intern",
+   "Tax",
+   "Procurement",
+   "Supply Chain",
+   "Digital Design",
+   "Physical Design",
+   "VLSI",
+   "DFT",
+   "Programmer",
+   "AI Engineer",
+   "Behavioral Science",
+   "SkillBridge",
+   "Contract Student Worker",
+   "Technician",
+   "Machine Learning",
+   "LLM"
   ],
   "title_exclude_unless": [
    {

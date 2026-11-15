@@ -4,11 +4,12 @@ import pytest
 import job_scout as js
 
 BLOCKED = [
-    "USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).",
-    "Candidates requiring immigration support, such as H-1B or STEM OPT, will not be considered.",
     "Toyota does not offer support or sponsorship of job applicants for employment-based visas or any other work authorization for this role now or in the future. You must have the right to work in the United States and not require Toyota support or sponsorship for immigration-related employment (e.g., H-1B, O-1, E-3, H-1B1, TN, F-1 OPT, F-1 STEM OPT, F-1 CPT, etc.) now or in the future.",
 ]
 NO_SPONSORSHIP = [
+    "USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).",
+    "Candidates requiring immigration support, such as H-1B or STEM OPT, will not be considered.",
+    "No support for OPT.",
     "Sponsorship Offered: No",
     "Visa Sponsorship? No",
     "Education Requirement: Bachelor degree Sponsorship: No Come Drive Innovation with Us.",
@@ -77,7 +78,6 @@ HARD_BLOCKED = [
     "F-1 not eligible.",
     "F-1 students are not eligible for this internship.",
     "We do not accept OPT or CPT candidates.",
-    "No support for OPT.",
     "No clearance is needed, but U.S. citizenship is required.",
     "U.S. citizenship is not required; candidates must hold an active Secret clearance.",
     "Clearance preferred. Green card required.",
@@ -171,7 +171,10 @@ def test_us_abbreviation_before_space_is_normalized():
 
 def test_tags():
     assert js.classify_sponsorship("We will not sponsor now or in the future.")[1].startswith("[now or future]")
-    assert js.classify_sponsorship("No sponsorship. Do not apply if you need H-1B or STEM OPT.")[1].startswith("[no STEM OPT]")
+    status, evidence = js.classify_sponsorship("No sponsorship. Do not apply if you need H-1B or STEM OPT.")
+    assert status == "No Sponsorship"
+    assert "[sponsorship/support refused]" in evidence
+    assert "[no STEM OPT]" not in evidence and "[student exclusion]" not in evidence
     assert js.classify_sponsorship("We do not provide sponsorship; we will not sign any documentation for OPT or CPT.")[0] == "Blocked"
 
 
@@ -183,9 +186,47 @@ def test_mizuho_refuses_stem_opt_paperwork_is_blocked():
     assert js.classify_sponsorship(text)[0] == "Blocked"
 
 
-def test_will_not_participate_in_stem_opt_is_blocked():
+def test_will_not_participate_in_stem_opt_is_note():
     text = "PNC will not provide sponsorship for employment visas or participate in STEM OPT for this position."
-    assert js.classify_sponsorship(text)[0] == "Blocked"
+    assert js.classify_sponsorship(text)[0] == "No Sponsorship"
+
+
+@pytest.mark.parametrize("text,status", [
+    ("Do not apply if you will need immigration sponsorship (e.g., H1B, TN, STEM OPT).", "No Sponsorship"),
+    ("Do not apply if you need H1B, TN or STEM OPT.", "No Sponsorship"),
+    ("We do not provide paperwork for STEM OPT.", "No Sponsorship"),
+    ("No support for STEM OPT.", "No Sponsorship"),
+    ("We will not participate in STEM OPT.", "No Sponsorship"),
+    ("We will not sign any documentation for optional practical training.", "No Sponsorship"),
+    ("We do not sponsor visas. This includes administrative assistance for STEM OPT.", "No Sponsorship"),
+    ("STEM OPT candidates are not eligible.", "No Sponsorship"),
+    ("No sponsorship. CPT candidates are welcome.", "No Sponsorship"),
+    ("No sponsorship. International students may apply.", "No Sponsorship"),
+    ("Do not apply if you need immigration support (H1B, TN, CPT).", "Blocked"),
+    ("Do not apply if you hold F-1 status.", "Blocked"),
+    ("Do not apply if you are an international student.", "Blocked"),
+    ("International students are not eligible for this role.", "Blocked"),
+    ("We do not accept international students.", "Blocked"),
+    ("CPT applicants are not considered.", "Blocked"),
+    ("Curricular practical training is not accepted.", "Blocked"),
+    ("We do not sponsor visas. This includes administrative assistance for CPT.", "Blocked"),
+    ("No sponsorship. F-1 students are not eligible.", "Blocked"),
+    ("No sponsorship. U.S. citizenship is required.", "Blocked"),
+])
+def test_cpt_eligibility_controls_student_blocks(text, status):
+    actual, evidence = js.classify_sponsorship(text)
+    assert actual == status
+    if status == "No Sponsorship":
+        assert "[sponsorship/support refused]" in evidence
+    assert "[no STEM OPT]" not in evidence
+
+
+def test_student_exclusion_evidence_preserves_original_text():
+    text = "No visa sponsorship. F-1 students are not eligible."
+    status, evidence = js.classify_sponsorship(text)
+    assert status == "Blocked"
+    assert evidence.startswith("[student exclusion]")
+    assert "F-1 students are not eligible" in evidence
 
 
 def test_stem_opt_welcome_stays_no_sponsorship():

@@ -16,7 +16,7 @@ def kept(location):
     "US-NJ-Princeton-100-Headquarters", "Office - USA - CA - Headquarters", "United States",
     "Remote - US", "Remote US", "US Remote", "Remote, U.S.", "Remote (USA)",
     "Indianapolis, IN", "Newark, DE", "Ontario, CA", "Vancouver, WA", "Dublin, OH",
-    "Athens, GA", "Albuquerque, New Mexico", "Washington D.C.", "boulder, co",
+    "Athens, GA", "Albuquerque, New Mexico", "Washington D.C.",
     "Perth Amboy, NJ", "Georgia, United States", "Boston, MA, US, 02110",
 ])
 def test_us_locations_kept(location):
@@ -45,6 +45,47 @@ def test_multi_site_requires_at_least_one_us_site():
     assert kept("Toronto, Canada; Boulder, CO")
     assert kept("London, UK | Austin, TX")
     assert not kept("London, UK; Toronto, Canada")
+
+
+@pytest.mark.parametrize("location,expected", [
+    ("Reutlingen, BW, de", False),
+    ("Bekasi, id", False),
+    ("Munich, BY, de", False),
+    ("Toronto, ca", False),
+    ("Mumbai, in", False),
+    ("Cordoba, ar", False),
+    ("Boston, MA, gb", False),
+    ("Remote, de", False),
+    ("boulder, co", False),
+    ("Sunnyvale, CA, us", True),
+    ("Remote, us", True),
+    ("Unknown City, us", True),
+    ("Sunnyvale, CA, us  ", True),
+    ("Newark, DE", True),
+    ("Boise, ID", True),
+    ("Remote", False),
+    ("Reutlingen, BW, de; Sunnyvale, CA, us", True),
+    ("Sunnyvale, CA, us; Bekasi, id", True),
+    ("Reutlingen, BW, de; Bekasi, id", False),
+    ("Remote; Bekasi, id", False),
+    ("Bekasi, id; Boulder, CO", True),
+])
+def test_lowercase_country_suffixes(location, expected):
+    assert kept(location) is expected
+
+
+def test_country_suffix_does_not_bypass_explicit_excludes():
+    filters = dict(FILTERS, locations_exclude=["Sunnyvale"])
+    posting = job("Mechanical Intern")
+    posting["location"] = "Sunnyvale, CA, us"
+    assert not js.matches(posting, filters)
+    posting["location"] += "; Boulder, CO, us"
+    assert js.matches(posting, filters)
+
+
+def test_lowercase_country_suffix_rule_only_applies_to_us_only_filter():
+    filters = dict(locations_include=["Bekasi"], locations_us_only=False)
+    assert js.matches(dict(title="Example", location="Bekasi, id"), filters)
 
 
 def test_blank_location_recovers_workday_site_from_url_or_link():
