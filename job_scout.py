@@ -42,7 +42,6 @@ import json
 import os
 import random
 import re
-import secrets
 import sys
 import time
 import unicodedata
@@ -2947,7 +2946,7 @@ def describe(c, job):
             posted = _avature_feed_date(c, job)  # Two Sigma pages have no JSON-LD; its feed does
         pay = _jsonld_pay(raw)
         raw = re.sub(r"(?is)<(script|style|nav|header|footer)\b.*?</\1>", " ", raw)
-        return strip_html(raw)[:30000] + pay, posted, "exact" if posted else ""  # Avature job pages carry no JSON-LD; whole-page text is enough for the sponsorship/experience regexes
+        return strip_html(raw)[:30000] + pay, posted, "exact" if posted else ""  # Avature job pages carry no JSON-LD; whole-page text is enough for the sponsorship regexes
     if ats == "taleo_be":
         raw = http(job["url"], raw=True, timeout=40, headers={"Accept": "text/html, */*", "User-Agent": BROWSER_UA}).decode("utf-8", "ignore")
         i = raw.find('class="job_description"')
@@ -3301,156 +3300,6 @@ def classify_sponsorship(text):
         tag = "[now or future] " if re.search(r"\bfuture\b", normalized[first.start():first.end() + 60], re.I) else ""
         return "No Sponsorship", tag + "[sponsorship/support refused] " + evidence(first)
     return "Unclear", "No sponsorship language in the description."
-
-
-_EXPERIENCE_YEARS_RE = re.compile(
-    r"(?<![\d,.])(\d{1,2})\s*(?:-|to|–)\s*(\d{1,2})\s*\+?\s*years?|"      # "3-5 years" / "3 to 5 years"
-    r"(?<![\d,.])(\d{1,2})\s*\+\s*years?|"                                     # "5+ years"
-    r"(?:minimum|min\.?|at least)\s*(?:of\s*)?(\d{1,2})\s*years?",  # "minimum of 3 years"
-    re.I,
-)
-_ENTRY_PHRASE_RE = re.compile(
-    r"\bentry[- ]level\b(?!\s+(?:employees?|staff|to\s+(?:senior|executive|c-suite)))|\bnew grad(?:uate)?s?\b|\brecent graduate\b|\bcampus hire\b|"
-    r"\bno (?:prior )?experience (?:required|necessary)\b",
-    re.I,
-)
-_SENIOR_TITLE_RE = re.compile(r"\b(senior|sr\.?|vice president|vp|svp|principal|lead|staff)\b", re.I)
-_MID_TITLE_RE = re.compile(r"\bassociate\b", re.I)
-# Added after the two above so existing title-inferred values are unchanged ("Associate Director" stays 3).
-_DIRECTOR_TITLE_RE = re.compile(r"\b(?:managing director|director|head of)\b", re.I)
-_ENTRY_TITLE_RE = re.compile(
-    r"\bintern(?:ship)?s?\b|\bsummer analyst\b|\btrainee\b|\bapprentice(?:ship)?\b|\bgraduate (?:program|scheme|analyst)\b|"
-    r"\bentry[- ]level\b|\b(?:junior|jr\.?)\b", re.I)
-
-_NUM_WORDS = {w: i for i, w in enumerate(
-    "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen "
-    "sixteen seventeen eighteen nineteen twenty".split())}
-_NUM = r"(\d{1,2}|" + "|".join(sorted(_NUM_WORDS, key=len, reverse=True)) + r")"
-_NUM_PAREN = r"(?:\s*\(\d{1,2}\))?"
-# "3 years", "3+ yrs", "three (3) years", "3-5 years", "3 to 5 years", "five or more years", "5 years or more"
-_STATED_YEARS_RE = re.compile(
-    r"\b" + _NUM + _NUM_PAREN + r"(?:\s*(?:-|–|to)\s*" + _NUM + _NUM_PAREN + r")?"
-    r"\s*(?:\+|\bplus\b)?\s*(?:or\s+more\s+)?[-\s]*(?:years?|yrs?)\b['’]?(?!\s+(?:old|ago)\b)",
-    re.I)
-_EXP_WORD_RE = re.compile(r"\bexperience[ds]?\b|\bexp\b", re.I)
-# a number before "years" that cannot be a requirement: tenure of the employer, an age, a service award, a
-# contract term ("within three years of hire") or fiscal/calendar years
-_YEARS_NOT_REQ_AFTER_RE = re.compile(
-    r"^['’]?\s*(?:(?:college|university|degree|bachelor|undergraduate|program|plan|period|term|contract|cycle|"
-    r"horizon|track|accredited|institution|school|vision|strategy|roadmap|associate|master)\b|"
-    r"of\s+(?:age|service|history|operations?|growth|business|profitab|unbroken|heritage|legacy|"
-    r"success|innovation|tradition)|in\s+business|old|ago|from\s+(?:now|hire|the\s+date)|fiscal|calendar|"
-    r"after|since|prior|post)", re.I)
-_YEARS_NOT_REQ_BEFORE_RE = re.compile(
-    r"(?:within|after|every|each|per|during|for\s+the\s+(?:next|past|last)|over\s+the\s+(?:next|past|last)|"
-    r"next|past|last|previous|prior|fiscal|calendar|founded|established|since|for)\s+(?:the\s+)?(?:\w+\s+)?$", re.I)
-_ORG_WORDS_RE = re.compile(
-    r"\b(?:we|we've|our|firm|company|bank|organization|organisation|group|heritage|legacy|history|founded|"
-    r"established|serving|providing|leader|leading)\b", re.I)
-_DEGREE_WORD_RE = re.compile(r"degree|diploma|\bged\b|bachelor|master|\bmba\b|ph\.?d|doctorate|associate'?s|education", re.I)
-_PREFERRED_NEAR_RE = re.compile(
-    r"\bpreferred\b|\bdesired\b|\bdesirable\b|\ba plus\b|\bnice to have\b|\bbonus\b|\bideal(?:ly)?\b|\bbeneficial\b|"
-    r"\ban? (?:advantage|asset)\b|\bhelpful\b|\bfavou?rable\b", re.I)
-_PREF_HEADING_RE = re.compile(
-    r"\b(?:preferred|desired|nice[- ]to[- ]have|bonus|ideal|additional|plus)\s+(?:qualifications?|skills?|experience|"
-    r"requirements?|attributes|points)\b|\bbonus points\b|\bwhat would make you stand out\b|\bnice to haves?\b|"
-    r"\bit'?s a plus\b|\bpreferred:", re.I)
-_REQ_HEADING_RE = re.compile(
-    r"\b(?:required|minimum|basic|mandatory)\s+(?:qualifications?|skills?|experience|requirements?|education)\b|"
-    r"\byou'?ll need\b|\byou will need\b|\bmust have\b|\bwhat you'?ll bring\b|\bwe'?re looking for\b|"
-    r"\bwhat we look for\b|\brequirements?:|\bqualifications?\s*:|\bminimum:", re.I)
-# "Minimum Years of Work Experience: 3" (Workday-style structured field)
-_STRUCTURED_YEARS_RE = re.compile(r"\bminimum years of (?:work |related |relevant )?experience\s*:\s*(\d{1,2})\b", re.I)
-
-
-def _num_val(tok):
-    tok = tok.lower()
-    return int(tok) if tok.isdigit() else _NUM_WORDS[tok]
-
-
-_YEARS_MAX_BEFORE_RE = re.compile(r"(?:no more than|not more than|at most|up to|less than|fewer than|under|maximum of|a maximum of)\s+(?:about\s+)?$", re.I)
-
-
-def _stated_experience_years(text):
-    """Stated years-of-experience requirement the original regexes miss: number words, "(3)" parentheticals,
-    ranges, "or more", bare "N years of ... experience", "N years' experience", structured fields. Returns
-    (lower bound, snippet) or None. Conservative: the number must sit next to the word "experience", and
-    employer tenure ("over 30 years"), ages, service awards, fiscal years, preferred-only years, and
-    degree-or-experience alternatives are skipped (None = Unclear beats a wrong value)."""
-    if not text:
-        return None
-    for m in _STRUCTURED_YEARS_RE.finditer(text):
-        n = int(m.group(1))
-        if n <= 20 and n > 0:
-            return n, text[max(0, m.start() - 20):m.end() + 20].strip()
-    for m in _STATED_YEARS_RE.finditer(text):
-        try:
-            lo = _num_val(m.group(1))
-            hi = _num_val(m.group(2)) if m.group(2) else lo
-        except KeyError:
-            continue
-        if max(lo, hi) > 20 or min(lo, hi) == 0 and not m.group(2):
-            continue
-        before = text[max(0, m.start() - 90):m.start()]
-        sent_before = re.split(r"[.;!?]\s", before)[-1]
-        after = text[m.end():m.end() + 100]
-        if _YEARS_NOT_REQ_AFTER_RE.match(after) or _YEARS_NOT_REQ_BEFORE_RE.search(sent_before):
-            continue
-        if _YEARS_MAX_BEFORE_RE.search(sent_before):
-            continue  # "no more than three years of experience" is a ceiling (an entry-level pitch), not a floor
-        if re.search(r"(?:over|more than|nearly|almost|for|with)\s*$", sent_before, re.I) and _ORG_WORDS_RE.search(
-                sent_before) and not re.search(r"\b(?:candidates?|applicants?|you|looking|seeking|require[sd]?|need)\b",
-                                               sent_before, re.I):
-            continue  # "a bank with more than 20 years of experience"
-        # must be talking about experience: right after ("years of relevant experience") or a label right before
-        after_sent = re.split(r"[.;!?]\s", after)[0]
-        near_after = _EXP_WORD_RE.search(after_sent[:80])
-        near_before = re.search(r"\bexperience\s*(?:required|level|needed)?\s*[:\-–]\s*(?:minimum\s+)?(?:of\s+)?"
-                                r"(?:at least\s+|more than\s+|over\s+)?$", sent_before, re.I)
-        if not (near_after or near_before):
-            continue
-        # preferred-only years are not a requirement
-        if _PREFERRED_NEAR_RE.search(sent_before[-30:]) or _PREFERRED_NEAR_RE.search(after_sent[:100]):
-            continue
-        head_ctx = text[max(0, m.start() - 700):m.start()]
-        pref = [h.end() for h in _PREF_HEADING_RE.finditer(head_ctx)]
-        req = [h.end() for h in _REQ_HEADING_RE.finditer(head_ctx)]
-        if pref and (not req or max(pref) > max(req)):
-            continue
-        # "Bachelor's degree or 4 years of experience" / "degree and/or 3 years": an alternative, not a floor
-        alt_before = re.split(r"[.!?]\s", before)[-1]  # keeps ';' so "university; or at least 5 years" stays one clause
-        if re.search(r"\b(?:or|and/or)\s+(?:(?:have|having|with|at least|minimum of|minimum|a|an|the equivalent of)\s+)*$",
-                     alt_before, re.I) and _DEGREE_WORD_RE.search(alt_before):
-            continue
-        if re.match(r"[^.;]{0,50}?\bor\s+(?:a|an|the)?\s*(?:bachelor|master|mba|ph\.?d|doctorate|advanced degree|degree)", after, re.I):
-            continue
-        n = min(lo, hi)
-        s, e = max(0, m.start() - 40), min(len(text), m.end() + 40)
-        return n, text[s:e].strip()
-    return None
-
-
-def classify_experience(title, text):
-    """Best-effort years-of-experience, keyed off the LOWER bound stated (e.g. "5+ years" or "3-5
-    years" both key off 3/5, not an average or the upper end) since that's the number that actually
-    gates whether someone can apply. Returns (years, evidence): years is an exact integer whenever
-    the description states one, or 0 for explicit entry-level phrasing. The title is never used: no
-    signal in the description is (None, ...) - Unclear, not assumed from the title or entry-level - same
-    "never guess beyond the evidence" rule as sponsorship classification."""
-    hay = text or ""
-    m = _ENTRY_PHRASE_RE.search(hay)
-    if m:
-        s, e = max(0, m.start() - 40), min(len(hay), m.end() + 40)
-        return 0, hay[s:e].strip()
-    m = _EXPERIENCE_YEARS_RE.search(hay)
-    if m:
-        min_years = min(int(g) for g in m.groups() if g)
-        s, e = max(0, m.start() - 40), min(len(hay), m.end() + 40)
-        return min_years, hay[s:e].strip()
-    stated = _stated_experience_years(hay)
-    if stated:
-        return stated
-    return None, "No years-of-experience language found."
 
 
 _SAL_CUR = r"(?:US\$|CA\$|C\$|CAD\s?\$|USD\s?\$|\$|£|€|USD|CAD|GBP|EUR)"
@@ -3880,7 +3729,7 @@ def _reverify_recent_posted(queue, cfg):
 
 def _retry_enrichment(queue, cfg, keywords, dry=False):
     """Retries what failed at intake, a few per run and at most once a day per entry: (1) description fetches
-    that errored, which left sponsorship/experience/salary unchecked, and (2) undated entries of the ATSs in
+    that errored, which left sponsorship/salary unchecked, and (2) undated entries of the ATSs in
     DETAIL_DATED_ATS (their detail call carries the date), which fall outside the one-shot 1-to-3-day date recheck above. Success reclassifies the entry."""
     by_company = {c["name"]: c for c in cfg["companies"]}
     today = date.today().isoformat()
@@ -3921,7 +3770,6 @@ def _retry_enrichment(queue, cfg, keywords, dry=False):
             fixed += 1
         if desc_failed and text:
             e["sponsorship_status"], e["sponsorship_evidence"] = classify_sponsorship(text)
-            e["experience"], e["experience_evidence"] = classify_experience(e["role"], text)
             e["salary"], e["salary_evidence"] = classify_salary(text)
             e["kw_hits"] = keyword_hits(e["role"], text, keywords)
             e["description_status"] = "ok"
@@ -4101,7 +3949,7 @@ def cmd_queue(args):
     for e in q:
         sponsorship_status = "No Sponsorship" if e["sponsorship_status"] in NO_SPONSORSHIP_STATUSES else e["sponsorship_status"]
         print(f"{e['id']}  {e['company']}: {e['role']} ({e['location']}) posted {posted_label(e)} "
-              f"[{e['state']}, spons {sponsorship_status}, exp {e.get('experience', 'Unclear')}, "
+              f"[{e['state']}, spons {sponsorship_status}, "
               f"salary {e.get('salary', 'Unclear')}, kw {', '.join(e['kw_hits']) or 'none'}]\n    {e['link']}")
     print(f"{len(q)} queue entr{'y' if len(q) == 1 else 'ies'}.")
 
@@ -4214,7 +4062,7 @@ function copyText(text) {
       c.el.textContent = c.label + '(' + n + ')';
     });
   }
-  ['filterSearchBtn', 'noSponsorshipBtn', 'summerBtn', 'expMin', 'expMax', 'expIncludeNA', 'expReset', 'dateMin', 'dateMax', 'dateIncludeNA'].forEach(function(id) {
+  ['filterSearchBtn', 'noSponsorshipBtn', 'summerBtn', 'filterReset', 'dateMin', 'dateMax', 'dateIncludeNA'].forEach(function(id) {
     var el = document.getElementById(id);
     if (el) el.addEventListener(el.tagName === 'BUTTON' ? 'click' : 'change', function() {
       setTimeout(function() { applyCategory(); applyCompany(); applyLocation(); }, 0);
@@ -4257,7 +4105,7 @@ function copyText(text) {
   } catch (e) {}
   checkboxes.forEach(function(cb) { cb.addEventListener('change', applyCategory); });
   var metroBox = null, coloradoBox = null;
-  var resetBtn = document.getElementById('expReset');
+  var resetBtn = document.getElementById('filterReset');
   if (resetBtn) resetBtn.addEventListener('click', function() {
     checkboxes.forEach(function(cb) { cb.checked = false; });
     applyCategory();
@@ -4477,9 +4325,6 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
         # data-first-seen instead, and the script at the bottom recomputes the relative label and
         # the "posted today" highlight against the viewer's own current date on every page load.
         kw = ", ".join(e["kw_hits"]) if e["kw_hits"] else " - "
-        exp_years = e.get("experience")
-        exp_label = f"{exp_years}+ years" if isinstance(exp_years, int) else "N/A"
-        exp_evidence = html.escape(e.get("experience_evidence") or "")
         salary = e.get("salary") or "Unclear"
         salary_evidence = html.escape(e.get("salary_evidence") or "")
         salary_label = salary if salary != "Unclear" else "N/A"
@@ -4496,7 +4341,6 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
             row_title = (f' title="closed {html.escape(e["closed_on"])} ({html.escape(e.get("closed_reason") or "")}); '
                          f'last live {html.escape(e.get("last_seen_live") or "unknown")}"')
         state_cell = f'<td>{html.escape(e["state"])}</td>' if closed else ""
-        exp_data = f' data-exp="{exp_years}"' if isinstance(exp_years, int) else ' data-exp="-1"'
         first_seen = e.get("first_seen") or ""
         opt_data = ' data-no-sponsorship="1"' if e.get("sponsorship_status") in NO_SPONSORSHIP_STATUSES else ""
         if e.get("sponsorship_status") == "Blocked":
@@ -4511,7 +4355,7 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
         else:
             posted_title = "no posting date available from the source - this is when job-scout first discovered it, not when it was actually posted"
         return (
-            f'<tr class="{row_class}"{row_title}{exp_data} data-jid="{html.escape(e["id"].split(":", 1)[-1])}"'
+            f'<tr class="{row_class}"{row_title} data-jid="{html.escape(e["id"].split(":", 1)[-1])}"'
             f' data-jdkey="{hashlib.sha1(e["id"].encode("utf-8")).hexdigest()[:20]}"'
             f' data-posted="{html.escape(posted)}" data-first-seen="{html.escape(first_seen)}"'
             f' data-posted-source="{html.escape(e.get("posted_source") or "")}"{opt_data}>'
@@ -4520,7 +4364,6 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
             f'<td>{role_cell}</td>'
             f'{"" if closed else ACTIONS_TD}'
             f'<td>{html.escape(e["location"])}</td>'
-            f'<td title="{exp_evidence}">{html.escape(exp_label)}</td>'
             f'<td title="{salary_evidence}" class="salary">{html.escape(salary_label)}</td>'
             f'<td class="kw">{html.escape(kw)}</td>'
             f'{state_cell}'
@@ -4528,7 +4371,7 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
         )
 
     head = ("<tr><th>Posted</th><th>Company</th><th>Role</th><th>Actions</th><th>Location</th>"
-            "<th>Experience</th><th>Salary</th><th>Keywords</th></tr>")
+            "<th>Salary</th><th>Keywords</th></tr>")
     closed_head = head.replace("<th>Actions</th>", "").replace("</tr>", "<th>State</th></tr>")
 
     open_q = [e for e in q if not e.get("closed_on")]
@@ -4601,17 +4444,16 @@ details {{ margin-bottom: 0.5rem; }}
 summary {{ cursor: pointer; font-weight: 600; padding: 4px 0; }}
 #filterBar {{ position: sticky; top: 0; background: #fafafa; padding: 0.6rem 0; margin-bottom: 0.5rem; z-index: 1; border-bottom: 1px solid #e3e3e3; display: flex; flex-direction: column; gap: 8px; }}
 #filterBox {{ width: 100%; max-width: 520px; padding: 8px 10px; font-size: 1rem; box-sizing: border-box; }}
-#expReset {{ padding: 5px 14px; font-size: 0.9rem; cursor: pointer; border: 1px solid #999; border-radius: 999px; background: #fff; }}
+#filterReset {{ padding: 5px 14px; font-size: 0.9rem; cursor: pointer; border: 1px solid #999; border-radius: 999px; background: #fff; }}
 #noSponsorshipLbl {{ color: #555; border-color: #aaa; }}
 #noSponsorshipLbl:has(input:checked) {{ background: #eee; border-color: #888; }}
 #summerLbl {{ color: #1f5f8b; border-color: #5b9bc8; }}
 #summerLbl.active {{ background: #cfe4f3; border-color: #2f77ad; }}
 #summerLbl select {{ border: 0; background: transparent; color: inherit; font: inherit; }}
 .sponsorship-note {{ font-size: 0.7rem; color: #444; background: #eee; border-radius: 4px; padding: 1px 5px; margin-right: 5px; font-weight: 600; letter-spacing: 0.02em; white-space: nowrap; }}
-#expReset {{ margin-left: auto; color: #555; }}
+#filterReset {{ margin-left: auto; color: #555; }}
 .fb-row {{ display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }}
 .fb-row .lbl {{ font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: #666; min-width: 7.5rem; }}
-.fb-row .lbl.sep {{ margin-left: 18px; min-width: 0; }}
 .fb-row .to {{ color: #888; font-size: 0.85rem; }}
 .fb-row select {{ padding: 4px 6px; font-size: 0.9rem; }}
 label.chip {{ display: inline-flex; align-items: center; gap: 5px; padding: 3px 10px; border: 1px solid #ccc; border-radius: 999px; background: #fff; font-size: 0.85rem; cursor: pointer; white-space: nowrap; }}
@@ -4619,8 +4461,6 @@ label.chip:has(input:checked) {{ background: #e6f0fb; border-color: #6aa5e0; }}
 #filterSearchBtn {{ padding: 8px 14px; font-size: 1rem; cursor: pointer; }}
 #filterCount {{ color: #666; font-size: 0.85rem; margin-left: 8px; }}
 tr.hidden-by-filter {{ display: none; }}
-.exp-filter {{ margin-top: 6px; font-size: 0.85rem; color: #333; }}
-.exp-filter select {{ padding: 3px 6px; font-size: 0.85rem; margin: 0 4px; }}
 #unsupported {{ margin: 0 0 0 auto; position: relative; order: 98; }}
 #unsupported summary {{ list-style: none; padding: 5px 14px; font-size: 0.9rem; font-weight: 400; cursor: pointer; border: 1px solid #999; border-radius: 999px; background: #fff; color: #555; }}
 #unsupported summary::-webkit-details-marker {{ display: none; }}
@@ -4630,7 +4470,7 @@ tr.hidden-by-filter {{ display: none; }}
 #unsupported .uns-panel ul {{ margin: 0; padding: 0; list-style: none; }}
 #unsupported .uns-panel li {{ display: flex; justify-content: space-between; gap: 10px; padding: 3px 0; border-top: 1px solid #eee; }}
 #unsupported .uns-panel li span {{ color: #777; text-align: right; }}
-#expReset {{ order: 99; margin-left: 8px; }}
+#filterReset {{ order: 99; margin-left: 8px; }}
 </style></head>
 <body>
 <h1>Engineering Internships: Summer 2027 - {len(open_q)} open, {len(closed_q)} closed</h1>
@@ -4659,20 +4499,10 @@ tr.hidden-by-filter {{ display: none; }}
 <label class="chip" id="noSponsorshipLbl" title="Optional filter for employer sponsorship refusals; alerts remain enabled"><input type="checkbox" id="noSponsorshipBtn"> Hide No Sponsorship ({sponsorship_counts['No Sponsorship']})</label>
 <label class="chip" id="summerLbl" title="Filter Summer 2027 internships and programs">Summer 2027 <select id="summerBtn"><option value="all">show all</option><option value="hide">hide</option><option value="only">only</option></select></label>
 {unsupported_html}
-<button type="button" id="expReset">Reset all filters</button>
+<button type="button" id="filterReset">Reset all filters</button>
 </div>
 <div class="fb-row">
-<span class="lbl">Experience (years)</span>
-<select id="expMin">
-{''.join(f'<option value="{n}"{" selected" if n == 0 else ""}>{n}</option>' for n in range(16))}
-</select>
-<span class="to">to</span>
-<select id="expMax">
-{''.join(f'<option value="{n}">{n}</option>' for n in range(16))}
-<option value="inf" selected>15+</option>
-</select>
-<label class="chip" title="Keep roles with no years-of-experience found"><input type="checkbox" id="expIncludeNA" checked> include N/A</label>
-<span class="lbl sep">Posted (days ago)</span>
+<span class="lbl">Posted (days ago)</span>
 <select id="dateMin">
 {''.join(f'<option value="{n}"{" selected" if n == 0 else ""}>{n}</option>' for n in DATE_FILTER_DAYS)}
 </select>
@@ -4699,15 +4529,12 @@ tr.hidden-by-filter {{ display: none; }}
   // page/URL serve different people with different interests - each viewer just types their own
   // terms; nothing is sent anywhere and nothing is saved except this browser's own last search.
   // The text box only re-filters on Search-click/Enter, not per keystroke - with several thousand
-  // rows, re-scanning tr.textContent on every character typed was visibly laggy. The exp/N-A
+  // rows, re-scanning tr.textContent on every character typed was visibly laggy. The date
   // controls stay live since a dropdown change is a single cheap event, not one per keystroke.
   var box = document.getElementById('filterBox');
   var searchBtn = document.getElementById('filterSearchBtn');
   var countEl = document.getElementById('filterCount');
-  var expMin = document.getElementById('expMin');
-  var expMax = document.getElementById('expMax');
-  var expIncludeNA = document.getElementById('expIncludeNA');
-  var expReset = document.getElementById('expReset');
+  var filterReset = document.getElementById('filterReset');
   var dateMin = document.getElementById('dateMin');
   var dateMax = document.getElementById('dateMax');
   var dateIncludeNA = document.getElementById('dateIncludeNA');
@@ -4775,13 +4602,10 @@ tr.hidden-by-filter {{ display: none; }}
 
   function apply() {{
     var raw = box.value.trim().toLowerCase();
-    var lo = parseInt(expMin.value, 10);
-    var hi = expMax.value === 'inf' ? Infinity : parseInt(expMax.value, 10);
     forcedOpen.forEach(function(d) {{ d.removeAttribute('open'); }});
     forcedOpen = [];
     var groups = raw ? raw.split(',').map(function(g) {{ return parseTerms(g); }})
                           .filter(function(g) {{ return g.length; }}) : null;
-    var expActive = !(lo === 0 && hi === Infinity);
     var shown = 0;
     rows.forEach(function(tr) {{
       var textMatch = true;
@@ -4789,14 +4613,7 @@ tr.hidden-by-filter {{ display: none; }}
         var text = tr.textContent.toLowerCase();
         textMatch = groups.some(function(terms) {{ return terms.every(function(t) {{ return termOk(tr, text, t); }}); }});
       }}
-      var expMatch = true;
-      if (expActive) {{
-        var rank = parseInt(tr.getAttribute('data-exp'), 10);
-        // -1 means "no years-of-experience language found" - never silently drop those from a
-        // numeric range filter (they didn't fail the check, they just have nothing to check).
-        expMatch = rank === -1 ? expIncludeNA.checked : (rank >= lo && rank <= hi);
-      }}
-      var match = textMatch && expMatch && dateOk(tr) && (!hideNoSponsorship || tr.getAttribute('data-no-sponsorship') !== '1') && (summerMode === 'all' || ((tr.getAttribute('data-summer') === '1') === (summerMode === 'only')));
+      var match = textMatch && dateOk(tr) && (!hideNoSponsorship || tr.getAttribute('data-no-sponsorship') !== '1') && (summerMode === 'all' || ((tr.getAttribute('data-summer') === '1') === (summerMode === 'only')));
       tr.classList.toggle('hidden-by-filter', !match);
       if (match) {{
         shown++;
@@ -4804,12 +4621,9 @@ tr.hidden-by-filter {{ display: none; }}
         if (details && !details.open) {{ details.open = true; forcedOpen.push(details); }}
       }}
     }});
-    countEl.textContent = (raw || expActive || dateActive() || hideNoSponsorship || summerMode !== 'all') ? ('showing ' + shown + ' of ' + rows.length) : '';
+    countEl.textContent = (raw || dateActive() || hideNoSponsorship || summerMode !== 'all') ? ('showing ' + shown + ' of ' + rows.length) : '';
     try {{
       localStorage.setItem('jobScoutFilter', box.value);
-      localStorage.setItem('jobScoutExpMin', expMin.value);
-      localStorage.setItem('jobScoutExpMax', expMax.value);
-      localStorage.setItem('jobScoutExpIncludeNA', expIncludeNA.checked ? '1' : '0');
       localStorage.setItem('jobScoutDateMin', dateMin.value);
       localStorage.setItem('jobScoutDateMax', dateMax.value);
       localStorage.setItem('jobScoutDateNA', dateIncludeNA.checked ? '1' : '0');
@@ -4818,11 +4632,8 @@ tr.hidden-by-filter {{ display: none; }}
     }} catch (e) {{}}
   }}
 
-  expReset.addEventListener('click', function() {{
+  filterReset.addEventListener('click', function() {{
     box.value = '';
-    expMin.value = '0';
-    expMax.value = 'inf';
-    expIncludeNA.checked = true;
     dateMin.value = '0';
     dateMax.value = 'inf';
     dateIncludeNA.checked = true;
@@ -4834,12 +4645,6 @@ tr.hidden-by-filter {{ display: none; }}
   try {{
     var saved = localStorage.getItem('jobScoutFilter');
     if (saved) box.value = saved;
-    var savedMin = localStorage.getItem('jobScoutExpMin');
-    var savedMax = localStorage.getItem('jobScoutExpMax');
-    var savedNA = localStorage.getItem('jobScoutExpIncludeNA');
-    if (savedMin !== null) expMin.value = savedMin;
-    if (savedMax !== null) expMax.value = savedMax;
-    if (savedNA !== null) expIncludeNA.checked = savedNA === '1';
     var sdMin = localStorage.getItem('jobScoutDateMin');
     var sdMax = localStorage.getItem('jobScoutDateMax');
     var sdNA = localStorage.getItem('jobScoutDateNA');
@@ -4853,9 +4658,6 @@ tr.hidden-by-filter {{ display: none; }}
   summerBtn.addEventListener('change', function() {{ setSummer(summerBtn.value); apply(); }});
   searchBtn.addEventListener('click', apply);
   box.addEventListener('keydown', function(e) {{ if (e.key === 'Enter') {{ e.preventDefault(); apply(); }} }});
-  expMin.addEventListener('change', apply);
-  expMax.addEventListener('change', apply);
-  expIncludeNA.addEventListener('change', apply);
   dateMin.addEventListener('change', apply);
   dateMax.addEventListener('change', apply);
   dateIncludeNA.addEventListener('change', apply);
@@ -5182,7 +4984,6 @@ def _process_company(c, name, fresh, descriptions, first_run, jobs, complete, se
             continue
         counts["matched"] += 1
         spons, evidence = classify_sponsorship(text)
-        experience, experience_evidence = classify_experience(j["title"], text)
         salary, salary_evidence = classify_salary(text)
         fp = role_fingerprint(j["title"], j["location"])
         # a capped/paginated listing can't prove a prior id is gone - it may just be outside the
@@ -5223,7 +5024,6 @@ def _process_company(c, name, fresh, descriptions, first_run, jobs, complete, se
                      site=j.get("site"),  # which Workday site this came from, for multi-site companies
                      source="job-scout", first_seen=today,
                      sponsorship_status=spons, sponsorship_evidence=evidence,
-                     experience=experience, experience_evidence=experience_evidence,
                      salary=salary, salary_evidence=salary_evidence,
                      kw_hits=keyword_hits(j["title"], text, keywords),
                      state=entry_state, first_run=first_run,

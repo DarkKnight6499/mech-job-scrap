@@ -138,7 +138,7 @@ UNCLEAR = [
     "No visa sponsorship is required for CPT applicants.",
     "We will sponsor now or in the future.",
     "Must be a U.S. citizenshipper.",
-    "We need military engineering experience.",
+    "We need military engineering skills.",
 ]
 
 

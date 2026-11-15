@@ -103,7 +103,7 @@ def test_region_chips_restore_and_reset(region_page, metro, colorado):
     assert region_page.locator("#metroOnlyBox").is_checked() == metro
     assert region_page.locator("#coloradoOnlyBox").is_checked() == colorado
     assert visible_roles(region_page) == expected
-    region_page.locator("#expReset").click()
+    region_page.locator("#filterReset").click()
     assert not region_page.locator("#metroOnlyBox").is_checked()
     assert not region_page.locator("#coloradoOnlyBox").is_checked()
     assert region_page.evaluate("localStorage.getItem('jobScoutMetroOnly')") == "0"

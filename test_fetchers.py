@@ -31,7 +31,7 @@ def test_taleo_pages_and_dates():
 
 def test_hrmdirect_parses_list_and_detail():
     lst = '<a href="job-opening.php?req=11&req_loc=1&&amp;nohd#job">Compliance Analyst</a><a href="job-opening.php?req=11&&amp;nohd#job">Compliance Analyst</a>'
-    detail = "<html><body>Compliance Analyst Location: New York, NY Type of Hire: Experienced Hires Division: X</body></html>"
+    detail = "<html><body>Compliance Analyst Location: New York, NY Type of Hire: Internship Division: X</body></html>"
     with mock.patch.object(js, "http", fake_http({"job-openings.php": lst, "job-opening.php": detail})):
         jobs, complete = js.hrmdirect(dict(host="opco.hrmdirect.com"))
     assert complete and len(jobs) == 1
@@ -222,14 +222,14 @@ def test_recall_respects_cap_and_dry_run_writes_nothing(tmp_path, monkeypatch):
 
 def _enrich_entry(**kw):
     e = dict(id="X:7", company="X", role="Mechanical Analyst", location="NY", link="https://x/7", state="new", closed_on=None,
-             posted="2026-10-01", sponsorship_status="Unclear", sponsorship_evidence="", experience=None, experience_evidence="",
+             posted="2026-10-01", sponsorship_status="Unclear", sponsorship_evidence="",
              salary=None, salary_evidence="", kw_hits=[], description_status="failed")
     e.update(kw)
     return e
 
 
 def test_retry_recovers_failed_description_and_reclassifies(monkeypatch):
-    monkeypatch.setattr(js, "describe", lambda c, j: ("We do not sponsor visas. 3+ years of experience.", "", ""))
+    monkeypatch.setattr(js, "describe", lambda c, j: ("We do not sponsor visas.", "", ""))
     e = _enrich_entry()
     js._retry_enrichment([e], dict(companies=[dict(name="X", ats="fake")]), [])
     assert e["description_status"] == "ok" and e["sponsorship_status"] == "No Sponsorship" and e["state"] == "new"

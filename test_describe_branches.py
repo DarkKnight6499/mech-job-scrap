@@ -32,7 +32,7 @@ def test_lever_eu_region_host():
 
 def test_hrmdirect_page_text_without_scripts():
     page = ("<html><head><style>.a{color:red}</style><script>var x=1;</script></head><body><nav>Menu</nav>"
-            f"<h1>Analyst</h1><p>Location: New York, NY Type of Hire: Experienced</p><p>{LONG}</p></body></html>").encode("cp1252")
+            f"<h1>Analyst</h1><p>Location: New York, NY Type of Hire: Internship</p><p>{LONG}</p></body></html>").encode("cp1252")
     with mock.patch.object(js, "http", fake_http({"job-opening.php": page})):
         text, _, _ = js.describe({"ats": "hrmdirect", "host": "opco.hrmdirect.com"},
                                  {"id": "7", "url": "https://opco.hrmdirect.com/employment/job-opening.php?req=7&&nohd"})

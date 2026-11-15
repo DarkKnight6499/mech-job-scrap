@@ -48,7 +48,7 @@ def sal(text):
     ("Salary range: €70,000 - €85,000", "€70,000 - €85,000"),
     ("Salary range: CAD $90,000 - $110,000", "C$90,000 - C$110,000"),
     # up to / from single values
-    ("Salary up to $140,000 depending on experience", "up to $140,000"),
+    ("Salary up to $140,000 depending on skills", "up to $140,000"),
     ("Starting salary: minimum of $85,000", "from $85,000"),
 ])
 def test_annual_shapes(text, expected):
@@ -114,7 +114,7 @@ def test_far_apart_ranges_are_not_merged():
     "Total compensation includes On Target Earnings (OTE) of $150,000 - $200,000",
     "Tuition reimbursement up to $50,000 as part of compensation",
     "A competitive salary. " + "word " * 120 + "The fund holds positions of $120,000 - $150,000.",
-    "We offer a great salary and benefits. 5 to 10 years of experience, 3 - 5 reports",
+    "We offer a great salary and benefits. 5 to 10 years of service, 3 - 5 reports",
     "salary history is not requested; the role spans 2020 - 2024 projects",
     "Minimum wage in Seattle is $19.97 per hour; compensation is discussed during the interview",
     "Hourly staff earn overtime. Pay transparency: $4,000 per hour consulting fees were reviewed",

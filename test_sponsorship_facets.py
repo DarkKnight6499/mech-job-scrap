@@ -65,7 +65,7 @@ def test_mandatory_facets_share_classifier_rules(text, value):
     "Preferred qualifications: ability to obtain security clearance.",
     "Active Secret clearance is not required.",
     "ITAR training provided.",
-    "Export control documentation experience preferred.",
+    "Export control documentation skills preferred.",
     "Permanent work authorization required.",
     "No visa sponsorship is required for CPT applicants.",
 ])
