@@ -113,14 +113,6 @@
   "Hermeus": {
    "rows": [
     [
-     "b7babdb5-64ee-49ad-a193-918d6a31c462",
-     "Avionics Electrical Engineering Intern - Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462",
-     "internship_season",
-     "spring"
-    ],
-    [
      "ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
      "Build Reliability Engineering Intern - Spring 2027",
      "Atlanta, GA",
@@ -129,44 +121,12 @@
      "spring 2027"
     ],
     [
-     "78008094-ca81-4a0c-9a18-93b30f932acd",
-     "Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "1bdf3754-5649-4a50-913e-b05140cb004f",
-     "Manufacturing Engineering Intern - Spring/Summer 2027",
+     "555263f6-c5ec-4489-ab07-1aea546b70e7",
+     "Flight Software & GNC Intern - Spring/Summer 2027",
      "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
-     "Manufacturing Engineering Intern - Spring/Summer/Fall 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "1bc5c858-1b04-4093-80a0-2ba3491afc60",
-     "Mechanical Engineering Intern  - Summer/Fall 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "9229aa88-f54d-4ecd-85ee-b31f53b4207d",
-     "Mission Systems Engineering Intern - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d",
-     "internship_season",
-     "spring"
+     "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+     "title_exclude_unless",
+     "software"
     ],
     [
      "2cbb75f7-a040-47b2-a442-d9cc1faedb11",
@@ -181,53 +141,69 @@
      "Propulsion Engineering Intern - Spring/Fall 2027",
      "Los Angeles, CA",
      "https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86",
-     "internship_season",
+     "title_exclude",
      "spring"
     ],
     [
-     "d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
-     "Propulsion Test Engineering Intern - Spring/Summer/Fall 2027",
-     "Jacksonville, FL",
-     "https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
-     "internship_season",
-     "spring"
+     "5b08e2df-c9db-4831-aece-67d89e744796",
+     "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "6b65768c-a8b2-4c77-8d5f-f407e32bb878",
-     "Structures Engineering Intern - Spring/Summer/Fall 2027",
+     "d87ed913-affc-475e-b721-c5b5f11c3c7b",
+     "Software Engineering Intern (HIL) - Spring/Summer 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "445db430-6f81-41cf-847a-56a947afb936",
+     "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
      "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
-     "Structures/Mechanical Engineering Intern - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "643fd7b7-9015-43a1-aa2b-a54f117b403c",
-     "Subsystem Test Engineering Intern - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c",
-     "internship_season",
-     "spring"
+     "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 13
+   "n": 7
   },
   "Skydio": {
    "rows": [
+    [
+     "79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+     "Software Engineer Intern - Summer 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+     "title_exclude_unless",
+     "software"
+    ],
     [
      "ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
      "Manufacturing Software Engineer Intern - Winter 2027",
      "San Mateo, California, United States",
      "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
      "title_exclude",
-     "winter"
+     "winter 2027"
+    ],
+    [
+     "8a237302-3fe8-4403-b32b-7690f333ba52",
+     "Mobile Software Engineer Intern - Summer 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+     "Frontend Software Engineer Intern",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+     "title_exclude_unless",
+     "frontend"
     ],
     [
      "d79ccbaa-2901-4303-bd90-675db7802366",
@@ -235,7 +211,15 @@
      "San Mateo, California, United States",
      "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366",
      "title_exclude",
-     "winter"
+     "winter 2027"
+    ],
+    [
+     "1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
+     "UX Product Design Intern - Winter 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
+     "title_exclude",
+     "winter 2027"
     ],
     [
      "add7fd86-78e6-483e-98cd-cdfc1029fded",
@@ -243,10 +227,18 @@
      "San Mateo, California, United States",
      "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
      "title_exclude",
-     "winter"
+     "winter 2027"
+    ],
+    [
+     "c85af510-9fe4-4167-a914-c3ab344bef03",
+     "Middleware Software Engineer Intern - Summer 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 3
+   "n": 8
   },
   "Vast": {
    "rows": [],
@@ -257,12 +249,150 @@
    "n": 0
   },
   "Waymo": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "8257205",
+     "2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra",
+     "Mountain View, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8350832",
+     "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
+     "San Francisco, California, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8358262",
+     "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) ",
+     "Mountain View, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "8223735",
+     "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+     "San Francisco, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "8197554",
+     "2027 Summer Intern, MS/PhD, Quantitative Software Engineer",
+     "Mountain View, California, United States | San Francisco, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8250220",
+     "2027 Summer Intern, MS, PhD, Software Engineer ",
+     "Mountain View, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8224729",
+     "2027 Summer Intern, MS/PhD, Software Engineer",
+     "Mountain View, California",
+     "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8234161",
+     "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+     "Mountain View, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8287385",
+     "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+     "Mountain View, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8214519",
+     "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+     "Mountain View, California, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8240198",
+     "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+     "Mountain View, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8221795",
+     "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+     "Mountain View, California, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8233746",
+     "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+     "Mountain View, CA, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "8221851",
+     "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+     "Mountain View, California, USA",
+     "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "8351210",
+     "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+     "Mountain View, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "8283558",
+     "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+     "Mountain View, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+     "title_exclude",
+     "machine learning"
+    ]
+   ],
+   "n": 16
   },
   "Nuro": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "7351061",
+     "Software Engineer, AI Platform - Intern",
+     "Mountain View, California (HQ)",
+     "https://nuro.ai/careersitem?gh_jid=7351061",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 1
   },
   "Agility Robotics": {
    "rows": [],
@@ -276,7 +406,7 @@
      "San Jose, CA",
      "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
      "title_exclude",
-     "winter"
+     "winter 2027"
     ],
     [
      "4722086006",
@@ -284,7 +414,15 @@
      "San Jose, CA",
      "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
      "title_exclude",
-     "winter"
+     "winter 2027"
+    ],
+    [
+     "4601309006",
+     "Firmware Engineering Intern [Winter 2027]",
+     "San Jose, CA",
+     "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+     "title_exclude",
+     "winter 2027"
     ],
     [
      "4613067006",
@@ -292,7 +430,7 @@
      "San Jose, CA",
      "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
      "title_exclude",
-     "winter"
+     "winter 2027"
     ],
     [
      "4726631006",
@@ -300,7 +438,7 @@
      "San Jose, CA",
      "https://job-boards.greenhouse.io/figureai/jobs/4726631006",
      "title_exclude",
-     "winter"
+     "winter 2027"
     ],
     [
      "4303098006",
@@ -308,10 +446,18 @@
      "San Jose, CA",
      "https://job-boards.greenhouse.io/figureai/jobs/4303098006",
      "title_exclude",
-     "winter"
+     "winter 2027"
+    ],
+    [
+     "4606072006",
+     "Validation Engineering Intern [Winter 2027]",
+     "San Jose, CA",
+     "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+     "title_exclude",
+     "winter 2027"
     ]
    ],
-   "n": 5
+   "n": 7
   },
   "Apptronik": {
    "rows": [],
@@ -360,6 +506,14 @@
      "winter"
     ],
     [
+     "8172232",
+     "Industrial Design Intern (Winter/Spring 2027)",
+     "Somerville, MA",
+     "https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232",
+     "title_exclude",
+     "winter"
+    ],
+    [
      "8161817",
      "Manufacturing Engineering Intern (Winter/Spring 2027)",
      "Somerville, MA",
@@ -390,9 +544,17 @@
      "https://careers.formlabs.com/job/8212694/apply/?gh_jid=8212694",
      "title_exclude",
      "phd intern"
+    ],
+    [
+     "8360209",
+     "Social Media Engineering Intern (Winter/Spring 2027)",
+     "Somerville, MA",
+     "https://careers.formlabs.com/job/8360209/apply/?gh_jid=8360209",
+     "title_exclude",
+     "winter"
     ]
    ],
-   "n": 8
+   "n": 10
   },
   "Anybotics": {
    "rows": [],
@@ -409,12 +571,12 @@
   "Saronic": {
    "rows": [
     [
-     "6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1",
-     "Enterprise Technology Intern - AI and Automation (Summer 2027)",
+     "60afb634-5515-4347-824a-3816735541c2",
+     "Software Engineer Intern (Summer 2027)",
      "Austin, TX",
-     "https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1",
-     "internship_season",
-     "spring"
+     "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+     "title_exclude_unless",
+     "software"
     ]
    ],
    "n": 1
@@ -426,10 +588,42 @@
   "Zoox": {
    "rows": [
     [
+     "54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+     "Contract Student Worker  \u2013 Firmware Engineer (FW Core System Services)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+     "title_exclude",
+     "contract student worker"
+    ],
+    [
      "07f0834f-06ec-44c7-a24b-3efa08589d38",
      "Contract Student Worker  \u2013 Firmware Engineer (FW Thermal/Body)",
      "Foster City, CA",
      "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38",
+     "title_exclude",
+     "contract student worker"
+    ],
+    [
+     "79cd1de5-c540-4917-8820-960f65fb8f9e",
+     "Contract Student Worker - Machine Learning Engineer",
+     "Boston, MA",
+     "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+     "title_exclude",
+     "contract student worker"
+    ],
+    [
+     "116fa648-0397-47b5-a7ab-08d7f96594b3",
+     "Contract Student Worker - Software Engineer (20/hrs week)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+     "title_exclude",
+     "contract student worker"
+    ],
+    [
+     "cc43bf88-ed84-408f-a557-3d1c7263ddff",
+     "Contract Student Worker \u2013 AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
      "title_exclude",
      "contract student worker"
     ],
@@ -442,31 +636,31 @@
      "contract student worker"
     ],
     [
-     "53f5297a-fe30-4e1e-ab1c-96db5b23eded",
-     "Hardware Engineer Intern, Manufacturing Operations [Summer 2027]",
+     "7b20b929-d9a4-4995-a472-16cd4925a877",
+     "Software Engineer Intern, Autonomy Software [Summer 2027]",
      "Foster City, CA",
-     "https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded",
-     "internship_year",
-     "2028"
+     "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "0accbf9e-9b09-4733-b495-fb6dce13ba62",
-     "Hardware Engineer Intern, Vehicle Development [Summer 2027]",
+     "88f6cb68-1534-44af-80db-10e43c203520",
+     "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
      "Foster City, CA",
-     "https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62",
-     "internship_year",
-     "2028"
+     "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "0c32245b-f51d-40d2-8e57-a0be1b744c5b",
-     "Hardware Engineer Intern, Vehicle Systems [Summer 2027]",
+     "8b32157b-ab44-4078-85ea-1d8d7b747a20",
+     "Software Engineer Intern, Software Systems [Summer 2027]",
      "Foster City, CA",
-     "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
-     "internship_year",
-     "2028"
+     "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 5
+   "n": 9
   },
   "Sila Nano": {
    "rows": [],
@@ -485,33 +679,57 @@
    "n": 0
   },
   "Neuralink": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "6594261003",
+     "Machine Learning Engineer Intern",
+     "South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "6594422003",
+     "Software Engineer Intern, BCI Applications",
+     "Austin, Texas, United States; South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "6569018003",
+     "Software Engineer Intern, Implant",
+     "Austin, Texas, United States; South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5469298003",
+     "Software Engineer Intern, Infrastructure",
+     "South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "6083322003",
+     "Software Engineer Intern, Internal Apps",
+     "Austin, Texas, United States; South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 5
   },
   "Via Separations": {
    "rows": [],
    "n": 0
   },
   "Helion": {
-   "rows": [
-    [
-     "045d97eb-5efd-4e35-90f5-65eebe3363f4",
-     "Electrical Engineering Summer 2027 Intern",
-     "Everett, WA",
-     "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
-     "internship_year",
-     "2013"
-    ],
-    [
-     "56636c72-2c72-4f4f-8334-3b233a235c8d",
-     "Materials Engineering Summer 2027 Intern",
-     "Everett, WA",
-     "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
-     "internship_year",
-     "2013"
-    ]
-   ],
-   "n": 2
+   "rows": [],
+   "n": 0
   },
   "PsiQuantum": {
    "rows": [],
@@ -542,8 +760,33 @@
    "n": 0
   },
   "Astranis": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "4704276006",
+     "Network Planning Sales Engineer Intern (Winter 2027)",
+     "San Francisco, California",
+     "https://job-boards.greenhouse.io/astranis/jobs/4704276006",
+     "title_exclude",
+     "sales"
+    ],
+    [
+     "4705214006",
+     "Software Engineer Backend Intern (Summer 2027)",
+     "San Francisco, CA",
+     "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "4705610006",
+     "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+     "San Francisco, CA",
+     "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 3
   },
   "Vulcan Elements": {
    "rows": [],
@@ -663,8 +906,17 @@
    "n": 0
   },
   "Pacific Fusion": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "4398373009",
+     "Summer 2027 Internship- Software Engineering ",
+     "San Leandro, CA/Fremont, CA or Los Lunas, NM",
+     "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 1
   },
   "Malta": {
    "rows": [],
@@ -681,12 +933,12 @@
   "RTX": {
    "rows": [
     [
-     "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874254",
-     "Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)",
-     "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874254",
-     "internship_season",
-     "spring"
+     "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
+     "Software Engineering Co-op (Summer/Fall)",
+     "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
+     "title_exclude_unless",
+     "software"
     ],
     [
      "/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01889376",
@@ -697,14 +949,6 @@
      "winter"
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
-     "Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite)",
-     "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
-     "internship_season",
-     "fall"
-    ],
-    [
      "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
      "Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)",
      "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
@@ -713,28 +957,28 @@
      "winter"
     ],
     [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519",
-     "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01888519",
-     "internship_season",
-     "spring"
+     "/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
+     "Software Engineering Intern (Summer 2027)",
+     "US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620",
-     "Manufacturing Engineer Co-op (Spring/Summer 2027)",
-     "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Spring-Summer-2027-_01887620",
-     "internship_season",
-     "spring"
+     "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017",
+     "Software Engineering Intern (ISET-IN-2)",
+     "US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Summer-Fall-2027-_01887632",
-     "Manufacturing Engineer Co-op (Summer/Fall 2027)",
-     "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manufacturing-Engineer-Co-op--Summer-Fall-2027-_01887632",
-     "internship_season",
-     "fall"
+     "/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576",
+     "CFD High School Intern",
+     "US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/CFD-High-School-Intern_01885576",
+     "title_exclude",
+     "high school"
     ],
     [
      "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216",
@@ -745,20 +989,28 @@
      "spring 2027"
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
-     "Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
-     "internship_season",
-     "fall"
+     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+     "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
+     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+     "title_exclude_unless",
+     "software"
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653",
-     "Manufacturing Electrical Engineering Co-Op (Spring/Summer 2027)",
-     "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653",
-     "internship_season",
-     "spring"
+     "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274",
+     "Aftermarket and Sustainment Engineering - Structures Engineer Co-Op (January 2027) (Hybrid)",
+     "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
+     "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
+     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
+     "title_exclude_unless",
+     "software"
     ],
     [
      "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
@@ -767,233 +1019,9 @@
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
      "title_exclude",
      "spring 2027"
-    ],
-    [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163",
-     "Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114",
-     "Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973",
-     "Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473",
-     "JEDI Network Systems Engineer 2027 Spring/Summer Co-op - Onsite",
-     "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
-     "2027 Co-Op - Summer/Fall Systems Engineer - Onsite",
-     "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432",
-     "2027 Co-op Spring/Summer Systems Engineer - Onsite",
-     "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966",
-     "Systems Engineer Co-Op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-     "Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934",
-     "Systems Engineering Co-Op (2027 Summer/Fall) \u2013 SOA CAAS Mainline Platform (Onsite)",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01879021",
-     "Product Quality Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Product-Quality-Engineering-Co-Op--Summer-Fall-2027-_01879021",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01870641",
-     "Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01870641",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
-     "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
-     "Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508",
-     "Systems Engineer - Summer/Fall Co-op 2027 - (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258",
-     "A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Spring-Summer-Co-op--Systems-Engineering--Onsite-_01869257",
-     "A2G 2027 Spring/Summer Co-op- Systems Engineering (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Spring-Summer-Co-op--Systems-Engineering--Onsite-_01869257",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438",
-     "2027 Summer-Fall Co-op - Systems Engineering (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
-     "Systems Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
-     "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
-     "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672",
-     "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917",
-     "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
-     "Head-up Guidance Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
-     "Systems Engineer Co-Op (Spring/Summer 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Systems-Engineering-Coop---Spring-Summer--Onsite_01873304",
-     "Systems Engineering Coop - Spring/Summer- Onsite",
-     "US-ND-JAMESTOWN-P1 ~ 2604 Highway 20 N ~ PLANT 1",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Systems-Engineering-Coop---Spring-Summer--Onsite_01873304",
-     "internship_season",
-     "spring"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552",
-     "Systems Engineering Co-op - Systems Integration (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
-     "2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668",
-     "CH-53K Systems Engineering Coop (Spring/Summer 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Coop--Spring-Summer-2027----Onsite_01872668",
-     "internship_season",
-     "spring"
     ]
    ],
-   "n": 39
+   "n": 11
   },
   "Northrop Grumman": {
    "rows": [
@@ -1004,12 +1032,68 @@
      "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/SkillBridge-Internship-Program-is-seeking-our-exceptional-enlisted-military-talent-to-join-us-as-a-Systems-Engineer---2_R10260427",
      "title_exclude",
      "skillbridge"
+    ],
+    [
+     "/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399",
+     "SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering Technician \u2013 4",
+     "United States-Arizona-Chandler",
+     "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Engineering-Technician---4---Electrical-Ground-Support-Equipment_R10260399",
+     "title_exclude",
+     "skillbridge"
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Sierra Nevada Corp": {
    "rows": [
+    [
+     "/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
+     "Software Engineering Intern (Summer 2027)",
+     "Folsom, CA",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+     "Software Engineer I (For 2026 Interns Only)",
+     "Lone Tree, CO",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1",
+     "DevOps Engineer Intern (Summer 2027)",
+     "Southern Pines, NC",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1",
+     "title_exclude",
+     "devops"
+    ],
+    [
+     "/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
+     "Software Engineer Intern (Summer 2027)",
+     "Southern Pines, NC",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229",
+     "Software Engineer Intern (Summer 2027)",
+     "Southern Pines, NC",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232",
+     "Network Engineer Intern (Summer 2027)",
+     "Hagerstown, MD",
+     "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232",
+     "title_exclude",
+     "network engineer"
+    ],
     [
      "/job/Hagerstown-MD/Quality-Engineer-I--For-2026-Interns-Only-_R0030583",
      "Quality Engineer II (For Summer 2026 SNC Interns Only)",
@@ -1051,7 +1135,7 @@
      "2026"
     ]
    ],
-   "n": 5
+   "n": 11
   },
   "Boeing": {
    "rows": [],
@@ -1064,18 +1148,82 @@
   "Stryker": {
    "rows": [
     [
+     "/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
+     "Summer 2027 Internship - Data Engineering - Indiana",
+     "Fort Wayne, Indiana",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
+     "title_exclude",
+     "data engineering"
+    ],
+    [
      "/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850",
      "Summer 2027 Internship - Sales Systems Engineer - Michigan",
      "Portage, Michigan",
      "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850",
      "title_exclude",
      "sales"
+    ],
+    [
+     "/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
+     "Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas",
+     "Flower Mound, Texas",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
+     "Summer 2027 Internship - Software Engineering - California",
+     "2 Locations (San Jose California)",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+     "Summer 2027 Internship - Software Engineering - Florida",
+     "Fort Lauderdale, Florida",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+     "Summer 2027 Internship - Software Engineering - Indiana",
+     "Fort Wayne, Indiana",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
+     "Summer 2027 Internship - Software Engineering - Michigan",
+     "Portage, Michigan",
+     "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 1
+   "n": 7
   },
   "General Motors": {
    "rows": [
+    [
+     "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
+     "2027 Summer Intern - Automotive Technician",
+     "Milford, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+     "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+     "title_exclude",
+     "machine learning"
+    ],
     [
      "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
      "2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Aerodynamics and Machine Learning",
@@ -1085,31 +1233,144 @@
      "machine learning"
     ],
     [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
-     "2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)",
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+     "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
      "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449",
-     "title_exclude",
-     "mba"
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+     "title_exclude_unless",
+     "ai"
     ],
     [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
-     "2027 Summer Intern - Digital Product: Product Management (MBA)",
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+     "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+     "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+     "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+     "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+     "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+     "2027 Summer Intern- ADAS Software Engineer, ADPT",
      "2 Locations (Warren Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+     "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+     "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+     "2027 Summer Intern - Digital Product: Software Engineering",
+     "5 Locations (Warren Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
+     "Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
      "title_exclude",
-     "mba"
+     "fall 2026"
     ]
    ],
-   "n": 3
+   "n": 14
   },
   "Baxter": {
    "rows": [],
    "n": 0
   },
   "Leidos": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
+     "Chief Engineer Intern",
+     "6314 Remote/Teleworker US",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
+     "title_exclude",
+     "chief"
+    ],
+    [
+     "/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+     "Junior Software Engineer / Data Scientist Intern",
+     "Tucson, AZ",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
+     "Cybersecurity Engineer Co-op",
+     "Bethesda, MD",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
+     "title_exclude",
+     "cybersecurity"
+    ],
+    [
+     "/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+     "Data Engineer Intern",
+     "Fort Belvoir, VA",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
+     "title_exclude",
+     "data engineer"
+    ],
+    [
+     "/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+     "Systems, Integration and Software Engineer Intern",
+     "Atlantic City, NJ",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 5
   },
   "3M": {
    "rows": [
@@ -1149,9 +1410,25 @@
      "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692",
      "title_exclude",
      "marketing"
+    ],
+    [
+     "/job/Vista-California-United-States/Software-Engineering-Intern_R1315719",
+     "Software Engineering Intern",
+     "Vista, California, United States",
+     "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747",
+     "Software Engineering Intern",
+     "Chaska, Minnesota, United States",
+     "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 1
+   "n": 3
   },
   "Xylem": {
    "rows": [],
@@ -1168,6 +1445,46 @@
   "Rockwell Automation": {
    "rows": [
     [
+     "/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+     "Intern, Software Developer/Engineering",
+     "Mequon, Wisconsin, United States",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2",
+     "Intern, Technical Sales & Consulting (USA)",
+     "27 Locations (Milwaukee Wisconsin United States)",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-2",
+     "title_exclude",
+     "sales"
+    ],
+    [
+     "/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
+     "Co-op, Hardware Development Engineer (Jan - July 2027)",
+     "Mayfield Heights, Ohio, United States",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
+     "title_exclude",
+     "jan - july"
+    ],
+    [
+     "/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1",
+     "Intern, AI Software Engineering (June-August 2027)",
+     "2 Locations (Mayfield Heights Ohio United States)",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1",
+     "Co-op, AI Software Engineering (6-8 months)",
+     "2 Locations (Mayfield Heights Ohio United States)",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
      "/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Integrated-Supply-Chain-and-Manufacturing_R26-5380-2",
      "Intern, Integrated Supply Chain and Manufacturing",
      "7 Locations (United States of America Milwaukee South 2nd Street)",
@@ -1176,11 +1493,68 @@
      "supply chain"
     ]
    ],
-   "n": 1
+   "n": 6
   },
   "Micron": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+     "Intern -  AI Engineer Platform",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+     "title_exclude",
+     "ai engineer"
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+     "Intern - IT Software Engineer",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+     "Physical Failure Analysis Technician - 6 Month Intern 2027",
+     "Boise, ID - ID1",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
+     "Intern - Product Yield Software Engineer",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+     "Intern - Machine Learning Engineering",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+     "Intern - IT Software Engineer",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+     "Intern - SMAI Probe AI Engineer",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+     "title_exclude",
+     "ai engineer"
+    ]
+   ],
+   "n": 7
   },
   "Carrier": {
    "rows": [
@@ -1189,15 +1563,24 @@
      "Mechanical Engineering Intern - Spring",
      "CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA",
      "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992",
-     "internship_season",
+     "title_exclude",
      "spring"
     ]
    ],
    "n": 1
   },
   "Abbott": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+     "2027 Winter Engineering Co-Op",
+     "5 Locations (United States   Minnesota   St Paul)",
+     "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+     "title_exclude",
+     "winter"
+    ]
+   ],
+   "n": 1
   },
   "Analog Devices": {
    "rows": [
@@ -1206,8 +1589,24 @@
      "Healthcare Mechanical Engineering Co-op (Spring)",
      "US, MA, Wilmington",
      "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-     "internship_season",
+     "title_exclude",
      "spring"
+    ],
+    [
+     "/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
+     "AI/ML Engineer Intern",
+     "2 Locations (US MA Wilmington)",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/US-MA-Wilmington/Field-Applications--Sales--Intern_R266123",
+     "Field Applications (Sales) Intern",
+     "US, MA, Wilmington",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Applications--Sales--Intern_R266123",
+     "title_exclude",
+     "sales"
     ],
     [
      "/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
@@ -1218,10 +1617,18 @@
      "digital design"
     ]
    ],
-   "n": 2
+   "n": 4
   },
   "Intel": {
    "rows": [
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
+     "Module Engineering PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
+     "title_exclude",
+     "phd intern"
+    ],
     [
      "/job/US-New-Mexico-Albuquerque/Facilities-Water-Treatment-Technician-Intern_JR0287403",
      "Facilities Water Treatment Technician Intern",
@@ -1255,6 +1662,14 @@
      "technician"
     ],
     [
+     "/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
+     "Process Integration Development Engineer PhD Intern 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
      "/job/US-Oregon-Hillsboro/Intel-Foundry-PCC-Semiconductor-Manufacturing-Student-Technician---ICE-Program_JR0288600",
      "Intel Foundry/PCC Semiconductor Manufacturing Student Technician \u2013 ICE Program",
      "US, Oregon, Hillsboro",
@@ -1263,36 +1678,187 @@
      "technician"
     ],
     [
+     "/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138",
+     "AI Data Science / Software Engineering PhD Intern New 2027",
+     "US, California, Santa Clara",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
+     "AI Data Science / Software Engineering PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140",
+     "AI Data Science / Software Engineering PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
+     "AI Data Science / Software Engineering PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074",
+     "Thin Films Module Engineering - PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern--Wet-Etch-_JR0288073",
+     "Module Engineering - PhD Intern (Wet Etch)",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern--Wet-Etch-_JR0288073",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951",
+     "Module Engineer PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086",
+     "Process Integration & Yield Engineering PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
+     "Module Development Engineer PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
+     "Process Integration Development Engineer PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975",
+     "Module Engineering - PhD Intern (Advanced Wet Etch and Cleans)",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
      "/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661",
      "AI-Driven Physical Design Engineering (PhD Intern)",
      "5 Locations (US California Santa Clara)",
      "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661",
      "title_exclude",
-     "physical design"
-    ]
-   ],
-   "n": 6
-  },
-  "Dow": {
-   "rows": [
-    [
-     "/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--PhD-_R2068810",
-     "2026-2027 Campus Internship - Research & Development (PhD)",
-     "10 Locations (Midland MI USA)",
-     "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--PhD-_R2068810",
-     "internship_year",
-     "2026"
+     "phd intern"
     ],
     [
-     "/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--BS-MS-_R2068806",
-     "2026-2027 Campus Internship - Research & Development (BS/MS)",
-     "9 Locations (Midland MI USA)",
-     "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---Research---Development--BS-MS-_R2068806",
-     "internship_year",
-     "2026"
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
+     "Module Engineering PhD Intern 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+     "Software Research Engineering - (PhD Intern)",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020",
+     "Module Engineering - PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
+     "(Epi) - Module Development Engineer - (PhD Intern)",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
+     "Software Engineering - PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
+     "System Software Engineering - PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
+     "System Technology Research Engineer - (PhD Intern)",
+     "3 Locations (US Oregon Hillsboro)",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021",
+     "Module Engineering PhD Intern New 2027",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
+     "Module Engineering PhD Intern - Wet Etch",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
+     "title_exclude",
+     "phd intern"
+    ],
+    [
+     "/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026",
+     "Module Engineering PhD Intern",
+     "US, Oregon, Hillsboro",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026",
+     "title_exclude",
+     "phd intern"
     ]
    ],
-   "n": 2
+   "n": 29
+  },
+  "Dow": {
+   "rows": [],
+   "n": 0
   },
   "Applied Materials": {
    "rows": [
@@ -1301,8 +1867,16 @@
      "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
      "Gloucester,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
-     "internship_season",
+     "title_exclude",
      "spring"
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+     "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+     "title_exclude_unless",
+     "software"
     ],
     [
      "/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
@@ -1313,11 +1887,19 @@
      "2026"
     ],
     [
+     "/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
+     "Metrology Engineer Co-op/Intern - Undergraduate (Winter/Spring 2027)",
+     "Tempe,AZ",
+     "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
+     "title_exclude",
+     "winter"
+    ],
+    [
      "/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
      "2027 Spring Manufacturing Engineer Co-op (Billerica, MA)",
      "Billerica,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
-     "internship_season",
+     "title_exclude",
      "spring"
     ],
     [
@@ -1325,7 +1907,7 @@
      "2027 Spring Project Manager Co-op (Billerica, MA)",
      "Billerica,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
-     "internship_season",
+     "title_exclude",
      "spring"
     ],
     [
@@ -1333,7 +1915,7 @@
      "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
      "Billerica,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
-     "internship_season",
+     "title_exclude",
      "spring"
     ],
     [
@@ -1353,28 +1935,51 @@
      "supply chain"
     ],
     [
+     "/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+     "Software Engineering Summer Intern (Masters - Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
+     "2027 Spring Structural Dynamics Analyst Co-op - BS or MS (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
+     "title_exclude",
+     "spring"
+    ],
+    [
      "/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
      "2027 Spring Mechanical Engineer Co-op (Gloucester. MA)",
      "Gloucester,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
-     "internship_season",
+     "title_exclude",
      "spring"
+    ],
+    [
+     "/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+     "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+     "2026 Summer Intern - Physics & AI modeling Engineering",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+     "title_exclude_unless",
+     "ai"
     ]
    ],
-   "n": 8
+   "n": 14
   },
   "Blue Origin": {
-   "rows": [
-    [
-     "/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
-     "Summer 2027 Terawave Product Management Internship - MBA",
-     "2 Locations (Kent WA)",
-     "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
-     "title_exclude",
-     "mba"
-    ]
-   ],
-   "n": 1
+   "rows": [],
+   "n": 0
   },
   "NVIDIA": {
    "rows": [
@@ -1387,12 +1992,36 @@
      "financial"
     ],
     [
+     "/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+     "Performance Engineering Intern, Platform Performance and Power -  Spring 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
      "/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
      "Product Management Space Compute MBA Intern - Summer 2027",
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
      "title_exclude",
-     "mba"
+     "mba intern"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+     "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
+     "Product Marketing MBA Intern, AI Infrastructure \u2014 Summer 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
+     "title_exclude",
+     "marketing"
     ],
     [
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
@@ -1400,7 +2029,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
      "title_exclude",
-     "physical design"
+     "vlsi"
     ],
     [
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
@@ -1411,6 +2040,30 @@
      "dft"
     ],
     [
+     "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+     "NVIDIA 2027 Internships: Software Engineering",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+     "NVIDIA 2027 Internships: Systems Software Engineering",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+     "Compiler Software Engineering Intern - Summer 2027",
+     "US, WA, Redmond",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
      "/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
      "VLSI CAD Timing Intern, Applied AI - Summer 2027",
      "US, CA, Santa Clara",
@@ -1419,12 +2072,28 @@
      "vlsi"
     ],
     [
+     "/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+     "PhD Research Intern, AI-Aided Engineering \u2013 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+     "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
      "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
      "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
      "title_exclude",
-     "mba"
+     "mba intern"
     ],
     [
      "/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
@@ -1432,7 +2101,23 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
      "title_exclude",
-     "mba"
+     "mba intern"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+     "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
+     "PhD Research Intern, Quantum Simulation and AI - 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
+     "title_exclude_unless",
+     "ai"
     ],
     [
      "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
@@ -1440,7 +2125,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
      "title_exclude",
-     "mba"
+     "mba intern"
     ],
     [
      "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
@@ -1448,10 +2133,10 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
      "title_exclude",
-     "mba"
+     "mba intern"
     ]
    ],
-   "n": 9
+   "n": 19
   },
   "Moog": {
    "rows": [],
@@ -1472,63 +2157,80 @@
   "Shield AI": {
    "rows": [
     [
-     "043c739e-ff80-4faa-b2be-5d1e96768dfa",
-     "Summer 2027 - Advanced Manufacturing Engineering Intern",
+     "7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+     "Electrical Engineering Co-op - January 2027",
      "Dallas, TX, US",
-     "https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa",
-     "internship_year",
-     "2028"
+     "https://jobs.ashbyhq.com/shield/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+     "title_exclude",
+     "january"
     ],
     [
-     "c546e532-4378-41d3-8ef3-4861cc3427e6",
-     "Summer 2027 - Electrical Engineering Intern",
-     "Dallas, TX, US",
-     "https://jobs.ashbyhq.com/shield/c546e532-4378-41d3-8ef3-4861cc3427e6",
-     "internship_year",
-     "2028"
-    ],
-    [
-     "38ba128e-815b-4a14-b4d2-446ffc190a33",
-     "Summer 2027 - Mechanical Engineering Intern",
-     "Seattle, WA, US",
-     "https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33",
-     "internship_season",
-     "fall"
+     "db04c516-d21a-449c-8bfd-1cf830eafb5a",
+     "Summer 2027 - Software Engineer Intern",
+     "San Diego, CA, US",
+     "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a",
+     "title_exclude_unless",
+     "software"
     ],
     [
      "ebdcc6cf-04da-47a7-971d-17e43f64c37c",
      "Structures / Mechanical Test Co-op - January 2027 Co-op",
      "Dallas, TX, US",
      "https://jobs.ashbyhq.com/shield/ebdcc6cf-04da-47a7-971d-17e43f64c37c",
-     "internship_season",
-     "fall"
+     "title_exclude",
+     "january"
     ],
     [
-     "354d464d-ca91-4ce3-bd3f-d811b13755be",
-     "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
-     "San Diego, CA, US",
-     "https://jobs.ashbyhq.com/shield/354d464d-ca91-4ce3-bd3f-d811b13755be",
-     "internship_season",
-     "fall"
-    ],
-    [
-     "ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
-     "2027 June Co-op - Hardware Test - #6426",
+     "a28e047a-ee12-452c-883b-ecd995d1b6b2",
+     "June 2027 Co-Op - Software Engineer Intern",
      "Dallas, TX, US",
-     "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
-     "internship_year",
-     "2028"
+     "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2",
+     "title_exclude_unless",
+     "software"
     ]
    ],
-   "n": 6
+   "n": 4
   },
   "Apex Space": {
    "rows": [],
    "n": 0
   },
   "Muon Space": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "5247725007",
+     "Flight Software Engineering Intern (Summer 2027)",
+     "San Jose, CA",
+     "https://job-boards.greenhouse.io/muonspace/jobs/5247725007",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5252680007",
+     "GNC Software Engineering Intern (Summer 2027)",
+     "Mountain View, CA",
+     "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5266679007",
+     "Ground Software Engineering Intern (Summer 2027)",
+     "San Jose, CA",
+     "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5293973007",
+     "Software Engineering Intern-Information Systems (Summer 2027)",
+     "San Jose, CA",
+     "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 4
   },
   "Stellantis": {
    "rows": [],
@@ -1544,6 +2246,14 @@
   },
   "Nissan": {
    "rows": [
+    [
+     "/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526",
+     "Physical AI Manufacturing Intern - Summer 2027 - Smyrna, TN",
+     "Smyrna, Tennessee - United States of America",
+     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Physical-AI-Manufacturing-Intern---Summer-2027---Smyrna--TN_R00214526",
+     "title_exclude_unless",
+     "ai"
+    ],
     [
      "/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302",
      "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
@@ -1569,6 +2279,14 @@
      "spring 2027"
     ],
     [
+     "/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+     "Financial AI Engineering Intern - Summer 2027 - Franklin, TN",
+     "Franklin, Tennessee - United States of America",
+     "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+     "title_exclude",
+     "financial"
+    ],
+    [
      "/job/Franklin-Tennessee---United-States-of-America/R-D-Tax-Credit-Intern---Summer-2027---Franklin--TN_R00214236",
      "R&D Tax Credit Intern - Summer 2027 - Franklin, TN",
      "Franklin, Tennessee - United States of America",
@@ -1577,7 +2295,7 @@
      "tax"
     ]
    ],
-   "n": 4
+   "n": 6
   },
   "Daimler Truck North America": {
    "rows": [
@@ -1597,8 +2315,33 @@
    "n": 0
   },
   "BorgWarner": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788",
+     "Mechanical Engineering Intern (Year Round)",
+     "Auburn Hills - Michigan - USA",
+     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788",
+     "title_exclude",
+     "year round"
+    ],
+    [
+     "/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152",
+     "EMC Design Engineer Intern (Year-Round)",
+     "Kokomo Technical Center - Indiana - USA",
+     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/EMC-Design-Engineer-Intern--Year-Round-_R2026-4152",
+     "title_exclude",
+     "year-round"
+    ],
+    [
+     "/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983",
+     "System Engineering Intern (Year-Round)",
+     "Auburn Hills - Michigan - USA",
+     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983",
+     "title_exclude",
+     "year-round"
+    ]
+   ],
+   "n": 3
   },
   "Aptiv": {
    "rows": [],
@@ -1606,6 +2349,22 @@
   },
   "Magna": {
    "rows": [
+    [
+     "/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
+     "Intern - Engineering Software",
+     "Southfield, Michigan, US",
+     "https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892",
+     "Engineering Intern - Summer 2026",
+     "Newaygo, Michigan, US",
+     "https://magna.wd3.myworkdayjobs.com/Magna/job/Newaygo-Michigan-US/Engineering-Intern---Summer-2026_R00227892",
+     "title_exclude",
+     "summer 2026"
+    ],
     [
      "/job/Holland-Michigan-US/Materials-Intern---Summer-2026_R00225682",
      "Materials Intern - Summer 2026",
@@ -1615,7 +2374,7 @@
      "summer 2026"
     ]
    ],
-   "n": 1
+   "n": 3
   },
   "Continental": {
    "rows": [],
@@ -1624,23 +2383,56 @@
   "DuPont": {
    "rows": [
     [
+     "/job/Wimington-Delaware/XMLNAME-2026-Fall-Intern-Co-Op--Supply-Chain--Logistics--Procurement-and-Industrial-Engineering_246721W",
+     "2026 Fall Co-Op: Supply Chain, Logistics, Procurement and Industrial Engineering",
+     "4 Locations (Wimington Delaware)",
+     "https://dupont.wd5.myworkdayjobs.com/Jobs/job/Wimington-Delaware/XMLNAME-2026-Fall-Intern-Co-Op--Supply-Chain--Logistics--Procurement-and-Industrial-Engineering_246721W",
+     "title_exclude",
+     "fall"
+    ],
+    [
      "/job/Wimington-Delaware/XMLNAME-2026-Fall-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_246719W",
      "2026 Fall Semester Co-Op: Chemical, Mechanical and Electrical Engineering Opportunities",
      "15 Locations (Wimington Delaware)",
      "https://dupont.wd5.myworkdayjobs.com/Jobs/job/Wimington-Delaware/XMLNAME-2026-Fall-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_246719W",
-     "internship_year",
-     "2026"
+     "title_exclude",
+     "fall"
+    ],
+    [
+     "/job/Wimington-Delaware/XMLNAME-2027-Fall-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_250298W",
+     "2027 Fall Semester Co-Op: Engineering Opportunities",
+     "13 Locations (Wimington Delaware)",
+     "https://dupont.wd5.myworkdayjobs.com/Jobs/job/Wimington-Delaware/XMLNAME-2027-Fall-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_250298W",
+     "title_exclude",
+     "fall"
+    ],
+    [
+     "/job/Wimington-Delaware/XMLNAME-2027-Spring-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_250297W",
+     "2027 Spring Semester Co-Op: Engineering Opportunities",
+     "12 Locations (Wimington Delaware)",
+     "https://dupont.wd5.myworkdayjobs.com/Jobs/job/Wimington-Delaware/XMLNAME-2027-Spring-Semester-Co-Op--Chemical--Mechanical-and-Electrical-Engineering-Opportunities_250297W",
+     "title_exclude",
+     "spring"
     ]
    ],
-   "n": 1
+   "n": 4
   },
   "Huntsman": {
    "rows": [],
    "n": 0
   },
   "Avery Dennison": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "744000144595999",
+     "RFID Applications Engineering Co-op - Spring 2027 ( plus one semester)",
+     "Miamisburg, OH, us",
+     "https://jobs.smartrecruiters.com/AveryDennison/744000144595999",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 1
   },
   "Covestro": {
    "rows": [],
@@ -1663,16 +2455,42 @@
    "n": 0
   },
   "Amcor": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+     "Intern - AI Innovation Engineer",
+     "ASC Atlanta HQ GA",
+     "https://amcor.wd5.myworkdayjobs.com/Amcor_External_Career_Site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/RPSNA-Evansville-EVV-IN/EHS-Year-Round-Intern---Injection-Molding_REQ_92347",
+     "EHS Year Round Intern - Injection Molding",
+     "RPSNA Evansville (EVV) IN",
+     "https://amcor.wd5.myworkdayjobs.com/Amcor_External_Career_Site/job/RPSNA-Evansville-EVV-IN/EHS-Year-Round-Intern---Injection-Molding_REQ_92347",
+     "title_exclude",
+     "year round"
+    ]
+   ],
+   "n": 2
   },
   "Crown Holdings": {
    "rows": [],
    "n": 0
   },
   "Entegris": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+     "Data Engineering Intern - Summer 2027",
+     "Aurora, IL",
+     "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
+     "title_exclude",
+     "data engineering"
+    ]
+   ],
+   "n": 1
   },
   "Donaldson": {
    "rows": [],
@@ -1712,8 +2530,65 @@
    "n": 0
   },
   "Graco": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Dayton-Minnesota-USA/Engineering-Technician-Intern_R0024145",
+     "Engineering Technician Intern",
+     "Dayton, Minnesota, USA",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Engineering-Technician-Intern_R0024145",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
+     "Manufacturing Engineering (Operational Technology) Co-op (January - August 2027)",
+     "Rogers, Minnesota, USA (David Koch Center)",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573",
+     "Quality Engineering Co-op (January - August 2027)",
+     "Rogers, Minnesota, USA (David Koch Center)",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Quality-Engineering-Co-op--January---August-2027-_R0023573",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Rogers-Minnesota-USA-David-Koch-Center/Automation-Engineering-Co-Op--January---August-2027-_R0023586",
+     "Automation Engineering Co-Op (January - August 2027)",
+     "Rogers, Minnesota, USA (David Koch Center)",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Automation-Engineering-Co-Op--January---August-2027-_R0023586",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+     "Manufacturing Engineering Co-op (January - August 2027)",
+     "Dayton, Minnesota, USA",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
+     "Manufacturing Engineering Co-op (January - August 2027)",
+     "Rogers, Minnesota, USA (David Koch Center)",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
+     "Manufacturing Engineering Co-Op (January - August 2027)",
+     "Anoka, Minnesota, USA",
+     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
+     "title_exclude",
+     "january"
+    ]
+   ],
+   "n": 7
   },
   "Regal Rexnord": {
    "rows": [
@@ -1730,7 +2605,7 @@
      "Application Engineering Co-Op (Spring)",
      "Fort Wayne, Indiana, United States",
      "https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Spring-_R26_04115",
-     "internship_season",
+     "title_exclude",
      "spring"
     ]
    ],
@@ -1754,6 +2629,70 @@
   },
   "GE Appliances": {
    "rows": [
+    [
+     "/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Fall-2027_REQ-26589",
+     "Engineering/Manufacturing Co-op_Fall 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Fall-2027_REQ-26589",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592",
+     "Software Engineering Co-op_Fall 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-Louisville-KY/Mechanical-Engineering-Co-op-Fall-2027_REQ-26593",
+     "Mechanical Engineering Co-op_Fall 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Mechanical-Engineering-Co-op-Fall-2027_REQ-26593",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594",
+     "Electrical Engineering Co-op_Fall 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2027_REQ-26596",
+     "Engineering Co-op_Fall 2027",
+     "USA, LaFayette, GA",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2027_REQ-26596",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-Louisville-KY/Mechanical-Engineering-Technology-Co-op-Fall-2027_REQ-26595",
+     "Mechanical Engineering Technology Co-op_Fall 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Mechanical-Engineering-Technology-Co-op-Fall-2027_REQ-26595",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+     "Engineering Co-op_Spring 2027",
+     "USA, LaFayette, GA",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+     "Software Engineering Co-op_Spring 2027",
+     "USA, Louisville, KY",
+     "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+     "title_exclude",
+     "spring 2027"
+    ],
     [
      "/job/USA-Louisville-KY/Engineering-Manufacturing-Co-op-Spring-2027_REQ-24837",
      "Engineering/Manufacturing Co-op_Spring 2027",
@@ -1779,15 +2718,24 @@
      "spring 2027"
     ]
    ],
-   "n": 3
+   "n": 11
   },
   "GE Vernova": {
    "rows": [],
    "n": 0
   },
   "Bloom Energy": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+     "AI Solutions Engineer Intern",
+     "San Jose, California",
+     "https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361",
+     "title_exclude_unless",
+     "ai"
+    ]
+   ],
+   "n": 1
   },
   "Fluence": {
    "rows": [],
@@ -1800,6 +2748,14 @@
   "Intuitive Surgical": {
    "rows": [
     [
+     "744000159218439",
+     "AI/ML Engineer Intern",
+     "Sunnyvale, CA, us",
+     "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
      "744000158313919",
      "Manufacturing Software Engineering Intern",
      "Sunnyvale, CA, us",
@@ -1808,7 +2764,7 @@
      "software"
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Becton Dickinson": {
    "rows": [],
@@ -1816,6 +2772,30 @@
   },
   "Johnson and Johnson MedTech": {
    "rows": [
+    [
+     "/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277",
+     "Software Engineering Co-Op",
+     "Danvers, Massachusetts, United States of America",
+     "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+     "Software Engineering Co-Op. Summer 2027",
+     "Cincinnati, Ohio, United States of America",
+     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741",
+     "Software Engineering Co-Op, Spring 2027",
+     "Cincinnati, Ohio, United States of America",
+     "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741",
+     "title_exclude",
+     "spring 2027"
+    ],
     [
      "/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineer-Co-Op--Spring-2027_R-095700",
      "Electrical Engineering Co-Op, Spring 2027",
@@ -1825,10 +2805,18 @@
      "spring 2027"
     ]
    ],
-   "n": 1
+   "n": 4
   },
   "Smith and Nephew": {
    "rows": [
+    [
+     "/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+     "Intern Computer Vision Software Engineering",
+     "Andover, MA",
+     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+     "title_exclude_unless",
+     "software"
+    ],
     [
      "/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
      "Intern AI Engineer R&D",
@@ -1836,17 +2824,90 @@
      "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
      "title_exclude",
      "ai engineer"
+    ],
+    [
+     "/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+     "Intern Agentic AI Software Engineering",
+     "Andover, MA",
+     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+     "title_exclude_unless",
+     "ai"
     ]
    ],
-   "n": 1
+   "n": 3
   },
   "ResMed": {
    "rows": [],
    "n": 0
   },
   "KLA": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+     "Machine Learning Engineer Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "/job/Austin-TX/Software-Engineering-Intern_2642004-1",
+     "Software Engineering Intern",
+     "Austin, TX",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
+     "Software Engineer (AI/ML) Intern",
+     "2 Locations (Austin TX)",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+     "Software Engineer Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+     "Software Engineering Intern \u2013 AI/ML for Diagnostics & Calibration",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+     "Software Engineering Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+     "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+     "Software Engineering Intern (C++, Unix)",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 8
   },
   "Tokyo Electron US": {
    "rows": [],
@@ -1859,6 +2920,22 @@
   "Western Digital": {
    "rows": [
     [
+     "744000160975819",
+     "Summer 2027 Intern - Software Engineering",
+     "San Jose, CA, us",
+     "https://jobs.smartrecruiters.com/WesternDigital/744000160975819",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "744000152261929",
+     "Winter 2027 Intern/Co-op Development Engineer ",
+     "Rochester, MN, us",
+     "https://jobs.smartrecruiters.com/WesternDigital/744000152261929",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
      "744000138191379",
      "Fall 2026 PhD Intern - Hardware Development Engineering",
      "Fremont, CA, us",
@@ -1867,10 +2944,26 @@
      "fall 2026"
     ]
    ],
-   "n": 1
+   "n": 3
   },
   "Lawrence Livermore": {
    "rows": [
+    [
+     "3743990016610186",
+     "Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016610186",
+     "title_exclude",
+     "cybersecurity"
+    ],
+    [
+     "3743990016610101",
+     "Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016610101",
+     "title_exclude",
+     "cybersecurity"
+    ],
     [
      "3743990016029656",
      "Materials Science Division Graduate Intern - Winter/Spring 2027",
@@ -1888,10 +2981,42 @@
      "winter"
     ]
    ],
-   "n": 2
+   "n": 4
   },
   "NREL (Golden CO)": {
    "rows": [
+    [
+     "/job/Golden-CO/Undergraduate-or-Graduate--Year-Round--Intern---Building-Systems-Engineering_R14551",
+     "Undergraduate or Graduate (Year Round) Intern \u2013 Building Systems Engineering",
+     "2 Locations (Golden CO)",
+     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-or-Graduate--Year-Round--Intern---Building-Systems-Engineering_R14551",
+     "title_exclude",
+     "year round"
+    ],
+    [
+     "/job/Golden-CO/Undergraduate-Graduate-Intern--year-round---Chemical-Engineering-Biomass-conversion-Catalytic-upgrading-Organic-Chemistry_R14520",
+     "Undergraduate/Graduate Intern (year-round) \u2013Chemical Engineering/Biomass conversion/Catalytic upgrading/Organic Chemistry",
+     "Golden, CO",
+     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Intern--year-round---Chemical-Engineering-Biomass-conversion-Catalytic-upgrading-Organic-Chemistry_R14520",
+     "title_exclude",
+     "year-round"
+    ],
+    [
+     "/job/Golden-CO/Post-Undergraduate-Intern--Year-Round----Separations-Engineering_R14529-1",
+     "Post-Undergraduate Intern (Year-Round) - Separations Engineering",
+     "Golden, CO",
+     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Undergraduate-Intern--Year-Round----Separations-Engineering_R14529-1",
+     "title_exclude",
+     "year-round"
+    ],
+    [
+     "/job/Golden-CO/Graduate--Year-Round--Intern---Modeling--Real-Time-Simulation-and-Hardware-in-the-Loop--HIL--Testing-of-Distribution-Systems_R14483",
+     "Graduate (Year-Round) Intern \u2013 Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems",
+     "Golden, CO",
+     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Modeling--Real-Time-Simulation-and-Hardware-in-the-Loop--HIL--Testing-of-Distribution-Systems_R14483",
+     "title_exclude",
+     "year-round"
+    ],
     [
      "/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
      "Graduate Intern - LLM Reliability and Uncertainty for AI Science Assistants",
@@ -1901,7 +3026,7 @@
      "llm"
     ]
    ],
-   "n": 1
+   "n": 5
   },
   "JPL": {
    "rows": [],
@@ -1912,16 +3037,50 @@
    "n": 0
   },
   "Aerospace Corporation": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101",
+     "2027 Software Engineering Grad Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759",
+     "2027 Software Engineering Grad Intern",
+     "2 Locations (Chantilly VA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+     "2027 Software Tools and Assurance Engineering Grad Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 3
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
    "n": 0
   },
   "KBR": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+     "Image Processing Software Engineer Intern",
+     "Sioux Falls, South Dakota",
+     "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 1
   },
   "Plug Power": {
    "rows": [],
@@ -1938,20 +3097,12 @@
      "spring 2027"
     ],
     [
-     "85ba4504-4eaf-4d25-b0b2-9af35009fcbb",
-     "Intern - Composites and Insulation Materials - Summer 2027",
-     "Somerville, MA",
-     "https://jobs.lever.co/cfsenergy/85ba4504-4eaf-4d25-b0b2-9af35009fcbb",
-     "internship_year",
-     "2018"
-    ],
-    [
-     "e3408817-347e-45bc-8627-305b75b6b978",
-     "Intern - Controls Engineer - Summer 2027",
-     "Milpitas, CA",
-     "https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978",
-     "internship_year",
-     "2018"
+     "12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
+     "Intern - Cryogenics Engineer - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
+     "title_exclude",
+     "spring 2027"
     ],
     [
      "5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
@@ -1962,12 +3113,12 @@
      "spring 2027"
     ],
     [
-     "2edaad6a-3def-479e-992e-b0c333b9022f",
-     "Intern - Mechanical and Magnet Engineer - Spring or Summer 2027",
+     "cbf90690-2518-4c81-ace4-530e3b158545",
+     "Intern - I&C and Network Engineer - Spring or Summer 2027",
      "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f",
-     "internship_year",
-     "2018"
+     "https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545",
+     "title_exclude",
+     "network engineer"
     ],
     [
      "86514c02-6205-4178-911e-6ae209d67a9e",
@@ -1976,33 +3127,9 @@
      "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
      "title_exclude",
      "spring 2027"
-    ],
-    [
-     "deff5f97-d48c-45fe-800b-55cc0f359568",
-     "Intern - R&D Multiphysics Simulation Intern  - Spring or Summer 2027",
-     "Somerville, MA",
-     "https://jobs.lever.co/cfsenergy/deff5f97-d48c-45fe-800b-55cc0f359568",
-     "internship_year",
-     "2018"
-    ],
-    [
-     "41725c72-2242-4ae4-815a-21064d7d7d05",
-     "Intern - R&D Test Engineer - Spring or Summer 2027",
-     "Devens, MA & Somerville, MA",
-     "https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05",
-     "internship_year",
-     "2018"
-    ],
-    [
-     "32e62a79-eff5-4a58-83fd-51a60eb57707",
-     "Intern - Systems Engineer - Summer 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707",
-     "internship_year",
-     "2018"
     ]
    ],
-   "n": 9
+   "n": 5
   },
   "TAE Technologies": {
    "rows": [],
@@ -2027,6 +3154,1688 @@
   "Protolabs": {
    "rows": [],
    "n": 0
+  },
+  "Neros": {
+   "rows": [],
+   "n": 0
+  },
+  "Mach Industries": {
+   "rows": [
+    [
+     "4397035009",
+     "Spring 2027 Engineering Internship",
+     "Huntington Beach, California, United States; San Francisco, California, United States; San Luis Obispo, California, United States; Victorville, California, United States",
+     "https://job-boards.greenhouse.io/machindustries/jobs/4397035009",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "4420626009",
+     "Summer 2027 Engineering Internship, Software/GNC",
+     "Huntington Beach, California, United States; San Francisco, California, United States",
+     "https://job-boards.greenhouse.io/machindustries/jobs/4420626009",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 2
+  },
+  "Chaos Industries": {
+   "rows": [],
+   "n": 0
+  },
+  "HawkEye 360": {
+   "rows": [],
+   "n": 0
+  },
+  "Anduril": {
+   "rows": [
+    [
+     "5239083007",
+     "2027 Flight Software Engineer Intern",
+     "Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5148079007",
+     "2027 Software Engineer Intern",
+     "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "5280611007",
+     "Fall 2027 Manufacturing Engineer Co-op",
+     "Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "5271686007",
+     "Winter 2027 Business Operations Engineer Co-op",
+     "Ashville, Ohio, United States; Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236565007",
+     "Winter 2027 Electrical Engineer Co-op",
+     "Costa Mesa, California, United States; Quincy, Massachusetts, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236577007",
+     "Winter 2027 EWIS Harness Engineer Co-op",
+     "Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236589007",
+     "Winter 2027 Manufacturing Engineer Co-op",
+     "Ashville, Ohio, United States; Lexington, Massachusetts, United States; Quincy, Massachusetts, United States; Quonset, Rhode Island, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236601007",
+     "Winter 2027 Mechanical Engineer Co-op",
+     "Ashville, Ohio, United States; Quincy, Massachusetts, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236587007",
+     "Winter 2027 Propulsion Engineer Co-op",
+     "Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5257571007",
+     "Winter 2027 Quality & Test Engineer Co-op",
+     "Ashville, Ohio, United States; Santa Ana, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5257693007",
+     "Winter 2027 Reliability Engineer Co-op",
+     "Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5265127007",
+     "Winter 2027 Research Engineer Co-op",
+     "Santa Ana, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5271842007",
+     "Winter 2027 Robotics Engineer Co-op",
+     "Quincy, Massachusetts, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236563007",
+     "Winter 2027 Software Engineer Co-op",
+     "Quincy, Massachusetts, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236599007",
+     "Winter 2027 Systems Engineer Co-op",
+     "Quincy, Massachusetts, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "5236571007",
+     "Winter 2027 Technical Program Management Co-op",
+     "Washington, District of Columbia, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5236571007?gh_jid=5236571007",
+     "title_exclude",
+     "winter 2027"
+    ]
+   ],
+   "n": 16
+  },
+  "Vannevar Labs": {
+   "rows": [],
+   "n": 0
+  },
+  "Picogrid": {
+   "rows": [],
+   "n": 0
+  },
+  "Albedo": {
+   "rows": [],
+   "n": 0
+  },
+  "Quindar": {
+   "rows": [],
+   "n": 0
+  },
+  "Auterion": {
+   "rows": [],
+   "n": 0
+  },
+  "Skyways": {
+   "rows": [],
+   "n": 0
+  },
+  "AeroVironment": {
+   "rows": [
+    [
+     "/job/Lawrence-KS/Software-Engineering-Intern_9360",
+     "Software Engineering Intern",
+     "Lawrence, KS",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/San-Diego-CA/Software-Engineering-Intern_8828",
+     "Software Engineering Intern",
+     "San Diego, CA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+     "Software Engineering Intern",
+     "Minneapolis, MN",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+     "Machine Learning Engineering Intern",
+     "Centreville, VA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+     "title_exclude",
+     "machine learning"
+    ],
+    [
+     "/job/Moorpark-CA/Software-Engineering-Intern_9094",
+     "Software Engineering Intern",
+     "Moorpark, CA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
+     "Summer 2027 Software Engineering Intern",
+     "14 Locations (Simi Valley CA)",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+     "Hypersonic RF Software Engineering Intern",
+     "Germantown, MD",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
+     "Titan-SV Software Engineer Intern",
+     "Leesburg, VA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Sunrise-FL/Software-Engineering-Intern_8797",
+     "Software Engineering Intern",
+     "Sunrise, FL",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
+     "Software Engineering Intern",
+     "Simi Valley, CA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Centreville-VA/Software-Engineering-Intern_8593",
+     "Software Engineering Intern",
+     "Centreville, VA",
+     "https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Software-Engineering-Intern_8593",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 11
+  },
+  "CACI": {
+   "rows": [
+    [
+     "/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+     "AI/ML Engineering Co-op - Spring 2027",
+     "King of Prussia, PA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
+     "Software Engineering Co-op - Spring 2027",
+     "King of Prussia, PA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
+     "Naval Architecture/Marine Engineering Intern - Spring 2027",
+     "Washington, DC, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
+     "Cleared Software Engineer Intern - Summer 2027",
+     "2 Locations (Denver CO US)",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+     "Software Engineer Intern - Summer 2027",
+     "Omaha, NE, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+     "AI Prompt Engineer High School Intern - Summer 2027",
+     "Ashburn, VA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+     "title_exclude",
+     "high school"
+    ],
+    [
+     "/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
+     "Network Engineer Intern - Summer 2027",
+     "High Point, NC, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
+     "title_exclude",
+     "network engineer"
+    ],
+    [
+     "/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+     "Software Engineering Co-op - Summer & Fall 2027",
+     "Danbury, CT, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 8
+  },
+  "Booz Allen Hamilton": {
+   "rows": [
+    [
+     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "University, AI RAN Telecommunications Engineer Intern",
+     "McLean, VA",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 2
+  },
+  "Parsons": {
+   "rows": [],
+   "n": 0
+  },
+  "Merlin Labs": {
+   "rows": [],
+   "n": 0
+  },
+  "Axiom Space": {
+   "rows": [],
+   "n": 0
+  },
+  "Firefly Aerospace": {
+   "rows": [
+    [
+     "/job/Cedar-Park-TX/Internship---Mechanical-Engineering---Spring-2027_JR100180",
+     "Internship - Mechanical Engineering - Spring 2027",
+     "Cedar Park, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Mechanical-Engineering---Spring-2027_JR100180",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Briggs-TX/Internship---Materials---Process---Spring-2027_JR100191",
+     "Internship - Materials & Process - Spring 2027",
+     "Briggs, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Briggs-TX/Internship---Materials---Process---Spring-2027_JR100191",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Briggs-TX/Internship---Propulsion-Manufacturing---Spring-2027_JR100182",
+     "Internship - Propulsion Manufacturing - Spring 2027",
+     "Briggs, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Briggs-TX/Internship---Propulsion-Manufacturing---Spring-2027_JR100182",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Briggs-TX/Internship---Structures-Manufacturing--Composites----Spring-2027_JR100186",
+     "Internship - Structures Manufacturing (Composites) - Spring 2027",
+     "Briggs, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Briggs-TX/Internship---Structures-Manufacturing--Composites----Spring-2027_JR100186",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Cedar-Park-TX/Internship---Electrical-Engineering---Spring-2027_JR100187",
+     "Internship - Electrical Engineering - Spring 2027",
+     "Cedar Park, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Electrical-Engineering---Spring-2027_JR100187",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+     "Internship - Software Engineering - Spring 2027",
+     "Cedar Park, TX",
+     "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 6
+  },
+  "Zipline": {
+   "rows": [
+    [
+     "7894561003",
+     "Construction Management Intern (Spring 2027)",
+     "Dallas-Fort Worth, Texas, USA",
+     "https://www.zipline.com/open-roles/7894561003?gh_jid=7894561003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7903823003",
+     "Controls Engineer Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7903823003?gh_jid=7903823003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "8020863003",
+     "Firmware Engineer Intern (Spring 2027) ",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7999929003",
+     "Flight Test Engineer Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7894349003",
+     "Hardware Test Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7894349003?gh_jid=7894349003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7968933003",
+     "Marketing Operations & Project Management Intern (Summer 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7968933003?gh_jid=7968933003",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "7865253003",
+     "Mechanical Engineer Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7865253003?gh_jid=7865253003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7824311003",
+     "Quality & Manufacturing Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7824311003?gh_jid=7824311003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7907191003",
+     "Software Engineer Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7891019003",
+     "Supplier Industrialization Engineering Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7891019003?gh_jid=7891019003",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "7893946003",
+     "System Test Automation Intern (Spring 2027)",
+     "South San Francisco, California, USA",
+     "https://www.zipline.com/open-roles/7893946003?gh_jid=7893946003",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 11
+  },
+  "ASML US": {
+   "rows": [
+    [
+     "/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627",
+     "Internship- Co-Op: AI Engineer",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627",
+     "title_exclude",
+     "ai engineer"
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628",
+     "Internship- Co-Op: AI Engineer",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628",
+     "title_exclude",
+     "ai engineer"
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629",
+     "Internship-Co-Op: AI Engineer",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629",
+     "title_exclude",
+     "ai engineer"
+    ],
+    [
+     "/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+     "Internship - Application Software QA Engineer",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
+     "Internship- Software Development Engineer in Test",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+     "Internship- Platform Software Engineer In Test",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+     "Internship - Software Engineer In Test (MOD)",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 7
+  },
+  "Electric Hydrogen": {
+   "rows": [],
+   "n": 0
+  },
+  "GE Aerospace": {
+   "rows": [],
+   "n": 0
+  },
+  "Spirit AeroSystems": {
+   "rows": [
+    [
+     "15249",
+     "2026 Summer Intern: Manufacturing (Manufacturing Engineering)",
+     "Wichita, Kansas",
+     "https://careers.spiritaero.com/jobs/15249",
+     "internship_year",
+     "2026"
+    ]
+   ],
+   "n": 1
+  },
+  "Howmet": {
+   "rows": [],
+   "n": 0
+  },
+  "Triumph Group": {
+   "rows": [],
+   "n": 0
+  },
+  "Leonardo DRS": {
+   "rows": [
+    [
+     "1428313900",
+     "Software Engineering Intern | Summer 2027",
+     "Menomonee Falls, WI, US, 53051",
+     "https://careers.leonardodrs.com/job/Menomonee-Falls-Software-Engineering-Intern-Summer-2027-WI-53051/1428313900/",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "1418392000",
+     "Mechanical Engineer Co-Op (Spring 2027)",
+     "Bridgeton, MO, US, 63044",
+     "https://careers.leonardodrs.com/job/Bridgeton-Mechanical-Engineer-Co-Op-%28Spring-2027%29-MO-63044/1418392000/",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 2
+  },
+  "Huntington Ingalls": {
+   "rows": [
+    [
+     "1314827300",
+     "PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN",
+     "Newport News, Virginia, United States",
+     "https://careers.huntingtoningalls.com/job/Newport-News-PROJECT-MANAGEMENT-ANALYST-SKILLBRIDGE-INTERN-Virg/1314827300/",
+     "title_exclude",
+     "skillbridge"
+    ],
+    [
+     "1330995100",
+     "ENGINEERING TECH SKILLBRIDGE INTERN",
+     "Newport News, Virginia, United States",
+     "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECH-SKILLBRIDGE-INTERN-Virg/1330995100/",
+     "title_exclude",
+     "skillbridge"
+    ],
+    [
+     "1330996400",
+     "STRUCTURAL/CIVIL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS",
+     "Newport News, Virginia, United States",
+     "https://careers.huntingtoningalls.com/job/Newport-News-STRUCTURALCIVIL-ENGINEER-SKILLBRIDGE-INTERN%28PLANT-OPERATIONS-Virg/1330996400/",
+     "title_exclude",
+     "skillbridge"
+    ]
+   ],
+   "n": 3
+  },
+  "Joby Aviation": {
+   "rows": [],
+   "n": 0
+  },
+  "Ford": {
+   "rows": [],
+   "n": 0
+  },
+  "Hyundai": {
+   "rows": [],
+   "n": 0
+  },
+  "Navistar (International)": {
+   "rows": [],
+   "n": 0
+  },
+  "Volvo Group North America": {
+   "rows": [
+    [
+     "1367923455",
+     "Intern: Continuous Improvement (Spring 2027)",
+     "Macungie, PA, US, 18062",
+     "https://jobs.volvogroup.com/job/Macungie-Intern-Continuous-Improvement-%28Spring-2027%29-PA-18062/1367923455/",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "1367935555",
+     "Intern: Maintenance Engineering (Spring 2027)",
+     "Macungie, PA, US, 18062",
+     "https://jobs.volvogroup.com/job/Macungie-Intern-Maintenance-Engineering-%28Spring-2027%29-PA-18062/1367935555/",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 2
+  },
+  "Harley-Davidson": {
+   "rows": [],
+   "n": 0
+  },
+  "Lear": {
+   "rows": [],
+   "n": 0
+  },
+  "Tenneco": {
+   "rows": [],
+   "n": 0
+  },
+  "Eastman": {
+   "rows": [],
+   "n": 0
+  },
+  "Celanese": {
+   "rows": [],
+   "n": 0
+  },
+  "Arkema": {
+   "rows": [],
+   "n": 0
+  },
+  "Trinseo": {
+   "rows": [],
+   "n": 0
+  },
+  "Ball Corp": {
+   "rows": [],
+   "n": 0
+  },
+  "Kurita": {
+   "rows": [],
+   "n": 0
+  },
+  "AGCO": {
+   "rows": [],
+   "n": 0
+  },
+  "Ingersoll Rand": {
+   "rows": [
+    [
+     "1449419700",
+     "AI Engineer Intern (2027)",
+     "Davidson, NC, US, 28036",
+     "https://careers.irco.com/job/Davidson-AI-Engineer-Intern-%282027%29-NC-28036/1449419700/",
+     "title_exclude",
+     "ai engineer"
+    ]
+   ],
+   "n": 1
+  },
+  "Timken": {
+   "rows": [],
+   "n": 0
+  },
+  "Lincoln Electric": {
+   "rows": [
+    [
+     "1449588133",
+     "Engineering Fall 2027 Co-op (Euclid, OH)",
+     "Cleveland, OH, US, 44117",
+     "https://jobs.lincolnelectric.com/job/Cleveland-Engineering-Fall-2027-Co-op-%28Euclid%2C-OH%29-OH-44117/1449588133/",
+     "title_exclude",
+     "fall 2027"
+    ],
+    [
+     "1428892333",
+     "Technical Sales Summer 2027 Internship (U.S.)",
+     "Houston, TX, US, 77086",
+     "https://jobs.lincolnelectric.com/job/Houston-Technical-Sales-Summer-2027-Internship-%28U_S_%29-TX-77086/1428892333/",
+     "title_exclude",
+     "sales"
+    ],
+    [
+     "1428893933",
+     "Engineering Spring 2027 Co-op (Euclid, OH)",
+     "Cleveland, OH, US, 44117",
+     "https://jobs.lincolnelectric.com/job/Cleveland-Engineering-Spring-2027-Co-op-%28Euclid%2C-OH%29-OH-44117/1428893933/",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "1432989733",
+     "Mechanical Engineering Spring 2027 Co-op (Plymouth, MI)",
+     "Plymouth, MI, US, 48170",
+     "https://jobs.lincolnelectric.com/job/Plymouth-Mechanical-Engineering-Spring-2027-Co-op-%28Plymouth%2C-MI%29-MI-48170/1432989733/",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "1431245333",
+     "Controls Engineering Spring 2027 Co-op (Plymouth, MI)",
+     "Plymouth, MI, US, 48170",
+     "https://jobs.lincolnelectric.com/job/Plymouth-Controls-Engineering-Spring-2027-Co-op-%28Plymouth%2C-MI%29-MI-48170/1431245333/",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 5
+  },
+  "Kennametal": {
+   "rows": [],
+   "n": 0
+  },
+  "Honeywell": {
+   "rows": [
+    [
+     "119718",
+     "Software Engineering Intern - Summer 2027 (U.S. Person Required)",
+     "United States",
+     "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119718",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "119821",
+     "Software Engineering Intern - Summer 2027",
+     "United States",
+     "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119821",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "121380",
+     "Honeywell Aerospace IT Intern / Co-Op",
+     "United States",
+     "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121380",
+     "title_exclude",
+     "it intern"
+    ],
+    [
+     "121413",
+     "Puerto Rico - Software Engineering Intern - Summer 2027 (U.S. Person Required)",
+     "Puerto Rico",
+     "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121413",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 4
+  },
+  "Boston Scientific": {
+   "rows": [
+    [
+     "1444801800",
+     "R&D Software Design Intern",
+     "Arden Hills, MN, US, 55112",
+     "https://jobs.bostonscientific.com/job/Arden-Hills-R&D-Software-Design-Intern-MN-55112/1444801800/",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 1
+  },
+  "Texas Instruments": {
+   "rows": [
+    [
+     "25017540",
+     "Systems Marketing Engineering Intern (SEM)",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017540",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "25017496",
+     "2027 Manufacturing Technician Intern (Lehi, UT)",
+     "Lehi, UT, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017496",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "25017474",
+     "2027 Manufacturing Technician Intern (Dallas/Richardson, TX)",
+     "Richardson, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017474",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "25017582",
+     "Product Marketing Engineering Intern",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017582",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "25017591",
+     "Sales Engineering Intern (Waltham, MA)",
+     "Waltham, MA, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017591",
+     "title_exclude",
+     "sales"
+    ],
+    [
+     "25017852",
+     "Portfolio Marketing Engineering Intern",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017852",
+     "title_exclude",
+     "marketing"
+    ],
+    [
+     "25017978",
+     "Information Technology Intern \u2013 Data Engineering",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978",
+     "title_exclude",
+     "information technology"
+    ],
+    [
+     "25019103",
+     "Software Engineering Intern - Compiler",
+     "United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 8
+  },
+  "Skyworks": {
+   "rows": [
+    [
+     "1421228100",
+     "RF Module Design Engineer Co-op (Winter/Spring 2027)",
+     "Cedar Rapids, IA, US, 52411",
+     "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Module-Design-Engineer-Co-op-%28WinterSpring-2027%29-IA-52411/1421228100/",
+     "title_exclude",
+     "winter"
+    ],
+    [
+     "1440767700",
+     "AI Engineering Summer Intern (May-Aug '27)",
+     "Newbury Park, CA, US, 91320",
+     "https://careers.skyworksinc.com/job/Newbury-Park-AI-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-91320/1440767700/",
+     "title_exclude_unless",
+     "ai"
+    ],
+    [
+     "1421252800",
+     "Validation Engineer (VE) Winter/Spring Co-Op (Jan-June '27)",
+     "Newbury Park, CA, US, 91320",
+     "https://careers.skyworksinc.com/job/Newbury-Park-Validation-Engineer-%28VE%29-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1421252800/",
+     "title_exclude",
+     "winter"
+    ],
+    [
+     "1420483500",
+     "IC Packaging Thermal / Mechanical Simulation Co-Op (Winter/Spring, January - June 2027)",
+     "Irvine, CA, US, 92617",
+     "https://careers.skyworksinc.com/job/Irvine-IC-Packaging-Thermal-Mechanical-Simulation-Co-Op-%28WinterSpring%2C-January-June-2027%29-CA-92617/1420483500/",
+     "title_exclude",
+     "winter"
+    ],
+    [
+     "1419829600",
+     "Audio AI Engineering Intern-Summer 2027",
+     "Hillsboro, OR, US, 97006",
+     "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Intern-Summer-2027-OR-97006/1419829600/",
+     "title_exclude_unless",
+     "ai"
+    ]
+   ],
+   "n": 5
+  },
+  "Qorvo": {
+   "rows": [
+    [
+     "1421457600",
+     "Software Engineer Intern",
+     "Richardson, TX, US, 75080",
+     "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/",
+     "title_exclude_unless",
+     "software"
+    ]
+   ],
+   "n": 1
+  },
+  "onsemi": {
+   "rows": [
+    [
+     "2506611",
+     "Spring 2027 - Validation Engineering Intern",
+     "Nampa, ID, United States",
+     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/onsemi/job/2506611",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "2506781",
+     "Spring 2027 - Applications Engineer Intern (DC-DC)",
+     "San Jose, CA, United States",
+     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/onsemi/job/2506781",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "2506811",
+     "Spring 2027 - Manufacturing Engineer Intern",
+     "Nampa, ID, United States",
+     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/onsemi/job/2506811",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
+     "2506813",
+     "Spring 2027 - Manufacturing Engineer Intern",
+     "Nampa, ID, United States",
+     "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/onsemi/job/2506813",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 4
+  },
+  "Oak Ridge": {
+   "rows": [],
+   "n": 0
+  },
+  "Pacific Northwest": {
+   "rows": [
+    [
+     "13549",
+     "Undergraduate Intern - Mechanical Engineer - Winter 2027",
+     "Richland, Washington",
+     "https://careers.pnnl.gov/jobs/13549",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "13548",
+     "Undergraduate Intern \u2013 Electrical Engineer - Winter 2027",
+     "Richland, Washington",
+     "https://careers.pnnl.gov/jobs/13548",
+     "title_exclude",
+     "winter 2027"
+    ],
+    [
+     "13585",
+     "PhD Intern - Electrocatalysis and Inorganic Materials",
+     "Richland, Washington",
+     "https://careers.pnnl.gov/jobs/13585",
+     "title_exclude",
+     "phd intern"
+    ]
+   ],
+   "n": 3
+  },
+  "Johns Hopkins APL": {
+   "rows": [
+    [
+     "60820",
+     "2027 Internship - Maritime Software Development - Ocean Systems and Engineering",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/60820",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "60431",
+     "2027 Internship - Cybersecurity Engineer - Critical Infrastructure Protection",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/60431",
+     "title_exclude",
+     "cybersecurity"
+    ],
+    [
+     "59759",
+     "2027 Internship - Military Systems Cybersecurity Engineer",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/59759",
+     "title_exclude",
+     "cybersecurity"
+    ],
+    [
+     "59642",
+     "2027 Internship - Cybersecurity Engineer/Mathematician - Constrained Cyber Solutions",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/59642",
+     "title_exclude",
+     "cybersecurity"
+    ],
+    [
+     "59598",
+     "2027 Internship - Engineer/SW Developer/Analyst - Maritime Force Engagement Control",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/59598",
+     "title_exclude_unless",
+     "developer"
+    ]
+   ],
+   "n": 5
+  },
+  "Hach": {
+   "rows": [],
+   "n": 0
+  },
+  "Vaya Space": {
+   "rows": [],
+   "n": 0
+  },
+  "Fluor": {
+   "rows": [
+    [
+     "1099556860687",
+     "Engineering Technician I - Civil Structural Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556860687",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556431949",
+     "Spring Co-op/Intern Mechanical Engineering",
+     "Greenville, US-SC, United States",
+     "https://careers.fluor.com/careers/job/1099556431949",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "1099556431816",
+     "Spring Co-op/Intern HVAC",
+     "Greenville, US-SC, United States",
+     "https://careers.fluor.com/careers/job/1099556431816",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "1099556232730",
+     "Engineering Technician I- Piping Material Control Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556232730",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556232728",
+     "Engineering Technician I- Piping Design Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556232728",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556232729",
+     "Engineering Technician I- Piping Stress Engineer Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556232729",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556232674",
+     "Engineering Technician I- Piping Material Engineer Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556232674",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556157513",
+     "Engineering Technician I- Control Systems Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556157513",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556157507",
+     "Engineering Technician I- Control Systems Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556157507",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556116892",
+     "Engineering Technician I- Chemical Engineering Internship",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556116892",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556116838",
+     "Engineering Technician I- Nuclear Engineering Internship",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556116838",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "1099556046337",
+     "Engineering Technician I- Mechanical Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556046337",
+     "title_exclude",
+     "technician"
+    ]
+   ],
+   "n": 12
+  },
+  "Black and Veatch": {
+   "rows": [],
+   "n": 0
+  },
+  "Kimley-Horn": {
+   "rows": [
+    [
+     "24543",
+     "Civil Engineering Co-Op (Fall/Winter 2026)",
+     "Ocala, Florida",
+     "https://careers.kimley-horn.com/jobs/24543",
+     "title_exclude",
+     "fall"
+    ]
+   ],
+   "n": 1
+  },
+  "Terracon": {
+   "rows": [
+    [
+     "3160",
+     "Summer Engineering Technician - Summer 2027",
+     "Omaha, NE, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3160",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "3162",
+     "Summer Engineering Technician - Summer 2027",
+     "Lincoln, NE, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3162",
+     "title_exclude",
+     "technician"
+    ],
+    [
+     "3281",
+     "Summer Engineering/Construction Materials Testing Technician - Summer 2027",
+     "Cedar Rapids, IA, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3281",
+     "title_exclude",
+     "technician"
+    ]
+   ],
+   "n": 3
+  },
+  "Westinghouse": {
+   "rows": [
+    [
+     "1440791400",
+     "Summer Intern - Global Financial Controls",
+     "Cranberry Township, US",
+     "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Global-Financial-Controls-NC/1440791400/",
+     "title_exclude",
+     "financial"
+    ],
+    [
+     "1433586300",
+     "Spring CoOp - Mechanical Engineering",
+     "Cranberry Township, US",
+     "http://careers.westinghousenuclear.com/job/Cranberry-Township-Spring-CoOp-Mechanical-Engineering-NC/1433586300/",
+     "title_exclude",
+     "spring"
+    ]
+   ],
+   "n": 2
+  },
+  "Vestas": {
+   "rows": [],
+   "n": 0
+  },
+  "Berkshire Grey": {
+   "rows": [
+    [
+     "768",
+     "Spring 2027 Robot Learning R&D Co-op",
+     "Bedford, Massachusetts",
+     "https://berkshiregrey.bamboohr.com/careers/768",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 1
+  },
+  "Kraton": {
+   "rows": [],
+   "n": 0
+  },
+  "Lubrizol": {
+   "rows": [
+    [
+     "1440030100",
+     "Performance Coatings Strategic Marketing & Product Stewardship Intern",
+     "Brecksville, OH, US, 44141-3247",
+     "https://jobs.lubrizol.com/job/Brecksville-Performance-Coatings-Strategic-Marketing-&-Product-Stewardship-Intern-OH-44141-3247/1440030100/",
+     "title_exclude",
+     "marketing"
+    ]
+   ],
+   "n": 1
+  },
+  "Momentive": {
+   "rows": [
+    [
+     "/job/US-NY-Niskayuna/Summer-2027-Intern---Coatings-Marketing_R9826",
+     "Summer 2027 Intern - Coatings Marketing",
+     "US NY Niskayuna",
+     "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Coatings-Marketing_R9826",
+     "title_exclude",
+     "marketing"
+    ]
+   ],
+   "n": 1
+  },
+  "Wacker": {
+   "rows": [],
+   "n": 0
+  },
+  "Mitsubishi Chemical America": {
+   "rows": [],
+   "n": 0
+  },
+  "Shaw Industries": {
+   "rows": [
+    [
+     "/job/Shaw-Plant-7C-2208-S-Hamilton-Street-Dalton-GA-30721-USA/Engineering-Internship-Co-op-Spring-2027_R-156324",
+     "Engineering Internship/Co-op Spring 2027",
+     "Shaw Plant 7C, 2208 S Hamilton Street, Dalton, GA 30721, USA",
+     "https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-7C-2208-S-Hamilton-Street-Dalton-GA-30721-USA/Engineering-Internship-Co-op-Spring-2027_R-156324",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 1
+  },
+  "Interface": {
+   "rows": [],
+   "n": 0
+  },
+  "Axalta": {
+   "rows": [],
+   "n": 0
+  },
+  "RPM International": {
+   "rows": [],
+   "n": 0
+  },
+  "Chemours": {
+   "rows": [
+    [
+     "/job/US---TN---New-Johnsonville/Chemical-Engineering-Spring-Co-op_JR14977",
+     "Chemical Engineering Spring Co-op",
+     "US - TN - New Johnsonville",
+     "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---TN---New-Johnsonville/Chemical-Engineering-Spring-Co-op_JR14977",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/US---DE---Newark/Chemical-Engineer-Spring-Intern_JR15102",
+     "Chemical Engineer Spring Intern",
+     "US - DE - Newark",
+     "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---DE---Newark/Chemical-Engineer-Spring-Intern_JR15102",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/US---TX---Corpus-Christi/Chemical-Engineering-Spring-Co-op_JR13971",
+     "Chemical Engineering Spring Co-op",
+     "US - TX - Corpus Christi",
+     "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---TX---Corpus-Christi/Chemical-Engineering-Spring-Co-op_JR13971",
+     "title_exclude",
+     "spring"
+    ]
+   ],
+   "n": 3
+  },
+  "Kinetico": {
+   "rows": [],
+   "n": 0
+  },
+  "Kemira": {
+   "rows": [],
+   "n": 0
+  },
+  "Ingevity": {
+   "rows": [
+    [
+     "/job/Waynesboro-GA/Spring-2027-Engineering-Co-Op_R0002548",
+     "Spring 2027 Engineering Co-Op",
+     "Waynesboro, GA",
+     "https://ingevity.wd1.myworkdayjobs.com/Ingevity/job/Waynesboro-GA/Spring-2027-Engineering-Co-Op_R0002548",
+     "title_exclude",
+     "spring 2027"
+    ]
+   ],
+   "n": 1
+  },
+  "BWX Technologies": {
+   "rows": [],
+   "n": 0
+  },
+  "Centrus Energy": {
+   "rows": [],
+   "n": 0
+  },
+  "Hexcel": {
+   "rows": [],
+   "n": 0
+  },
+  "Cirrus Aircraft": {
+   "rows": [],
+   "n": 0
+  },
+  "Terumo": {
+   "rows": [],
+   "n": 0
+  },
+  "Olympus America": {
+   "rows": [],
+   "n": 0
+  },
+  "Siemens Healthineers": {
+   "rows": [],
+   "n": 0
+  },
+  "GE HealthCare": {
+   "rows": [],
+   "n": 0
+  },
+  "Insulet": {
+   "rows": [
+    [
+     "/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
+     "Co-op, R&D Mechanical Engineering: January - June 2027 (Hybrid)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+     "Graduate Co-op, Manufacturing Engineering: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127",
+     "Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18127",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126",
+     "Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)",
+     "US - Massachusetts (Acton - Office)",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18126",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798",
+     "Co-op, Mechanical Engineer: January-June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--R-D-Chemistry--January---June-2027--Onsite-_REQ-2026-18399",
+     "Graduate Co-op, R&D Chemistry: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Chemistry--January---June-2027--Onsite-_REQ-2026-18399",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125",
+     "Co-op - Supplier Quality Engineering: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op---Supplier-Quality-Engineering--January---June-2027--Onsite-_REQ-2026-18125",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
+     "Co-op, Manufacturing: January - June 2027 (Onsite)",
+     "Irvine, California",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Quality-Engineering--January-June--Onsite-_REQ-2026-18150",
+     "Co-op, Quality Engineering: January-June (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Quality-Engineering--January-June--Onsite-_REQ-2026-18150",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026",
+     "Co-op, Software Development Engineer in Test: January - June 2027 (Hybrid)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202",
+     "Intern, DevOps Engineer: June-August 2027 (Onsite)",
+     "San Diego, California",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202",
+     "title_exclude",
+     "devops"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027",
+     "Co-op, DevOps Engineer: January - June 2027 (Hybrid)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027",
+     "title_exclude",
+     "devops"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
+     "Co-op, Manufacturing Engineering: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149",
+     "Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1",
+     "Co-op, Systems Engineering - Design Verification: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Systems-Engineering---Design-Verification--January---June-2027--Onsite-_REQ-2026-18144-1",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
+     "Co-op, Embedded Software Test Engineering: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--R-D-Electronics-Engineering--January-June-2027--Hybrid-_REQ-2026-18014-1",
+     "Co-op, Life Cycle Engineering - Electrical: January-June 2027 (Hybrid)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electronics-Engineering--January-June-2027--Hybrid-_REQ-2026-18014-1",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211",
+     "Co-op, Supplier Engineering - Project Management Excellence: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Project-Management-Excellence--January---June-2027--Onsite-_REQ-2026-18211",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
+     "Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Next-Gen-Platforms--NGP--Systems-Engineering--January-June-2027--Onsite-_REQ-2026-18071",
+     "Co-op, Next Gen Platforms (NGP) Systems Engineering: January-June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Next-Gen-Platforms--NGP--Systems-Engineering--January-June-2027--Onsite-_REQ-2026-18071",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+     "Co-op, Embedded Software Engineering: January-June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Global-Technical-Excellence--January---June-2027--Onsite-_REQ-2026-18213",
+     "Co-op, Supplier Engineering - Global Technical Excellence: January - June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Engineering---Global-Technical-Excellence--January---June-2027--Onsite-_REQ-2026-18213",
+     "title_exclude",
+     "january"
+    ],
+    [
+     "/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
+     "Co-op, Supplier Development Engineering - Mechanical: January-June 2027 (Onsite)",
+     "Acton, Massachusetts",
+     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
+     "title_exclude",
+     "january"
+    ]
+   ],
+   "n": 23
+  },
+  "Dexcom": {
+   "rows": [],
+   "n": 0
+  },
+  "Globus Medical": {
+   "rows": [],
+   "n": 0
+  },
+  "Integra LifeSciences": {
+   "rows": [],
+   "n": 0
+  },
+  "Agilent": {
+   "rows": [],
+   "n": 0
+  },
+  "Bio-Rad": {
+   "rows": [],
+   "n": 0
+  },
+  "Illumina": {
+   "rows": [],
+   "n": 0
+  },
+  "PerkinElmer (Revvity)": {
+   "rows": [],
+   "n": 0
+  },
+  "Avantor": {
+   "rows": [],
+   "n": 0
+  },
+  "Fox Factory": {
+   "rows": [],
+   "n": 0
+  },
+  "Dana Incorporated": {
+   "rows": [
+    [
+     "1444742600",
+     "Engineering Co-Op - Fall 2027",
+     "Maumee, OH, US, 43537",
+     "https://jobs.dana.com/job/Maumee-Engineering-Co-Op-Fall-2027-OH-43537/1444742600/",
+     "title_exclude",
+     "fall 2027"
+    ]
+   ],
+   "n": 1
   }
  }
 }
