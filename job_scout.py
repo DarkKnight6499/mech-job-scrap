@@ -4256,12 +4256,14 @@ function copyText(text) {
     checkboxes.forEach(function(cb) { cb.checked = saved.indexOf(cb.dataset.catKey) !== -1; });
   } catch (e) {}
   checkboxes.forEach(function(cb) { cb.addEventListener('change', applyCategory); });
-  var metroBox = null;
+  var metroBox = null, coloradoBox = null;
   var resetBtn = document.getElementById('expReset');
   if (resetBtn) resetBtn.addEventListener('click', function() {
     checkboxes.forEach(function(cb) { cb.checked = false; });
     applyCategory();
-    if (metroBox) { metroBox.checked = false; applyLocation(); }
+    if (metroBox) metroBox.checked = false;
+    if (coloradoBox) coloradoBox.checked = false;
+    applyLocation();
     hideBox.checked = false;
     applyCompany();
   });
@@ -4288,24 +4290,41 @@ function copyText(text) {
   // NY metro only: NY/NJ/CT area by location text; upstate NY cities excluded.
   var METRO_RE = /\b(new york|nyc|manhattan|brooklyn|queens|bronx|long island|westchester|white plains|new jersey|nj|jersey city|newark|hoboken|harrison|stamford|greenwich|norwalk|connecticut|ct|ny)\b/;
   var UPSTATE_RE = /\b(buffalo|albany|rochester|syracuse|ithaca|binghamton|utica)\b/;
+  // Aurora requires a state match because the city name occurs in other states.
+  var COLORADO_RE = /\b(colorado|denver|boulder|golden|littleton|lone tree|englewood|lakewood|centennial|westminster|broomfield|louisville|longmont|loveland|fort collins|greeley|colorado springs|pueblo|arvada|thornton|castle rock|berthoud|parker|highlands ranch)\b/i;
+  var COLORADO_STATE_RE = /(?:,|\s)CO(?![\w-])/;
   var metroLabel = document.createElement('label');
   metroLabel.className = 'chip';
   metroLabel.title = 'NY, NJ and CT locations only';
   metroLabel.innerHTML = '<input type="checkbox" id="metroOnlyBox"> NY metro only';
   if (toggles && resetBtn) toggles.insertBefore(metroLabel, resetBtn);
   metroBox = metroLabel.querySelector('input');
+  var coloradoLabel = document.createElement('label');
+  coloradoLabel.className = 'chip';
+  coloradoLabel.title = 'Colorado locations only';
+  coloradoLabel.innerHTML = '<input type="checkbox" id="coloradoOnlyBox"> Colorado only';
+  if (toggles && resetBtn) toggles.insertBefore(coloradoLabel, resetBtn);
+  coloradoBox = coloradoLabel.querySelector('input');
   function applyLocation() {
+    var active = metroBox.checked || coloradoBox.checked;
     rows.forEach(function(tr) {
-      var loc = textOf(tr, COL_LOCATION).toLowerCase();
-      // Multi-site rows join sites with ';' or '|': one metro site is enough, an upstate site only vetoes its own segment.
-      var ok = loc.split(/\s*[;|]\s*/).some(function(part) { return METRO_RE.test(part) && !UPSTATE_RE.test(part); });
-      tr.classList.toggle('hidden-by-location', metroBox.checked && !ok);
+      var loc = textOf(tr, COL_LOCATION);
+      // One qualifying site keeps the row; exclusions apply only to their own segment.
+      var ok = loc.split(/\s*[;|]\s*/).some(function(part) {
+        var lower = part.toLowerCase();
+        return (metroBox.checked && METRO_RE.test(lower) && !UPSTATE_RE.test(lower)) ||
+               (coloradoBox.checked && (COLORADO_RE.test(part) || COLORADO_STATE_RE.test(part)));
+      });
+      tr.classList.toggle('hidden-by-location', active && !ok);
     });
     recount();
     try { localStorage.setItem('jobScoutMetroOnly', metroBox.checked ? '1' : '0'); } catch (e) {}
+    try { localStorage.setItem('jobScoutColoradoOnly', coloradoBox.checked ? '1' : '0'); } catch (e) {}
   }
   try { metroBox.checked = localStorage.getItem('jobScoutMetroOnly') === '1'; } catch (e) {}
+  try { coloradoBox.checked = localStorage.getItem('jobScoutColoradoOnly') === '1'; } catch (e) {}
   metroBox.addEventListener('change', applyLocation);
+  coloradoBox.addEventListener('change', applyLocation);
   applyCategory();
   applyCompany();
   applyLocation();
