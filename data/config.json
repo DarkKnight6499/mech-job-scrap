@@ -1,0 +1,1948 @@
+{
+ "notify": {
+  "type": "ntfy",
+  "server": "https://ntfy.sh"
+ },
+ "filters": {
+  "title_include": [
+   "mechanical",
+   "mechatronics",
+   "aerospace",
+   "aeronautical",
+   "robotics",
+   "robot",
+   "controls",
+   "control systems",
+   "automation",
+   "electromechanical",
+   "hardware",
+   "design engineer",
+   "design engineering",
+   "test engineer",
+   "test engineering",
+   "manufacturing engineer",
+   "manufacturing engineering",
+   "process engineer",
+   "process engineering",
+   "materials",
+   "thermal",
+   "fluids",
+   "structures",
+   "propulsion",
+   "systems engineer",
+   "systems engineering",
+   "system engineer",
+   "system engineering",
+   "R&D",
+   "research and development",
+   "research & development",
+   "product development",
+   "CAD",
+   "quality engineer",
+   "quality engineering",
+   "project engineer",
+   "project engineering",
+   "reliability",
+   "water treatment",
+   "membrane",
+   "filtration",
+   "UAV",
+   "drone",
+   "avionics",
+   "embedded",
+   "electrical",
+   "electronics",
+   "field engineer",
+   "field engineering",
+   "application engineer",
+   "application engineering",
+   "applications engineer",
+   "material science",
+   "materials science",
+   "material engineer",
+   "materials engineer",
+   "materials engineering",
+   "polymer",
+   "polymers",
+   "membranes",
+   "mechanical designer",
+   "mechanical design",
+   "fabrication",
+   "fabrication engineer",
+   "product manager",
+   "product management",
+   "project manager",
+   "project management",
+   "manufacturing",
+   "mechanical engineering"
+  ],
+  "title_require_all_groups": [
+   [
+    "intern",
+    "interns",
+    "internship",
+    "internships",
+    "co-op",
+    "co op",
+    "coop",
+    "summer 2027",
+    "student",
+    "students"
+   ],
+   [
+    "mechanical",
+    "mechatronics",
+    "aerospace",
+    "aeronautical",
+    "robotics",
+    "robot",
+    "controls",
+    "control systems",
+    "automation",
+    "electromechanical",
+    "hardware",
+    "design engineer",
+    "design engineering",
+    "test engineer",
+    "test engineering",
+    "manufacturing engineer",
+    "manufacturing engineering",
+    "process engineer",
+    "process engineering",
+    "materials",
+    "thermal",
+    "fluids",
+    "structures",
+    "propulsion",
+    "systems engineer",
+    "systems engineering",
+    "system engineer",
+    "system engineering",
+    "R&D",
+    "research and development",
+    "research & development",
+    "product development",
+    "CAD",
+    "quality engineer",
+    "quality engineering",
+    "project engineer",
+    "project engineering",
+    "reliability",
+    "water treatment",
+    "membrane",
+    "filtration",
+    "UAV",
+    "drone",
+    "avionics",
+    "embedded",
+    "electrical",
+    "electronics",
+    "field engineer",
+    "field engineering",
+    "application engineer",
+    "application engineering",
+    "applications engineer",
+    "material science",
+    "materials science",
+    "material engineer",
+    "materials engineer",
+    "materials engineering",
+    "polymer",
+    "polymers",
+    "membranes",
+    "mechanical designer",
+    "mechanical design",
+    "fabrication",
+    "fabrication engineer",
+    "product manager",
+    "product management",
+    "project manager",
+    "project management",
+    "manufacturing",
+    "mechanical engineering"
+   ]
+  ],
+  "title_exclude": [
+   "senior",
+   "sr",
+   "staff",
+   "principal",
+   "director",
+   "chief",
+   "head of",
+   "PhD-only",
+   "PhD only",
+   "Ph.D.-only",
+   "Ph.D. only",
+   "PhD required",
+   "Ph.D. required",
+   "doctoral",
+   "MBA",
+   "finance",
+   "financial",
+   "accounting",
+   "sales",
+   "marketing",
+   "HR",
+   "human resources",
+   "recruiter",
+   "Fall 2026",
+   "Spring 2027",
+   "Winter",
+   "Summer 2026",
+   "Summer 2028"
+  ],
+  "title_exclude_unless": [
+   {
+    "terms": [
+     "software",
+     "developer",
+     "web",
+     "data science"
+    ],
+    "unless": [
+     "hardware",
+     "embedded",
+     "electrical",
+     "electronics",
+     "electromechanical",
+     "robotics",
+     "robot",
+     "controls",
+     "control systems",
+     "automation",
+     "firmware",
+     "avionics",
+     "UAV",
+     "drone",
+     "PCB",
+     "SCADA",
+     "HMI",
+     "PLC"
+    ]
+   }
+  ],
+  "description_exclude": [
+   "PhD-only",
+   "PhD only",
+   "Ph.D.-only",
+   "Ph.D. only",
+   "PhD required",
+   "Ph.D. required",
+   "Ph.D. is required",
+   "PhD is required",
+   "doctorate required",
+   "doctoral candidates only"
+  ],
+  "internship_year": 2027,
+  "internship_season": "summer",
+  "locations_us_only": true,
+  "locations_include": [
+   "United States",
+   "United States of America",
+   "USA",
+   "US",
+   "U.S.",
+   "U.S.A.",
+   "Remote - US",
+   "Remote US",
+   "Alabama",
+   "Alaska",
+   "Arizona",
+   "Arkansas",
+   "California",
+   "Colorado",
+   "Connecticut",
+   "Delaware",
+   "Florida",
+   "Georgia",
+   "Hawaii",
+   "Idaho",
+   "Illinois",
+   "Indiana",
+   "Iowa",
+   "Kansas",
+   "Kentucky",
+   "Louisiana",
+   "Maine",
+   "Maryland",
+   "Massachusetts",
+   "Michigan",
+   "Minnesota",
+   "Mississippi",
+   "Missouri",
+   "Montana",
+   "Nebraska",
+   "Nevada",
+   "New Hampshire",
+   "New Jersey",
+   "New Mexico",
+   "New York",
+   "North Carolina",
+   "North Dakota",
+   "Ohio",
+   "Oklahoma",
+   "Oregon",
+   "Pennsylvania",
+   "Rhode Island",
+   "South Carolina",
+   "South Dakota",
+   "Tennessee",
+   "Texas",
+   "Utah",
+   "Vermont",
+   "Virginia",
+   "Washington",
+   "West Virginia",
+   "Wisconsin",
+   "Wyoming",
+   "District of Columbia",
+   "Puerto Rico",
+   "AL",
+   "AK",
+   "AZ",
+   "AR",
+   "CA",
+   "CO",
+   "CT",
+   "DE",
+   "FL",
+   "GA",
+   "HI",
+   "ID",
+   "IL",
+   "IN",
+   "IA",
+   "KS",
+   "KY",
+   "LA",
+   "ME",
+   "MD",
+   "MA",
+   "MI",
+   "MN",
+   "MS",
+   "MO",
+   "MT",
+   "NE",
+   "NV",
+   "NH",
+   "NJ",
+   "NM",
+   "NY",
+   "NC",
+   "ND",
+   "OH",
+   "OK",
+   "OR",
+   "PA",
+   "RI",
+   "SC",
+   "SD",
+   "TN",
+   "TX",
+   "UT",
+   "VT",
+   "VA",
+   "WA",
+   "WV",
+   "WI",
+   "WY",
+   "DC",
+   "PR"
+  ],
+  "locations_exclude": [
+   "Canada",
+   "Canadian",
+   "Ontario Canada",
+   "Quebec",
+   "Toronto",
+   "Montreal",
+   "Vancouver Canada",
+   "Waterloo",
+   "Calgary",
+   "Ottawa Canada",
+   "United Kingdom",
+   "England",
+   "Scotland",
+   "Wales",
+   "London",
+   "Edinburgh",
+   "Belfast UK",
+   "Ireland",
+   "Germany",
+   "Deutschland",
+   "Berlin",
+   "Munich",
+   "Frankfurt",
+   "France",
+   "Paris",
+   "Spain",
+   "Italy",
+   "Netherlands",
+   "Belgium",
+   "Switzerland",
+   "Austria",
+   "Poland",
+   "Czechia",
+   "Czech Republic",
+   "Sweden",
+   "Norway",
+   "Denmark",
+   "Finland",
+   "Portugal",
+   "Romania",
+   "Hungary",
+   "Greece",
+   "India",
+   "Bengaluru",
+   "Bangalore",
+   "Hyderabad",
+   "Chennai",
+   "Mumbai",
+   "Pune",
+   "Delhi India",
+   "New Delhi",
+   "Gurgaon",
+   "Gurugram",
+   "China",
+   "Beijing",
+   "Shanghai",
+   "Hong Kong",
+   "Singapore",
+   "Japan",
+   "Tokyo",
+   "Taiwan",
+   "South Korea",
+   "Israel",
+   "Australia",
+   "Sydney",
+   "Melbourne",
+   "Perth Australia",
+   "New Zealand",
+   "Mexico City",
+   "Brazil",
+   "Argentina",
+   "Chile",
+   "Colombia",
+   "Costa Rica",
+   "South Africa",
+   "United Arab Emirates",
+   "Dubai",
+   "Saudi Arabia",
+   "Pakistan",
+   "Bangladesh",
+   "Philippines",
+   "Malaysia",
+   "Thailand",
+   "Vietnam",
+   "Indonesia",
+   "Warsaw",
+   "Krakow",
+   "Prague",
+   "Budapest",
+   "Bucharest",
+   "Tbilisi",
+   "Remote EMEA",
+   "Remote APAC",
+   "Remote Europe",
+   "Remote worldwide",
+   "Worldwide",
+   "Global"
+  ]
+ },
+ "companies": [
+  {
+   "name": "Relativity Space",
+   "ats": "greenhouse",
+   "slug": "relativity"
+  },
+  {
+   "name": "Rocket Lab",
+   "ats": "greenhouse",
+   "slug": "rocketlab"
+  },
+  {
+   "name": "SpaceX",
+   "ats": "greenhouse",
+   "slug": "spacex"
+  },
+  {
+   "name": "Astra",
+   "ats": "ashby",
+   "slug": "astra"
+  },
+  {
+   "name": "Archer Aviation",
+   "ats": "greenhouse",
+   "slug": "archer"
+  },
+  {
+   "name": "Epirus",
+   "ats": "greenhouse",
+   "slug": "epirus"
+  },
+  {
+   "name": "Divergent",
+   "ats": "greenhouse",
+   "slug": "divergent"
+  },
+  {
+   "name": "Hermeus",
+   "ats": "lever",
+   "slug": "hermeus"
+  },
+  {
+   "name": "Skydio",
+   "ats": "ashby",
+   "slug": "skydio"
+  },
+  {
+   "name": "Vast",
+   "ats": "greenhouse",
+   "slug": "vast"
+  },
+  {
+   "name": "Lucid Motors",
+   "ats": "greenhouse",
+   "slug": "lucidmotors"
+  },
+  {
+   "name": "Waymo",
+   "ats": "greenhouse",
+   "slug": "waymo"
+  },
+  {
+   "name": "Nuro",
+   "ats": "greenhouse",
+   "slug": "nuro"
+  },
+  {
+   "name": "Agility Robotics",
+   "ats": "greenhouse",
+   "slug": "agilityrobotics"
+  },
+  {
+   "name": "Figure AI",
+   "ats": "greenhouse",
+   "slug": "figureai"
+  },
+  {
+   "name": "Apptronik",
+   "ats": "greenhouse",
+   "slug": "apptronik"
+  },
+  {
+   "name": "Locus Robotics",
+   "ats": "greenhouse",
+   "slug": "locusrobotics"
+  },
+  {
+   "name": "Dexterity",
+   "ats": "lever",
+   "slug": "dexterity"
+  },
+  {
+   "name": "Formlabs",
+   "ats": "greenhouse",
+   "slug": "formlabs"
+  },
+  {
+   "name": "Anybotics",
+   "ats": "lever",
+   "slug": "anybotics"
+  },
+  {
+   "name": "Markforged",
+   "ats": "greenhouse",
+   "slug": "markforged"
+  },
+  {
+   "name": "Velo3D",
+   "ats": "lever",
+   "slug": "velo3d"
+  },
+  {
+   "name": "Saronic",
+   "ats": "ashby",
+   "slug": "saronic"
+  },
+  {
+   "name": "Fervo Energy",
+   "ats": "greenhouse",
+   "slug": "fervoenergy"
+  },
+  {
+   "name": "Zoox",
+   "ats": "lever",
+   "slug": "zoox"
+  },
+  {
+   "name": "Sila Nano",
+   "ats": "greenhouse",
+   "slug": "silananotechnologies"
+  },
+  {
+   "name": "Redwood Materials",
+   "ats": "greenhouse",
+   "slug": "redwoodmaterials"
+  },
+  {
+   "name": "1X",
+   "ats": "ashby",
+   "slug": "1x"
+  },
+  {
+   "name": "Hyliion",
+   "ats": "greenhouse",
+   "slug": "hyliion"
+  },
+  {
+   "name": "Neuralink",
+   "ats": "greenhouse",
+   "slug": "neuralink"
+  },
+  {
+   "name": "Via Separations",
+   "ats": "lever",
+   "slug": "viaseparations"
+  },
+  {
+   "name": "Helion",
+   "ats": "ashby",
+   "slug": "helion"
+  },
+  {
+   "name": "PsiQuantum",
+   "ats": "greenhouse",
+   "slug": "psiquantum"
+  },
+  {
+   "name": "IonQ",
+   "ats": "greenhouse",
+   "slug": "ionq"
+  },
+  {
+   "name": "Form Energy",
+   "ats": "ashby",
+   "slug": "formenergy"
+  },
+  {
+   "name": "Aeva",
+   "ats": "lever",
+   "slug": "aeva"
+  },
+  {
+   "name": "BlackSky",
+   "ats": "greenhouse",
+   "slug": "blacksky"
+  },
+  {
+   "name": "Rigetti",
+   "ats": "lever",
+   "slug": "rigetti"
+  },
+  {
+   "name": "Momentus",
+   "ats": "greenhouse",
+   "slug": "momentus"
+  },
+  {
+   "name": "Astranis",
+   "ats": "greenhouse",
+   "slug": "astranis"
+  },
+  {
+   "name": "Vulcan Elements",
+   "ats": "greenhouse",
+   "slug": "vulcanelements"
+  },
+  {
+   "name": "Re:Build",
+   "ats": "greenhouse",
+   "slug": "rebuildmanufacturing"
+  },
+  {
+   "name": "Formic",
+   "ats": "greenhouse",
+   "slug": "formic"
+  },
+  {
+   "name": "Path Robotics",
+   "ats": "greenhouse",
+   "slug": "pathrobotics"
+  },
+  {
+   "name": "Energy Recovery",
+   "ats": "lever",
+   "slug": "energyrecovery"
+  },
+  {
+   "name": "Diligent Robotics",
+   "ats": "greenhouse",
+   "slug": "diligentrobotics"
+  },
+  {
+   "name": "Bright Machines",
+   "ats": "lever",
+   "slug": "brightmachines"
+  },
+  {
+   "name": "Kodiak Robotics",
+   "ats": "greenhouse",
+   "slug": "kodiak"
+  },
+  {
+   "name": "Torc Robotics",
+   "ats": "greenhouse",
+   "slug": "torcrobotics"
+  },
+  {
+   "name": "Ambi Robotics",
+   "ats": "lever",
+   "slug": "ambirobotics"
+  },
+  {
+   "name": "Pickle Robot",
+   "ats": "lever",
+   "slug": "picklerobot"
+  },
+  {
+   "name": "Standard Bots",
+   "ats": "ashby",
+   "slug": "standardbots"
+  },
+  {
+   "name": "Wayve",
+   "ats": "ashby",
+   "slug": "wayve"
+  },
+  {
+   "name": "Ginkgo Bioworks",
+   "ats": "greenhouse",
+   "slug": "ginkgobioworks"
+  },
+  {
+   "name": "Solid Power",
+   "ats": "greenhouse",
+   "slug": "solidpower"
+  },
+  {
+   "name": "Brimstone",
+   "ats": "ashby",
+   "slug": "brimstone"
+  },
+  {
+   "name": "Twelve",
+   "ats": "ashby",
+   "slug": "twelve"
+  },
+  {
+   "name": "Xometry",
+   "ats": "greenhouse",
+   "slug": "xometry"
+  },
+  {
+   "name": "Fictiv",
+   "ats": "greenhouse",
+   "slug": "fictiv"
+  },
+  {
+   "name": "Seurat Technologies",
+   "ats": "greenhouse",
+   "slug": "seurat"
+  },
+  {
+   "name": "SES AI",
+   "ats": "greenhouse",
+   "slug": "sesai"
+  },
+  {
+   "name": "Group14",
+   "ats": "greenhouse",
+   "slug": "group14"
+  },
+  {
+   "name": "Fathom",
+   "ats": "ashby",
+   "slug": "fathom"
+  },
+  {
+   "name": "Rondo Energy",
+   "ats": "greenhouse",
+   "slug": "rondoenergy"
+  },
+  {
+   "name": "Oklo",
+   "ats": "greenhouse",
+   "slug": "oklo"
+  },
+  {
+   "name": "Kairos Power",
+   "ats": "greenhouse",
+   "slug": "kairospower"
+  },
+  {
+   "name": "Valar Atomics",
+   "ats": "greenhouse",
+   "slug": "valaratomics"
+  },
+  {
+   "name": "Pacific Fusion",
+   "ats": "greenhouse",
+   "slug": "pacificfusion"
+  },
+  {
+   "name": "Malta",
+   "ats": "ashby",
+   "slug": "malta"
+  },
+  {
+   "name": "Radiant",
+   "ats": "ashby",
+   "slug": "radiant"
+  },
+  {
+   "name": "Lydian",
+   "ats": "ashby",
+   "slug": "lydian"
+  },
+  {
+   "name": "RTX",
+   "ats": "workday",
+   "host": "globalhr.wd5.myworkdayjobs.com",
+   "tenant": "globalhr",
+   "site": "REC_RTX_Ext_Gateway",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Northrop Grumman",
+   "ats": "workday",
+   "host": "ngc.wd1.myworkdayjobs.com",
+   "tenant": "ngc",
+   "site": "Northrop_Grumman_External_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Sierra Nevada Corp",
+   "ats": "workday",
+   "host": "snc.wd1.myworkdayjobs.com",
+   "tenant": "snc",
+   "site": "SNC_External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Boeing",
+   "ats": "workday",
+   "host": "boeing.wd1.myworkdayjobs.com",
+   "tenant": "boeing",
+   "site": "EXTERNAL_CAREERS",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Caterpillar",
+   "ats": "workday",
+   "host": "cat.wd5.myworkdayjobs.com",
+   "tenant": "cat",
+   "site": "CaterpillarCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Stryker",
+   "ats": "workday",
+   "host": "stryker.wd1.myworkdayjobs.com",
+   "tenant": "stryker",
+   "site": "StrykerCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "General Motors",
+   "ats": "workday",
+   "host": "generalmotors.wd5.myworkdayjobs.com",
+   "tenant": "generalmotors",
+   "site": "Careers_GM",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Baxter",
+   "ats": "workday",
+   "host": "baxter.wd1.myworkdayjobs.com",
+   "tenant": "baxter",
+   "site": "baxter",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Leidos",
+   "ats": "workday",
+   "host": "leidos.wd5.myworkdayjobs.com",
+   "tenant": "leidos",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "3M",
+   "ats": "workday",
+   "host": "3m.wd1.myworkdayjobs.com",
+   "tenant": "3m",
+   "site": "Search",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Danaher",
+   "ats": "workday",
+   "host": "danaher.wd1.myworkdayjobs.com",
+   "tenant": "danaher",
+   "site": "DanaherJobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Xylem",
+   "ats": "workday",
+   "host": "xylem.wd5.myworkdayjobs.com",
+   "tenant": "xylem",
+   "site": "xylem-careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Johnson Controls",
+   "ats": "workday",
+   "host": "jci.wd5.myworkdayjobs.com",
+   "tenant": "jci",
+   "site": "JCI",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Medtronic",
+   "ats": "workday",
+   "host": "medtronic.wd1.myworkdayjobs.com",
+   "tenant": "medtronic",
+   "site": "MedtronicCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Rockwell Automation",
+   "ats": "workday",
+   "host": "rockwellautomation.wd1.myworkdayjobs.com",
+   "tenant": "rockwellautomation",
+   "site": "External_Rockwell_Automation",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Micron",
+   "ats": "workday",
+   "host": "micron.wd1.myworkdayjobs.com",
+   "tenant": "micron",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Carrier",
+   "ats": "workday",
+   "host": "carrier.wd5.myworkdayjobs.com",
+   "tenant": "carrier",
+   "site": "jobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Abbott",
+   "ats": "workday",
+   "host": "abbott.wd5.myworkdayjobs.com",
+   "tenant": "abbott",
+   "site": "abbottcareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Analog Devices",
+   "ats": "workday",
+   "host": "analogdevices.wd1.myworkdayjobs.com",
+   "tenant": "analogdevices",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Intel",
+   "ats": "workday",
+   "host": "intel.wd1.myworkdayjobs.com",
+   "tenant": "intel",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Dow",
+   "ats": "workday",
+   "host": "dow.wd1.myworkdayjobs.com",
+   "tenant": "dow",
+   "site": "ExternalCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Applied Materials",
+   "ats": "workday",
+   "host": "amat.wd1.myworkdayjobs.com",
+   "tenant": "amat",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Blue Origin",
+   "ats": "workday",
+   "host": "blueorigin.wd5.myworkdayjobs.com",
+   "tenant": "blueorigin",
+   "site": "BlueOrigin",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "NVIDIA",
+   "ats": "workday",
+   "host": "nvidia.wd5.myworkdayjobs.com",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Moog",
+   "ats": "workday",
+   "host": "moog.wd5.myworkdayjobs.com",
+   "tenant": "moog",
+   "site": "MOOG_External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Woodward",
+   "ats": "workday",
+   "host": "woodward.wd5.myworkdayjobs.com",
+   "tenant": "woodward",
+   "site": "woodward",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Curtiss-Wright",
+   "ats": "workday",
+   "host": "curtisswright.wd1.myworkdayjobs.com",
+   "tenant": "curtisswright",
+   "site": "cw_external_career_site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Sierra Space",
+   "ats": "workday",
+   "host": "sierraspace.wd1.myworkdayjobs.com",
+   "tenant": "sierraspace",
+   "site": "Sierra_Space_External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Shield AI",
+   "ats": "ashby",
+   "slug": "shield"
+  },
+  {
+   "name": "Apex Space",
+   "ats": "ashby",
+   "slug": "apex-technology-inc"
+  },
+  {
+   "name": "Muon Space",
+   "ats": "greenhouse",
+   "slug": "muonspace"
+  },
+  {
+   "name": "Stellantis",
+   "ats": "workday",
+   "host": "stellantis.wd3.myworkdayjobs.com",
+   "tenant": "stellantis",
+   "site": "External_Career_Site_ID01",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Toyota Research Institute",
+   "ats": "lever",
+   "slug": "tri"
+  },
+  {
+   "name": "Toyota Motor North America",
+   "ats": "workday",
+   "host": "toyota.wd503.myworkdayjobs.com",
+   "tenant": "toyota",
+   "site": "TMNA",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Nissan",
+   "ats": "workday",
+   "host": "alliance.wd3.myworkdayjobs.com",
+   "tenant": "alliance",
+   "site": "nissanjobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Daimler Truck North America",
+   "ats": "workday",
+   "host": "dtna.wd5.myworkdayjobs.com",
+   "tenant": "dtna",
+   "site": "DTNA_external",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Polaris",
+   "ats": "workday",
+   "host": "polaris.wd5.myworkdayjobs.com",
+   "tenant": "polaris",
+   "site": "PolarisJobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "BorgWarner",
+   "ats": "workday",
+   "host": "borgwarner.wd5.myworkdayjobs.com",
+   "tenant": "borgwarner",
+   "site": "BorgWarner_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Aptiv",
+   "ats": "workday",
+   "host": "aptiv.wd5.myworkdayjobs.com",
+   "tenant": "aptiv",
+   "site": "APTIV_CAREERS",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Magna",
+   "ats": "workday",
+   "host": "magna.wd3.myworkdayjobs.com",
+   "tenant": "magna",
+   "site": "Magna",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Bosch USA",
+   "ats": "smartrecruiters",
+   "slug": "BoschGroup"
+  },
+  {
+   "name": "Continental",
+   "ats": "smartrecruiters",
+   "slug": "continental"
+  },
+  {
+   "name": "DuPont",
+   "ats": "workday",
+   "host": "dupont.wd5.myworkdayjobs.com",
+   "tenant": "dupont",
+   "site": "Jobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Huntsman",
+   "ats": "workday",
+   "host": "huntsman.wd1.myworkdayjobs.com",
+   "tenant": "huntsman",
+   "site": "Huntsman",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Avery Dennison",
+   "ats": "smartrecruiters",
+   "slug": "AveryDennison"
+  },
+  {
+   "name": "Covestro",
+   "ats": "workday",
+   "host": "covestro.wd3.myworkdayjobs.com",
+   "tenant": "covestro",
+   "site": "cov_external",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Cabot",
+   "ats": "workday",
+   "host": "cabotcorp.wd12.myworkdayjobs.com",
+   "tenant": "cabotcorp",
+   "site": "Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Albemarle",
+   "ats": "workday",
+   "host": "albemarle.wd5.myworkdayjobs.com",
+   "tenant": "albemarle",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Air Products",
+   "ats": "workday",
+   "host": "airproducts.wd5.myworkdayjobs.com",
+   "tenant": "airproducts",
+   "site": "AP0001",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Kimberly-Clark",
+   "ats": "workday",
+   "host": "kimberlyclark.wd1.myworkdayjobs.com",
+   "tenant": "kimberlyclark",
+   "site": "GLOBAL",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Amcor",
+   "ats": "workday",
+   "host": "amcor.wd5.myworkdayjobs.com",
+   "tenant": "amcor",
+   "site": "Amcor_External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Crown Holdings",
+   "ats": "workday",
+   "host": "crownholdings.wd501.myworkdayjobs.com",
+   "tenant": "crownholdings",
+   "site": "CrownHoldings",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Entegris",
+   "ats": "workday",
+   "host": "entegris.wd1.myworkdayjobs.com",
+   "tenant": "entegris",
+   "site": "EntegrisCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Donaldson",
+   "ats": "workday",
+   "host": "donaldson.wd115.myworkdayjobs.com",
+   "tenant": "donaldson",
+   "site": "DonaldsonCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Pentair",
+   "ats": "workday",
+   "host": "pentair.wd5.myworkdayjobs.com",
+   "tenant": "pentair",
+   "site": "Pentair_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Trojan Technologies",
+   "ats": "workday",
+   "host": "veralto.wd1.myworkdayjobs.com",
+   "tenant": "veralto",
+   "site": "TrojanJobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Dover",
+   "ats": "workday",
+   "host": "dover.wd103.myworkdayjobs.com",
+   "tenant": "dover",
+   "site": "Dover",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Flowserve",
+   "ats": "workday",
+   "host": "flowserve.wd1.myworkdayjobs.com",
+   "tenant": "flowserve",
+   "site": "applied",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Graco",
+   "ats": "workday",
+   "host": "graco.wd501.myworkdayjobs.com",
+   "tenant": "graco",
+   "site": "Graco_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Regal Rexnord",
+   "ats": "workday",
+   "host": "regalrexnord.wd1.myworkdayjobs.com",
+   "tenant": "regalrexnord",
+   "site": "Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Stanley Black and Decker",
+   "ats": "workday",
+   "host": "sbdinc.wd1.myworkdayjobs.com",
+   "tenant": "sbdinc",
+   "site": "Stanley_Black_Decker_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Zebra",
+   "ats": "workday",
+   "host": "zebra.wd501.myworkdayjobs.com",
+   "tenant": "zebra",
+   "site": "Zebra_careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Cognex",
+   "ats": "workday",
+   "host": "cognex.wd1.myworkdayjobs.com",
+   "tenant": "cognex",
+   "site": "External_Career_Site",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Otis",
+   "ats": "workday",
+   "host": "otis.wd504.myworkdayjobs.com",
+   "tenant": "otis",
+   "site": "REC_Ext_Gateway",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "GE Appliances",
+   "ats": "workday",
+   "host": "haier.wd3.myworkdayjobs.com",
+   "tenant": "haier",
+   "site": "GE_Appliances",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "GE Vernova",
+   "ats": "workday",
+   "host": "gevernova.wd5.myworkdayjobs.com",
+   "tenant": "gevernova",
+   "site": "Vernova_ExternalSite",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Bloom Energy",
+   "ats": "workday",
+   "host": "bloomenergy.wd1.myworkdayjobs.com",
+   "tenant": "bloomenergy",
+   "site": "BloomEnergyCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Fluence",
+   "ats": "workday",
+   "host": "fluenceenergy.wd12.myworkdayjobs.com",
+   "tenant": "fluenceenergy",
+   "site": "fluenceenergy-jobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Edwards Lifesciences",
+   "ats": "workday",
+   "host": "edwards.wd5.myworkdayjobs.com",
+   "tenant": "edwards",
+   "site": "EdwardsCareers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Intuitive Surgical",
+   "ats": "smartrecruiters",
+   "slug": "Intuitive"
+  },
+  {
+   "name": "Becton Dickinson",
+   "ats": "workday",
+   "host": "bdx.wd1.myworkdayjobs.com",
+   "tenant": "bdx",
+   "site": "EXTERNAL_CAREER_SITE_USA",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Johnson and Johnson MedTech",
+   "ats": "workday",
+   "host": "jj.wd5.myworkdayjobs.com",
+   "tenant": "jj",
+   "site": "JJ",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Smith and Nephew",
+   "ats": "workday",
+   "host": "smithnephew.wd5.myworkdayjobs.com",
+   "tenant": "smithnephew",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "ResMed",
+   "ats": "workday",
+   "host": "resmed.wd3.myworkdayjobs.com",
+   "tenant": "resmed",
+   "site": "ResMed_External_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "KLA",
+   "ats": "workday",
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "Search",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Tokyo Electron US",
+   "ats": "workday",
+   "host": "tel.wd3.myworkdayjobs.com",
+   "tenant": "tel",
+   "site": "TEL-Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Wolfspeed",
+   "ats": "workday",
+   "host": "cree.wd108.myworkdayjobs.com",
+   "tenant": "cree",
+   "site": "EXT",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Western Digital",
+   "ats": "smartrecruiters",
+   "slug": "WesternDigital"
+  },
+  {
+   "name": "Lawrence Livermore",
+   "ats": "smartrecruiters",
+   "slug": "LLNL"
+  },
+  {
+   "name": "NREL (Golden CO)",
+   "ats": "workday",
+   "host": "nrel.wd5.myworkdayjobs.com",
+   "tenant": "nrel",
+   "site": "NLR",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "JPL",
+   "ats": "workday",
+   "host": "citjpl.wd5.myworkdayjobs.com",
+   "tenant": "citjpl",
+   "site": "Jobs",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Argonne",
+   "ats": "workday",
+   "host": "argonne.wd1.myworkdayjobs.com",
+   "tenant": "argonne",
+   "site": "Argonne_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Aerospace Corporation",
+   "ats": "workday",
+   "host": "aero.wd5.myworkdayjobs.com",
+   "tenant": "aero",
+   "site": "External",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Ursa Major (Berthoud CO)",
+   "ats": "greenhouse",
+   "slug": "ursamajor"
+  },
+  {
+   "name": "KBR",
+   "ats": "workday",
+   "host": "kbr.wd5.myworkdayjobs.com",
+   "tenant": "kbr",
+   "site": "KBR_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Plug Power",
+   "ats": "workday",
+   "host": "plugpower.wd5.myworkdayjobs.com",
+   "tenant": "plugpower",
+   "site": "Plug_Power_Inc",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Commonwealth Fusion Systems",
+   "ats": "lever",
+   "slug": "cfsenergy"
+  },
+  {
+   "name": "TAE Technologies",
+   "ats": "ashby",
+   "slug": "tae-power-solutions"
+  },
+  {
+   "name": "X-energy",
+   "ats": "workday",
+   "host": "xenergy.wd5.myworkdayjobs.com",
+   "tenant": "xenergy",
+   "site": "X-energyUS",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Sunrun",
+   "ats": "workday",
+   "host": "sunrun.wd5.myworkdayjobs.com",
+   "tenant": "sunrun",
+   "site": "Sunrun_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Array Technologies",
+   "ats": "workday",
+   "host": "arraytechinc.wd5.myworkdayjobs.com",
+   "tenant": "arraytechinc",
+   "site": "Array_Careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Nextracker",
+   "ats": "workday",
+   "host": "nextracker.wd5.myworkdayjobs.com",
+   "tenant": "nextracker",
+   "site": "nextpower_careers",
+   "search": [
+    "intern",
+    "internship",
+    "co-op"
+   ],
+   "max_per_term": 200
+  },
+  {
+   "name": "Protolabs",
+   "ats": "lever",
+   "slug": "protolabs"
+  }
+ ],
+ "keywords": [
+  "SolidWorks",
+  "Fusion 360",
+  "AutoCAD",
+  "CAD",
+  "ANSYS",
+  "Fluent",
+  "MATLAB",
+  "LabVIEW",
+  "SCADA",
+  "PCB",
+  "Arduino",
+  "control panels",
+  "HMI",
+  "PLC",
+  "CFD",
+  "FEA",
+  "mechanical",
+  "mechatronics",
+  "aerospace",
+  "robotics",
+  "controls",
+  "automation",
+  "manufacturing",
+  "materials",
+  "thermal",
+  "fluids",
+  "propulsion",
+  "embedded",
+  "avionics",
+  "UAV",
+  "water treatment",
+  "membrane",
+  "filtration",
+  "polymer",
+  "material science",
+  "fabrication",
+  "product management",
+  "project management"
+ ]
+}
