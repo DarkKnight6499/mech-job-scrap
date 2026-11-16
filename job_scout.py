@@ -4094,7 +4094,7 @@ function copyText(text) {
   var COMPANY = __COMPANY__;
   var JD_COMPANIES = __JD_COMPANIES__;
   var bar = document.getElementById('filterBar');
-  var rows = Array.prototype.slice.call(document.querySelectorAll('table tbody tr'));
+  function rows() { return Array.prototype.slice.call(document.querySelectorAll('table tbody tr')); }
   var HIDE = ['hidden-by-filter', 'hidden-by-category', 'hidden-by-company', 'hidden-by-location'];
   var COL_COMPANY = 'company', COL_ROLE = 'role', COL_LOCATION = 'location';
   // Cell lookup by header text, never by position: tables differ (the dedup page adds columns).
@@ -4127,12 +4127,10 @@ function copyText(text) {
       c.el.textContent = c.label + '(' + n + ')';
     });
   }
-  ['filterSearchBtn', 'noSponsorshipBtn', 'summerBtn', 'filterReset', 'dateMin', 'dateMax', 'dateIncludeNA'].forEach(function(id) {
-    var el = document.getElementById(id);
-    if (el) el.addEventListener(el.tagName === 'BUTTON' ? 'click' : 'change', function() {
-      setTimeout(function() { applyCategory(); applyCompany(); applyLocation(); }, 0);
-    });
-  });
+  function refresh() {
+    if (window.jobScoutApplyFilters) window.jobScoutApplyFilters();
+    else { applyCategory(); applyCompany(); applyLocation(); }
+  }
 
   // Categories
   var wrap = document.createElement('div');
@@ -4148,16 +4146,15 @@ function copyText(text) {
     c.re = c.terms.length ? new RegExp('\\b(?:' + c.terms.map(function(t) { return escapeRegex(t.toLowerCase()); }).join('|') + ')\\b') : null;
     c.ex = c.exclude.length ? new RegExp('\\b(?:' + c.exclude.map(function(t) { return escapeRegex(t.toLowerCase()); }).join('|') + ')\\b') : null;
   });
-  rows.forEach(function(tr) {
-    var role = textOf(tr, COL_ROLE).toLowerCase();
-    var matched = [];
-    CATEGORIES.forEach(function(c) { if (c.re && c.re.test(role) && !(c.ex && c.ex.test(role))) matched.push(c.key); });
-    if (!matched.length) matched.push('other');
-    tr.dataset.cats = matched.join(',');
-  });
   function applyCategory() {
     var ticked = checkboxes.filter(function(cb) { return cb.checked; }).map(function(cb) { return cb.dataset.catKey; });
-    rows.forEach(function(tr) {
+    rows().forEach(function(tr) {
+      if (!tr.dataset.cats) {
+        var role = textOf(tr, COL_ROLE).toLowerCase();
+        var matched = [];
+        CATEGORIES.forEach(function(c) { if (c.re && c.re.test(role) && !(c.ex && c.ex.test(role))) matched.push(c.key); });
+        tr.dataset.cats = matched.length ? matched.join(',') : 'other';
+      }
       var rc = tr.dataset.cats ? tr.dataset.cats.split(',') : [];
       tr.classList.toggle('hidden-by-category', ticked.length > 0 && !ticked.some(function(k) { return rc.indexOf(k) !== -1; }));
     });
@@ -4168,17 +4165,15 @@ function copyText(text) {
     var saved = JSON.parse(localStorage.getItem('jobScoutCategoryTicks') || '[]');
     checkboxes.forEach(function(cb) { cb.checked = saved.indexOf(cb.dataset.catKey) !== -1; });
   } catch (e) {}
-  checkboxes.forEach(function(cb) { cb.addEventListener('change', applyCategory); });
+  checkboxes.forEach(function(cb) { cb.addEventListener('change', refresh); });
   var metroBox = null, coloradoBox = null;
   var resetBtn = document.getElementById('filterReset');
   if (resetBtn) resetBtn.addEventListener('click', function() {
     checkboxes.forEach(function(cb) { cb.checked = false; });
-    applyCategory();
     if (metroBox) metroBox.checked = false;
     if (coloradoBox) coloradoBox.checked = false;
-    applyLocation();
     hideBox.checked = false;
-    applyCompany();
+    refresh();
   });
 
   // Hide one company
@@ -4190,7 +4185,7 @@ function copyText(text) {
   else if (COMPANY && bar) bar.appendChild(label);
   var hideBox = label.querySelector('input');
   function applyCompany() {
-    rows.forEach(function(tr) {
+    rows().forEach(function(tr) {
       var c = textOf(tr, COL_COMPANY).trim();
       tr.classList.toggle('hidden-by-company', hideBox.checked && c === COMPANY);
     });
@@ -4198,7 +4193,7 @@ function copyText(text) {
     try { localStorage.setItem('jobScoutHideCompany', hideBox.checked ? '1' : '0'); } catch (e) {}
   }
   try { hideBox.checked = localStorage.getItem('jobScoutHideCompany') === '1'; } catch (e) {}
-  hideBox.addEventListener('change', applyCompany);
+  hideBox.addEventListener('change', refresh);
 
   // NY metro only: NY/NJ/CT area by location text; upstate NY cities excluded.
   var METRO_RE = /\b(new york|nyc|manhattan|brooklyn|queens|bronx|long island|westchester|white plains|new jersey|nj|jersey city|newark|hoboken|harrison|stamford|greenwich|norwalk|connecticut|ct|ny)\b/;
@@ -4220,7 +4215,7 @@ function copyText(text) {
   coloradoBox = coloradoLabel.querySelector('input');
   function applyLocation() {
     var active = metroBox.checked || coloradoBox.checked;
-    rows.forEach(function(tr) {
+    rows().forEach(function(tr) {
       var loc = textOf(tr, COL_LOCATION);
       // One qualifying site keeps the row; exclusions apply only to their own segment.
       var ok = loc.split(/\s*[;|]\s*/).some(function(part) {
@@ -4236,11 +4231,13 @@ function copyText(text) {
   }
   try { metroBox.checked = localStorage.getItem('jobScoutMetroOnly') === '1'; } catch (e) {}
   try { coloradoBox.checked = localStorage.getItem('jobScoutColoradoOnly') === '1'; } catch (e) {}
-  metroBox.addEventListener('change', applyLocation);
-  coloradoBox.addEventListener('change', applyLocation);
-  applyCategory();
-  applyCompany();
-  applyLocation();
+  metroBox.addEventListener('change', refresh);
+  coloradoBox.addEventListener('change', refresh);
+  window.jobScoutApplyExtraFilters = function() { applyCategory(); applyCompany(); applyLocation(); };
+  window.jobScoutExtraFiltersActive = function() {
+    return hideBox.checked || metroBox.checked || coloradoBox.checked || checkboxes.some(function(cb) { return cb.checked; });
+  };
+  refresh();
 
   // Copy JD: window.JD_PROXY_URL_OVERRIDE lets the local dedup page point at its own server.
   var JD_URL = window.JD_PROXY_URL_OVERRIDE || __JD_URL__;
@@ -4351,23 +4348,38 @@ def _extra_script():
             .replace("__JD_URL__", json.dumps(JD_PROXY_URL)))
 
 
+_FILTERED_FIELDS = ("id", "role", "location", "link", "kind", "term", "dates")
+
+
 def _filtered_section(sidecar):
     """Collapsed 'filtered out' section: roles a title exclude rule hides although they pass the include and location
     filters, with the rule that hid each one. Rows ship in a sidecar file fetched on first open (hosted https only)."""
     data = load_json(HOME / "filtered.json", {})
-    rows = [(n, r) for n, v in sorted(data.get("companies", {}).items()) for r in v["rows"]]
+    rows = [(n, dict(zip(_FILTERED_FIELDS, r)))
+            for n, v in sorted(data.get("companies", {}).items()) for r in v["rows"]]
     total = sum(v["n"] for v in data.get("companies", {}).values())
     if not rows:
         return ""
     by_term = {}
     for _, r in rows:
-        by_term[r[5]] = by_term.get(r[5], 0) + 1
-    rows.sort(key=lambda x: (-by_term[x[1][5]], x[1][5], x[0]))
+        by_term[r["term"]] = by_term.get(r["term"], 0) + 1
+    rows.sort(key=lambda x: (-by_term[x[1]["term"]], x[1]["term"], x[0]))
     summary = "".join(f"<span class='rule'>{html.escape(t)} <b>{c}</b></span> " for t, c in sorted(by_term.items(), key=lambda kv: -kv[1])[:60])
-    body = "".join(
-        f"<tr><td>{html.escape(n)}</td><td><a href='{html.escape(r[3] or '#')}' target='_blank' rel='noopener'>{html.escape(r[1])}</a></td>"
-        f"<td>{html.escape(r[2] or '')}</td><td>{html.escape(r[4])}: <b>{html.escape(r[5])}</b></td></tr>" for n, r in rows)
-    head = "<tr><th>Company</th><th>Role</th><th>Location</th><th>Hidden by</th></tr>"
+    def row_html(company, row):
+        dates = row.get("dates") or {}
+        posted = dates.get("posted") or ""
+        first_seen = dates.get("first_seen") or ""
+        summer = "1" if _SUMMER_2027_RE.search(row["role"]) else "0"
+        return (
+            f'<tr data-jid="{html.escape(row["id"])}" data-posted="{html.escape(posted)}" data-first-seen="{html.escape(first_seen)}"'
+            f' data-summer="{summer}" data-no-sponsorship="0">'
+            f'<td class="posted">{html.escape(posted_label(dates))}</td><td>{html.escape(company)}</td>'
+            f'<td><a href="{html.escape(row["link"] or "#")}" target="_blank" rel="noopener">{html.escape(row["role"])}</a></td>'
+            f'<td>{html.escape(row["location"] or "")}</td>'
+            f'<td>{html.escape(row["kind"])}: <b>{html.escape(row["term"])}</b></td></tr>'
+        )
+    body = "".join(row_html(company, row) for company, row in rows)
+    head = "<tr><th>Posted</th><th>Company</th><th>Role</th><th>Location</th><th>Hidden by</th></tr>"
     Path(sidecar).write_text(json.dumps({"head": head, "summary": summary, "rows": body, "total": total}, separators=(",", ":")), encoding="utf-8")
     return (f'<details id="filteredLazy" data-src="{html.escape(Path(sidecar).name)}"><summary>filtered out by title rules ({len(rows)} shown of {total})</summary>'
             f'<div class="closed-slot">Loading filtered rows...</div></details>')
@@ -4512,9 +4524,6 @@ summary {{ cursor: pointer; font-weight: 600; padding: 4px 0; }}
 #filterReset {{ padding: 5px 14px; font-size: 0.9rem; cursor: pointer; border: 1px solid #999; border-radius: 999px; background: #fff; }}
 #noSponsorshipLbl {{ color: #555; border-color: #aaa; }}
 #noSponsorshipLbl:has(input:checked) {{ background: #eee; border-color: #888; }}
-#summerLbl {{ color: #1f5f8b; border-color: #5b9bc8; }}
-#summerLbl.active {{ background: #cfe4f3; border-color: #2f77ad; }}
-#summerLbl select {{ border: 0; background: transparent; color: inherit; font: inherit; }}
 .sponsorship-note {{ font-size: 0.7rem; color: #444; background: #eee; border-radius: 4px; padding: 1px 5px; margin-right: 5px; font-weight: 600; letter-spacing: 0.02em; white-space: nowrap; }}
 #filterReset {{ margin-left: auto; color: #555; }}
 .fb-row {{ display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }}
@@ -4562,7 +4571,7 @@ tr.hidden-by-filter {{ display: none; }}
 <div class="fb-row" id="fbToggles">
 <span class="lbl">Show</span>
 <label class="chip" id="noSponsorshipLbl" title="Optional filter for employer sponsorship refusals; alerts remain enabled"><input type="checkbox" id="noSponsorshipBtn"> Hide No Sponsorship ({sponsorship_counts['No Sponsorship']})</label>
-<label class="chip" id="summerLbl" title="Filter Summer 2027 internships and programs">Summer 2027 <select id="summerBtn"><option value="all">show all</option><option value="hide">hide</option><option value="only">only</option></select></label>
+<label class="chip" title="Summer 2027 internships and programs only"><input type="checkbox" id="summerOnlyBox"> Summer 2027 only</label>
 {unsupported_html}
 <button type="button" id="filterReset">Reset all filters</button>
 </div>
@@ -4605,12 +4614,10 @@ tr.hidden-by-filter {{ display: none; }}
   var dateIncludeNA = document.getElementById('dateIncludeNA');
   var noSponsorshipBtn = document.getElementById('noSponsorshipBtn');  // Optional page filter for sponsorship refusal notes.
   var hideNoSponsorship = false;
-  var summerBtn = document.getElementById('summerBtn');  // select: all, hide or only Summer 2027 rows
-  var summerMode = 'all';
-  var rows = Array.prototype.slice.call(document.querySelectorAll('table tbody tr'));
+  var summerOnlyBox = document.getElementById('summerOnlyBox');
+  function collectRows() {{ return Array.prototype.slice.call(document.querySelectorAll('table tbody tr')); }}
   var forcedOpen = [];
   function setNoSponsorship(on) {{ hideNoSponsorship = on; noSponsorshipBtn.checked = on; }}
-  function setSummer(mode) {{ summerMode = mode; summerBtn.value = mode; document.getElementById('summerLbl').classList.toggle('active', mode !== 'all'); }}
 
   function ageDays(tr) {{
     var iso = tr.getAttribute('data-posted') || tr.getAttribute('data-first-seen');
@@ -4618,7 +4625,7 @@ tr.hidden-by-filter {{ display: none; }}
     var now = new Date(), t0 = new Date(now.getFullYear(), now.getMonth(), now.getDate());
     return Math.round((t0 - new Date(iso + 'T00:00:00')) / 86400000);
   }}
-  function dateActive() {{ return dateMin.value !== '0' || (dateMax.value !== 'inf' && !window.__dateIgnoreMax); }}
+  function dateActive() {{ return dateMin.value !== '0' || (dateMax.value !== 'inf' && !window.__dateIgnoreMax) || !dateIncludeNA.checked; }}
   function dateOk(tr) {{
     if (!dateActive()) return true;
     var a = ageDays(tr);
@@ -4648,17 +4655,17 @@ tr.hidden-by-filter {{ display: none; }}
     }}
     return out;
   }}
-  var COLS = null;
-  function colIndex(name) {{
-    if (!COLS) {{
-      COLS = {{}};
-      Array.prototype.forEach.call(document.querySelectorAll('table thead th'), function(h, i) {{ COLS[h.textContent.trim().toLowerCase()] = i; }});
+  function colIndex(tr, name) {{
+    var table = tr.closest('table');
+    if (!table._cols) {{
+      table._cols = {{}};
+      Array.prototype.forEach.call(table.querySelectorAll('thead th'), function(h, i) {{ table._cols[h.textContent.trim().toLowerCase()] = i; }});
     }}
-    return COLS[name];
+    return table._cols[name];
   }}
   function termOk(tr, text, t) {{
     if (t.field) {{
-      var i = colIndex(t.field), c = i === undefined ? null : tr.cells[i];
+      var i = colIndex(tr, t.field), c = i === undefined ? null : tr.cells[i];
       return !!c && t.rx.test(c.textContent.toLowerCase());
     }}
     if (!t.rx) return text.indexOf(t.word) !== -1;
@@ -4666,34 +4673,40 @@ tr.hidden-by-filter {{ display: none; }}
   }}
 
   function apply() {{
+    var rows = collectRows();
     var raw = box.value.trim().toLowerCase();
     forcedOpen.forEach(function(d) {{ d.removeAttribute('open'); }});
     forcedOpen = [];
     var groups = raw ? raw.split(',').map(function(g) {{ return parseTerms(g); }})
                           .filter(function(g) {{ return g.length; }}) : null;
-    var shown = 0;
     rows.forEach(function(tr) {{
       var textMatch = true;
       if (groups) {{
         var text = tr.textContent.toLowerCase();
         textMatch = groups.some(function(terms) {{ return terms.every(function(t) {{ return termOk(tr, text, t); }}); }});
       }}
-      var match = textMatch && dateOk(tr) && (!hideNoSponsorship || tr.getAttribute('data-no-sponsorship') !== '1') && (summerMode === 'all' || ((tr.getAttribute('data-summer') === '1') === (summerMode === 'only')));
+      var match = textMatch && dateOk(tr) && (!hideNoSponsorship || tr.getAttribute('data-no-sponsorship') !== '1') && (!summerOnlyBox.checked || tr.getAttribute('data-summer') === '1');
       tr.classList.toggle('hidden-by-filter', !match);
+    }});
+    if (window.jobScoutApplyExtraFilters) window.jobScoutApplyExtraFilters();
+    var shown = 0;
+    rows.forEach(function(tr) {{
+      var match = !['hidden-by-filter', 'hidden-by-category', 'hidden-by-company', 'hidden-by-location'].some(function(k) {{ return tr.classList.contains(k); }});
       if (match) {{
         shown++;
         var details = tr.closest('details');
-        if (details && !details.open) {{ details.open = true; forcedOpen.push(details); }}
+        if (raw && details && !details.dataset.src && !details.open) {{ details.open = true; forcedOpen.push(details); }}
       }}
     }});
-    countEl.textContent = (raw || dateActive() || hideNoSponsorship || summerMode !== 'all') ? ('showing ' + shown + ' of ' + rows.length) : '';
+    var extraActive = window.jobScoutExtraFiltersActive && window.jobScoutExtraFiltersActive();
+    countEl.textContent = (raw || dateActive() || hideNoSponsorship || summerOnlyBox.checked || extraActive) ? ('showing ' + shown + ' of ' + rows.length) : '';
     try {{
       localStorage.setItem('jobScoutFilter', box.value);
       localStorage.setItem('jobScoutDateMin', dateMin.value);
       localStorage.setItem('jobScoutDateMax', dateMax.value);
       localStorage.setItem('jobScoutDateNA', dateIncludeNA.checked ? '1' : '0');
       localStorage.setItem('jobScoutHideNoSponsorship', hideNoSponsorship ? '1' : '0');
-      localStorage.setItem('jobScoutSummer', summerMode);
+      localStorage.setItem('jobScoutSummerOnly', summerOnlyBox.checked ? '1' : '0');
     }} catch (e) {{}}
   }}
 
@@ -4703,7 +4716,7 @@ tr.hidden-by-filter {{ display: none; }}
     dateMax.value = 'inf';
     dateIncludeNA.checked = true;
     setNoSponsorship(false);
-    setSummer('all');
+    summerOnlyBox.checked = false;
     apply();
   }});
 
@@ -4717,15 +4730,17 @@ tr.hidden-by-filter {{ display: none; }}
     if (sdMax !== null) dateMax.value = sdMax;
     if (sdNA !== null) dateIncludeNA.checked = sdNA === '1';
     setNoSponsorship(localStorage.getItem('jobScoutHideNoSponsorship') === '1');
-    setSummer(localStorage.getItem('jobScoutSummer') || (localStorage.getItem('jobScoutHideSummer') === '1' ? 'hide' : 'all'));
+    var savedSummerOnly = localStorage.getItem('jobScoutSummerOnly');
+    summerOnlyBox.checked = savedSummerOnly === null ? localStorage.getItem('jobScoutSummer') === 'only' : savedSummerOnly === '1';
   }} catch (e) {{}}
   noSponsorshipBtn.addEventListener('change', function() {{ setNoSponsorship(noSponsorshipBtn.checked); apply(); }});
-  summerBtn.addEventListener('change', function() {{ setSummer(summerBtn.value); apply(); }});
+  summerOnlyBox.addEventListener('change', apply);
   searchBtn.addEventListener('click', apply);
   box.addEventListener('keydown', function(e) {{ if (e.key === 'Enter') {{ e.preventDefault(); apply(); }} }});
   dateMin.addEventListener('change', apply);
   dateMax.addEventListener('change', apply);
   dateIncludeNA.addEventListener('change', apply);
+  window.jobScoutApplyFilters = apply;
   apply();
 }})();
 (function() {{
@@ -4788,6 +4803,7 @@ tr.hidden-by-filter {{ display: none; }}
     var slot = d.querySelector('.closed-slot');
     fetch(d.dataset.src).then(function(r) {{ if (!r.ok) throw new Error(r.status); return r.json(); }}).then(function(j) {{
       slot.innerHTML = '<table><thead>' + j.head + '</thead><tbody>' + j.rows.join('') + '</tbody></table>';
+      window.jobScoutApplyFilters();
     }}).catch(function() {{
       done = false;
       slot.textContent = 'Closed rows load only from the hosted page (closed.json), not from a local file.';
@@ -4806,6 +4822,7 @@ tr.hidden-by-filter {{ display: none; }}
     var slot = d.querySelector('.closed-slot');
     fetch(d.dataset.src).then(function(r) {{ if (!r.ok) throw new Error(r.status); return r.json(); }}).then(function(j) {{
       slot.innerHTML = '<p style="font-size:0.85rem">Roles that pass the title include and location filters but a title exclude rule hides. Counts by rule: ' + j.summary + '</p><table><thead>' + j.head + '</thead><tbody>' + j.rows + '</tbody></table>';
+      window.jobScoutApplyFilters();
     }}).catch(function() {{
       done = false;
       slot.textContent = 'Filtered rows load only from the hosted page (filtered.json), not from a local file.';
@@ -4869,7 +4886,8 @@ def _filtered_rows(jobs, hits, filters):
             continue
         total += 1
         if len(rows) < FILTERED_ROW_CAP:
-            rows.append([j["id"], j["title"], j.get("location", ""), j.get("url") or j.get("link", ""), why[0], why[1]])
+            rows.append([j["id"], j["title"], j.get("location", ""), j.get("url") or j.get("link", ""), why[0], why[1],
+                         {"posted": j.get("posted") or "", "first_seen": j.get("first_seen") or ""}])
     return rows, total
 
 
