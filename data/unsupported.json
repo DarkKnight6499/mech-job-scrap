@@ -1,0 +1,8 @@
+{"companies": [
+ {"name": "Tesla", "reason": "blocks bots", "url": "https://www.tesla.com/careers/search/?type=3"},
+ {"name": "Apple", "reason": "no public feed", "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"},
+ {"name": "Google", "reason": "no public feed", "url": "https://www.google.com/about/careers/applications/jobs/results/?employment_type=INTERN"},
+ {"name": "Meta", "reason": "no public feed", "url": "https://www.metacareers.com/jobs"},
+ {"name": "Microsoft", "reason": "board too large", "url": "https://jobs.careers.microsoft.com/global/en/search?q=intern"},
+ {"name": "Lockheed Martin", "reason": "rate limited", "url": "https://www.lockheedmartin.com/en-us/careers.html"}
+]}

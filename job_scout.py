@@ -4385,6 +4385,15 @@ def _filtered_section(sidecar):
             f'<div class="closed-slot">Loading filtered rows...</div></details>')
 
 
+def _uns_name(c):
+    """Company name, linked to its careers page when the entry has an http(s) url."""
+    name = html.escape(c["name"])
+    url = str(c.get("url") or "")
+    if url.startswith(("https://", "http://")):
+        return f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener">{name}</a>'
+    return name
+
+
 def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=None):
     """Static page, no server: q is already sorted newest-posted-first by cmd_queue. Each row is a
     plain <a> to the live posting so double-clicking the file and clicking a link is the whole workflow.
@@ -4494,10 +4503,10 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
     uns = [c for c in load_json(HOME / "unsupported.json", {}).get("companies", []) if c.get("name")]
     unsupported_html = ""
     if uns:
-        items = "".join(f"<li>{html.escape(c['name'])}<span>{html.escape(c.get('reason', ''))}</span></li>"
+        items = "".join(f"<li>{_uns_name(c)}<span>{html.escape(c.get('reason', ''))}</span></li>"
                         for c in sorted(uns, key=lambda c: c["name"].lower()))
         unsupported_html = (f'<details id="unsupported"><summary title="Employers this scout cannot read yet">Not covered ({len(uns)})</summary>'
-                            f'<div class="uns-panel"><p>Postings from these employers will not appear here. Check their sites directly.</p>'
+                            f'<div class="uns-panel"><p>Postings from these employers will not appear here. Check their sites directly (names link to careers pages).</p>'
                             f'<ul>{items}</ul></div></details>')
 
     page = f"""<!doctype html>
