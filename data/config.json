@@ -4445,22 +4445,9 @@
    "domain": "qualcomm.com",
    "pcsx": true,
    "search": [
-    "treasury",
-    "liquidity",
-    "asset liability",
-    "model risk",
-    "market risk",
-    "counterparty",
-    "fixed income",
-    "capital",
-    "model validation",
-    "stress testing",
-    "ccar",
-    "balance sheet",
-    "regulatory reporting",
-    "quantitative",
-    "derivatives",
-    "collateral"
+    "intern",
+    "internship",
+    "co-op"
    ],
    "full_board_max": 2600,
    "max_per_term": 100
@@ -4664,16 +4651,6 @@
    "host": "williams.wd5.myworkdayjobs.com",
    "tenant": "williams",
    "site": "External",
-   "search": [
-    "intern"
-   ],
-   "max_per_term": 200
-  },
-  {
-   "name": "Cheniere Energy",
-   "ats": "oracle",
-   "host": "hcgi.fa.us2.oraclecloud.com",
-   "site": "CX_2",
    "search": [
     "intern"
    ],
