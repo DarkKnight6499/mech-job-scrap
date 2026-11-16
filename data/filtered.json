@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "companies": {
+  "Applied Materials": {
+   "rows": [
+    [
+     "/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
+     "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+     "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+     "2026-27 Materials Engineering (Thin Film) Co-op, Doctorate (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+     "internship_year",
+     "2026"
+    ],
+    [
+     "/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
+     "Metrology Engineer Co-op/Intern - Undergraduate (Winter/Spring 2027)",
+     "Tempe,AZ",
+     "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
+     "title_exclude",
+     "winter"
+    ],
+    [
+     "/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
+     "2027 Spring Manufacturing Engineer Co-op (Billerica, MA)",
+     "Billerica,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
+     "2027 Spring Project Manager Co-op (Billerica, MA)",
+     "Billerica,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
+     "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
+     "Billerica,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "title_exclude",
+     "supply chain"
+    ],
+    [
+     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "title_exclude",
+     "supply chain"
+    ],
+    [
+     "/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+     "Software Engineering Summer Intern (Masters - Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
+     "2027 Spring Structural Dynamics Analyst Co-op - BS or MS (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
+     "2027 Spring Mechanical Engineer Co-op (Gloucester. MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
+     "title_exclude",
+     "spring"
+    ],
+    [
+     "/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+     "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+     "title_exclude_unless",
+     "software"
+    ],
+    [
+     "/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+     "2026 Summer Intern - Physics & AI modeling Engineering",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
+     "title_exclude_unless",
+     "ai"
+    ]
+   ],
+   "n": 14
+  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -997,6 +1114,14 @@
      "software"
     ],
     [
+     "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
+     "Hardware Electrical Engineering Co-Op (Spring 2027)",
+     "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
+     "title_exclude",
+     "spring 2027"
+    ],
+    [
      "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aftermarket-and-Sustainment-Engineering---Structures-Engineer-Co-Op--January-2027---Hybrid-_01874274",
      "Aftermarket and Sustainment Engineering - Structures Engineer Co-Op (January 2027) (Hybrid)",
      "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
@@ -1011,14 +1136,6 @@
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
      "title_exclude_unless",
      "software"
-    ],
-    [
-     "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
-     "Hardware Electrical Engineering Co-Op (Spring 2027)",
-     "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
-     "title_exclude",
-     "spring 2027"
     ]
    ],
    "n": 11
@@ -1859,123 +1976,6 @@
   "Dow": {
    "rows": [],
    "n": 0
-  },
-  "Applied Materials": {
-   "rows": [
-    [
-     "/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
-     "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
-     "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
-     "title_exclude_unless",
-     "software"
-    ],
-    [
-     "/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
-     "2026-27 Materials Engineering (Thin Film) Co-op, Doctorate (Gloucester, MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
-     "internship_year",
-     "2026"
-    ],
-    [
-     "/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
-     "Metrology Engineer Co-op/Intern - Undergraduate (Winter/Spring 2027)",
-     "Tempe,AZ",
-     "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419",
-     "title_exclude",
-     "winter"
-    ],
-    [
-     "/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
-     "2027 Spring Manufacturing Engineer Co-op (Billerica, MA)",
-     "Billerica,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
-     "2027 Spring Project Manager Co-op (Billerica, MA)",
-     "Billerica,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Project-Manager-Co-op--Billerica--MA-_R2631534",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
-     "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
-     "Billerica,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "title_exclude",
-     "supply chain"
-    ],
-    [
-     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
-     "Austin,TX",
-     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "title_exclude",
-     "supply chain"
-    ],
-    [
-     "/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
-     "Software Engineering Summer Intern (Masters - Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
-     "title_exclude_unless",
-     "software"
-    ],
-    [
-     "/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
-     "2027 Spring Structural Dynamics Analyst Co-op - BS or MS (Gloucester, MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
-     "2027 Spring Mechanical Engineer Co-op (Gloucester. MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Mechanical-Engineer-Co-op--Gloucester-MA-_R2628290",
-     "title_exclude",
-     "spring"
-    ],
-    [
-     "/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-     "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
-     "title_exclude_unless",
-     "software"
-    ],
-    [
-     "/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
-     "2026 Summer Intern - Physics & AI modeling Engineering",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
-     "title_exclude_unless",
-     "ai"
-    ]
-   ],
-   "n": 14
   },
   "Blue Origin": {
    "rows": [],
@@ -3779,20 +3779,20 @@
   "Leonardo DRS": {
    "rows": [
     [
-     "1428313900",
-     "Software Engineering Intern | Summer 2027",
-     "Menomonee Falls, WI, US, 53051",
-     "https://careers.leonardodrs.com/job/Menomonee-Falls-Software-Engineering-Intern-Summer-2027-WI-53051/1428313900/",
-     "title_exclude_unless",
-     "software"
-    ],
-    [
      "1418392000",
      "Mechanical Engineer Co-Op (Spring 2027)",
      "Bridgeton, MO, US, 63044",
      "https://careers.leonardodrs.com/job/Bridgeton-Mechanical-Engineer-Co-Op-%28Spring-2027%29-MO-63044/1418392000/",
      "title_exclude",
      "spring 2027"
+    ],
+    [
+     "1428313900",
+     "Software Engineering Intern | Summer 2027",
+     "Menomonee Falls, WI, US, 53051",
+     "https://careers.leonardodrs.com/job/Menomonee-Falls-Software-Engineering-Intern-Summer-2027-WI-53051/1428313900/",
+     "title_exclude_unless",
+     "software"
     ]
    ],
    "n": 2

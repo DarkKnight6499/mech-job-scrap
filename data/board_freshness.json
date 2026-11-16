@@ -8,1591 +8,1591 @@
  "Relativity Space": {
   "n": 396,
   "sig": "5ed163a001f2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Rocket Lab": {
   "n": 542,
   "sig": "f2c08e94b62d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "SpaceX": {
-  "n": 2757,
-  "sig": "a6c6502b11d0",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2756,
+  "sig": "5cf6a7d99e02",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Astra": {
   "n": 6,
   "sig": "4cc1c383b382",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Archer Aviation": {
   "n": 1,
   "sig": "c6b7d96916cf",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Epirus": {
   "n": 38,
   "sig": "98168f86f72b",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Divergent": {
   "n": 144,
   "sig": "0669e9f7acdf",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Hermeus": {
   "n": 78,
   "sig": "d5bee9a203de",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Skydio": {
   "n": 189,
   "sig": "908216dd5982",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Vast": {
   "n": 199,
   "sig": "2d4162b7115e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Lucid Motors": {
   "n": 480,
   "sig": "c48f6ed3f4a5",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Waymo": {
   "n": 373,
   "sig": "a12fda0c2f47",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Nuro": {
   "n": 100,
   "sig": "36a67da99d22",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Agility Robotics": {
   "n": 76,
   "sig": "6f1b62dd1246",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Figure AI": {
   "n": 105,
   "sig": "6a724c569cd8",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Apptronik": {
-  "n": 82,
-  "sig": "5f0020b54157",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 83,
+  "sig": "264bea95c611",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Locus Robotics": {
   "n": 7,
   "sig": "9575c06cfaf1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Dexterity": {
   "n": 13,
   "sig": "37b0549de19d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Formlabs": {
   "n": 259,
   "sig": "72b92a6c5a6c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Anybotics": {
   "n": 24,
   "sig": "f57c2e41ac79",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Markforged": {
   "n": 3,
   "sig": "7c3a8f1ffefd",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Velo3D": {
   "n": 42,
   "sig": "25601153ee7a",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Saronic": {
   "n": 274,
   "sig": "73c693759c25",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fervo Energy": {
   "n": 65,
   "sig": "51a2c5db9cbb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Zoox": {
   "n": 241,
   "sig": "f96ed90fbf54",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Sila Nano": {
   "n": 35,
   "sig": "30d02d8a14af",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Redwood Materials": {
   "n": 119,
   "sig": "bac8455c89cb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "1X": {
   "n": 97,
   "sig": "39c0b6b3bc8e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Hyliion": {
   "n": 17,
   "sig": "698c30f98c76",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Neuralink": {
   "n": 76,
   "sig": "9a3fca269343",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Via Separations": {
   "n": 2,
   "sig": "9ff473d32d99",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Helion": {
   "n": 63,
   "sig": "0ed89f3a8d8c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "PsiQuantum": {
   "n": 101,
   "sig": "d28bdb5c56a2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "IonQ": {
   "n": 110,
   "sig": "a549ee3c2e68",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Form Energy": {
   "n": 210,
   "sig": "4cadd53c7d1f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Aeva": {
   "n": 46,
   "sig": "7d7f85dda1cd",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "BlackSky": {
   "n": 39,
   "sig": "ac6753913202",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Rigetti": {
   "n": 16,
   "sig": "86a04798248c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Momentus": {
   "n": 9,
   "sig": "c68d4daa5096",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Astranis": {
   "n": 180,
   "sig": "a4534ad7bfff",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Vulcan Elements": {
   "n": 59,
   "sig": "f1ae27d5d009",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Re:Build": {
   "n": 134,
   "sig": "8f6c3b199ddf",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Formic": {
   "n": 60,
   "sig": "2dd5b6fda5a7",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Path Robotics": {
   "n": 59,
   "sig": "3790e6a6f974",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Energy Recovery": {
   "n": 3,
   "sig": "a704ce6219df",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Diligent Robotics": {
   "n": 15,
   "sig": "7972b62b9f8b",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Bright Machines": {
   "n": 17,
   "sig": "826c4c5d1f7c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kodiak Robotics": {
   "n": 48,
   "sig": "49fe75f1a2d1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Torc Robotics": {
   "n": 45,
   "sig": "42845d74ef37",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ambi Robotics": {
   "n": 5,
   "sig": "8d9ff98210bb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Pickle Robot": {
   "n": 10,
   "sig": "e208fc82e70c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Standard Bots": {
   "n": 29,
   "sig": "388a6bef63f1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Wayve": {
   "n": 167,
   "sig": "2031d8f23348",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ginkgo Bioworks": {
   "n": 18,
   "sig": "52cea317b8fa",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Solid Power": {
   "n": 7,
   "sig": "9e431220eb67",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Brimstone": {
   "n": 1,
   "sig": "24272e95dc6f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Twelve": {
   "n": 6,
   "sig": "993b49437dd3",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Xometry": {
   "n": 260,
   "sig": "6892cb1189bf",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fictiv": {
   "n": 96,
   "sig": "122c368dd4ee",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Seurat Technologies": {
   "n": 5,
   "sig": "a3f0e9387812",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "SES AI": {
   "n": 43,
   "sig": "21f76d40b315",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Group14": {
   "n": 10,
   "sig": "1c42caf24bf2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fathom": {
   "n": 1,
   "sig": "751b6306d8b1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Rondo Energy": {
   "n": 12,
   "sig": "9a3305eaa72f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Oklo": {
   "n": 54,
   "sig": "3f89241c57eb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kairos Power": {
   "n": 69,
   "sig": "e25059ca2e42",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Valar Atomics": {
   "n": 123,
   "sig": "acf3a2d3a773",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Pacific Fusion": {
   "n": 30,
   "sig": "d687d4e12d2b",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Malta": {
   "n": 4,
   "sig": "020e53f1fcc1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Radiant": {
   "n": 41,
   "sig": "435711c69ab1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Lydian": {
   "n": 4,
   "sig": "4d7e2c3da071",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "RTX": {
-  "n": 4568,
-  "sig": "d4b8b1375a2f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 4560,
+  "sig": "411c07ce4dbd",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Northrop Grumman": {
   "n": 3710,
   "sig": "26f9330362dc",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Sierra Nevada Corp": {
   "n": 390,
   "sig": "8d2ef06d3fee",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Boeing": {
-  "n": 845,
-  "sig": "6bf29288f67f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 842,
+  "sig": "a2ccc5953b6d",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Caterpillar": {
   "n": 1014,
-  "sig": "bdb199431aa9",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "48973ce3de99",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Stryker": {
-  "n": 1463,
-  "sig": "087e036d1f2c",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1462,
+  "sig": "785e648eaa77",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "General Motors": {
-  "n": 670,
-  "sig": "b138bfec7e5e",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 671,
+  "sig": "04446f45f53f",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Baxter": {
   "n": 533,
   "sig": "6f3f334ad851",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Leidos": {
-  "n": 2204,
-  "sig": "af5f21e84632",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2203,
+  "sig": "d894d8c1dddb",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "3M": {
   "n": 786,
-  "sig": "d931595ae07a",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "93ab632ff47d",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Danaher": {
-  "n": 1457,
-  "sig": "277669dd22b9",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1456,
+  "sig": "a3f2accb2eb0",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Xylem": {
   "n": 523,
   "sig": "bdde60403c00",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Johnson Controls": {
   "n": 2832,
   "sig": "0a1f2e0b9f7c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Medtronic": {
-  "n": 957,
-  "sig": "67b356841687",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 956,
+  "sig": "9a33b01dc851",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Rockwell Automation": {
   "n": 439,
   "sig": "ea6680a117e4",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Micron": {
-  "n": 2900,
-  "sig": "f614d85e7e82",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2903,
+  "sig": "83bf81f672db",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Carrier": {
-  "n": 975,
-  "sig": "c3426000a62b",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 969,
+  "sig": "418f87105448",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Abbott": {
-  "n": 2424,
-  "sig": "b5dbbbf0bc52",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2423,
+  "sig": "25e572f9c9bd",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Analog Devices": {
   "n": 772,
   "sig": "be263a5ca2d1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Intel": {
-  "n": 871,
-  "sig": "451ab3826e2d",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 872,
+  "sig": "e4f4e2e029f9",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Dow": {
   "n": 190,
   "sig": "003f4fae5384",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Applied Materials": {
-  "n": 2288,
-  "sig": "e5e4fcc79e17",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2283,
+  "sig": "e9585e186e1d",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Blue Origin": {
-  "n": 1894,
-  "sig": "28b6ca1b0c43",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1893,
+  "sig": "65d83e6b3ef9",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "NVIDIA": {
-  "n": 2691,
-  "sig": "d94c23d0c4e5",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2690,
+  "sig": "a6d535db55ec",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Moog": {
-  "n": 481,
-  "sig": "e27cc5786c16",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 485,
+  "sig": "683a3b4cf38b",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Woodward": {
   "n": 167,
   "sig": "d7388d483b38",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Curtiss-Wright": {
   "n": 378,
   "sig": "1bbb51ffc183",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Sierra Space": {
   "n": 192,
   "sig": "0100cd9e8fbe",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Shield AI": {
   "n": 660,
   "sig": "cbf2f242a88f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Apex Space": {
   "n": 138,
   "sig": "0b530e2510cd",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Muon Space": {
   "n": 143,
   "sig": "95f4db42feb2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Stellantis": {
   "n": 29,
   "sig": "0e21e6e1dacb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Toyota Research Institute": {
   "n": 42,
   "sig": "8859aa10de8d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Toyota Motor North America": {
   "n": 104,
   "sig": "445370de0021",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Nissan": {
   "n": 342,
   "sig": "4e0678e6aa1d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Daimler Truck North America": {
   "n": 84,
   "sig": "e6c5f49c3bc8",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Polaris": {
   "n": 131,
   "sig": "36ce532f71ee",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "BorgWarner": {
-  "n": 379,
-  "sig": "24a6c67311f0",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 378,
+  "sig": "af03a085c6ab",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Aptiv": {
   "n": 752,
   "sig": "6409f9f745f1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Magna": {
-  "n": 1415,
-  "sig": "cd8b5e5a87be",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1414,
+  "sig": "2698d9fe423e",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Bosch USA": {
   "n": 2000,
-  "sig": "c83123dee198",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "cf020ba37168",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Continental": {
-  "n": 561,
-  "sig": "43a991bbe4db",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 559,
+  "sig": "92eac4510d25",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "DuPont": {
   "n": 204,
   "sig": "fb2f8d2024d5",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Huntsman": {
   "n": 109,
   "sig": "a4b2025fb8c3",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Avery Dennison": {
   "n": 481,
   "sig": "6863887f2462",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Covestro": {
   "n": 151,
   "sig": "5816e58a9b07",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Cabot": {
   "n": 114,
   "sig": "60cd7b86ef33",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Albemarle": {
   "n": 71,
   "sig": "532a16d4a98d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Air Products": {
   "n": 402,
   "sig": "5a04c5bcbbf4",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kimberly-Clark": {
   "n": 136,
   "sig": "1e4b2152a9a2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Amcor": {
   "n": 753,
   "sig": "e970cb92d65d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Crown Holdings": {
-  "n": 273,
-  "sig": "cec891bc3527",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 272,
+  "sig": "3b32465a9a40",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Entegris": {
   "n": 627,
   "sig": "fe05910773a4",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Donaldson": {
   "n": 167,
   "sig": "2c96aafe5a7c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Pentair": {
   "n": 135,
   "sig": "b044d638cb03",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Trojan Technologies": {
   "n": 28,
   "sig": "5a46e63fab63",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Dover": {
-  "n": 776,
-  "sig": "776a70d3b651",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 774,
+  "sig": "a50735fb9055",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Flowserve": {
   "n": 390,
   "sig": "acc56766787c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Graco": {
   "n": 168,
   "sig": "5b0eb94cc6d4",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Regal Rexnord": {
   "n": 596,
   "sig": "831418b0f6fb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Stanley Black and Decker": {
-  "n": 591,
-  "sig": "da705e888e67",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 589,
+  "sig": "6e952db2c83d",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Zebra": {
   "n": 242,
   "sig": "5f5d1c8f6470",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Cognex": {
   "n": 99,
   "sig": "e2ca2f0def7d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Otis": {
-  "n": 1366,
-  "sig": "645d97f1527d",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1365,
+  "sig": "1a0409db7f16",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "GE Appliances": {
   "n": 167,
   "sig": "9efc12cbf42d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "GE Vernova": {
   "n": 2163,
-  "sig": "c14e1c3470e0",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "df601a0d0152",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Bloom Energy": {
   "n": 221,
   "sig": "f1bab8e23647",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fluence": {
   "n": 40,
   "sig": "231ea3e48e96",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Edwards Lifesciences": {
-  "n": 371,
-  "sig": "3252e8275033",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 372,
+  "sig": "2859f9e17fa8",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Intuitive Surgical": {
   "n": 889,
   "sig": "d3100c420a64",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Becton Dickinson": {
-  "n": 552,
-  "sig": "9ea0ba1e7f32",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 554,
+  "sig": "6bf46940a791",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Johnson and Johnson MedTech": {
-  "n": 1716,
-  "sig": "da3e0c493ca5",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1689,
+  "sig": "dec0444f805b",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Smith and Nephew": {
-  "n": 390,
-  "sig": "ab0d6b327f16",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 391,
+  "sig": "9960ac0da2f4",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "ResMed": {
-  "n": 265,
-  "sig": "a3b52ef6a321",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 264,
+  "sig": "351ee64f31f0",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "KLA": {
   "n": 1155,
   "sig": "5bf6bbdd70fc",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Tokyo Electron US": {
   "n": 36,
   "sig": "2ac05fee9fda",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Wolfspeed": {
   "n": 202,
   "sig": "72002d8438a3",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Western Digital": {
-  "n": 325,
-  "sig": "e01c25d49949",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 324,
+  "sig": "bc656617891d",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Lawrence Livermore": {
   "n": 199,
   "sig": "ddaf5bc6e742",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "NREL (Golden CO)": {
   "n": 65,
   "sig": "868d4d56ad21",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "JPL": {
-  "n": 133,
-  "sig": "783047062669",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 132,
+  "sig": "1b3b3be7a7d9",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Argonne": {
   "n": 100,
   "sig": "f7c0f822f4b3",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Aerospace Corporation": {
   "n": 507,
   "sig": "a0eeb9e06023",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ursa Major (Berthoud CO)": {
   "n": 123,
   "sig": "23ecaec28616",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "KBR": {
-  "n": 1856,
-  "sig": "be3e1283f957",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1855,
+  "sig": "27b15c490214",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Plug Power": {
   "n": 95,
   "sig": "7153be29d617",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Commonwealth Fusion Systems": {
   "n": 142,
   "sig": "9f4d224e2c46",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "TAE Technologies": {
   "n": 12,
   "sig": "eb1cddb62b0f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "X-energy": {
   "n": 100,
   "sig": "4e526c7bbb0e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Sunrun": {
   "n": 254,
   "sig": "f36bff484255",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Array Technologies": {
   "n": 28,
   "sig": "b191624ffb96",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Nextracker": {
   "n": 264,
   "sig": "1bee1e338422",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Protolabs": {
   "n": 73,
   "sig": "fb3ac1579ef6",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Amazon": {
   "n": 579,
   "sig": "0f535724ed53",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Neros": {
   "n": 112,
   "sig": "177806631b34",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Mach Industries": {
   "n": 187,
   "sig": "bd4d3fab5541",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Chaos Industries": {
   "n": 184,
   "sig": "d5d61e71928a",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "HawkEye 360": {
   "n": 30,
   "sig": "ca4a136220c5",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Anduril": {
-  "n": 2596,
-  "sig": "73063bf3596f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 2594,
+  "sig": "f7c3b2e2f6e0",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Vannevar Labs": {
   "n": 31,
   "sig": "196246c40ece",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Picogrid": {
   "n": 19,
   "sig": "fe08f98f0b96",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Albedo": {
   "n": 9,
   "sig": "cd49916eeb31",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Quindar": {
   "n": 19,
   "sig": "4e35bde68fd1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Auterion": {
   "n": 26,
   "sig": "4af76e064dde",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Skyways": {
   "n": 20,
   "sig": "16f3df297017",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "AeroVironment": {
-  "n": 399,
-  "sig": "97c8d5afd638",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 398,
+  "sig": "72a42165a05a",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "CACI": {
   "n": 1777,
   "sig": "7850ac255076",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Booz Allen Hamilton": {
   "n": 2166,
   "sig": "93742e89f437",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Parsons": {
   "n": 1944,
   "sig": "ff95d45bc666",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Merlin Labs": {
   "n": 24,
   "sig": "11709a8ba7cc",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Axiom Space": {
   "n": 195,
   "sig": "24168ef49b4f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Firefly Aerospace": {
   "n": 148,
   "sig": "6cb267be75a6",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Zipline": {
   "n": 343,
   "sig": "c476d5f0253e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Veolia": {
   "n": 2000,
-  "sig": "15612190c6ae",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "b27bec13e027",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "ASML US": {
-  "n": 822,
-  "sig": "59fa1e489e8a",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 821,
+  "sig": "027f2f58a1f3",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Electric Hydrogen": {
   "n": 15,
   "sig": "8c472f89218d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "GE Aerospace": {
-  "n": 589,
-  "sig": "481a5228ac44",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 587,
+  "sig": "1ff43687ec97",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "L3Harris": {
   "n": 2000,
   "sig": "2050ccdcf2af",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Spirit AeroSystems": {
   "n": 196,
   "sig": "c3364eb58200",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Howmet": {
-  "n": 811,
-  "sig": "67854c132683",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 812,
+  "sig": "73170aa98dea",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Triumph Group": {
   "n": 20,
   "sig": "64653f3c83de",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Leonardo DRS": {
   "n": 44,
-  "sig": "d42628a24876",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "ab3b470a44c5",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Huntington Ingalls": {
   "n": 33,
   "sig": "d6ce47f6ed6f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Joby Aviation": {
   "n": 157,
   "sig": "989a73cfee08",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ford": {
-  "n": 871,
-  "sig": "9c30fe38850f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 855,
+  "sig": "96037a6bd450",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Hyundai": {
   "n": 48,
-  "sig": "bc36b7f83163",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "15ce0850c393",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Navistar (International)": {
-  "n": 169,
-  "sig": "87e37bc2da7f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 168,
+  "sig": "b97aab0c1e5f",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Volvo Group North America": {
   "n": 65,
-  "sig": "8ba68b0ff8f0",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "1f1bc3988ebe",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Harley-Davidson": {
   "n": 21,
   "sig": "331ccc559299",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Lear": {
   "n": 32,
   "sig": "87ddcda7f1e2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Tenneco": {
   "n": 28,
   "sig": "bff1524f513c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Eastman": {
   "n": 20,
   "sig": "198c73c29aa6",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Celanese": {
   "n": 79,
   "sig": "7cddcee4b31d",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Arkema": {
   "n": 39,
   "sig": "c7ae6c92fbcc",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Trinseo": {
   "n": 15,
   "sig": "345bdf276a52",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ball Corp": {
   "n": 22,
   "sig": "c54c37df382e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kurita": {
   "n": 10,
   "sig": "dd9cae3e5211",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "AGCO": {
   "n": 45,
   "sig": "31edb100dddb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ingersoll Rand": {
   "n": 29,
   "sig": "617ddf509cd8",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Timken": {
   "n": 29,
   "sig": "6f09c2286ec6",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Lincoln Electric": {
   "n": 50,
   "sig": "727581d6f151",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kennametal": {
   "n": 20,
   "sig": "8881ec1b7673",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Honeywell": {
   "n": 399,
-  "sig": "2ad30fecb3aa",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "334fd9679862",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Boston Scientific": {
   "n": 51,
   "sig": "687c9c0af2e3",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Texas Instruments": {
-  "n": 914,
-  "sig": "8e70edf0c115",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 915,
+  "sig": "515597828a28",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Skyworks": {
   "n": 38,
   "sig": "20f28cf2b9bb",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Qorvo": {
   "n": 8,
   "sig": "f7c0386ed5f5",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "onsemi": {
-  "n": 709,
-  "sig": "b93484622702",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 710,
+  "sig": "c83a7f89d34e",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Oak Ridge": {
   "n": 25,
   "sig": "50b5104e22a2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Pacific Northwest": {
-  "n": 72,
-  "sig": "74a49edb1a5f",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 66,
+  "sig": "fe50dcabaac2",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Johns Hopkins APL": {
   "n": 535,
   "sig": "5bd4679e9e35",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Hach": {
   "n": 106,
   "sig": "73a72843417a",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Vaya Space": {
   "n": 2,
   "sig": "03eab154eefa",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fluor": {
-  "n": 678,
-  "sig": "3b66f51b6ef9",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 679,
+  "sig": "d0a059db3f88",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Black and Veatch": {
   "n": 45,
   "sig": "2cea80b032b5",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kimley-Horn": {
   "n": 1393,
   "sig": "14c08337d799",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Terracon": {
   "n": 1146,
-  "sig": "b3cf9f124d5c",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "sig": "921733d20bc9",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Westinghouse": {
   "n": 51,
   "sig": "7dc695c6635a",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Vestas": {
   "n": 24,
   "sig": "1e10d744f8c2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Berkshire Grey": {
   "n": 20,
   "sig": "1a46b16f6db6",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "VulcanForms": {
   "n": 111,
   "sig": "8663a27f1173",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kraton": {
   "n": 21,
   "sig": "52a4180cc036",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Lubrizol": {
   "n": 41,
   "sig": "d7c54093e513",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Momentive": {
   "n": 93,
   "sig": "cf3ddc3ec1da",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Wacker": {
   "n": 42,
   "sig": "da36c3260a01",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Mitsubishi Chemical America": {
   "n": 122,
   "sig": "6d8fc7f76aff",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Shaw Industries": {
   "n": 184,
   "sig": "2403ae907c99",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Interface": {
   "n": 37,
   "sig": "a03938e83c7e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Axalta": {
   "n": 174,
   "sig": "560affd55156",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "RPM International": {
   "n": 76,
   "sig": "bb37a38513bd",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Chemours": {
   "n": 146,
   "sig": "a25d3d60956c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kinetico": {
   "n": 31,
   "sig": "0d9262135319",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Kemira": {
   "n": 12,
   "sig": "54b9df62ea21",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Ingevity": {
   "n": 30,
   "sig": "f0dfb742b6c7",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "BWX Technologies": {
   "n": 39,
   "sig": "327ff21c1a96",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Centrus Energy": {
   "n": 89,
   "sig": "c8fcbc83c4bc",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Hexcel": {
   "n": 153,
   "sig": "72a5cde3868f",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Airbus US": {
-  "n": 3014,
-  "sig": "e5f37908c25b",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 3005,
+  "sig": "20f60b9ef014",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Cirrus Aircraft": {
   "n": 82,
   "sig": "1c4f8517f714",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Terumo": {
   "n": 22,
   "sig": "222659469996",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Olympus America": {
   "n": 20,
   "sig": "fe7d4e0d6897",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Siemens Healthineers": {
-  "n": 515,
-  "sig": "ccde61a4d73d",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 514,
+  "sig": "d6f0acd87f3e",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "GE HealthCare": {
-  "n": 1085,
-  "sig": "5829eec6f37c",
-  "checked": "2026-11-15",
-  "changed": "2026-11-15"
+  "n": 1082,
+  "sig": "0ec6daf0168a",
+  "checked": "2026-11-16",
+  "changed": "2026-11-16"
  },
  "Insulet": {
   "n": 168,
   "sig": "b3f2c2ad769e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Dexcom": {
   "n": 298,
   "sig": "8af8a783f429",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Globus Medical": {
   "n": 314,
   "sig": "6edc9f9b4c05",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Integra LifeSciences": {
   "n": 157,
   "sig": "926129e48b47",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Agilent": {
   "n": 364,
   "sig": "aeef340d1f9e",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Bio-Rad": {
   "n": 78,
   "sig": "f8fe683ae6e1",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Illumina": {
   "n": 169,
   "sig": "c562ca97d720",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "PerkinElmer (Revvity)": {
   "n": 144,
   "sig": "89ef54cdbbf2",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Avantor": {
   "n": 282,
   "sig": "cf4b0207b55c",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Fox Factory": {
   "n": 112,
   "sig": "b2938e2a4b58",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  },
  "Dana Incorporated": {
   "n": 31,
   "sig": "1466b4d63556",
-  "checked": "2026-11-15",
+  "checked": "2026-11-16",
   "changed": "2026-11-15"
  }
 }
