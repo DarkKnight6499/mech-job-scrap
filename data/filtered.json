@@ -1,374 +1,75 @@
 {
  "updated": "2026-11-17",
  "companies": {
-  "Hermeus": {
+  "Booz Allen Hamilton": {
    "rows": [
     [
-     "ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
-     "Build Reliability Engineering Intern - Spring 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-09-22",
-      "first_seen": ""
-     }
-    ],
-    [
-     "555263f6-c5ec-4489-ab07-1aea546b70e7",
-     "Flight Software & GNC Intern - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "University, AI RAN Telecommunications Engineer Intern",
+     "McLean, VA",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
      "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "2cbb75f7-a040-47b2-a442-d9cc1faedb11",
-     "Propulsion Component Engineering Intern - Spring 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-08-31",
-      "first_seen": ""
-     }
-    ],
-    [
-     "943f51e4-5b26-432c-ae85-de5f43cadb86",
-     "Propulsion Engineering Intern - Spring/Fall 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86",
-     "title_exclude",
-     "spring",
-     {
-      "posted": "2026-07-23",
-      "first_seen": ""
-     }
-    ],
-    [
-     "5b08e2df-c9db-4831-aece-67d89e744796",
-     "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "d87ed913-affc-475e-b721-c5b5f11c3c7b",
-     "Software Engineering Intern (HIL) - Spring/Summer 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-01",
-      "first_seen": ""
-     }
-    ],
-    [
-     "445db430-6f81-41cf-847a-56a947afb936",
-     "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
-     "Los Angeles, CA",
-     "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-01",
-      "first_seen": ""
-     }
-    ],
-    [
-     "60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
-     "Structures/Mechanical Engineering Intern - Spring/Fall 2027",
-     "Atlanta, GA",
-     "https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
-     "title_exclude",
-     "spring",
-     {
-      "posted": "2026-09-02",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 8
-  },
-  "Dexterity": {
-   "rows": [],
-   "n": 0
-  },
-  "Anybotics": {
-   "rows": [],
-   "n": 0
-  },
-  "Velo3D": {
-   "rows": [],
-   "n": 0
-  },
-  "Zoox": {
-   "rows": [
-    [
-     "54be0f19-9a45-466d-89bc-bc72dd3f9d68",
-     "Contract Student Worker  \u2013 Firmware Engineer (FW Core System Services)",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
-     "title_exclude",
-     "contract student worker",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
-    ],
-    [
-     "79cd1de5-c540-4917-8820-960f65fb8f9e",
-     "Contract Student Worker - Machine Learning Engineer",
-     "Boston, MA",
-     "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
-     "title_exclude",
-     "contract student worker",
-     {
-      "posted": "2026-11-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "116fa648-0397-47b5-a7ab-08d7f96594b3",
-     "Contract Student Worker - Software Engineer (20/hrs week)",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
-     "title_exclude",
-     "contract student worker",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
-    ],
-    [
-     "cc43bf88-ed84-408f-a557-3d1c7263ddff",
-     "Contract Student Worker \u2013 AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
-     "title_exclude",
-     "contract student worker",
-     {
-      "posted": "2026-10-13",
-      "first_seen": ""
-     }
-    ],
-    [
-     "ba1f2937-abf0-4bde-86e9-e302202a6b0e",
-     "Contract Student Worker Automation & Behavioral Science Engineer",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e",
-     "title_exclude",
-     "contract student worker",
-     {
-      "posted": "2026-06-04",
-      "first_seen": ""
-     }
-    ],
-    [
-     "7b20b929-d9a4-4995-a472-16cd4925a877",
-     "Software Engineer Intern, Autonomy Software [Summer 2027]",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-30",
-      "first_seen": ""
-     }
-    ],
-    [
-     "88f6cb68-1534-44af-80db-10e43c203520",
-     "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-30",
-      "first_seen": ""
-     }
-    ],
-    [
-     "8b32157b-ab44-4078-85ea-1d8d7b747a20",
-     "Software Engineer Intern, Software Systems [Summer 2027]",
-     "Foster City, CA",
-     "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-30",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 8
-  },
-  "Via Separations": {
-   "rows": [],
-   "n": 0
-  },
-  "Aeva": {
-   "rows": [],
-   "n": 0
-  },
-  "Rigetti": {
-   "rows": [],
-   "n": 0
-  },
-  "Energy Recovery": {
-   "rows": [],
-   "n": 0
-  },
-  "Bright Machines": {
-   "rows": [],
-   "n": 0
-  },
-  "Ambi Robotics": {
-   "rows": [],
-   "n": 0
-  },
-  "Pickle Robot": {
-   "rows": [],
-   "n": 0
-  },
-  "Toyota Research Institute": {
-   "rows": [],
-   "n": 0
-  },
-  "Commonwealth Fusion Systems": {
-   "rows": [
-    [
-     "43b60f04-f044-47dd-9291-f40b38ffaab3",
-     "Intern - Assembly Technical Project Manager - Spring 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/43b60f04-f044-47dd-9291-f40b38ffaab3",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-15",
-      "first_seen": ""
-     }
-    ],
-    [
-     "12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
-     "Intern - Cryogenics Engineer - Spring 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-26",
-      "first_seen": ""
-     }
-    ],
-    [
-     "5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
-     "Intern - Electrical/Electromechanical Engineer - Spring 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-30",
-      "first_seen": ""
-     }
-    ],
-    [
-     "cbf90690-2518-4c81-ace4-530e3b158545",
-     "Intern - I&C and Network Engineer - Spring or Summer 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545",
-     "title_exclude",
-     "network engineer",
-     {
-      "posted": "2026-10-27",
-      "first_seen": ""
-     }
-    ],
-    [
-     "86514c02-6205-4178-911e-6ae209d67a9e",
-     "Intern - Mechanical Equipment Engineer - Spring 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-15",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 5
-  },
-  "Protolabs": {
-   "rows": [],
-   "n": 0
-  },
-  "Skyways": {
-   "rows": [],
-   "n": 0
-  },
-  "Merlin Labs": {
-   "rows": [],
-   "n": 0
-  },
-  "CesiumAstro": {
-   "rows": [
-    [
-     "d406d2ed-cc05-4346-90ea-b13dfa07e411",
-     "Summer 2027 - Software Engineering Internship",
-     "Austin, TX",
-     "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-08-27",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 1
-  },
-  "Plexus": {
-   "rows": [],
-   "n": 0
-  },
-  "Pivotal": {
-   "rows": [
-    [
-     "3a80913d-886a-4d22-bf5e-9a011b157ec4",
-     "Internship, Software Engineering (Summer 2027)",
-     "Palo Alto, CA",
-     "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
-     "title_exclude_unless",
-     "software",
+     "ai",
      {
       "posted": "2026-11-09",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 2
   },
-  "Pyka": {
-   "rows": [],
-   "n": 0
-  },
-  "Stanley Consultants": {
-   "rows": [],
-   "n": 0
+  "Jabil": {
+   "rows": [
+    [
+     "/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789",
+     "Finance & IT Controls Intern",
+     "St. Petersburg/Tampa, FL",
+     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789",
+     "title_exclude",
+     "finance",
+     {
+      "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
+     "Metrology & Quality Technician - Internship / Co-op",
+     "Clinton, MA",
+     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+     "Manufacturing Engineering Co-op - January 4, 2027-July 6, 2027",
+     "Elmira, NY",
+     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+     "title_exclude",
+     "january",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 3
   },
   "Relativity Space": {
    "rows": [],
@@ -473,18 +174,6 @@
      }
     ],
     [
-     "7990352003",
-     "Test Engineering Intern Spring 2027",
-     "Stennis Space Center, MS",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-09-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "8003533003",
      "Test Engineering Intern Spring 2027",
      "Wallops Island, VA",
@@ -497,7 +186,7 @@
      }
     ]
    ],
-   "n": 10
+   "n": 9
   },
   "SpaceX": {
    "rows": [],
@@ -518,6 +207,107 @@
   "Divergent": {
    "rows": [],
    "n": 0
+  },
+  "Hermeus": {
+   "rows": [
+    [
+     "ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
+     "Build Reliability Engineering Intern - Spring 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-09-22",
+      "first_seen": ""
+     }
+    ],
+    [
+     "555263f6-c5ec-4489-ab07-1aea546b70e7",
+     "Flight Software & GNC Intern - Spring/Summer 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "2cbb75f7-a040-47b2-a442-d9cc1faedb11",
+     "Propulsion Component Engineering Intern - Spring 2027",
+     "Los Angeles, CA",
+     "https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "943f51e4-5b26-432c-ae85-de5f43cadb86",
+     "Propulsion Engineering Intern - Spring/Fall 2027",
+     "Los Angeles, CA",
+     "https://jobs.lever.co/hermeus/943f51e4-5b26-432c-ae85-de5f43cadb86",
+     "title_exclude",
+     "spring",
+     {
+      "posted": "2026-07-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5b08e2df-c9db-4831-aece-67d89e744796",
+     "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "d87ed913-affc-475e-b721-c5b5f11c3c7b",
+     "Software Engineering Intern (HIL) - Spring/Summer 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "445db430-6f81-41cf-847a-56a947afb936",
+     "Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027",
+     "Los Angeles, CA",
+     "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
+     "Structures/Mechanical Engineering Intern - Spring/Fall 2027",
+     "Atlanta, GA",
+     "https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
+     "title_exclude",
+     "spring",
+     {
+      "posted": "2026-09-02",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 8
   },
   "Skydio": {
    "rows": [
@@ -907,6 +697,10 @@
    "rows": [],
    "n": 0
   },
+  "Dexterity": {
+   "rows": [],
+   "n": 0
+  },
   "Formlabs": {
    "rows": [
     [
@@ -1032,7 +826,15 @@
    ],
    "n": 10
   },
+  "Anybotics": {
+   "rows": [],
+   "n": 0
+  },
   "Markforged": {
+   "rows": [],
+   "n": 0
+  },
+  "Velo3D": {
    "rows": [],
    "n": 0
   },
@@ -1056,6 +858,107 @@
   "Fervo Energy": {
    "rows": [],
    "n": 0
+  },
+  "Zoox": {
+   "rows": [
+    [
+     "54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+     "Contract Student Worker  \u2013 Firmware Engineer (FW Core System Services)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "79cd1de5-c540-4917-8820-960f65fb8f9e",
+     "Contract Student Worker - Machine Learning Engineer",
+     "Boston, MA",
+     "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "116fa648-0397-47b5-a7ab-08d7f96594b3",
+     "Contract Student Worker - Software Engineer (20/hrs week)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "cc43bf88-ed84-408f-a557-3d1c7263ddff",
+     "Contract Student Worker \u2013 AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-10-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "ba1f2937-abf0-4bde-86e9-e302202a6b0e",
+     "Contract Student Worker Automation & Behavioral Science Engineer",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-06-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "7b20b929-d9a4-4995-a472-16cd4925a877",
+     "Software Engineer Intern, Autonomy Software [Summer 2027]",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "88f6cb68-1534-44af-80db-10e43c203520",
+     "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8b32157b-ab44-4078-85ea-1d8d7b747a20",
+     "Software Engineer Intern, Software Systems [Summer 2027]",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 8
   },
   "Sila Nano": {
    "rows": [],
@@ -1138,6 +1041,10 @@
    ],
    "n": 5
   },
+  "Via Separations": {
+   "rows": [],
+   "n": 0
+  },
   "Helion": {
    "rows": [],
    "n": 0
@@ -1154,7 +1061,15 @@
    "rows": [],
    "n": 0
   },
+  "Aeva": {
+   "rows": [],
+   "n": 0
+  },
   "BlackSky": {
+   "rows": [],
+   "n": 0
+  },
+  "Rigetti": {
    "rows": [],
    "n": 0
   },
@@ -1232,7 +1147,15 @@
    ],
    "n": 1
   },
+  "Energy Recovery": {
+   "rows": [],
+   "n": 0
+  },
   "Diligent Robotics": {
+   "rows": [],
+   "n": 0
+  },
+  "Bright Machines": {
    "rows": [],
    "n": 0
   },
@@ -1241,6 +1164,14 @@
    "n": 0
   },
   "Torc Robotics": {
+   "rows": [],
+   "n": 0
+  },
+  "Ambi Robotics": {
+   "rows": [],
+   "n": 0
+  },
+  "Pickle Robot": {
    "rows": [],
    "n": 0
   },
@@ -1339,6 +1270,18 @@
   },
   "RTX": {
    "rows": [
+    [
+     "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01889992",
+     "Software Engineering Intern (Summer 2027)",
+     "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01889992",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
      "2027 Summer Intern - Software Engineering - Onsite",
@@ -1448,7 +1391,7 @@
      }
     ]
    ],
-   "n": 9
+   "n": 10
   },
   "Northrop Grumman": {
    "rows": [
@@ -1692,6 +1635,18 @@
   "General Motors": {
    "rows": [
     [
+     "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
+     "2027 Summer Intern \u2013 Manufacturing Supply Chain",
+     "11 Locations (Arlington Texas United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
      "2027 Summer Intern - Automotive Technician",
      "Milford, Michigan, United States of America",
@@ -1860,7 +1815,7 @@
      }
     ]
    ],
-   "n": 14
+   "n": 15
   },
   "Baxter": {
    "rows": [],
@@ -2018,8 +1973,33 @@
    "n": 0
   },
   "Johnson Controls": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
+     "BEST Sales Intern - HVAC",
+     "Irving-Texas-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
+     "BEST Sales Intern - HVAC",
+     "Irving-Texas-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
   },
   "Medtronic": {
    "rows": [],
@@ -2545,18 +2525,6 @@
      }
     ],
     [
-     "/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
-     "System Software Engineering - PhD Intern",
-     "US, Oregon, Hillsboro",
-     "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
-     "title_exclude",
-     "phd intern",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
      "System Technology Research Engineer - (PhD Intern)",
      "3 Locations (US Oregon Hillsboro)",
@@ -2593,7 +2561,7 @@
      }
     ]
    ],
-   "n": 27
+   "n": 26
   },
   "Dow": {
    "rows": [],
@@ -3124,6 +3092,10 @@
    "n": 4
   },
   "Stellantis": {
+   "rows": [],
+   "n": 0
+  },
+  "Toyota Research Institute": {
    "rows": [],
    "n": 0
   },
@@ -4132,6 +4104,30 @@
   "Aerospace Corporation": {
    "rows": [
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
+     "2027 Machine Learning Engineering Graduate Intern",
+     "2 Locations (El Segundo CA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
+     "2027 Machine Learning Engineer Undergrad Intern",
+     "2 Locations (El Segundo CA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101",
      "2027 Software Engineering Grad Intern",
      "El Segundo, CA",
@@ -4168,7 +4164,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 5
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -4195,6 +4191,71 @@
    "rows": [],
    "n": 0
   },
+  "Commonwealth Fusion Systems": {
+   "rows": [
+    [
+     "43b60f04-f044-47dd-9291-f40b38ffaab3",
+     "Intern - Assembly Technical Project Manager - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/43b60f04-f044-47dd-9291-f40b38ffaab3",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-15",
+      "first_seen": ""
+     }
+    ],
+    [
+     "12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
+     "Intern - Cryogenics Engineer - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/12638cfd-8bad-40b5-88b4-1fe3b21aec8f",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+     "Intern - Electrical/Electromechanical Engineer - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "cbf90690-2518-4c81-ace4-530e3b158545",
+     "Intern - I&C and Network Engineer - Spring or Summer 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545",
+     "title_exclude",
+     "network engineer",
+     {
+      "posted": "2026-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "86514c02-6205-4178-911e-6ae209d67a9e",
+     "Intern - Mechanical Equipment Engineer - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-15",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 5
+  },
   "TAE Technologies": {
    "rows": [],
    "n": 0
@@ -4212,6 +4273,10 @@
    "n": 0
   },
   "Nextracker": {
+   "rows": [],
+   "n": 0
+  },
+  "Protolabs": {
    "rows": [],
    "n": 0
   },
@@ -4267,6 +4332,18 @@
      "software",
      {
       "posted": "2026-09-15",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5274037007",
+     "2027 Machine Learning Engineer Intern",
+     "Santa Ana, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -4451,7 +4528,7 @@
      }
     ]
    ],
-   "n": 16
+   "n": 17
   },
   "Vannevar Labs": {
    "rows": [],
@@ -4470,6 +4547,10 @@
    "n": 0
   },
   "Auterion": {
+   "rows": [],
+   "n": 0
+  },
+  "Skyways": {
    "rows": [],
    "n": 0
   },
@@ -4613,6 +4694,18 @@
   "CACI": {
    "rows": [
     [
+     "/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
+     "Software Engineering Intern - Summer 2027",
+     "Sarasota, FL, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
      "AI Prompt Engineering Trainee (High School) - Summer 2027",
      "Ashburn, VA, US",
@@ -4709,38 +4802,13 @@
      }
     ]
    ],
-   "n": 8
-  },
-  "Booz Allen Hamilton": {
-   "rows": [
-    [
-     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "University, AI RAN Telecommunications Engineer Intern",
-     "McLean, VA",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-11-09",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 2
+   "n": 9
   },
   "Parsons": {
+   "rows": [],
+   "n": 0
+  },
+  "Merlin Labs": {
    "rows": [],
    "n": 0
   },
@@ -5051,10 +5119,10 @@
   "Leonardo DRS": {
    "rows": [
     [
-     "1441609200",
-     "Senior Technical Intern - Engineering Physics",
+     "1441610200",
+     "Senior Technical Intern - Manufacturing",
      "Madison, WI, US, 53704",
-     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Engineering-Physics-WI-53704/1441609200/",
+     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Manufacturing-WI-53704/1441610200/",
      "title_exclude",
      "senior",
      {
@@ -5063,10 +5131,10 @@
      }
     ],
     [
-     "1441610200",
-     "Senior Technical Intern - Manufacturing",
+     "1441609200",
+     "Senior Technical Intern - Engineering Physics",
      "Madison, WI, US, 53704",
-     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Manufacturing-WI-53704/1441610200/",
+     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Engineering-Physics-WI-53704/1441609200/",
      "title_exclude",
      "senior",
      {
@@ -5126,21 +5194,9 @@
       "posted": "2026-11-11",
       "first_seen": ""
      }
-    ],
-    [
-     "1330996400",
-     "STRUCTURAL/CIVIL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS",
-     "Newport News, Virginia, United States",
-     "https://careers.huntingtoningalls.com/job/Newport-News-STRUCTURALCIVIL-ENGINEER-SKILLBRIDGE-INTERN%28PLANT-OPERATIONS-Virg/1330996400/",
-     "title_exclude",
-     "skillbridge",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 3
+   "n": 2
   },
   "Joby Aviation": {
    "rows": [],
@@ -5402,6 +5458,18 @@
   "Texas Instruments": {
    "rows": [
     [
+     "25020319",
+     "Analog IC Design (AI/ML) Engineering Intern",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "25017540",
      "Systems Marketing Engineering Intern (SEM)",
      "Dallas, TX, United States",
@@ -5498,7 +5566,7 @@
      }
     ]
    ],
-   "n": 8
+   "n": 9
   },
   "Skyworks": {
    "rows": [
@@ -5527,18 +5595,6 @@
      }
     ],
     [
-     "1421252800",
-     "Validation Engineer (VE) Winter/Spring Co-Op (Jan-June '27)",
-     "Newbury Park, CA, US, 91320",
-     "https://careers.skyworksinc.com/job/Newbury-Park-Validation-Engineer-%28VE%29-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1421252800/",
-     "title_exclude",
-     "winter",
-     {
-      "posted": "2026-11-14",
-      "first_seen": ""
-     }
-    ],
-    [
      "1420483500",
      "IC Packaging Thermal / Mechanical Simulation Co-Op (Winter/Spring, January - June 2027)",
      "Irvine, CA, US, 92617",
@@ -5559,6 +5615,18 @@
      "ai",
      {
       "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1421252800",
+     "Validation Engineer (VE) Winter/Spring Co-Op (Jan-June '27)",
+     "Newbury Park, CA, US, 91320",
+     "https://careers.skyworksinc.com/job/Newbury-Park-Validation-Engineer-%28VE%29-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1421252800/",
+     "title_exclude",
+     "winter",
+     {
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ]
@@ -5867,8 +5935,21 @@
    "n": 12
   },
   "Black and Veatch": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "1458158733",
+     "Engineering Technician Intern (Raleigh)",
+     "Cary, NC, US",
+     "https://careers.bv.com/job/Cary-Engineering-Technician-Intern-%28Raleigh%29-NC/1458158733/",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "Kimley-Horn": {
    "rows": [
@@ -6637,6 +6718,18 @@
      }
     ],
     [
+     "20081",
+     "Software Engineer Intern - Real Time Aviation Data",
+     "Chanhassen, Minnesota",
+     "https://careers.garmin.com/en-US/jobs/20081",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "20131",
      "Software Engineering Intern",
      "Cary, North Carolina",
@@ -6757,7 +6850,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 13
   },
   "Sonos": {
    "rows": [
@@ -7100,18 +7193,6 @@
      }
     ],
     [
-     "/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1",
-     "Mechanical Engineering Fall Co-Op",
-     "St. Louis, MO",
-     "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/St-Louis-MO/Engineering-Fall-Co-Op_034017-2",
      "Engineering Fall Co-Op",
      "St. Louis, MO",
@@ -7124,7 +7205,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 4
   },
   "Entergy": {
    "rows": [
@@ -7454,6 +7535,23 @@
    "rows": [],
    "n": 0
   },
+  "CesiumAstro": {
+   "rows": [
+    [
+     "d406d2ed-cc05-4346-90ea-b13dfa07e411",
+     "Summer 2027 - Software Engineering Internship",
+     "Austin, TX",
+     "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-08-27",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
+  },
   "Zone 5 Technologies": {
    "rows": [],
    "n": 0
@@ -7608,19 +7706,31 @@
   "Amentum": {
    "rows": [
     [
-     "/job/US-TX-Houston/Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115",
-     "Spring 2027 Intern - Structural Dynamics Engineer",
+     "/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
+     "DoD SkillBridge Intern - Engineering",
      "US-TX-Houston",
-     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115",
+     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
      "title_exclude",
-     "spring 2027",
+     "skillbridge",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
+     "DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer",
+     "US-TX-Houston",
+     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
+     "title_exclude",
+     "skillbridge",
+     {
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "V2X": {
    "rows": [
@@ -8056,6 +8166,18 @@
   "AtkinsRealis": {
    "rows": [
     [
+     "/job/USNVReno/Aviation-Civil-Engineering-Intern---Spring-2027_R-171371",
+     "Aviation Civil Engineering Intern - Spring 2027",
+     "US.NV.Reno",
+     "https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVReno/Aviation-Civil-Engineering-Intern---Spring-2027_R-171371",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/USFLOrlando482-S-Keller-Rd/ITS-Traffic-Engineering-Intern---Spring-2027_R-161791",
      "ITS/Traffic Engineering Intern - Spring 2027",
      "US.FL.Orlando.482 S Keller Rd",
@@ -8188,7 +8310,7 @@
      }
     ]
    ],
-   "n": 11
+   "n": 12
   },
   "Sundt Construction": {
    "rows": [],
@@ -8562,6 +8684,18 @@
   "Qualcomm": {
    "rows": [
     [
+     "446720740525",
+     "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740525",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720740529",
      "Software Engineering Internship - Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | Tempe, Arizona, United States of America | Irvine, California, United States of America | Louisville, Kentucky, United States of America | New York City, New York, United States of America",
@@ -8594,18 +8728,6 @@
      "digital design",
      {
       "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "446720740525",
-     "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720740525",
-     "title_exclude",
-     "machine learning",
-     {
-      "posted": "2026-09-18",
       "first_seen": ""
      }
     ]
@@ -8660,6 +8782,18 @@
   },
   "Motorola Solutions": {
    "rows": [
+    [
+     "/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561",
+     "Software Engineer Co-op",
+     "Utah Remote Work",
+     "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Utah-Remote-Work/Software-Engineer-Co-op_R70561",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
      "Software Engineering Intern - 2027 Summer Internship",
@@ -8721,48 +8855,7 @@
      }
     ]
    ],
-   "n": 5
-  },
-  "Jabil": {
-   "rows": [
-    [
-     "/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789",
-     "Finance & IT Controls Intern",
-     "St. Petersburg/Tampa, FL",
-     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789",
-     "title_exclude",
-     "finance",
-     {
-      "posted": "2026-11-09",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
-     "Metrology & Quality Technician - Internship / Co-op",
-     "Clinton, MA",
-     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
-     "Manufacturing Engineering Co-op - January 4, 2027-July 6, 2027",
-     "Elmira, NY",
-     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
-     "title_exclude",
-     "january",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 3
+   "n": 6
   },
   "Clarios": {
    "rows": [],
@@ -10159,7 +10252,32 @@
    ],
    "n": 4
   },
+  "Plexus": {
+   "rows": [],
+   "n": 0
+  },
   "TT Electronics": {
+   "rows": [],
+   "n": 0
+  },
+  "Pivotal": {
+   "rows": [
+    [
+     "3a80913d-886a-4d22-bf5e-9a011b157ec4",
+     "Internship, Software Engineering (Summer 2027)",
+     "Palo Alto, CA",
+     "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
+  },
+  "Pyka": {
    "rows": [],
    "n": 0
   },
@@ -10441,6 +10559,10 @@
     ]
    ],
    "n": 2
+  },
+  "Stanley Consultants": {
+   "rows": [],
+   "n": 0
   },
   "Koppers": {
    "rows": [],
