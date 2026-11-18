@@ -1,24 +1,45 @@
 {
  "updated": "2026-11-18",
  "companies": {
+  "Amentum": {
+   "rows": [
+    [
+     "/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
+     "DoD SkillBridge Intern - Engineering",
+     "US-TX-Houston",
+     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
+     "title_exclude",
+     "skillbridge",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
+     "DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer",
+     "US-TX-Houston",
+     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
+     "title_exclude",
+     "skillbridge",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
+  },
+  "Pfizer": {
+   "rows": [],
+   "n": 0
+  },
   "Relativity Space": {
    "rows": [],
    "n": 0
   },
   "Rocket Lab": {
    "rows": [
-    [
-     "8042094003",
-     "Ground Systems Engineering Intern Spring 2027",
-     "Middle River, MD",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-02",
-      "first_seen": ""
-     }
-    ],
     [
      "8007204003",
      "Ground Systems Engineering Intern Spring 2027",
@@ -28,6 +49,18 @@
      "spring 2027",
      {
       "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8042094003",
+     "Ground Systems Engineering Intern Spring 2027",
+     "Middle River, MD",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-02",
       "first_seen": ""
      }
     ],
@@ -816,6 +849,18 @@
      }
     ],
     [
+     "839d987e-2236-4efe-8753-ee208b8d4e29",
+     "Contract Student Worker - Software Engineer (40hrs/wk)",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "cc43bf88-ed84-408f-a557-3d1c7263ddff",
      "Contract Student Worker \u2013 AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
      "Foster City, CA",
@@ -836,6 +881,18 @@
      "contract student worker",
      {
       "posted": "2026-06-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "895ed1fe-9547-40d1-aec5-ffed2a2f82e3",
+     "Contract Student Worker- Software Engineer Mobile Developer Experience",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/895ed1fe-9547-40d1-aec5-ffed2a2f82e3",
+     "title_exclude",
+     "contract student worker",
+     {
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -876,7 +933,7 @@
      }
     ]
    ],
-   "n": 8
+   "n": 10
   },
   "Sila Nano": {
    "rows": [],
@@ -1189,6 +1246,18 @@
   "RTX": {
    "rows": [
     [
+     "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954",
+     "Software Engineering Intern (Summer 2027)",
+     "US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01889954",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01889992",
      "Software Engineering Intern (Summer 2027)",
      "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
@@ -1285,7 +1354,7 @@
      }
     ]
    ],
-   "n": 8
+   "n": 9
   },
   "Northrop Grumman": {
    "rows": [
@@ -1754,18 +1823,6 @@
      }
     ],
     [
-     "/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-     "Data Engineer Intern",
-     "Fort Belvoir, VA",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-     "title_exclude",
-     "data engineer",
-     {
-      "posted": "2026-10-28",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
      "Systems, Integration and Software Engineer Intern",
      "Atlantic City, NJ",
@@ -1778,7 +1835,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 4
   },
   "3M": {
    "rows": [
@@ -2015,18 +2072,6 @@
      }
     ],
     [
-     "/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
-     "Intern - Product Yield Software Engineer",
-     "Boise, ID - Main Site",
-     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-27",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
      "Intern - IT Software Engineer",
      "Boise, ID - Main Site",
@@ -2051,7 +2096,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 4
   },
   "Carrier": {
    "rows": [
@@ -2090,6 +2135,18 @@
   "Analog Devices": {
    "rows": [
     [
+     "/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
+     "Digital Design Engineering Intern - Summer 2027",
+     "US, TX, Austin, Plaza on the Lake",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
+     "title_exclude",
+     "digital design",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
      "Software Engineering Intern (Medical Device & Healthcare Integration)",
      "US, MA, Wilmington",
@@ -2114,30 +2171,6 @@
      }
     ],
     [
-     "/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
-     "AI/ML Engineer Intern",
-     "2 Locations (US MA Wilmington)",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-MA-Wilmington/Field-Applications--Sales--Intern_R266123",
-     "Field Applications (Sales) Intern",
-     "US, MA, Wilmington",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Applications--Sales--Intern_R266123",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
      "Digital Design Engineer Intern",
      "2 Locations (US NC Durham)",
@@ -2150,7 +2183,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 4
   },
   "Intel": {
    "rows": [
@@ -3451,21 +3484,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Spring-_R26_04115",
-     "Application Engineering Co-Op (Spring)",
-     "Fort Wayne, Indiana, United States",
-     "https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Spring-_R26_04115",
-     "title_exclude",
-     "spring",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 2
+   "n": 1
   },
   "Stanley Black and Decker": {
    "rows": [],
@@ -3734,6 +3755,18 @@
   "KLA": {
    "rows": [
     [
+     "/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
+     "Software Engineering Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
      "Machine Learning Engineer Intern",
      "Milpitas, CA",
@@ -3818,7 +3851,7 @@
      }
     ]
    ],
-   "n": 7
+   "n": 8
   },
   "Tokyo Electron US": {
    "rows": [],
@@ -3830,6 +3863,18 @@
   },
   "Western Digital": {
    "rows": [
+    [
+     "744000162353069",
+     "Spring 2027 Intern - Software Engineering",
+     "Irvine, CA, us",
+     "https://jobs.smartrecruiters.com/WesternDigital/744000162353069",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
     [
      "744000160975819",
      "Summer 2027 Intern - Software Engineering",
@@ -3867,7 +3912,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "Lawrence Livermore": {
    "rows": [
@@ -3974,6 +4019,18 @@
   "Aerospace Corporation": {
    "rows": [
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715",
+     "2027 Cloud Solutions Engineer / Site Reliability Grad Intern",
+     "3 Locations (El Segundo CA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Grad-Intern_R016715",
+     "title_exclude",
+     "cloud",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
      "2027 Machine Learning Engineering Graduate Intern",
      "2 Locations (El Segundo CA)",
@@ -4034,7 +4091,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 6
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -4110,21 +4167,9 @@
       "posted": "2026-10-27",
       "first_seen": ""
      }
-    ],
-    [
-     "86514c02-6205-4178-911e-6ae209d67a9e",
-     "Intern - Mechanical Equipment Engineer - Spring 2027",
-     "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-15",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 5
+   "n": 4
   },
   "TAE Technologies": {
    "rows": [],
@@ -5263,6 +5308,18 @@
   "Honeywell": {
    "rows": [
     [
+     "121356",
+     "High School Intern (KS) \u2013 Manufacturing (US Persons)",
+     "Olathe, KS, United States",
+     "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121356",
+     "title_exclude",
+     "high school",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "119718",
      "Software Engineering Intern - Summer 2027 (U.S. Person Required)",
      "United States",
@@ -5311,7 +5368,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Boston Scientific": {
    "rows": [
@@ -5451,21 +5508,9 @@
       "posted": "2026-09-15",
       "first_seen": ""
      }
-    ],
-    [
-     "25019103",
-     "Software Engineering Intern - Compiler",
-     "United States",
-     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-20",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 9
+   "n": 8
   },
   "Skyworks": {
    "rows": [
@@ -5848,6 +5893,18 @@
   "Black and Veatch": {
    "rows": [
     [
+     "1458571333",
+     "Engineering Technician Intern",
+     "Overland Park, KS, US",
+     "https://careers.bv.com/job/Overland-Park-Engineering-Technician-Intern-KS-66062/1458571333/",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "1458158733",
      "Engineering Technician Intern (Raleigh)",
      "Cary, NC, US",
@@ -5860,7 +5917,7 @@
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Kimley-Horn": {
    "rows": [
@@ -6487,7 +6544,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -7190,6 +7247,18 @@
      }
     ],
     [
+     "1451751600",
+     "Engineering Co-Op: June 2027-January 2028",
+     "Centralia, MO, US, 65240",
+     "https://careers.hubbell.com/job/Centralia-Engineering-Co-Op-June-2027-January-2028-MO-65240/1451751600/",
+     "title_exclude",
+     "january",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "1421653500",
      "2027 Summer Intern: Operations - Supply Chain & Manufacturing Analytics",
      "Portsmouth, NH, US, 03801",
@@ -7202,7 +7271,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "nVent": {
    "rows": [
@@ -7588,35 +7657,6 @@
    ],
    "n": 6
   },
-  "Amentum": {
-   "rows": [
-    [
-     "/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
-     "DoD SkillBridge Intern - Engineering",
-     "US-TX-Houston",
-     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Intern---Engineering_R0175562",
-     "title_exclude",
-     "skillbridge",
-     {
-      "posted": "2026-11-17",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
-     "DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer",
-     "US-TX-Houston",
-     "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/DoD-SkillBridge-Internship---Cybersecurity-Software-and-Systems-Engineer_R0175558-1",
-     "title_exclude",
-     "skillbridge",
-     {
-      "posted": "2026-11-17",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 2
-  },
   "V2X": {
    "rows": [
     [
@@ -7721,18 +7761,6 @@
      }
     ],
     [
-     "/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
-     "Co-op \u2013 Data Engineer (Biocompatibility) \u2013 Murrysville, PA \u2013 January to June 2027",
-     "Murrysville, Pennsylvania, United States",
-     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
-     "title_exclude",
-     "data engineer",
-     {
-      "posted": "2026-10-29",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Latham-New-York-United-States/Co-op---Electrical-Engineering---Latham--NY---January-July-2027_590387",
      "Co-op - Electrical Engineering - Latham, NY - January-July 2027",
      "Latham, New York, United States",
@@ -7769,7 +7797,7 @@
      }
     ]
    ],
-   "n": 6
+   "n": 5
   },
   "Cardinal Health": {
    "rows": [],
@@ -7817,10 +7845,6 @@
    "n": 0
   },
   "Waters Corporation": {
-   "rows": [],
-   "n": 0
-  },
-  "Pfizer": {
    "rows": [],
    "n": 0
   },
@@ -8622,18 +8646,6 @@
   "Cisco": {
    "rows": [
     [
-     "/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-     "Software Engineer Full Stack / Backend I (Co-op) - United States",
-     "2 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-23",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
      "Software Consulting Engineer I (Intern) United States",
      "USA-RESEARCH TRIANGLE PARK",
@@ -8642,6 +8654,18 @@
      "software",
      {
       "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+     "Software Engineer Full Stack / Backend I (Co-op) - United States",
+     "2 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ]
@@ -8794,6 +8818,18 @@
   "Trane": {
    "rows": [
     [
+     "/job/Atlanta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15278-1",
+     "2027 Technical Sales Intern - Equipment",
+     "Atlanta, Georgia",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Atlanta-Georgia/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15278-1",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/La-Crosse-Wisconsin/HVAC-Product-Development-Technician-Intern_JR-10975",
      "HVAC Product Development Technician Intern",
      "La Crosse, Wisconsin",
@@ -8930,18 +8966,6 @@
      "2027 Technical Sales Intern - Equipment",
      "Carrollton, Texas",
      "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1",
-     "2027 Technical Sales Intern - Controls",
-     "Tempe, Arizona",
-     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Tempe-Arizona/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15233-1",
      "title_exclude",
      "sales",
      {
@@ -9218,18 +9242,6 @@
      "2027 Technical Sales Intern - Services",
      "Carrollton, Texas",
      "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Shreveport-Louisiana/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15312-2",
-     "2027 Technical Sales Intern - Services",
-     "Shreveport, Louisiana",
-     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Shreveport-Louisiana/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15312-2",
      "title_exclude",
      "sales",
      {
@@ -9574,7 +9586,7 @@
      }
     ]
    ],
-   "n": 65
+   "n": 64
   },
   "Procter & Gamble": {
    "rows": [],
@@ -9738,42 +9750,6 @@
   "AES": {
    "rows": [
     [
-     "/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Fall-2027-_R1065078",
-     "Co-op Engineer - Gas Turbine/DCS Operations (Fall 2027)",
-     "US, Indianapolis, IN",
-     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Fall-2027-_R1065078",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Spring-2027-_R1064410",
-     "Co-op Engineer - Gas Turbine/DCS Operations (Spring 2027)",
-     "US, Indianapolis, IN",
-     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Co-op-Engineer---Gas-Turbine-DCS-Operations--Spring-2027-_R1064410",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-Dayton-OH/Co-Op---Transmission-Engineering-Services----Spring-2027-_R1064718",
-     "Co-Op - Transmission Engineering Services - (Spring 2027)",
-     "US, Dayton, OH",
-     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Co-Op---Transmission-Engineering-Services----Spring-2027-_R1064718",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-Dayton-OH/Relay-Engineer---Engineering-Services-Co-Op---Spring-2027-_R1064790",
      "Relay Engineer - Engineering Services Co-Op  (Spring 2027)",
      "US, Dayton, OH",
@@ -9834,7 +9810,7 @@
      }
     ]
    ],
-   "n": 8
+   "n": 5
   },
   "Constellation Energy": {
    "rows": [
