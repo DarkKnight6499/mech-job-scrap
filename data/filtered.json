@@ -1,6 +1,107 @@
 {
  "updated": "2026-11-19",
  "companies": {
+  "Flowserve": {
+   "rows": [],
+   "n": 0
+  },
+  "Terex": {
+   "rows": [],
+   "n": 0
+  },
+  "Gannett Fleming": {
+   "rows": [
+    [
+     "15289",
+     "Intern - Geotechnical Engineering",
+     "Mechanicsburg, PA, US",
+     "https://careers-gannettfleming.icims.com/jobs/15289/intern---geotechnical-engineering/job",
+     "title_exclude_unless",
+     "geotechnical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "15226",
+     "Intern - Construction Management",
+     "Independence, KS, US",
+     "https://careers-gannettfleming.icims.com/jobs/15226/intern---construction-management/job",
+     "title_exclude_unless",
+     "construction management",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "15225",
+     "Intern - Substation Engineering",
+     "Charlotte, NC, US",
+     "https://careers-gannettfleming.icims.com/jobs/15225/intern---substation-engineering/job",
+     "title_exclude_unless",
+     "substation",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "15189",
+     "Intern - Structural Engineering",
+     "Mechanicsburg, PA, US",
+     "https://careers-gannettfleming.icims.com/jobs/15189/intern---structural-engineering/job",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "15132",
+     "Intern - Electrical Engineering",
+     "Ebensburg, PA, US",
+     "https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "15071",
+     "Intern - Construction Management",
+     "Kansas City, MO, US",
+     "https://careers-gannettfleming.icims.com/jobs/15071/intern---construction-management/job",
+     "title_exclude_unless",
+     "construction management",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "14755",
+     "Intern - Substation Engineering",
+     "St. Louis, MO, US",
+     "https://careers-gannettfleming.icims.com/jobs/14755/intern---substation-engineering/job",
+     "title_exclude_unless",
+     "substation",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 7
+  },
+  "Snap-on": {
+   "rows": [],
+   "n": 0
+  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -4396,10 +4497,6 @@
    ],
    "n": 2
   },
-  "Flowserve": {
-   "rows": [],
-   "n": 0
-  },
   "Graco": {
    "rows": [
     [
@@ -6733,24 +6830,24 @@
      }
     ],
     [
-     "1418392000",
-     "Mechanical Engineer Co-Op (Spring 2027)",
-     "Bridgeton, MO, US, 63044",
-     "https://careers.leonardodrs.com/job/Bridgeton-Mechanical-Engineer-Co-Op-%28Spring-2027%29-MO-63044/1418392000/",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
      "1428313900",
      "Software Engineering Intern | Summer 2027",
      "Menomonee Falls, WI, US, 53051",
      "https://careers.leonardodrs.com/job/Menomonee-Falls-Software-Engineering-Intern-Summer-2027-WI-53051/1428313900/",
      "title_exclude_unless",
      "software",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1418392000",
+     "Mechanical Engineer Co-Op (Spring 2027)",
+     "Bridgeton, MO, US, 63044",
+     "https://careers.leonardodrs.com/job/Bridgeton-Mechanical-Engineer-Co-Op-%28Spring-2027%29-MO-63044/1418392000/",
+     "title_exclude",
+     "spring 2027",
      {
       "posted": "2026-11-06",
       "first_seen": ""
@@ -7887,33 +7984,9 @@
       "posted": "2026-11-17",
       "first_seen": ""
      }
-    ],
-    [
-     "1439142533",
-     "Structural Engineer Intern, Substation (Central Region)",
-     "Overland Park, KS, US",
-     "https://careers.bv.com/job/Overland-Park-Structural-Engineer-Intern%2C-Substation-%28Central-Region%29-KS-66062/1439142533/",
-     "title_exclude_unless",
-     "substation",
-     {
-      "posted": "2026-11-15",
-      "first_seen": ""
-     }
-    ],
-    [
-     "1456613233",
-     "Structural Engineer Intern, Transmission Line (Bloomington)",
-     "Bloomington, MN, US",
-     "https://careers.bv.com/job/Bloomington-Structural-Engineer-Intern%2C-Transmission-Line-%28Bloomington%29-MN/1456613233/",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 4
+   "n": 2
   },
   "Kimley-Horn": {
    "rows": [
@@ -10934,10 +11007,6 @@
    ],
    "n": 7
   },
-  "Terex": {
-   "rows": [],
-   "n": 0
-  },
   "Hyster-Yale": {
    "rows": [],
    "n": 0
@@ -12481,95 +12550,6 @@
    ],
    "n": 13
   },
-  "Gannett Fleming": {
-   "rows": [
-    [
-     "15289",
-     "Intern - Geotechnical Engineering",
-     "Mechanicsburg, PA, US",
-     "https://careers-gannettfleming.icims.com/jobs/15289/intern---geotechnical-engineering/job",
-     "title_exclude_unless",
-     "geotechnical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "15226",
-     "Intern - Construction Management",
-     "Independence, KS, US",
-     "https://careers-gannettfleming.icims.com/jobs/15226/intern---construction-management/job",
-     "title_exclude_unless",
-     "construction management",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "15225",
-     "Intern - Substation Engineering",
-     "Charlotte, NC, US",
-     "https://careers-gannettfleming.icims.com/jobs/15225/intern---substation-engineering/job",
-     "title_exclude_unless",
-     "substation",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "15189",
-     "Intern - Structural Engineering",
-     "Mechanicsburg, PA, US",
-     "https://careers-gannettfleming.icims.com/jobs/15189/intern---structural-engineering/job",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "15132",
-     "Intern - Electrical Engineering",
-     "Ebensburg, PA, US",
-     "https://careers-gannettfleming.icims.com/jobs/15132/intern---electrical-engineering/job",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "15071",
-     "Intern - Construction Management",
-     "Kansas City, MO, US",
-     "https://careers-gannettfleming.icims.com/jobs/15071/intern---construction-management/job",
-     "title_exclude_unless",
-     "construction management",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "14755",
-     "Intern - Substation Engineering",
-     "St. Louis, MO, US",
-     "https://careers-gannettfleming.icims.com/jobs/14755/intern---substation-engineering/job",
-     "title_exclude_unless",
-     "substation",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 7
-  },
   "AtkinsRealis": {
    "rows": [
     [
@@ -13912,18 +13892,6 @@
   "Qualcomm": {
    "rows": [
     [
-     "446720737089",
-     "Embedded Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720737089",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-09-18",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740636",
      "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
      "San Diego, California, United States of America",
@@ -13960,18 +13928,6 @@
      }
     ],
     [
-     "446720741668",
-     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720741668",
-     "title_exclude",
-     "cloud",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740525",
      "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
@@ -13992,6 +13948,30 @@
      "software",
      {
       "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720737089",
+     "Embedded Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720737089",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720741668",
+     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720741668",
+     "title_exclude",
+     "cloud",
+     {
+      "posted": "2026-08-25",
       "first_seen": ""
      }
     ]
@@ -15995,10 +15975,6 @@
    "rows": [],
    "n": 0
   },
-  "Snap-on": {
-   "rows": [],
-   "n": 0
-  },
   "Gentex": {
    "rows": [],
    "n": 0
@@ -16260,26 +16236,14 @@
      }
     ],
     [
-     "8757448002",
+     "8806894002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Waltham, Massachusetts, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8757448002?gh_jid=8757448002",
+     "Washington, District of Columbia, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8806894002?gh_jid=8806894002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-08-27",
-      "first_seen": ""
-     }
-    ],
-    [
-     "8816500002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Houston, Texas, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-17",
+      "posted": "2026-09-14",
       "first_seen": ""
      }
     ],
@@ -16296,26 +16260,14 @@
      }
     ],
     [
-     "8827599002",
+     "8757448002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
+     "Waltham, Massachusetts, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8757448002?gh_jid=8757448002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-09-21",
-      "first_seen": ""
-     }
-    ],
-    [
-     "8827635002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Los Angeles, California, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-21",
+      "posted": "2026-08-27",
       "first_seen": ""
      }
     ],
@@ -16332,14 +16284,38 @@
      }
     ],
     [
-     "8806894002",
+     "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Washington, District of Columbia, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8806894002?gh_jid=8806894002",
+     "Los Angeles, California, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-09-14",
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8816500002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Houston, Texas, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-17",
       "first_seen": ""
      }
     ]

@@ -10333,7 +10333,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10370,7 +10370,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24447,7 +24447,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24515,7 +24515,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24549,7 +24549,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24583,7 +24583,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24617,7 +24617,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24685,7 +24685,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24719,7 +24719,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24753,7 +24753,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24787,7 +24787,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24819,7 +24819,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24853,7 +24853,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24887,7 +24887,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56312,7 +56312,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56606,7 +56606,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56638,7 +56638,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56862,7 +56862,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -57361,7 +57361,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -61118,38 +61118,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Thermo Fisher Scientific:/job/Rochester-New-York-USA/Packaging-Engineering-Co-op_R-01366624",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Thermo Fisher Scientific:/job/Rochester-New-York-USA/Metrology-Engineering-Co-op_R-01368188",
-  "company": "Thermo Fisher Scientific",
-  "role": "Metrology Engineering Co-op",
-  "location": "Rochester, New York, USA",
-  "link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Metrology-Engineering-Co-op_R-01368188",
-  "posted": "2026-09-11",
-  "posted_source": "exact",
-  "posted_reverified": true,
-  "description_status": "ok",
-  "site": "ThermoFisherCareers",
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[sponsorship/support refused] ...\u2022 Authorization to work in country of employment without sponsorship \u2022 Previous internship experience preferred but no...",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Thermo Fisher Scientific:/job/Rochester-New-York-USA/Metrology-Engineering-Co-op_R-01368188",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -65646,7 +65614,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68476,7 +68444,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68546,7 +68514,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69449,7 +69417,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69521,7 +69489,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69557,7 +69525,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70091,7 +70059,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70416,7 +70384,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -73015,7 +72983,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75287,7 +75255,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75325,7 +75293,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75573,7 +75541,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Analog Devices:/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
@@ -75614,7 +75582,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Toyota Research Institute:c6569529-4b6b-4229-b2c9-f97467c26cd3",
@@ -75650,7 +75618,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "BorgWarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583",
@@ -75688,7 +75656,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Entegris:/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15856",
@@ -75725,7 +75693,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Intuitive Surgical:744000161896920",
@@ -75800,7 +75768,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Anduril:5297134007",
@@ -75870,7 +75838,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Tool-Center-Engineer--Co-op-_J-00358223",
@@ -75910,7 +75878,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
@@ -75944,7 +75912,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356811",
@@ -75983,7 +75951,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Boston Scientific:1451173500",
@@ -76022,7 +75990,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Boston Scientific:1451189300",
@@ -76060,7 +76028,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Texas Instruments:25019537",
@@ -76098,7 +76066,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Hach:/job/Loveland-Colorado-United-States/Production-Engineer-Co-Op_R10269538",
@@ -76136,7 +76104,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Kimley-Horn:27030",
@@ -76170,7 +76138,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Kimley-Horn:27919",
@@ -76206,7 +76174,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Mitsubishi Chemical America:/job/Covington-Georgia/Engineering-Intern_JR_0001342",
@@ -76243,7 +76211,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "BWX Technologies:1451051300",
@@ -76319,7 +76287,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Stantec:1007840",
@@ -76355,7 +76323,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Olsson:5473398008",
@@ -76391,7 +76359,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Olsson:5473405008",
@@ -76427,7 +76395,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Clarios:/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51206",
@@ -76465,7 +76433,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Clarios:/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51203",
@@ -76506,7 +76474,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "GlobalFoundries:/job/USA---Texas---Austin/Tapeout-Engineering-Business-Products---Engineering-Intern--Summer-2027-_JR-2604927",
@@ -76543,7 +76511,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "GlobalFoundries:/job/USA---Texas---Austin/Tapeout-Engineering-Business-Products---Engineering-Intern--Summer-2027-_JR-2604926",
@@ -76860,7 +76828,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Black and Veatch:1457710433",
@@ -76886,7 +76854,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -76897,7 +76865,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Westinghouse:1441266500",
@@ -76935,7 +76903,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
@@ -77069,7 +77037,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77104,7 +77072,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77294,7 +77262,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "General Motors:/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
@@ -77332,7 +77300,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Leidos:/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135",
@@ -79447,7 +79415,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80173,7 +80141,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -83349,6 +83317,44 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Nike:/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Black and Veatch:1440276233",
+  "company": "Black and Veatch",
+  "role": "Instrument & Controls Intern - Water (Kanas City)",
+  "location": "Overland Park, KS, US",
+  "link": "https://careers.bv.com/job/Overland-Park-Instrument-&-Controls-Intern-Water-%28Kanas-City%29-KS-66062/1440276233/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "No Sponsorship",
+  "sponsorship_evidence": "[sponsorship/support refused] ...ull time/Part time : Full-Time Project Only Hire: No Visa Sponsorship Available: No Recruiter : Cody Gaston The Opportu...",
+  "salary": "Unclear",
+  "salary_evidence": "",
+  "kw_hits": [
+   "mechanical",
+   "controls",
+   "water treatment"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Black and Veatch:1440276233",
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
