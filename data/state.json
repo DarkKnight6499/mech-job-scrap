@@ -3768,6 +3768,7 @@
   "8940469002",
   "8940470002",
   "8940471002",
+  "8940493002",
   "8940527002",
   "8940602002",
   "8940613002",
@@ -4616,6 +4617,8 @@
   "4730097006",
   "4730104006",
   "4730109006",
+  "4730722006",
+  "4730733006",
   "4730779006"
  ],
  "Lucid Motors": [
@@ -6217,7 +6220,8 @@
   "8399048",
   "8399051",
   "8400491",
-  "8400630"
+  "8400630",
+  "8401219"
  ],
  "Anybotics": [
   "06e5edc9-4092-4518-8ee4-cc02a2ee4c3e",
@@ -12825,6 +12829,7 @@
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Senior-Systems-Engineer---Air-Combat-Training--ONSITE-_01886514",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Senior-Systems-Engineer---JPALS-Precision-Approach-and-Landing--ONSITE-_01864987",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Sr-Mgr---Systems-Security-Engineering--Onsite---Cedar-Rapids--IA-_01873667-1",
+  "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer---Air-Combat-Test---Training--ONSITE-_01889939",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer---Algorithms--ONSITE-_01864982",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineer---JPALS-Precision-Approach-and-Landing--ONSITE-_01864986",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
@@ -17454,6 +17459,7 @@
   "/job/United-States-Maryland-Linthicum/Manager-Programs-3_R10259051",
   "/job/United-States-Maryland-Linthicum/Manager-Project-Management-3_R10259912",
   "/job/United-States-Maryland-Linthicum/Manager-Supply-Chain-Programs-3_R10257438",
+  "/job/United-States-Maryland-Linthicum/Manager-Systems-Engineering-3_R10260470-1",
   "/job/United-States-Maryland-Linthicum/Manufacturing-Systems-Engineer---Level-4_R10254130-1",
   "/job/United-States-Maryland-Linthicum/Mechanical-Engineer---Level-5---Space-Vehicle-SE-AI-T-Lead---Linthicum_R10259810",
   "/job/United-States-Maryland-Linthicum/PWB-Engineer-Digital---Level-4---Linthicum_R10250094",
@@ -17473,6 +17479,7 @@
   "/job/United-States-Maryland-Linthicum/Principal-Program-Cost-and-Schedule-Control-Analyst_R10258310",
   "/job/United-States-Maryland-Linthicum/Principal-Program-Planning-Analyst--Scheduler---secret_R10259408",
   "/job/United-States-Maryland-Linthicum/Principal-Program-Planning-Analyst--Scheduler_R10259399",
+  "/job/United-States-Maryland-Linthicum/Principal-Project-Management_R10260483",
   "/job/United-States-Maryland-Linthicum/Principal-Property-and-Asset-Management-Analyst_R10254611",
   "/job/United-States-Maryland-Linthicum/Principal-Regulatory-Compliance-Analyst---Linthicum-MD_R10259834",
   "/job/United-States-Maryland-Linthicum/Principal-Regulatory-Compliance-Analyst_R10257293-1",
@@ -17509,6 +17516,7 @@
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Contract-Administrator_R10257116",
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Employee-Communications-Representative_R10253796",
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Linux-Systems-Administrator---Polygraph_R10256912",
+  "/job/United-States-Maryland-Linthicum/Sr-Principal-Mission-Assurance-Engineer_R10260475",
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Network-Communications_R10258122",
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Program-Planning-Analyst-Scheduler_R10247809",
   "/job/United-States-Maryland-Linthicum/Sr-Principal-Public-Relations-Representative_R10260839",
@@ -17522,6 +17530,7 @@
   "/job/United-States-Maryland-Linthicum/Staff-Engineer-Circuit-Design_R10261300",
   "/job/United-States-Maryland-Linthicum/Staff-Factory-Automation-Systems-Engineer_R10260999",
   "/job/United-States-Maryland-Linthicum/Staff-Factory-Change-Control-Board-Systems-Engineer_R10260996-1",
+  "/job/United-States-Maryland-Linthicum/Staff-Mission-Assurance-Engineer_R10260481",
   "/job/United-States-Maryland-Linthicum/Staff-Program-Cost-and-Schedule-Control-Analyst_R10259845",
   "/job/United-States-Maryland-Linthicum/Staff-Statistical-Process-Control-Engineer_R10260992",
   "/job/United-States-Maryland-Linthicum/Staff-Systems-Engineer---State-Estimation-and-Target-Tracking_R10239093",
@@ -24544,6 +24553,7 @@
   "/job/Minato-ku-Tokyo/Supervisor--Sales_JR-208300-6",
   "/job/Minato-ku-Tokyo/Supervisor--Sales_JR-209382-2",
   "/job/Minato-ku-Tokyo/Supervisor--Sales_JR-212172-4",
+  "/job/Minato-ku-Tokyo/Technical-Service-Manager--Japan_JR-213355-4",
   "/job/Minneapolis-MN-remote/Clinical-Sales-Account-Manager---Sioux-Falls--SD_JR-210463",
   "/job/Mississauga-Ontario/Human-Resources-Generalist_JR-212093-2",
   "/job/Mississauga-Ontario/Marketing-Associate--Digital-Health---Bilingual--French-English-_JR-209852-1",
@@ -29315,6 +29325,7 @@
   "/job/San-Francisco-California-United-States/Field-Application-Scientist_R1319092",
   "/job/San-Francisco-California-United-States/Health-Systems-Executive_R1302952",
   "/job/San-Francisco-California-United-States/Key-Account-Manager_R1321894",
+  "/job/San-Francisco-California-United-States/NGS-Automation-Field-Application-Scientist--AMR-West_R1322718",
   "/job/San-Francisco-California-United-States/Territory-Account-Manager_R1322427",
   "/job/San-Jose-California-United-States/Backend---AI-Platform-Engineer_R1317110",
   "/job/San-Jose-California-United-States/Laboratory-Technician_R1321529",
@@ -45017,6 +45028,7 @@
   "/job/HillsboroOR/Process-Support-Engineer-III_R2629612",
   "/job/HillsboroOR/Process-Support-Engineer-III_R2631622",
   "/job/HillsboroOR/Process-Support-Engineer-II_R2630870",
+  "/job/HillsboroOR/Process-Support-Engineer-II_R2634058",
   "/job/HillsboroOR/Process-Support-Engineer-IV_R2624556",
   "/job/HillsboroOR/Process-Support-Engineer_R2628468",
   "/job/HillsboroOR/Program-Manager_R2629656-1",
@@ -59692,7 +59704,8 @@
   "744000162390924",
   "744000162393449",
   "744000162405979",
-  "744000162424969"
+  "744000162424969",
+  "744000162426081"
  ],
  "Continental": [
   "743999870230231",
@@ -63827,6 +63840,7 @@
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Advisor--Field-Services_REQ-14655",
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Customer-Quality-Engineer--Senior-Engineer--L3-_REQ-15814",
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Director--Margin-Expansion-and-Profitability_REQ-14604-1",
+  "/job/Suwon-si-Gyeonggi-do-South-Korea/EHS-Sr-Specialist--FSE---Sales-Support_REQ-16017",
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Engineer-I--Field-Services_REQ-14210",
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Engineer-I--Field-Services_REQ-14354",
   "/job/Suwon-si-Gyeonggi-do-South-Korea/Engineer-II--Field-Services_REQ-14975",
@@ -75793,6 +75807,7 @@
   "/job/Taipei-City-Taiwan/Innovative-Medicine--Sr-Product-Manager-Lung-Cancer-Head---Neck_R-108286",
   "/job/Taipei-City-Taiwan/Manager-IDV---PAH_R-109498",
   "/job/Taipei-City-Taiwan/MedTech-Business-Intelligence-and-Automation-Analyst_R-099697",
+  "/job/Taipei-City-Taiwan/MedTech-Business-Intelligence-and-Automation-Analyst_R-111876",
   "/job/Taipei-City-Taiwan/MedTech-Clinical-Sales-Clinical-Account-Specialist-Electrophysiology-North_R-061763",
   "/job/Taipei-City-Taiwan/MedTech-Customer-Service-Specialist-Surgery_R-107548",
   "/job/Taipei-City-Taiwan/MedTech-Senior-Professional-Sales-Representative-Surgery-North_R-098814",
@@ -82424,6 +82439,7 @@
   "/job/MA-Dedham/Field-Sales-Consultant_R73120",
   "/job/MA-Framingham/Street-Sales-Specialist_R73269",
   "/job/MA-Middleborough/Solar-Appointment-Setter_R75754",
+  "/job/MA-Norton/Certified-Field-Operations-Technician_R76302",
   "/job/MA-Norton/Certified-Field-Operations-Technician_R78382",
   "/job/MA-Plymouth/Solar-Appointment-Setter_R73171",
   "/job/MA-Shrewsbury/Certified-Field-Operations-Technician_R73452",
@@ -83566,6 +83582,7 @@
   "10607724",
   "10607729",
   "10607741",
+  "10607758",
   "10607759",
   "10607948",
   "10607953",
@@ -94180,6 +94197,7 @@
   "/job/Briggs-TX/Weld---Tube-Shop-Operations-Manager_JR100331",
   "/job/Cedar-Park-TX/Analysis-Engineer-II-III--Spacecraft-Structures-_JR100224",
   "/job/Cedar-Park-TX/Analysis-Engineer-III_JR100281",
+  "/job/Cedar-Park-TX/Analysis-Engineer-I_JR100359",
   "/job/Cedar-Park-TX/Chief-Engineer---Electrical-Engineering_JR100149",
   "/job/Cedar-Park-TX/Chief-Engineer--Advanced-Technology_JR100308",
   "/job/Cedar-Park-TX/Chief-Engineer--Launch-Vehicles_JR100047",
@@ -108738,6 +108756,7 @@
   "1099557199491",
   "1099557199521",
   "1099557200587",
+  "1099557223070",
   "1099557226068",
   "1099557227822",
   "1099557229661"
@@ -145087,6 +145106,7 @@
   "/job/Badajoz-Badajoz-Spain/Enfermera-o--Mrida-_R0260027-1",
   "/job/Baden-PA/Patient-Care-Technician---PCT_R0274872",
   "/job/Bainbridge-GA/Outpatient-Licensed-Practical-Nurse---LPN-LVN_R0266740",
+  "/job/Baja-California-Tijuana-MEX/Almacenista-C_R0276464",
   "/job/Baja-California-Tijuana-MEX/Assembler_R0276325",
   "/job/Baja-California-Tijuana-MEX/Ensamblador-entry-level_R0260267-1",
   "/job/Baja-California-Tijuana-MEX/Ensamblador-entry-level_R0260279-1",
@@ -145099,6 +145119,7 @@
   "/job/Baja-California-Tijuana-MEX/Intendente-C_R0277648",
   "/job/Baja-California-Tijuana-MEX/OPERADOR-DE-CYCLER-C_R0268825-1",
   "/job/Baja-California-Tijuana-MEX/OPERADOR-DE-CYCLER-C_R0276994",
+  "/job/Baja-California-Tijuana-MEX/OPERADOR-DE-ETIQUETADO_R0276986",
   "/job/Baja-California-Tijuana-MEX/Operador-PFSL_R0274529",
   "/job/Baja-California-Tijuana-MEX/Production-Ensambaldor-Entry--Leven_R0272726",
   "/job/Baja-California-Tijuana-MEX/Production-Ensamblador-Entry-Level_R0272157",
@@ -157108,7 +157129,8 @@
   "3743990016952266",
   "3743990016953456",
   "3743990016953726",
-  "3743990016953876"
+  "3743990016953876",
+  "3743990016954186"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -183592,6 +183614,7 @@
   "/job/Waltham-MA/Atlas-ML-Software-Engineer---Large-Scale-Behavior-Cloning_R3020",
   "/job/Waltham-MA/Director-of-Atlas-Hardware-Platform-Engineering_R3382",
   "/job/Waltham-MA/Distinguished-Hardware-Development-Engineer--Atlas_R3381",
+  "/job/Waltham-MA/Executive-Administrative-Coordinator_R3389",
   "/job/Waltham-MA/Sales-Development-Representative_R3396",
   "/job/Waltham-MA/Senior-Full-Stack-Software-Engineer-Atlas_R3300",
   "/job/Waltham-MA/Senior-Roboticist--Stretch-Manipulation_R3272-1",
@@ -209130,7 +209153,10 @@
   "744000162404429",
   "744000162405209",
   "744000162425179",
-  "744000162425239"
+  "744000162425239",
+  "744000162425309",
+  "744000162425899",
+  "744000162426299"
  ],
  "J.S. Held": [
   "744000087848098",
@@ -216225,7 +216251,8 @@
   "3743990016941266",
   "3743990016943786",
   "3743990016945446",
-  "3743990016946776"
+  "3743990016946776",
+  "3743990016954416"
  ],
  "Plastipak": [
   "/job/Clean-Tech---Dundee-MI/Process-Engineer--Engineering--Intern---Summer-2027_REQ24690",

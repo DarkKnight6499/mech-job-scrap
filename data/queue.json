@@ -2538,40 +2538,6 @@
   "ghost_evidence": ""
  },
  {
-  "id": "Stryker:/job/Fremont-California/R-D-Intern_R572862",
-  "company": "Stryker",
-  "role": "R&D Intern",
-  "location": "Fremont, California",
-  "link": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/R-D-Intern_R572862",
-  "posted": "2026-09-07",
-  "posted_source": "exact",
-  "posted_reverified": true,
-  "description_status": "ok",
-  "site": "StrykerCareers",
-  "source": "job-scout",
-  "first_seen": "2026-11-15",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[now or future] ...ust be legally authorized to work in the U.S. and not require employment-based sponsorship now or in the future . \u200b Strong written and verba...",
-  "experience": null,
-  "experience_evidence": "No years-of-experience language found.",
-  "salary": "$20/hr (~$41.6k/yr)",
-  "salary_evidence": "[converted from hourly pay] ess to learn in a dynamic environment . $ 20 min hourly wage \u2013 $3 5 max hourly wage,",
-  "kw_hits": [],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Stryker:/job/Fremont-California/R-D-Intern_R572862",
-  "lineage_first_seen": "2026-11-15",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
   "id": "Stryker:/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
   "company": "Stryker",
   "role": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
@@ -9421,9 +9387,9 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -10367,7 +10333,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10404,7 +10370,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10761,7 +10727,7 @@
   "role": "Intern Mechanical Engineering",
   "location": "Mansfield, MA",
   "link": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
-  "posted": "2026-11-04",
+  "posted": "2026-11-18",
   "posted_source": "exact",
   "posted_reverified": true,
   "description_status": "ok",
@@ -10785,13 +10751,14 @@
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
-  "repost_count": 1,
+  "repost_count": 2,
   "repost_of": null,
-  "reposted_on": "2026-11-19",
+  "reposted_on": "2026-11-18",
   "lineage_root": "Smith and Nephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
   "lineage_first_seen": "2026-11-15",
   "ghost_status": "Unclear",
-  "ghost_evidence": ""
+  "ghost_evidence": "",
+  "posted_before_refresh": "2026-11-04"
  },
  {
   "id": "Smith and Nephew:/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959",
@@ -10799,7 +10766,7 @@
   "role": "Co-op  Research & Development",
   "location": "US - Austin Artemis TX",
   "link": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959",
-  "posted": "2026-11-04",
+  "posted": "2026-11-18",
   "posted_source": "exact",
   "posted_reverified": true,
   "description_status": "ok",
@@ -10822,13 +10789,14 @@
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
-  "repost_count": 1,
+  "repost_count": 2,
   "repost_of": null,
-  "reposted_on": "2026-11-19",
+  "reposted_on": "2026-11-18",
   "lineage_root": "Smith and Nephew:/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959",
   "lineage_first_seen": "2026-11-15",
   "ghost_status": "Unclear",
-  "ghost_evidence": ""
+  "ghost_evidence": "",
+  "posted_before_refresh": "2026-11-04"
  },
  {
   "id": "Smith and Nephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
@@ -20223,9 +20191,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -24479,7 +24447,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24649,7 +24617,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24717,7 +24685,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24751,7 +24719,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24785,7 +24753,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24819,7 +24787,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24851,7 +24819,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24885,7 +24853,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24919,7 +24887,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -28474,9 +28442,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -32732,9 +32700,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -36656,9 +36624,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 1,
   "repost_of": null,
   "reposted_on": "2026-11-18",
@@ -40835,43 +40803,6 @@
   "ghost_evidence": ""
  },
  {
-  "id": "Oshkosh Corporation:/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249",
-  "company": "Oshkosh Corporation",
-  "role": "CSE Engineering Intern",
-  "location": "Orrville, Ohio, United States",
-  "link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249",
-  "posted": "2026-09-15",
-  "posted_source": "exact",
-  "posted_reverified": true,
-  "description_status": "ok",
-  "site": "Oshkosh",
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [
-   "mechanical",
-   "manufacturing",
-   "materials",
-   "fabrication"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Oshkosh Corporation:/job/Orrville-Ohio-United-States/CSE-Engineering-Intern_R50249",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
   "id": "Oshkosh Corporation:/job/McConnellsburg-Pennsylvania-United-States/R-D-Engineering-Intern_R49491",
   "company": "Oshkosh Corporation",
   "role": "R&D Engineering Intern",
@@ -44712,9 +44643,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -49740,70 +49671,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Gannett Fleming:14755",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Gannett Fleming:14740",
-  "company": "Gannett Fleming",
-  "role": "Intern - Roadway Engineering",
-  "location": "Ebensburg, PA, US",
-  "link": "https://careers-gannettfleming.icims.com/jobs/14740/intern---roadway-engineering/job",
-  "posted": "2026-09-17",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "$21 - $28/hr (~$43.7k - $58.2k/yr)",
-  "salary_evidence": "[converted from hourly pay] tion: The salary range for this role is $21.00 - $28.00 per hour. Salary is dependent upon exper",
-  "kw_hits": [],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Gannett Fleming:14740",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Gannett Fleming:14738",
-  "company": "Gannett Fleming",
-  "role": "Intern - Roadway Engineering",
-  "location": "Pittsburgh, PA, US",
-  "link": "https://careers-gannettfleming.icims.com/jobs/14738/intern---roadway-engineering/job",
-  "posted": "2026-09-17",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "$21 - $28/hr (~$43.7k - $58.2k/yr)",
-  "salary_evidence": "[converted from hourly pay] tion: The salary range for this role is $21.00 - $28.00 per hour. Salary is dependent upon exper",
-  "kw_hits": [],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Gannett Fleming:14738",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -56445,7 +56312,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56739,7 +56606,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56771,7 +56638,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56995,7 +56862,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -57494,7 +57361,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -60383,9 +60250,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -60553,9 +60420,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -60685,9 +60552,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -60717,9 +60584,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -61002,9 +60869,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -61276,7 +61143,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -64650,9 +64517,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -68609,7 +68476,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68679,7 +68546,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69582,7 +69449,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69654,7 +69521,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70166,7 +70033,7 @@
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -70200,7 +70067,7 @@
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -70224,7 +70091,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70549,7 +70416,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -73148,7 +73015,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -74196,38 +74063,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "VHB:6308",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "VHB:6307",
-  "company": "VHB",
-  "role": "Water Resources Intern - Summer 2027",
-  "location": "Charlotte, NC, US",
-  "link": "https://careers-vhb.icims.com/jobs/6307/water-resources-intern---summer-2027/job",
-  "posted": "2026-09-09",
-  "posted_source": "approx",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "$19 - $30/hr (~$39.5k - $62.4k/yr)",
-  "salary_evidence": "[converted from hourly pay] position, located in North Carolina, is $19 to $30. The actual hourly rate offered will be",
-  "kw_hits": [],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "VHB:6307",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -75339,7 +75174,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75376,7 +75211,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75414,7 +75249,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75453,7 +75288,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Pacific Fusion:4505556009",
@@ -75491,7 +75326,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "RTX:/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Electrical-Engineering-Intern--Summer-2027-_01889354",
@@ -75738,7 +75573,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
@@ -75779,7 +75614,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Toyota Research Institute:c6569529-4b6b-4229-b2c9-f97467c26cd3",
@@ -75815,7 +75650,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "BorgWarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583",
@@ -75853,7 +75688,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Entegris:/job/Aurora-IL/Materials-Solutions-Engineering-Intern---Summer-2027_REQ-15856",
@@ -75890,7 +75725,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Intuitive Surgical:744000161896920",
@@ -75965,7 +75800,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Anduril:5297134007",
@@ -76035,7 +75870,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Tool-Center-Engineer--Co-op-_J-00358223",
@@ -76075,7 +75910,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
@@ -76109,7 +75944,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356811",
@@ -76148,7 +75983,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Boston Scientific:1451173500",
@@ -76187,7 +76022,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Boston Scientific:1451189300",
@@ -76225,7 +76060,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Texas Instruments:25019537",
@@ -76263,7 +76098,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Hach:/job/Loveland-Colorado-United-States/Production-Engineer-Co-Op_R10269538",
@@ -76301,7 +76136,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Kimley-Horn:27030",
@@ -76335,7 +76170,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Kimley-Horn:27919",
@@ -76371,7 +76206,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Mitsubishi Chemical America:/job/Covington-Georgia/Engineering-Intern_JR_0001342",
@@ -76408,7 +76243,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "BWX Technologies:1451051300",
@@ -76484,7 +76319,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Stantec:1007840",
@@ -76520,7 +76355,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Olsson:5473398008",
@@ -76556,7 +76391,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Olsson:5473405008",
@@ -76592,7 +76427,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Clarios:/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51206",
@@ -76630,7 +76465,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Clarios:/job/United-States-Ohio-Holland/Engineering-Intern---Toledo--OH--Summer-2027-_WD51203",
@@ -76671,7 +76506,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "GlobalFoundries:/job/USA---Texas---Austin/Tapeout-Engineering-Business-Products---Engineering-Intern--Summer-2027-_JR-2604927",
@@ -76708,7 +76543,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "GlobalFoundries:/job/USA---Texas---Austin/Tapeout-Engineering-Business-Products---Engineering-Intern--Summer-2027-_JR-2604926",
@@ -77025,7 +76860,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Black and Veatch:1457710433",
@@ -77062,7 +76897,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Westinghouse:1441266500",
@@ -77100,7 +76935,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "RTX:/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
@@ -77234,7 +77069,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77269,7 +77104,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77459,7 +77294,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "General Motors:/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
@@ -79612,7 +79447,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80194,9 +80029,9 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -80204,7 +80039,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 1
  },
  {
@@ -80338,7 +80173,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
