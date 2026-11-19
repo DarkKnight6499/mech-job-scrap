@@ -202,7 +202,7 @@ def test_season_waiver_list_validates(words):
 def test_draft_and_example_filters_agree():
     example = json.loads((vc.ROOT / "config.example.json").read_text(encoding="utf-8"))
     draft = _repo_json("config.json")
-    assert set(draft) == {"notify", "filters", "companies", "keywords"}
+    assert set(draft) == {"notify", "filters", "companies", "keywords", "profile"}
     assert vc.validate_filters(draft) == []
     assert all(example[key] == draft[key] for key in draft if key != "companies")
 

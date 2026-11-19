@@ -60,6 +60,7 @@ REPO_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(REPO_DIR))
 
 import atomic_json  # noqa: E402
+import fit_score  # noqa: E402
 from keyword_matching import contains_any, contains_term, first_match  # noqa: E402
 
 HOME = Path(os.environ.get("JOB_SCOUT_HOME", REPO_DIR / "data"))
@@ -4400,6 +4401,8 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
     "new" postings get their own table up top; every other open state (shortlisted, applied, ...)
     collapses into a <details> section; closed/removed entries (any state) go in one final section so
     a growing history doesn't bury what's actionable today."""
+    profile = load_json(HOME / "config.json", {}).get("profile") or {}
+
     def row_html(e):
         posted = e.get("posted") or ""
         closed = bool(e.get("closed_on"))
@@ -4427,6 +4430,11 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
             row_title = (f' title="closed {html.escape(e["closed_on"])} ({html.escape(e.get("closed_reason") or "")}); '
                          f'last live {html.escape(e.get("last_seen_live") or "unknown")}"')
         state_cell = f'<td>{html.escape(e["state"])}</td>' if closed else ""
+        if profile:
+            fit, why = fit_score.score_row(e["role"], e["company"], e.get("kw_hits"), profile)
+            fit_cells = f'<td class="fit" data-score="{fit}">{fit}</td><td class="why">{html.escape(why)}</td>'
+        else:
+            fit_cells = ""
         first_seen = e.get("first_seen") or ""
         opt_data = ' data-no-sponsorship="1"' if e.get("sponsorship_status") in NO_SPONSORSHIP_STATUSES else ""
         if e.get("sponsorship_status") == "Blocked":
@@ -4452,12 +4460,13 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
             f'<td>{html.escape(e["location"])}</td>'
             f'<td title="{salary_evidence}" class="salary">{html.escape(salary_label)}</td>'
             f'<td class="kw">{html.escape(kw)}</td>'
+            f'{fit_cells}'
             f'{state_cell}'
             f'</tr>'
         )
 
     head = ("<tr><th>Posted</th><th>Company</th><th>Role</th><th>Actions</th><th>Location</th>"
-            "<th>Salary</th><th>Keywords</th></tr>")
+            "<th>Salary</th><th>Keywords</th>" + ("<th class=\"fitHead\" title=\"click to sort\">Fit</th><th>Insight</th>" if profile else "") + "</tr>")
     closed_head = head.replace("<th>Actions</th>", "").replace("</tr>", "<th>State</th></tr>")
 
     open_q = [e for e in q if not e.get("closed_on")]
@@ -4553,6 +4562,9 @@ tr.hidden-by-filter {{ display: none; }}
 #unsupported .uns-panel ul {{ margin: 0; padding: 0; list-style: none; }}
 #unsupported .uns-panel li {{ display: flex; justify-content: space-between; gap: 10px; padding: 3px 0; border-top: 1px solid #eee; }}
 #unsupported .uns-panel li span {{ color: #777; text-align: right; }}
+td.fit {{ font-weight: 700; text-align: center; }}
+td.why {{ color: #555; font-size: 0.8rem; min-width: 220px; }}
+th.fitHead {{ cursor: pointer; }}
 #filterReset {{ order: 99; margin-left: 8px; }}
 </style></head>
 <body>
@@ -4852,6 +4864,20 @@ tr.hidden-by-filter {{ display: none; }}
   btn.addEventListener('click', function() {{
     sec.setAttribute('open', '');
     sec.scrollIntoView({{block: 'start', behavior: 'smooth'}});
+  }});
+}})();
+(function() {{
+  var dir = -1;
+  document.addEventListener('click', function(ev) {{
+    var th = ev.target.closest && ev.target.closest('th.fitHead');
+    if (!th) return;
+    var table = th.closest('table'), body = table.tBodies[0], idx = th.cellIndex;
+    var list = Array.prototype.slice.call(body.rows);
+    list.sort(function(a, b) {{
+      return dir * ((parseFloat(a.cells[idx].getAttribute('data-score')) || 0) - (parseFloat(b.cells[idx].getAttribute('data-score')) || 0));
+    }});
+    dir = -dir;
+    list.forEach(function(r) {{ body.appendChild(r); }});
   }});
 }})();
 </script>

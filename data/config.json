@@ -5405,5 +5405,277 @@
   "fabrication",
   "product management",
   "project management"
- ]
+ ],
+ "profile": {
+  "themes": [
+   {
+    "label": "membranes/filtration",
+    "weight": 22,
+    "terms": [
+     "membrane",
+     "membranes",
+     "filtration",
+     "desalination",
+     "water treatment",
+     "separation",
+     "permeance",
+     "reverse osmosis",
+     "water technologies"
+    ]
+   },
+   {
+    "label": "materials/polymers",
+    "weight": 18,
+    "terms": [
+     "material",
+     "materials",
+     "polymer",
+     "polymers",
+     "composite",
+     "composites",
+     "metallurgy",
+     "coating",
+     "coatings",
+     "nylon",
+     "characterization",
+     "sem",
+     "afm",
+     "microscopy",
+     "materials science"
+    ]
+   },
+   {
+    "label": "CAD/mechanical design",
+    "weight": 14,
+    "terms": [
+     "cad",
+     "solidworks",
+     "fusion 360",
+     "autocad",
+     "mechanical design",
+     "design engineer",
+     "mechanical designer",
+     "tooling",
+     "prototype",
+     "prototyping",
+     "mechanical"
+    ]
+   },
+   {
+    "label": "aerospace/UAV",
+    "weight": 13,
+    "terms": [
+     "aerospace",
+     "aircraft",
+     "uav",
+     "uas",
+     "drone",
+     "helicopter",
+     "flight",
+     "propulsion",
+     "vtol",
+     "airframe",
+     "space"
+    ]
+   },
+   {
+    "label": "simulation/analysis",
+    "weight": 10,
+    "terms": [
+     "ansys",
+     "fea",
+     "cfd",
+     "thermal",
+     "structural analysis",
+     "stress",
+     "fluent",
+     "simulation",
+     "modal",
+     "aerodynamics"
+    ]
+   },
+   {
+    "label": "manufacturing/fabrication",
+    "weight": 12,
+    "terms": [
+     "manufacturing",
+     "fabrication",
+     "additive",
+     "production",
+     "process engineering",
+     "assembly",
+     "3d printing",
+     "quality"
+    ]
+   },
+   {
+    "label": "robotics/controls",
+    "weight": 10,
+    "terms": [
+     "robotics",
+     "robot",
+     "mechatronics",
+     "mechatronic",
+     "controls",
+     "automation",
+     "plc",
+     "scada",
+     "hmi"
+    ]
+   },
+   {
+    "label": "R&D/project",
+    "weight": 6,
+    "terms": [
+     "r&d",
+     "research",
+     "development",
+     "project",
+     "program",
+     "product"
+    ]
+   }
+  ],
+  "company_themes": [
+   {
+    "company": "Veolia",
+    "label": "membrane/water employer",
+    "weight": 14
+   },
+   {
+    "company": "Xylem",
+    "label": "membrane/water employer",
+    "weight": 14
+   },
+   {
+    "company": "Entegris",
+    "label": "filtration/materials employer",
+    "weight": 14
+   },
+   {
+    "company": "Donaldson",
+    "label": "filtration employer",
+    "weight": 14
+   },
+   {
+    "company": "Pall",
+    "label": "filtration employer",
+    "weight": 14
+   },
+   {
+    "company": "Evoqua",
+    "label": "water treatment employer",
+    "weight": 14
+   },
+   {
+    "company": "Toray",
+    "label": "membrane/materials employer",
+    "weight": 14
+   },
+   {
+    "company": "DuPont",
+    "label": "membrane/materials employer",
+    "weight": 14
+   },
+   {
+    "company": "Hexcel",
+    "label": "composites employer",
+    "weight": 12
+   },
+   {
+    "company": "W. L. Gore",
+    "label": "membrane/polymer employer",
+    "weight": 14
+   },
+   {
+    "company": "Corning",
+    "label": "materials employer",
+    "weight": 12
+   },
+   {
+    "company": "3M",
+    "label": "materials employer",
+    "weight": 10
+   },
+   {
+    "company": "Parker",
+    "label": "filtration/fluid employer",
+    "weight": 8
+   },
+   {
+    "company": "Pentair",
+    "label": "water employer",
+    "weight": 12
+   },
+   {
+    "company": "A. O. Smith",
+    "label": "water employer",
+    "weight": 10
+   },
+   {
+    "company": "Cytiva",
+    "label": "filtration/bioprocess employer",
+    "weight": 10
+   },
+   {
+    "company": "Repligen",
+    "label": "filtration employer",
+    "weight": 12
+   },
+   {
+    "company": "Sartorius",
+    "label": "filtration employer",
+    "weight": 12
+   },
+   {
+    "company": "Merit Medical",
+    "label": "polymer/medical device employer",
+    "weight": 6
+   },
+   {
+    "company": "Carpenter Technology",
+    "label": "metallurgy employer",
+    "weight": 12
+   },
+   {
+    "company": "Howmet",
+    "label": "materials/aerospace employer",
+    "weight": 8
+   },
+   {
+    "company": "Kennametal",
+    "label": "materials employer",
+    "weight": 10
+   },
+   {
+    "company": "Novelis",
+    "label": "metals employer",
+    "weight": 10
+   },
+   {
+    "company": "Lydian",
+    "label": "coatings employer",
+    "weight": 8
+   }
+  ],
+  "graduate_terms": [
+   "master's",
+   "masters",
+   "graduate",
+   "ms ",
+   "m.s."
+  ],
+  "undergrad_only_terms": [
+   "undergraduate",
+   "bachelor's",
+   "bachelors",
+   "bs only"
+  ],
+  "gap_terms": [
+   "software",
+   "finance",
+   "clinical",
+   "legal"
+  ]
+ }
 }
