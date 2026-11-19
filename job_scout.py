@@ -4466,7 +4466,7 @@ def write_queue_html(q, path, updated_at=None, closed_json=None, filtered_json=N
         )
 
     head = ("<tr><th>Posted</th><th>Company</th><th>Role</th><th>Actions</th><th>Location</th>"
-            "<th>Salary</th><th>Keywords</th>" + ("<th class=\"fitHead\" title=\"click to sort\">Fit</th><th>Insight</th>" if profile else "") + "</tr>")
+            "<th>Salary</th><th>Keywords</th>" + ("<th class=\"fitHead\" title=\"click to sort: high-low, low-high, original order\">Fit</th><th>Insight</th>" if profile else "") + "</tr>")
     closed_head = head.replace("<th>Actions</th>", "").replace("</tr>", "<th>State</th></tr>")
 
     open_q = [e for e in q if not e.get("closed_on")]
@@ -4867,18 +4867,34 @@ th.fitHead {{ cursor: pointer; }}
   }});
 }})();
 (function() {{
-  var dir = -1;
+  // Fit header cycles high-to-low, low-to-high, then back to the original (date) order; Reset all filters also restores it.
+  var state = 0;
+  function bodyOf(table) {{ return table.tBodies[0]; }}
+  function tag(table) {{
+    Array.prototype.forEach.call(bodyOf(table).rows, function(r, i) {{ if (r.getAttribute('data-orig') === null) r.setAttribute('data-orig', i); }});
+  }}
+  function order(table, key, dir) {{
+    var body = bodyOf(table), list = Array.prototype.slice.call(body.rows);
+    list.sort(function(a, b) {{ return dir * (key(a) - key(b)); }});
+    list.forEach(function(r) {{ body.appendChild(r); }});
+  }}
+  function restore() {{
+    state = 0;
+    Array.prototype.forEach.call(document.querySelectorAll('table'), function(t) {{
+      if (t.tBodies[0] && t.querySelector('th.fitHead')) order(t, function(r) {{ return parseFloat(r.getAttribute('data-orig')) || 0; }}, 1);
+    }});
+  }}
   document.addEventListener('click', function(ev) {{
     var th = ev.target.closest && ev.target.closest('th.fitHead');
     if (!th) return;
-    var table = th.closest('table'), body = table.tBodies[0], idx = th.cellIndex;
-    var list = Array.prototype.slice.call(body.rows);
-    list.sort(function(a, b) {{
-      return dir * ((parseFloat(a.cells[idx].getAttribute('data-score')) || 0) - (parseFloat(b.cells[idx].getAttribute('data-score')) || 0));
-    }});
-    dir = -dir;
-    list.forEach(function(r) {{ body.appendChild(r); }});
+    var table = th.closest('table'), idx = th.cellIndex;
+    tag(table);
+    state = (state + 1) % 3;
+    if (state === 0) {{ restore(); return; }}
+    order(table, function(r) {{ return parseFloat(r.cells[idx].getAttribute('data-score')) || 0; }}, state === 1 ? -1 : 1);
   }});
+  var rb = document.getElementById('filterReset');
+  if (rb) rb.addEventListener('click', restore);
 }})();
 </script>
 </body></html>"""
