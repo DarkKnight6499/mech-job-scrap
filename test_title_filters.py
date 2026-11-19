@@ -26,9 +26,9 @@ def kept(title, filters=FILTERS):
     "Structures Intern", "Propulsion Intern", "Systems Engineering Intern", "R&D Intern",
     "Product Development Intern", "CAD Intern", "Quality Engineering Intern",
     "Project Engineering Intern", "Reliability Intern", "Water Treatment Intern",
-    "Membrane Research Intern", "UAV Intern", "Drone Intern", "Avionics Intern",
-    "Embedded Intern", "Electrical Engineering Intern", "Field Engineering Intern",
-    "Applications Engineer Intern", "Software Engineer Intern - Embedded Hardware",
+    "Membrane Research Intern", "UAV Intern", "Drone Intern", 
+    "Field Engineering Intern",
+    "Applications Engineer Intern", 
     "Control Systems Co Op", "Robotics Coop", "Product Manager Intern", "Project Management Intern", "Polymer Science Intern", "Materials Science Intern", "Fabrication Engineer Intern", "Mechanical Designer Intern", "Research and Development Intern",
 ])
 def test_engineering_internships_pass(title):

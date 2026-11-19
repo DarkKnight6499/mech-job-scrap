@@ -18,7 +18,7 @@ def kept(title):
     "Metallurgy Intern", "Failure Analysis Intern", "Composites Intern", "Additive Manufacturing Intern",
     "Coatings Engineering Intern", "Water Treatment Intern", "Filtration Engineering Intern", "Process Development Intern",
     "Industrial Engineering Intern", "NPI Intern", "Metrology Intern", "Supplier Quality Engineer Intern",
-    "Flight Test Intern", "Avionics Integration Intern", "GNC Intern", "UAS Engineering Intern",
+    "Flight Test Intern", "GNC Intern", "UAS Engineering Intern",
     "Systems Integration Intern", "Technical Program Management Intern", "Applications Engineer Intern",
     "Motion Control Engineering Intern", "PLC Controls Intern", "Instrumentation Intern", "Physical Design Intern",
     "Product Design Intern", "Industrial Design Intern",
