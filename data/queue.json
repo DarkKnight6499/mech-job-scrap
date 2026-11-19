@@ -5310,7 +5310,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10333,7 +10333,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10370,7 +10370,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -18208,7 +18208,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23096,7 +23096,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23132,7 +23132,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23166,7 +23166,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24447,7 +24447,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24515,7 +24515,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24549,7 +24549,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24583,7 +24583,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24617,7 +24617,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24685,7 +24685,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24719,7 +24719,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24753,7 +24753,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24787,7 +24787,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24819,7 +24819,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24853,7 +24853,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24887,7 +24887,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -32561,7 +32561,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -32595,7 +32595,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -32666,7 +32666,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -34715,7 +34715,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -37030,7 +37030,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -37065,7 +37065,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56312,7 +56312,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56606,7 +56606,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56638,7 +56638,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56862,7 +56862,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -57361,7 +57361,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -65614,7 +65614,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -67018,7 +67018,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -67263,7 +67263,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68444,7 +68444,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68514,7 +68514,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68584,7 +68584,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69417,7 +69417,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69489,7 +69489,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69525,7 +69525,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70059,7 +70059,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70384,7 +70384,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -72983,7 +72983,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75320,7 +75320,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75391,7 +75391,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75540,7 +75540,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75581,7 +75581,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75617,7 +75617,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75655,7 +75655,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75692,7 +75692,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75767,7 +75767,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75837,7 +75837,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75877,7 +75877,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75911,7 +75911,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75950,7 +75950,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -75979,7 +75979,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75989,7 +75989,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76027,7 +76027,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76065,7 +76065,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76103,7 +76103,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76137,7 +76137,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76173,7 +76173,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76210,7 +76210,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76286,7 +76286,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76322,7 +76322,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76358,7 +76358,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76394,7 +76394,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76432,7 +76432,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76473,7 +76473,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76510,7 +76510,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76817,7 +76817,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -76827,7 +76827,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76854,7 +76854,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -76864,7 +76864,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -76902,7 +76902,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -77037,7 +77037,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77072,7 +77072,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-19",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -77261,7 +77261,7 @@
   "lineage_first_seen": "2026-11-17",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -77300,7 +77300,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Leidos:/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135",
@@ -77372,7 +77372,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Johnson Controls:/job/Milwaukee-Wisconsin-United-States-of-America/Materials-Engineering-Intern_WD30285102",
@@ -77410,7 +77410,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Johnson Controls:/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
@@ -77449,7 +77449,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Rockwell Automation:/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-2",
@@ -77486,7 +77486,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Micron:/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR117268",
@@ -77523,7 +77523,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Moog:/job/Torrance-CA/Intern--Quality-Engineering_R-26-19822",
@@ -77560,7 +77560,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Shield AI:af061c1a-f291-4540-be30-2df5adc22cc5",
@@ -77597,7 +77597,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Toyota Research Institute:7f676d3c-6a86-4b00-a9fd-c1009035fe49",
@@ -77633,7 +77633,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Daimler Truck North America:/job/High-Point-NC-US/Mechanical-Design-Engineering-Intern_DT-20712-1",
@@ -77670,7 +77670,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Regal Rexnord:/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-2027-_R26_06206",
@@ -77711,7 +77711,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Intuitive Surgical:744000162128885",
@@ -77748,7 +77748,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Smith and Nephew:/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
@@ -77786,7 +77786,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Aerospace Corporation:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
@@ -77888,7 +77888,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/San-Diego-CA-USA/Internship---Optical-Engineering_J-00355371",
@@ -77925,7 +77925,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369",
@@ -77961,7 +77961,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Terracon:4166",
@@ -77998,7 +77998,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Garmin:22448",
@@ -78035,7 +78035,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Steel Dynamics:8619",
@@ -78074,7 +78074,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Steel Dynamics:8618",
@@ -78115,7 +78115,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Amgen:/job/United-States---Remote/Grad-Intern---Product-Quality---Global-Chemistry-Manufacturing---Controls-Statistician--Summer-2027-_R-261900",
@@ -78154,7 +78154,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Amgen:/job/US---California---Thousand-Oaks/Grad-Intern---Protein-Engineering--Summer-2027-_R-261826",
@@ -78190,7 +78190,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Amgen:/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924",
@@ -78227,7 +78227,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Sanofi US:/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211",
@@ -79415,9 +79415,9 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 5,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 6,
+  "closed_on": "2026-11-19",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -79425,7 +79425,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 1
  },
  {
@@ -80141,7 +80141,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-18",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -83355,6 +83355,263 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Black and Veatch:1440276233",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "GE Aerospace:/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659",
+  "company": "GE Aerospace",
+  "role": "Manufacturing Engineering Intern \u2013 US \u2013 Summer 2027",
+  "location": "Evendale; Batesville; Durham; Bohemia; Arkansas City; Auburn AL USA; Madisonville; Asheville; Dayton; Rutland; Clearwater; Greenville; Terre Haute; Wilmington NC USA; McAllen; Erlanger; West Jefferson; Hooksett; Lafayette IN USA; Norwich; Lynn; Jacksonville; Sterling VA USA",
+  "link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": "GE_ExternalSite",
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "No Sponsorship",
+  "sponsorship_evidence": "[now or future] [sponsorship/support refused] ...authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the f...",
+  "salary": "$20/hr (~$41.6k/yr)",
+  "salary_evidence": "[converted from hourly pay] s: Pay rates for this position begin at $20/hour and increase for each undergraduat",
+  "kw_hits": [
+   "mechanical",
+   "aerospace",
+   "controls",
+   "manufacturing",
+   "materials",
+   "polymer",
+   "project management"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "GE Aerospace:/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Skyworks:1452087000",
+  "company": "Skyworks",
+  "role": "Industrial Engineering Intern",
+  "location": "Richardson, US, 75080",
+  "link": "https://careers.skyworksinc.com/job/Richardson-Industrial-Engineering-Intern-TX-75080/1452087000/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "No Sponsorship",
+  "sponsorship_evidence": "[sponsorship/support refused] ...th internships are also considered. This position is not eligible for visa sponsorship by the Company. Responsibilities Support Indu...",
+  "salary": "$23 - $49/hr (~$47.8k - $101.9k/yr)",
+  "salary_evidence": "[converted from hourly pay] [2 ranges listed, widest shown] ing intern across the U.S. is currently USD $29.00 - $49.00 per hour and for a Non-Engineering intern across the U.S. is currently USD $23.00 - $42.00 per hour. Starting pay will depend on le",
+  "kw_hits": [
+   "manufacturing"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Skyworks:1452087000",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Westinghouse:1427821000",
+  "company": "Westinghouse",
+  "role": "Summer Intern - Project Management",
+  "location": "Cranberry Township, US",
+  "link": "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Project-Management-NC/1427821000/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$23 - $26.30/hr (~$47.8k - $54.7k/yr)",
+  "salary_evidence": "[converted from hourly pay] ications and skills, is estimated to be $23.00 to $26.30 per hour. #LI-Hybrid, #LI-Internship Why",
+  "kw_hits": [
+   "project management"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Westinghouse:1427821000",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Westinghouse:1427821100",
+  "company": "Westinghouse",
+  "role": "Summer Intern - Project Management",
+  "location": "Cranberry Township, US",
+  "link": "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Project-Management-NC/1427821100/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$23 - $26.30/hr (~$47.8k - $54.7k/yr)",
+  "salary_evidence": "[converted from hourly pay] ications and skills, is estimated to be $23.00 to $26.30 per hour. #LI-Hybrid, #LI-Internship Why",
+  "kw_hits": [
+   "project management"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Westinghouse:1427821100",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Westinghouse:1422584800",
+  "company": "Westinghouse",
+  "role": "Summer Intern - Nuclear Engineering",
+  "location": "Cranberry Township, US",
+  "link": "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Nuclear-Engineering-NC/1422584800/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$25.40 - $29/hr (~$52.8k - $60.3k/yr)",
+  "salary_evidence": "[converted from hourly pay] ications and skills, is estimated to be $25.40 to $29.00 per hour. #LI-Hybrid, #LI-Internship Why",
+  "kw_hits": [],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Westinghouse:1422584800",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Westinghouse:1422602200",
+  "company": "Westinghouse",
+  "role": "Summer Intern - Mechanical Engineering",
+  "location": "Cranberry Township, US",
+  "link": "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Mechanical-Engineering-NC/1422602200/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$25.40 - $29/hr (~$52.8k - $60.3k/yr)",
+  "salary_evidence": "[converted from hourly pay] ications and skills, is estimated to be $25.40 to $29.00 per hour. #LI-Hybrid, #LI-Internship Why",
+  "kw_hits": [
+   "mechanical",
+   "manufacturing"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Westinghouse:1422602200",
+  "lineage_first_seen": "2026-11-19",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Westinghouse:1437457800",
+  "company": "Westinghouse",
+  "role": "Summer Intern - Project Management",
+  "location": "Cranberry Township, US",
+  "link": "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Project-Management-NC/1437457800/",
+  "posted": "2026-11-19",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-19",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$23 - $26.30/hr (~$47.8k - $54.7k/yr)",
+  "salary_evidence": "[converted from hourly pay] ications and skills, is estimated to be $23.00 to $26.30 per hour. #LI-Hybrid, #LI-Internship Why",
+  "kw_hits": [
+   "project management"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-19",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Westinghouse:1437457800",
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
