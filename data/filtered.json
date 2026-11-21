@@ -1,7 +1,140 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "companies": {
   "Markforged": {
+   "rows": [],
+   "n": 0
+  },
+  "Flowserve": {
+   "rows": [],
+   "n": 0
+  },
+  "CACI": {
+   "rows": [
+    [
+     "/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+     "AWS Cloud Engineering Intern - Summer 2027",
+     "Sarasota, FL, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
+     "title_exclude",
+     "cloud",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+     "AI Prompt Engineering Trainee (High School) - Summer 2027",
+     "Ashburn, VA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+     "title_exclude",
+     "high school",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
+     "Embedded Software Development Intern - Summer 2027",
+     "Denver, CO, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+     "AI/ML Engineering Co-op - Spring 2027",
+     "King of Prussia, PA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
+     "Software Engineering Co-op - Spring 2027",
+     "King of Prussia, PA, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
+     "Naval Architecture/Marine Engineering Intern - Spring 2027",
+     "Washington, DC, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
+     "Cleared Software Engineer Intern - Summer 2027",
+     "2 Locations (Denver CO US)",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+     "Software Engineer Intern - Summer 2027",
+     "Omaha, NE, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
+     "Network Engineer Intern - Summer 2027",
+     "High Point, NC, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
+     "title_exclude",
+     "network engineer",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+     "Software Engineering Co-op - Summer & Fall 2027",
+     "Danbury, CT, US",
+     "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 10
+  },
+  "Terex": {
    "rows": [],
    "n": 0
   },
@@ -11,18 +144,6 @@
   },
   "Rocket Lab": {
    "rows": [
-    [
-     "7990683003",
-     "Electrical Engineering Intern Summer 2027",
-     "Long Beach, CA",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-09-10",
-      "first_seen": ""
-     }
-    ],
     [
      "7998598003",
      "Electrical Engineering Intern Summer 2027",
@@ -36,14 +157,14 @@
      }
     ],
     [
-     "8042094003",
-     "Ground Systems Engineering Intern Spring 2027",
-     "Middle River, MD",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-     "title_exclude",
-     "spring 2027",
+     "7990683003",
+     "Electrical Engineering Intern Summer 2027",
+     "Long Beach, CA",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+     "title_exclude_unless",
+     "electrical",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-09-10",
       "first_seen": ""
      }
     ],
@@ -60,14 +181,14 @@
      }
     ],
     [
-     "7984943003",
-     "Manufacturing Engineering Intern Spring 2027",
-     "Long Beach, CA",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
+     "8042094003",
+     "Ground Systems Engineering Intern Spring 2027",
+     "Middle River, MD",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-09-16",
+      "posted": "2026-11-02",
       "first_seen": ""
      }
     ],
@@ -76,6 +197,18 @@
      "Manufacturing Engineering Intern Spring 2027",
      "Middle River, MD",
      "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "7984943003",
+     "Manufacturing Engineering Intern Spring 2027",
+     "Long Beach, CA",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
      "title_exclude",
      "spring 2027",
      {
@@ -506,9 +639,21 @@
       "posted": "2026-11-19",
       "first_seen": ""
      }
+    ],
+    [
+     "5290949007",
+     "Power Electronics Control Engineer Intern, Summer 2027   ",
+     "Newark, CA",
+     "https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007",
+     "title_exclude_unless",
+     "electronics",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Waymo": {
    "rows": [
@@ -1501,7 +1646,7 @@
      "title_exclude",
      "winter",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -1513,7 +1658,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1525,7 +1670,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1537,7 +1682,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -1549,7 +1694,7 @@
      "title_exclude_unless",
      "fpga",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -1561,7 +1706,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-15",
+      "posted": "2026-11-16",
       "first_seen": ""
      }
     ],
@@ -1573,7 +1718,7 @@
      "title_exclude",
      "winter",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -1585,7 +1730,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -1597,7 +1742,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -1609,7 +1754,7 @@
      "title_exclude_unless",
      "electronic",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -1621,7 +1766,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -1633,7 +1778,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -1645,7 +1790,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -1657,7 +1802,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -1669,7 +1814,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -1681,7 +1826,7 @@
      "title_exclude_unless",
      "environmental health",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -1692,6 +1837,30 @@
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
      "title_exclude_unless",
      "rf",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
+     "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
+     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
+     "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
+     "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
+     "title_exclude_unless",
+     "avionics",
      {
       "posted": "",
       "first_seen": ""
@@ -1732,30 +1901,6 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
-     "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
-     "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
-     "title_exclude_unless",
-     "avionics",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
    "n": 22
@@ -1770,7 +1915,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1782,7 +1927,7 @@
      "title_exclude",
      "fall",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1794,7 +1939,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1806,7 +1951,7 @@
      "title_exclude",
      "cybersecurity",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -1818,7 +1963,7 @@
      "title_exclude_unless",
      "environmental health",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -1830,7 +1975,7 @@
      "title_exclude",
      "skillbridge",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -1842,7 +1987,7 @@
      "title_exclude",
      "skillbridge",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ]
@@ -1883,7 +2028,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -1895,7 +2040,7 @@
      "title_exclude",
      "devops",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -1907,7 +2052,7 @@
      "title_exclude",
      "network engineer",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -1919,7 +2064,7 @@
      "title_exclude",
      "summer 2026",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -1931,7 +2076,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -1996,7 +2141,7 @@
      "title_exclude",
      "supply chain",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2008,7 +2153,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -2020,7 +2165,7 @@
      "title_exclude",
      "machine learning",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -2032,7 +2177,7 @@
      "title_exclude",
      "machine learning",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-10-31",
       "first_seen": ""
      }
     ],
@@ -2044,7 +2189,7 @@
      "title_exclude_unless",
      "electronics",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-10-31",
       "first_seen": ""
      }
     ],
@@ -2056,7 +2201,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ],
@@ -2068,7 +2213,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -2080,7 +2225,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -2221,7 +2366,7 @@
      "title_exclude",
      "data engineer",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -2233,7 +2378,7 @@
      "title_exclude_unless",
      "fpga",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -2245,7 +2390,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2257,7 +2402,7 @@
      "title_exclude",
      "chief",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -2269,7 +2414,7 @@
      "title_exclude_unless",
      "power delivery",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -2281,7 +2426,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -2293,7 +2438,7 @@
      "title_exclude",
      "cybersecurity",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -2387,7 +2532,7 @@
      "title_exclude_unless",
      "firmware",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -2444,7 +2589,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -2456,7 +2601,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2468,7 +2613,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2480,7 +2625,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2492,7 +2637,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ]
@@ -2513,7 +2658,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -2525,7 +2670,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -2537,7 +2682,7 @@
      "title_exclude_unless",
      "firmware",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -2549,7 +2694,7 @@
      "title_exclude_unless",
      "firmware",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -2626,7 +2771,7 @@
      "title_exclude",
      "ai engineer",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -2638,7 +2783,7 @@
      "title_exclude_unless",
      "device engineer",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -2650,7 +2795,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -2662,7 +2807,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -2708,6 +2853,18 @@
   "Carrier": {
    "rows": [
     [
+     "/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30220218",
+     "Electrical Engineering Intern - Summer",
+     "CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA",
+     "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30220218",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Mechanical-Engineering-Intern---Spring_30220992",
      "Mechanical Engineering Intern - Spring",
      "CANHQ: CCS HQ - Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA",
@@ -2715,12 +2872,12 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Abbott": {
    "rows": [
@@ -2742,18 +2899,6 @@
   "Analog Devices": {
    "rows": [
     [
-     "/job/US-OR-Beaverton/Analog-Design-Engineering-Intern_R268078",
-     "Analog Design Engineering Intern",
-     "US, OR, Beaverton",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Analog-Design-Engineering-Intern_R268078",
-     "title_exclude_unless",
-     "analog",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
      "Analog Design Engineer Intern",
      "US, CA, San Jose, Rio Robles",
@@ -2761,7 +2906,7 @@
      "title_exclude_unless",
      "analog",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -2773,7 +2918,7 @@
      "title_exclude",
      "digital design",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -2785,19 +2930,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-CO-Colorado-Springs-Centennial/Analog-Design-Engineering-Intern---Summer-2027_R268077",
-     "Analog Design Engineering Intern - Summer 2027",
-     "US, CO, Colorado Springs, Centennial",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs-Centennial/Analog-Design-Engineering-Intern---Summer-2027_R268077",
-     "title_exclude_unless",
-     "analog",
-     {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -2809,7 +2942,7 @@
      "title_exclude_unless",
      "analog",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2821,7 +2954,7 @@
      "title_exclude_unless",
      "analog",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2833,7 +2966,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -2845,7 +2978,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -2857,7 +2990,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -2910,7 +3043,7 @@
      }
     ]
    ],
-   "n": 14
+   "n": 12
   },
   "Intel": {
    "rows": [
@@ -2922,7 +3055,7 @@
      "title_exclude",
      "phd intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -2934,7 +3067,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -2946,7 +3079,7 @@
      "title_exclude",
      "phd intern",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -2958,7 +3091,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-10-31",
       "first_seen": ""
      }
     ],
@@ -2970,7 +3103,7 @@
      "title_exclude",
      "phd intern",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -2982,7 +3115,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -2994,7 +3127,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -3231,7 +3364,7 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-11-14",
+      "posted": "2026-11-15",
       "first_seen": ""
      }
     ],
@@ -3243,7 +3376,7 @@
      "internship_year",
      "2026",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -3255,7 +3388,7 @@
      "title_exclude",
      "winter",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -3267,7 +3400,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -3279,7 +3412,7 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "first_seen": ""
      }
     ],
@@ -3291,7 +3424,7 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "first_seen": ""
      }
     ],
@@ -3303,7 +3436,7 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "first_seen": ""
      }
     ],
@@ -3315,7 +3448,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-10-31",
       "first_seen": ""
      }
     ],
@@ -3327,7 +3460,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -3432,7 +3565,7 @@
      "title_exclude",
      "finance",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3444,7 +3577,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3456,7 +3589,7 @@
      "title_exclude",
      "vlsi",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3468,7 +3601,7 @@
      "title_exclude_unless",
      "verification",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3480,7 +3613,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3492,7 +3625,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3504,7 +3637,7 @@
      "title_exclude_unless",
      "asic",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3516,7 +3649,7 @@
      "title_exclude",
      "dft",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3528,7 +3661,7 @@
      "title_exclude",
      "financial",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3540,7 +3673,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3552,7 +3685,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3564,7 +3697,7 @@
      "title_exclude",
      "marketing",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3576,7 +3709,7 @@
      "title_exclude",
      "marketing",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3588,7 +3721,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3600,7 +3733,7 @@
      "title_exclude",
      "vlsi",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3612,7 +3745,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3624,7 +3757,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3636,7 +3769,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3648,7 +3781,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3660,7 +3793,7 @@
      "title_exclude",
      "marketing",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3672,7 +3805,7 @@
      "title_exclude_unless",
      "electronic",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3684,7 +3817,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -3696,7 +3829,7 @@
      "title_exclude",
      "mba intern",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ]
@@ -3704,8 +3837,21 @@
    "n": 23
   },
   "Moog": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21567",
+     "Intern, Electrical Engineering",
+     "Buffalo, NY",
+     "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21567",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "Woodward": {
    "rows": [],
@@ -3725,7 +3871,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -3737,7 +3883,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ]
@@ -3912,7 +4058,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -3924,7 +4070,7 @@
      "title_exclude_unless",
      "purchasing",
      {
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ],
@@ -4001,7 +4147,7 @@
      "title_exclude",
      "procurement",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ]
@@ -4035,7 +4181,7 @@
      "title_exclude",
      "year round",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -4047,7 +4193,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -4059,7 +4205,7 @@
      "title_exclude",
      "year-round",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -4112,7 +4258,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ]
@@ -4324,10 +4470,6 @@
    ],
    "n": 2
   },
-  "Flowserve": {
-   "rows": [],
-   "n": 0
-  },
   "Graco": {
    "rows": [
     [
@@ -4338,7 +4480,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -4350,7 +4492,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -4362,7 +4504,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -4463,7 +4605,7 @@
      "title_exclude_unless",
      "electronics",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -4533,7 +4675,7 @@
      "title_exclude",
      "fall 2027",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -4545,7 +4687,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -4557,7 +4699,7 @@
      "title_exclude",
      "fall 2027",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -4586,7 +4728,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ]
@@ -4603,7 +4745,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -4615,7 +4757,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -4627,7 +4769,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ]
@@ -4643,8 +4785,21 @@
    "n": 0
   },
   "Intuitive Surgical": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "744000162832659",
+     "Data Engineering Intern",
+     "Sunnyvale, CA, us",
+     "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
+     "title_exclude",
+     "data engineering",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "Becton Dickinson": {
    "rows": [],
@@ -4697,7 +4852,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -4709,7 +4864,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -4721,7 +4876,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -4733,7 +4888,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -4745,7 +4900,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -4757,19 +4912,7 @@
      "title_exclude",
      "machine learning",
      {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Austin-TX/Software-Engineering-Intern_2642004-1",
-     "Software Engineering Intern",
-     "Austin, TX",
-     "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-02",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -4781,7 +4924,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -4793,7 +4936,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ],
@@ -4805,7 +4948,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -4834,7 +4977,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 11
   },
   "Tokyo Electron US": {
    "rows": [],
@@ -4977,14 +5120,26 @@
   "NREL (Golden CO)": {
    "rows": [
     [
+     "/job/Golden-CO/Graduate-Intern---Connected-Vehicle--V2X--Communications-Modeling-and-Traffic-Simulation_R14564",
+     "Graduate Intern \u2013 Connected Vehicle (V2X) Communications Modeling and Traffic Simulation",
+     "Golden, CO",
+     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Connected-Vehicle--V2X--Communications-Modeling-and-Traffic-Simulation_R14564",
+     "title_exclude_unless",
+     "communications",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590",
-     "Graduate Intern \u2013  Artificial Learning and Intelligence for Transportation Safety and Operations",
+     "Graduate Intern \u2013  Superintelligence and Learning for Transportation Safety and Operations",
      "2 Locations (Golden CO)",
      "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern----Artificial-Learning-and-Intelligence-for-Transportation-Safety-and-Operations_R14590",
      "title_exclude_unless",
      "transportation",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -4996,7 +5151,7 @@
      "title_exclude",
      "year round",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -5007,18 +5162,6 @@
      "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Graduate-Intern--year-round---Chemical-Engineering-Biomass-conversion-Catalytic-upgrading-Organic-Chemistry_R14520",
      "title_exclude",
      "year-round",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Golden-CO/Graduate-Intern---Connected-Vehicle--V2X--Communications-Modeling-and-Traffic-Simulation_R14564",
-     "Graduate Intern \u2013 Connected Vehicle (V2X) Communications Modeling and Traffic Simulation",
-     "Golden, CO",
-     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Connected-Vehicle--V2X--Communications-Modeling-and-Traffic-Simulation_R14564",
-     "title_exclude_unless",
-     "communications",
      {
       "posted": "",
       "first_seen": ""
@@ -5059,33 +5202,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/Golden-CO/Graduate--Year-Round--Intern---Modeling--Real-Time-Simulation-and-Hardware-in-the-Loop--HIL--Testing-of-Distribution-Systems_R14483",
-     "Graduate (Year-Round) Intern \u2013 Modeling, Real-Time Simulation and Hardware in the Loop (HIL) Testing of Distribution Systems",
-     "Golden, CO",
-     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Modeling--Real-Time-Simulation-and-Hardware-in-the-Loop--HIL--Testing-of-Distribution-Systems_R14483",
-     "title_exclude",
-     "year-round",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
-     "Graduate Intern - LLM Reliability and Uncertainty for AI Science Assistants",
-     "2 Locations (Golden CO)",
-     "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
-     "title_exclude",
-     "llm",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 9
+   "n": 7
   },
   "JPL": {
    "rows": [],
@@ -5105,7 +5224,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -5117,7 +5236,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -5129,7 +5248,7 @@
      "title_exclude",
      "cloud",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -5141,19 +5260,7 @@
      "title_exclude",
      "machine learning",
      {
-      "posted": "2026-11-17",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
-     "2027 Machine Learning Engineer Undergrad Intern",
-     "2 Locations (El Segundo CA)",
-     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
-     "title_exclude",
-     "machine learning",
-     {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -5165,7 +5272,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5177,7 +5284,7 @@
      "title_exclude_unless",
      "analog",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5189,7 +5296,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5201,7 +5308,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5213,7 +5320,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5225,7 +5332,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5237,7 +5344,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5249,7 +5356,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5261,7 +5368,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5273,7 +5380,7 @@
      "title_exclude_unless",
      "rf",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5285,7 +5392,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5297,12 +5404,12 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ]
    ],
-   "n": 17
+   "n": 16
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -5368,14 +5475,26 @@
      }
     ],
     [
-     "5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
-     "Intern - Electrical/Electromechanical Engineer - Spring 2027",
+     "7d1080e7-395c-41ea-b166-641094725747",
+     "Intern - Electrical Engineer - Spring 2027",
      "Devens, MA",
-     "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
+     "https://jobs.lever.co/cfsenergy/7d1080e7-395c-41ea-b166-641094725747",
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "a3a36962-1f34-40d3-b138-401b4e0c24e0",
+     "Intern - Electrical Engineer, RF Heating Systems - Spring 2027",
+     "Devens, MA",
+     "https://jobs.lever.co/cfsenergy/a3a36962-1f34-40d3-b138-401b4e0c24e0",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -5404,7 +5523,7 @@
      }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "TAE Technologies": {
    "rows": [],
@@ -5774,7 +5893,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -5786,7 +5905,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -5798,7 +5917,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -5985,131 +6104,6 @@
    ],
    "n": 18
   },
-  "CACI": {
-   "rows": [
-    [
-     "/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
-     "AWS Cloud Engineering Intern - Summer 2027",
-     "Sarasota, FL, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
-     "title_exclude",
-     "cloud",
-     {
-      "posted": "2026-11-19",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
-     "AI Prompt Engineering Trainee (High School) - Summer 2027",
-     "Ashburn, VA, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
-     "title_exclude",
-     "high school",
-     {
-      "posted": "2026-11-16",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
-     "Embedded Software Development Intern - Summer 2027",
-     "Denver, CO, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-11-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
-     "AI/ML Engineering Co-op - Spring 2027",
-     "King of Prussia, PA, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
-     "Software Engineering Co-op - Spring 2027",
-     "King of Prussia, PA, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
-     "Naval Architecture/Marine Engineering Intern - Spring 2027",
-     "Washington, DC, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/Naval-Architecture-Marine-Engineering-Intern---Spring-2027_334138",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-28",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
-     "Cleared Software Engineer Intern - Summer 2027",
-     "2 Locations (Denver CO US)",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Cleared-Software-Engineer-Intern---Summer-2027_331999",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-23",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
-     "Software Engineer Intern - Summer 2027",
-     "Omaha, NE, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-23",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
-     "Network Engineer Intern - Summer 2027",
-     "High Point, NC, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/High-Point-NC-US/Network-Engineer-Intern---Summer-2027_332843",
-     "title_exclude",
-     "network engineer",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
-     "Software Engineering Co-op - Summer & Fall 2027",
-     "Danbury, CT, US",
-     "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 10
-  },
   "Booz Allen Hamilton": {
    "rows": [
     [
@@ -6120,7 +6114,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -6132,7 +6126,7 @@
      "title_exclude_unless",
      "verification",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -6173,7 +6167,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -6351,7 +6345,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -6363,7 +6357,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -6375,7 +6369,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -6387,7 +6381,7 @@
      "title_exclude",
      "ai engineer",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -6399,7 +6393,7 @@
      "title_exclude",
      "ai engineer",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -6411,7 +6405,7 @@
      "title_exclude",
      "ai engineer",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -6423,7 +6417,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -6435,7 +6429,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -6447,7 +6441,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -6459,7 +6453,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -6471,7 +6465,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -6483,7 +6477,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -6495,7 +6489,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ]
@@ -7293,18 +7287,6 @@
   "Skyworks": {
    "rows": [
     [
-     "1422974400",
-     "RF Validation Engineer Co-op (Summer/Fall 2027)",
-     "Cedar Rapids, IA, US, 52411",
-     "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Validation-Engineer-Co-op-%28SummerFall-2027%29-IA-52411/1422974400/",
-     "title_exclude_unless",
-     "rf",
-     {
-      "posted": "2026-11-20",
-      "first_seen": ""
-     }
-    ],
-    [
      "1423190000",
      "Data Engineering Summer Intern (May-Aug '27)",
      "Irvine, CA, US, 92617",
@@ -7317,14 +7299,14 @@
      }
     ],
     [
-     "1422655400",
-     "RF Validation Engineer - Winter/Spring Co-Op (Jan-June '27)",
-     "Andover, MA, US, 01810",
-     "https://careers.skyworksinc.com/job/Andover-RF-Validation-Engineer-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1422655400/",
-     "title_exclude",
-     "winter",
+     "1422974400",
+     "RF Validation Engineer Co-op (Summer/Fall 2027)",
+     "Cedar Rapids, IA, US, 52411",
+     "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Validation-Engineer-Co-op-%28SummerFall-2027%29-IA-52411/1422974400/",
+     "title_exclude_unless",
+     "rf",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -7341,6 +7323,30 @@
      }
     ],
     [
+     "1422655400",
+     "RF Validation Engineer - Winter/Spring Co-Op (Jan-June '27)",
+     "Andover, MA, US, 01810",
+     "https://careers.skyworksinc.com/job/Andover-RF-Validation-Engineer-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1422655400/",
+     "title_exclude",
+     "winter",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1431930100",
+     "RMI Timing Software Engineering Summer Intern (May-Aug '27)",
+     "Austin, TX, US, 78702",
+     "https://careers.skyworksinc.com/job/Austin-RMI-Timing-Software-Engineering-Summer-Intern-%28May-Aug-'27%29-TX-78702/1431930100/",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "1452146800",
      "Product Engineering Winter/Spring Co-Op (Jan-June '27)",
      "Irvine, CA, US, 92617",
@@ -7353,19 +7359,19 @@
      }
     ],
     [
-     "1431943000",
-     "RF Design Engineering Co-Op (Jan - June '27)",
-     "Andover, MA, US, 01810",
-     "https://careers.skyworksinc.com/job/Andover-RF-Design-Engineering-Co-Op-%28Jan-June-'27%29-MA-01810/1431943000/",
-     "title_exclude_unless",
-     "rf",
+     "1431890800",
+     "Electronic Design Automation Winter/Spring Co-Op (Jan-June '27)",
+     "San Jose, CA, US, 95134",
+     "https://careers.skyworksinc.com/job/San-Jose-Electronic-Design-Automation-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-95134/1431890800/",
+     "title_exclude",
+     "winter",
      {
       "posted": "2026-11-18",
       "first_seen": ""
      }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Qorvo": {
    "rows": [
@@ -7594,18 +7600,6 @@
      }
     ],
     [
-     "1099556431949",
-     "Spring Co-op/Intern Mechanical Engineering",
-     "Greenville, US-SC, United States",
-     "https://careers.fluor.com/careers/job/1099556431949",
-     "title_exclude",
-     "spring",
-     {
-      "posted": "2026-10-05",
-      "first_seen": ""
-     }
-    ],
-    [
      "1099556431816",
      "Spring Co-op/Intern HVAC",
      "Greenville, US-SC, United States",
@@ -7726,7 +7720,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 11
   },
   "Black and Veatch": {
    "rows": [
@@ -8269,18 +8263,6 @@
   "Terracon": {
    "rows": [
     [
-     "4166",
-     "Geotechnical Intern",
-     "Lawrenceville, GA, United States",
-     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4166",
-     "title_exclude_unless",
-     "geotechnical",
-     {
-      "posted": "2026-11-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "4235",
      "Geotechnical Intern",
      "Lenexa, KS, United States",
@@ -8289,6 +8271,18 @@
      "geotechnical",
      {
       "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4166",
+     "Geotechnical Intern",
+     "Lawrenceville, GA, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4166",
+     "title_exclude_unless",
+     "geotechnical",
+     {
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -8622,14 +8616,26 @@
   "Westinghouse": {
    "rows": [
     [
-     "1442826200",
-     "Summer Intern - Software Engineering",
-     "Warrendale, US",
-     "http://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/",
+     "1452766900",
+     "Summer Intern - Electrical Engineering",
+     "Rock Hill, SC, US, 29730",
+     "http://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Electrical-Engineering-SC-29730/1452766900/",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1422595200",
+     "Summer Intern -Computer Engineering / Software Engineering",
+     "Cranberry Township, US",
+     "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/",
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -8652,18 +8658,6 @@
      "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Electrical-Engineering-NC/1422604000/",
      "title_exclude_unless",
      "electrical",
-     {
-      "posted": "2026-11-19",
-      "first_seen": ""
-     }
-    ],
-    [
-     "1422595200",
-     "Summer Intern -Computer Engineering / Software Engineering",
-     "Cranberry Township, US",
-     "http://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/",
-     "title_exclude_unless",
-     "software",
      {
       "posted": "2026-11-19",
       "first_seen": ""
@@ -8736,7 +8730,7 @@
      "title_exclude_unless",
      "electronics",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -8802,7 +8796,7 @@
      "title_exclude",
      "spring",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -8913,7 +8907,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -8925,7 +8919,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -8937,7 +8931,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -8949,7 +8943,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -8961,7 +8955,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -9247,7 +9241,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -9259,7 +9253,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -9271,7 +9265,7 @@
      "title_exclude",
      "cloud",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -9283,7 +9277,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -9295,7 +9289,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -9307,7 +9301,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -9319,7 +9313,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -9485,18 +9479,6 @@
      }
     ],
     [
-     "19948",
-     "Electronics Technician Intern",
-     "Olathe, Kansas",
-     "https://careers.garmin.com/en-US/jobs/19948",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "2026-09-15",
-      "first_seen": ""
-     }
-    ],
-    [
      "19848",
      "Software Engineering Intern",
      "Tucson, Arizona",
@@ -9509,18 +9491,6 @@
      }
     ],
     [
-     "20165",
-     "Software Engineering Intern",
-     "Yarmouth, Maine",
-     "https://careers.garmin.com/en-US/jobs/20165",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-14",
-      "first_seen": ""
-     }
-    ],
-    [
      "19976",
      "Transportation Analyst Intern",
      "Olathe, Kansas",
@@ -9529,6 +9499,18 @@
      "transportation",
      {
       "posted": "2026-09-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "22650",
+     "Software Engineering Intern (Web/Mobile)",
+     "Yarmouth, Maine",
+     "https://careers.garmin.com/en-US/jobs/22650",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -9577,6 +9559,18 @@
      "software",
      {
       "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "19948",
+     "Electronics Technician Intern",
+     "Olathe, Kansas",
+     "https://careers.garmin.com/en-US/jobs/19948",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -9799,7 +9793,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -9811,7 +9805,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -9823,7 +9817,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -9835,7 +9829,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -9936,7 +9930,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ]
@@ -10047,7 +10041,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -10059,7 +10053,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -10071,7 +10065,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -10083,7 +10077,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -10095,7 +10089,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -10107,7 +10101,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -10119,7 +10113,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ]
@@ -10140,7 +10134,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ]
@@ -10161,7 +10155,7 @@
      "title_exclude_unless",
      "electronics",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -10173,7 +10167,7 @@
      "title_exclude_unless",
      "firmware",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -10185,7 +10179,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ]
@@ -10206,7 +10200,7 @@
      "title_exclude_unless",
      "embedded",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -10218,7 +10212,7 @@
      "title_exclude",
      "data engineering",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -10241,18 +10235,6 @@
      "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Brenham-TX/Environmental-Health---Safety--EHS--Intern_R28949",
      "title_exclude_unless",
      "environmental health",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Omaha-NE/Structural-Engineering-Intern_R29012",
-     "Structural Engineering Intern",
-     "2 Locations (Omaha NE)",
-     "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Structural-Engineering-Intern_R29012",
-     "title_exclude_unless",
-     "structural",
      {
       "posted": "",
       "first_seen": ""
@@ -10283,7 +10265,7 @@
      }
     ]
    ],
-   "n": 7
+   "n": 6
   },
   "Hubbell": {
    "rows": [
@@ -10348,7 +10330,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -10800,10 +10782,6 @@
    ],
    "n": 6
   },
-  "Terex": {
-   "rows": [],
-   "n": 0
-  },
   "Hyster-Yale": {
    "rows": [],
    "n": 0
@@ -10818,7 +10796,7 @@
      "title_exclude_unless",
      "ehs",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ]
@@ -10977,7 +10955,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -10989,7 +10967,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -11001,7 +10979,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ]
@@ -11018,7 +10996,7 @@
      "title_exclude",
      "devops",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -11030,7 +11008,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -11042,7 +11020,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -11054,7 +11032,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -11066,7 +11044,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -11078,7 +11056,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -11090,7 +11068,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ]
@@ -11107,7 +11085,7 @@
      "title_exclude",
      "skillbridge",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -11119,7 +11097,7 @@
      "title_exclude",
      "skillbridge",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -11230,6 +11208,18 @@
   "Philips North America": {
    "rows": [
     [
+     "/job/Murrysville-Pennsylvania-United-States/Co-op---Procurement-Engineering---Murrysville--PA---January-June-2027_587483",
+     "Co-op - Procurement Engineering - Murrysville, PA - January-June 2027",
+     "Murrysville, Pennsylvania, United States",
+     "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Procurement-Engineering---Murrysville--PA---January-June-2027_587483",
+     "title_exclude",
+     "procurement",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/San-Diego-California-United-States/Intern---Electrical-Engineer---San-Diego--CA---Summer-2027_594811",
      "Intern \u2013 Electrical Engineer \u2013 San Diego, CA \u2013 Summer 2027",
      "San Diego, California, United States",
@@ -11237,7 +11227,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -11249,7 +11239,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -11261,7 +11251,7 @@
      "title_exclude",
      "january",
      {
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "first_seen": ""
      }
     ],
@@ -11290,7 +11280,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 6
   },
   "Cardinal Health": {
    "rows": [],
@@ -11342,7 +11332,7 @@
      "title_exclude",
      "procurement",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -11354,7 +11344,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ]
@@ -11375,7 +11365,7 @@
      "title_exclude_unless",
      "strategy",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -11387,7 +11377,7 @@
      "title_exclude_unless",
      "strategy",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -11399,7 +11389,7 @@
      "title_exclude_unless",
      "strategy",
      {
-      "posted": "2026-10-30",
+      "posted": "2026-10-31",
       "first_seen": ""
      }
     ],
@@ -11411,7 +11401,7 @@
      "title_exclude_unless",
      "strategy",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -11423,7 +11413,7 @@
      "title_exclude_unless",
      "strategy",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ]
@@ -11452,7 +11442,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ]
@@ -12063,18 +12053,6 @@
      }
     ],
     [
-     "1008418",
-     "Electrical Engineering Intern - Buildings (Summer 2027)",
-     "Houston, TX, United States",
-     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008418",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-10-20",
-      "first_seen": ""
-     }
-    ],
-    [
      "1008419",
      "Structural Engineering Intern - Buildings (Summer 2027)",
      "Plano, TX, United States",
@@ -12135,7 +12113,7 @@
      }
     ]
    ],
-   "n": 50
+   "n": 49
   },
   "Michael Baker International": {
    "rows": [
@@ -12397,7 +12375,7 @@
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -12613,7 +12591,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -12625,7 +12603,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -12637,7 +12615,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -12649,7 +12627,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -12661,7 +12639,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -12673,7 +12651,7 @@
      "title_exclude",
      "winter 2027",
      {
-      "posted": "2026-11-12",
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ]
@@ -12882,10 +12860,10 @@
   "Olsson": {
    "rows": [
     [
-     "5408723008",
+     "5408628008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Des Moines, IA",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408723008",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
      "title_exclude_unless",
      "site design",
      {
@@ -12894,10 +12872,22 @@
      }
     ],
     [
-     "5408678008",
+     "5408543008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "North Kansas City, MO; Overland Park, KS",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408543008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5408723008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Des Moines, IA",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408723008",
      "title_exclude_unless",
      "site design",
      {
@@ -12918,18 +12908,6 @@
      }
     ],
     [
-     "5408628008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
-     "title_exclude_unless",
-     "site design",
-     {
-      "posted": "2026-08-31",
-      "first_seen": ""
-     }
-    ],
-    [
      "5408699008",
      "Civil Engineering Internship - Data Centers Site Design",
      "Lincoln, NE",
@@ -12942,10 +12920,10 @@
      }
     ],
     [
-     "5408543008",
+     "5408678008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "North Kansas City, MO; Overland Park, KS",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408543008",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
      "title_exclude_unless",
      "site design",
      {
@@ -13026,18 +13004,6 @@
      }
     ],
     [
-     "5441485008",
-     "Structural Engineering Internship - Facilities",
-     "Dallas, TX; Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5441485008",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-10-09",
-      "first_seen": ""
-     }
-    ],
-    [
      "5394118008",
      "Structural Engineering Internship - Facilities",
      "Omaha, NE",
@@ -13046,6 +13012,18 @@
      "structural",
      {
       "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5441485008",
+     "Structural Engineering Internship - Facilities",
+     "Dallas, TX; Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5441485008",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-10-09",
       "first_seen": ""
      }
     ],
@@ -13172,7 +13150,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-13",
+      "posted": "2026-11-14",
       "first_seen": ""
      }
     ],
@@ -13184,7 +13162,7 @@
      "title_exclude_unless",
      "estimating",
      {
-      "posted": "2026-10-22",
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ]
@@ -13205,7 +13183,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -13217,7 +13195,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -13229,7 +13207,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -13241,7 +13219,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -13253,7 +13231,7 @@
      "title_exclude_unless",
      "audit",
      {
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ]
@@ -13681,6 +13659,18 @@
      }
     ],
     [
+     "446720740636",
+     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740636",
+     "title_exclude_unless",
+     "cyber",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720740649",
      "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | Tempe, Arizona, United States of America | Santa Clara, California, United States of America",
@@ -13715,24 +13705,48 @@
       "posted": "2026-08-25",
       "first_seen": ""
      }
-    ],
-    [
-     "446720740636",
-     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720740636",
-     "title_exclude_unless",
-     "cyber",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
     ]
    ],
    "n": 7
   },
   "Cisco": {
    "rows": [
+    [
+     "/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295",
+     "AI Cybersecurity Engineer I (Intern) \u2013 United States",
+     "RTP, North Carolina, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295",
+     "title_exclude",
+     "cybersecurity",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
+     "Software Engineer Data & AI PhD (Intern) - United States",
+     "3 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032666",
+     "Technical Sales I (Intern) - United States",
+     "RTP, North Carolina, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032666",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
      "Software Engineer Embedded Systems I (Intern) - United States",
@@ -13741,7 +13755,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -13753,7 +13767,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-23",
+      "posted": "2026-10-24",
       "first_seen": ""
      }
     ],
@@ -13782,7 +13796,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 7
   },
   "Xcel Energy": {
    "rows": [],
@@ -13798,7 +13812,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -13810,7 +13824,7 @@
      "title_exclude_unless",
      "presales",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -13822,7 +13836,7 @@
      "title_exclude_unless",
      "presales",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -13834,7 +13848,7 @@
      "title_exclude_unless",
      "presales",
      {
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "first_seen": ""
      }
     ],
@@ -13856,6 +13870,18 @@
   "Jabil": {
    "rows": [
     [
+     "/job/Austin-TX/Software-Engineering-Intern_J2472697",
+     "Software Engineering Intern",
+     "Austin, TX",
+     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/St-PetersburgTampa-FL/Finance---IT-Controls-Intern_J2470789",
      "Finance & IT Controls Intern",
      "St. Petersburg/Tampa, FL",
@@ -13863,7 +13889,7 @@
      "title_exclude",
      "finance",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -13875,7 +13901,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-05",
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -13904,7 +13930,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Clarios": {
    "rows": [],
@@ -13924,7 +13950,7 @@
      "title_exclude_unless",
      "electrical",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -13936,7 +13962,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -13948,7 +13974,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -13960,7 +13986,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -13972,7 +13998,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -13984,7 +14010,7 @@
      "title_exclude",
      "technician",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -13996,7 +14022,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "first_seen": ""
      }
     ],
@@ -14008,7 +14034,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "first_seen": ""
      }
     ],
@@ -14020,7 +14046,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-11-09",
+      "posted": "2026-11-10",
       "first_seen": ""
      }
     ],
@@ -14032,7 +14058,7 @@
      "title_exclude",
      "sales",
      {
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
@@ -14397,18 +14423,6 @@
      }
     ],
     [
-     "/job/Willowbrook-Illinois/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15334-1",
-     "2027 Technical Sales Intern - Services",
-     "Willowbrook, Illinois",
-     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Willowbrook-Illinois/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15334-1",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Miramar-Florida/XMLNAME-2027-Technical-Sales-Intern---Controls_JR-15047-1",
      "2027 Technical Sales Intern - Controls",
      "Miramar, Florida",
@@ -14721,7 +14735,7 @@
      }
     ]
    ],
-   "n": 67
+   "n": 66
   },
   "Procter & Gamble": {
    "rows": [],
@@ -14741,7 +14755,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -14753,7 +14767,7 @@
      "title_exclude_unless",
      "software",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -14820,6 +14834,18 @@
   "GlobalFoundries": {
    "rows": [
     [
+     "/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263",
+     "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+     "USA - New York - Malta",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263",
+     "title_exclude_unless",
+     "silicon",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570",
      "AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)",
      "USA - New York - Malta",
@@ -14827,7 +14853,7 @@
      "title_exclude",
      "analytics intern",
      {
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "first_seen": ""
      }
     ],
@@ -14839,7 +14865,7 @@
      "title_exclude_unless",
      "business",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -14851,7 +14877,7 @@
      "title_exclude",
      "phd intern",
      {
-      "posted": "2026-11-16",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -14863,19 +14889,7 @@
      "title_exclude_unless",
      "business",
      {
-      "posted": "2026-11-16",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
-     "AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)",
-     "USA - Texas - Richardson",
-     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-11-11",
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -14887,7 +14901,7 @@
      "title_exclude_unless",
      "silicon",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-11-07",
       "first_seen": ""
      }
     ],
@@ -14899,19 +14913,7 @@
      "title_exclude_unless",
      "verification",
      {
-      "posted": "2026-11-02",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263",
-     "Device Engineering Intern, Silicon Photonics (Summer 2027)",
-     "USA - New York - Malta",
-     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263",
-     "title_exclude_unless",
-     "silicon",
-     {
-      "posted": "2026-10-30",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -14964,7 +14966,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 11
   },
   "Eversource": {
    "rows": [],
@@ -15295,7 +15297,7 @@
      "title_exclude",
      "year-round",
      {
-      "posted": "2026-11-02",
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -15369,7 +15371,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -15381,7 +15383,7 @@
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-10-28",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ]
@@ -15668,7 +15670,7 @@
      "title_exclude",
      "spring 2027",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -15836,38 +15838,14 @@
      }
     ],
     [
-     "8827635002",
+     "8924066002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Los Angeles, California, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
+     "Oakland, California, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8924066002?gh_jid=8924066002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-09-21",
-      "first_seen": ""
-     }
-    ],
-    [
-     "8806894002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Washington, District of Columbia, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8806894002?gh_jid=8806894002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-14",
-      "first_seen": ""
-     }
-    ],
-    [
-     "8827599002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-21",
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -15884,6 +15862,18 @@
      }
     ],
     [
+     "8806894002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Washington, District of Columbia, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8806894002?gh_jid=8806894002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-14",
+      "first_seen": ""
+     }
+    ],
+    [
      "8816500002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Houston, Texas, United States",
@@ -15896,14 +15886,26 @@
      }
     ],
     [
-     "8924066002",
+     "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Oakland, California, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8924066002?gh_jid=8924066002",
+     "Los Angeles, California, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-10-29",
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
       "first_seen": ""
      }
     ],
