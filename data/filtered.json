@@ -12,18 +12,6 @@
   "Rocket Lab": {
    "rows": [
     [
-     "7990683003",
-     "Electrical Engineering Intern Summer 2027",
-     "Long Beach, CA",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-09-10",
-      "first_seen": ""
-     }
-    ],
-    [
      "7998598003",
      "Electrical Engineering Intern Summer 2027",
      "Pasadena, CA",
@@ -32,6 +20,18 @@
      "electrical",
      {
       "posted": "2026-09-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "7990683003",
+     "Electrical Engineering Intern Summer 2027",
+     "Long Beach, CA",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-09-10",
       "first_seen": ""
      }
     ],
@@ -2802,6 +2802,30 @@
      }
     ],
     [
+     "/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
+     "Embedded Hardware & Firmware Intern (Health Solutions)",
+     "US, MA, Wilmington",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
+     "Software Engineering Intern (Medical Device & Healthcare Integration)",
+     "US, MA, Wilmington",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
      "Embedded Systems Co-Op",
      "US, MA, Boston",
@@ -2858,30 +2882,6 @@
      "digital design",
      {
       "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
-     "Embedded Hardware & Firmware Intern (Health Solutions)",
-     "US, MA, Wilmington",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Hardware---Firmware-Intern--Health-Solutions-_R269166",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-11-16",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
-     "Software Engineering Intern (Medical Device & Healthcare Integration)",
-     "US, MA, Wilmington",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Software-Engineering-Intern--Medical-Device---Healthcare-Integration-_R269165",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-16",
       "first_seen": ""
      }
     ]
@@ -6589,10 +6589,10 @@
   "Leonardo DRS": {
    "rows": [
     [
-     "1441609200",
-     "Senior Technical Intern - Engineering Physics",
+     "1441610200",
+     "Senior Technical Intern - Manufacturing",
      "Madison, WI, US, 53704",
-     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Engineering-Physics-WI-53704/1441609200/",
+     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Manufacturing-WI-53704/1441610200/",
      "title_exclude",
      "senior",
      {
@@ -6601,10 +6601,10 @@
      }
     ],
     [
-     "1441610200",
-     "Senior Technical Intern - Manufacturing",
+     "1441609200",
+     "Senior Technical Intern - Engineering Physics",
      "Madison, WI, US, 53704",
-     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Manufacturing-WI-53704/1441610200/",
+     "https://careers.leonardodrs.com/job/Madison-Senior-Technical-Intern-Engineering-Physics-WI-53704/1441609200/",
      "title_exclude",
      "senior",
      {
@@ -6839,24 +6839,24 @@
      }
     ],
     [
-     "1428830533",
-     "Electrical Engineering Summer 2027 Internship (Michigan City, IN)",
-     "Michigan City, IN, US, 46360",
-     "https://jobs.lincolnelectric.com/job/Michigan-City-Electrical-Engineering-Summer-2027-Internship-%28Michigan-City%2C-IN%29-IN-46360/1428830533/",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-11-16",
-      "first_seen": ""
-     }
-    ],
-    [
      "1428892333",
      "Technical Sales Summer 2027 Internship (U.S.)",
      "Houston, TX, US, 77086",
      "https://jobs.lincolnelectric.com/job/Houston-Technical-Sales-Summer-2027-Internship-%28U_S_%29-TX-77086/1428892333/",
      "title_exclude",
      "sales",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1428830533",
+     "Electrical Engineering Summer 2027 Internship (Michigan City, IN)",
+     "Michigan City, IN, US, 46360",
+     "https://jobs.lincolnelectric.com/job/Michigan-City-Electrical-Engineering-Summer-2027-Internship-%28Michigan-City%2C-IN%29-IN-46360/1428830533/",
+     "title_exclude_unless",
+     "electrical",
      {
       "posted": "2026-11-16",
       "first_seen": ""
@@ -7719,21 +7719,9 @@
       "posted": "2026-11-20",
       "first_seen": ""
      }
-    ],
-    [
-     "1458571333",
-     "Engineering Technician Intern",
-     "Overland Park, KS, US",
-     "https://careers.bv.com/job/Overland-Park-Engineering-Technician-Intern-KS-66062/1458571333/",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 2
+   "n": 1
   },
   "Kimley-Horn": {
    "rows": [
