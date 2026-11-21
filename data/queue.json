@@ -724,9 +724,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -10340,7 +10340,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -10377,7 +10377,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22109,7 +22109,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -24417,7 +24417,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -34618,13 +34618,13 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-20",
-  "miss_count": 3,
-  "closed_on": "2026-11-21",
-  "closed_reason": "removed",
-  "repost_count": 1,
+  "last_seen_live": "2026-11-21",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 2,
   "repost_of": null,
-  "reposted_on": "2026-11-20",
+  "reposted_on": "2026-11-21",
   "lineage_root": "Under Armour:1434354900",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
@@ -34653,9 +34653,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 1,
   "repost_of": null,
   "reposted_on": "2026-11-20",
@@ -47443,9 +47443,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -47548,9 +47548,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -48212,9 +48212,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -50947,40 +50947,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Skanska USA:9278",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Skanska USA:9264",
-  "company": "Skanska USA",
-  "role": "Summer 2027 Construction Project Engineer Intern",
-  "location": "Boise, Idaho",
-  "link": "https://skanska.jibeapply.com/jobs/9264",
-  "posted": "2026-09-11",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[now or future] [sponsorship/support refused] ...ivalent through experience Currently, the company is not considering applicants for this position who now or in the future require employment sponsorship by the company. Our Investment in our fulltim...",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [
-   "mechanical"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Skanska USA:9264",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -55985,7 +55951,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56117,7 +56083,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56213,7 +56179,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56313,7 +56279,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56347,7 +56313,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56379,7 +56345,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56411,7 +56377,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56443,7 +56409,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56603,7 +56569,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56635,7 +56601,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56667,7 +56633,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56802,7 +56768,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -57166,7 +57132,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69087,7 +69053,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69159,7 +69125,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69730,7 +69696,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70020,7 +69986,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70089,7 +70055,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70163,7 +70129,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -70419,42 +70385,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Yokohama Tire:2381",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Enovix:/job/Fremont-CA-US/R-D-Intern_JR-100458",
-  "company": "Enovix",
-  "role": "R&D Intern",
-  "location": "Fremont CA, US",
-  "link": "https://enovix.wd12.myworkdayjobs.com/External/job/Fremont-CA-US/R-D-Intern_JR-100458",
-  "posted": "2026-05-15",
-  "posted_source": "exact",
-  "posted_reverified": true,
-  "description_status": "ok",
-  "site": "External",
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "$40 - $45/hr (~$83.2k - $93.6k/yr)",
-  "salary_evidence": "[converted from hourly pay] of 3-6 months. The hourly pay range is $40\u2013$45, depending on experience, qualification",
-  "kw_hits": [
-   "mechanical",
-   "materials",
-   "fabrication"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Enovix:/job/Fremont-CA-US/R-D-Intern_JR-100458",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -72654,7 +72584,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -72718,7 +72648,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -73599,9 +73529,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-21",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -79060,7 +78990,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -79132,7 +79062,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -79170,7 +79100,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Terracon:4291",
@@ -79207,7 +79137,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Terracon:4293",
@@ -79244,7 +79174,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Terracon:4298",
@@ -79281,7 +79211,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Amgen:/job/US---California---South-San-Francisco/Grad-Intern---Inflammation-R-D--Summer-2027-_R-261887",
@@ -79318,7 +79248,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Gannett Fleming:15289",
@@ -79352,7 +79282,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Brown and Caldwell:dde995f5-29e0-40f7-a559-a56c5fd3e68d",
@@ -79386,7 +79316,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Brown and Caldwell:6468f76d-f7ec-4b2d-8c80-5b832e06f54e",
@@ -79420,7 +79350,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "AECOM:744000162187579",
@@ -79454,7 +79384,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Cisco:/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
@@ -79491,7 +79421,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Motorola Solutions:/job/Plantation-FL/Summer-2027-Internship---RFIC-Design-Engineer_R70731",
@@ -79564,7 +79494,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Eversource:/job/Newtown-CT/XMLNAME-2027-Distribution-Engineering-Intern--CT--Hybrid-Schedule-_R-032403",
@@ -79601,7 +79531,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "RTX:/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Additive-Manufacturing-Process-Intern--Summer-2027----Onsite_01889149",
@@ -79702,7 +79632,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -79713,7 +79643,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Skyworks:1432087400",
@@ -79739,7 +79669,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -79750,7 +79680,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Skyworks:1432089900",
@@ -79775,8 +79705,8 @@
   ],
   "state": "new",
   "first_run": false,
-  "last_seen_live": "2026-11-20",
-  "miss_count": 1,
+  "last_seen_live": "2026-11-21",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -79787,7 +79717,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Black and Veatch:1434103233",
@@ -79860,7 +79790,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Re:Build:4755765005",
@@ -80154,7 +80084,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Micron:/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
@@ -80193,7 +80123,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R269554-1",
@@ -80234,7 +80164,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-MA-Wilmington/Equipment-Engineering-Intern_R269551",
@@ -80275,7 +80205,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R269550-1",
@@ -80313,7 +80243,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
@@ -80351,7 +80281,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-TX-Austin-Plaza-on-the-Lake/Embedded-Software-Engineer-Intern_R269548",
@@ -80390,7 +80320,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Analog Devices:/job/US-CO-Colorado-Springs-Centennial/Analog-Design-Engineering-Intern---Summer-2027_R268077",
@@ -80428,7 +80358,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Moog:/job/Salt-Lake-City-UT/Intern--Operations_R-26-19675",
@@ -80465,7 +80395,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Toyota Research Institute:b2bed6be-16bd-48ee-ba71-215307fa2ab8",
@@ -80505,7 +80435,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Aerospace Corporation:/job/El-Segundo-CA/XMLNAME-2027-Composites-Undergraduate-Intern_R017255",
@@ -80617,7 +80547,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00357157",
@@ -80655,7 +80585,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Skyworks:1451742400",
@@ -80681,7 +80611,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80718,7 +80648,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -81118,7 +81048,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -82443,7 +82373,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -87236,6 +87166,81 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "AtriCure:4517172009",
+  "lineage_first_seen": "2026-11-21",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Lucid Motors:5290796007",
+  "company": "Lucid Motors",
+  "role": "Intern, ADAS Platform Tools, Summer 2027",
+  "location": "Newark, CA",
+  "link": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+  "posted": "2026-11-20",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-21",
+  "sponsorship_status": "No Sponsorship",
+  "sponsorship_evidence": "[sponsorship/support refused] ...rking full-time. Visa Sponsorship : Lucid may but is not obligated to sponsor foreign national employees requiring company spon...",
+  "salary": "Unclear",
+  "salary_evidence": "",
+  "kw_hits": [
+   "robotics",
+   "automation",
+   "manufacturing"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-21",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Lucid Motors:5290796007",
+  "lineage_first_seen": "2026-11-21",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Volvo Group North America:1377853555",
+  "company": "Volvo Group North America",
+  "role": "Intern: Quality Engineer (Summer 2027)",
+  "location": "Hagerstown, MD, US, 21742",
+  "link": "https://jobs.volvogroup.com/job/Hagerstown-Intern-Quality-Engineer-%28Summer-2027%29-MD-21742/1377853555/",
+  "posted": "2026-11-21",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-21",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "$17 - $46/hr (~$35.4k - $95.7k/yr)",
+  "salary_evidence": "[converted from hourly pay] p positions, the hourly range is set at $17.00 - $46.00. The hourly rate for these roles is det",
+  "kw_hits": [
+   "mechanical",
+   "manufacturing"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-21",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Volvo Group North America:1377853555",
   "lineage_first_seen": "2026-11-21",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
