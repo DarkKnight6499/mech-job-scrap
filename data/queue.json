@@ -2274,7 +2274,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -2346,7 +2346,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -2419,7 +2419,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -6146,7 +6146,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -9573,7 +9573,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -9610,7 +9610,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -9948,7 +9948,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 2,
@@ -9986,7 +9986,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 2,
@@ -21241,7 +21241,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23549,7 +23549,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -33785,7 +33785,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 2,
@@ -35897,7 +35897,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -36066,7 +36066,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -54706,9 +54706,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-22",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -55051,7 +55051,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55183,7 +55183,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55279,7 +55279,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55379,7 +55379,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55413,7 +55413,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55445,7 +55445,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55477,7 +55477,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55509,7 +55509,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55669,7 +55669,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55701,7 +55701,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55733,7 +55733,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -55868,7 +55868,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -56232,7 +56232,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -58517,7 +58517,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -63148,7 +63148,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -67144,7 +67144,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -67214,7 +67214,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68118,7 +68118,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68190,7 +68190,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -68761,7 +68761,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69051,9 +69051,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-20",
-  "miss_count": 5,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 6,
+  "closed_on": "2026-11-22",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -69120,7 +69120,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69194,7 +69194,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-21",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -71649,7 +71649,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -71713,7 +71713,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75703,7 +75703,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75738,7 +75738,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75810,7 +75810,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75845,7 +75845,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -75879,7 +75879,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -78697,9 +78697,9 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 5,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 6,
+  "closed_on": "2026-11-22",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -78734,9 +78734,9 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-20",
-  "miss_count": 5,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 6,
+  "closed_on": "2026-11-22",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -78771,7 +78771,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80369,7 +80369,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -80403,7 +80403,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -80437,7 +80437,7 @@
   "lineage_first_seen": "2026-11-18",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -80668,7 +80668,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80708,7 +80708,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80746,7 +80746,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 3,
+  "miss_count": 4,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -80790,7 +80790,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -80826,7 +80826,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81146,7 +81146,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81174,7 +81174,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -81184,7 +81184,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81223,7 +81223,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81295,7 +81295,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81332,7 +81332,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81372,7 +81372,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81411,7 +81411,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81484,7 +81484,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81520,7 +81520,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81556,7 +81556,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81590,7 +81590,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81624,7 +81624,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -81661,7 +81661,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "AEP:/job/Columbus-OH/Electrical-Engineering-Intern--Summer-2027_R20503",
@@ -81695,7 +81695,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "AMETEK:1436721300",
@@ -81805,7 +81805,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "AstraZeneca US:/job/US---Gaithersburg---MD/Cell-Therapy-Process-Development-Intern_R-264647",
@@ -81842,7 +81842,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Stantec:1008180",
@@ -81876,7 +81876,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Stantec:1008962",
@@ -81913,7 +81913,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Trane:/job/Minneapolis-Minnesota/Electrical-Engineering-Intern_JR-20044",
@@ -81949,7 +81949,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Nike:/job/Beaverton-Oregon/NIKE-Inc-Nike-Computational-Materials-Innovation--Apparel--Innovation--Graduate-Internship_R-97647",
@@ -81987,7 +81987,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Black and Veatch:1440276233",
@@ -82025,7 +82025,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "GE Aerospace:/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659",
@@ -82092,7 +82092,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -82103,7 +82103,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Westinghouse:1427821000",
@@ -82128,7 +82128,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -82139,7 +82139,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Westinghouse:1427821100",
@@ -82175,7 +82175,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Westinghouse:1422584800",
@@ -82209,7 +82209,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Westinghouse:1422602200",
@@ -82235,9 +82235,9 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-21",
-  "miss_count": 1,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 2,
+  "closed_on": "2026-11-22",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -82245,7 +82245,7 @@
   "lineage_first_seen": "2026-11-19",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 1
  },
  {
@@ -82282,7 +82282,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "RTX:/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-Intern--Onsite-_01890521",
@@ -82389,7 +82389,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Entegris:/job/Chaska-MN/Manufacturing-Engineering--Co-Op_REQ-14447-1",
@@ -82427,7 +82427,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Anduril:5302147007",
@@ -82501,7 +82501,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/Wilton-CT-USA/Internship---Mechanical-Analysis-Engineer_J-00356966",
@@ -82539,7 +82539,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Volvo Group North America:1377666755",
@@ -82578,7 +82578,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Volvo Group North America:1377672355",
@@ -82615,7 +82615,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Texas Instruments:25020388",
@@ -82652,7 +82652,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Kimley-Horn:28777",
@@ -82723,7 +82723,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "BWX Technologies:1452135600",
@@ -82941,7 +82941,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Sanofi US:/job/Swiftwater-PA/XMLNAME-2027-Summer-Co-Op-Bacterial-Process-Development-Swiftwater-PA_R2867258",
@@ -82978,7 +82978,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Sanofi US:/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610",
@@ -83016,7 +83016,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Trimble:/job/US---OH-Dayton/Product-Engineering-Intern_R58071",
@@ -83053,7 +83053,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Trimble:/job/US---CO-Westminster/Workplace-Experience-Data-and-Automation-Intern_R58488-1",
@@ -83089,7 +83089,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Xcel Energy:/job/Minneapolis-MN-55401/Major-Projects-Engineering-Intern-MN--WI_JR115815-1",
@@ -83127,7 +83127,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Pivotal:2c5e6abf-3244-4e46-9c18-fab3fc1c050d",
@@ -83203,7 +83203,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Lucid Motors:5290937007",
@@ -84276,7 +84276,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-22",
-  "miss_count": 0,
+  "miss_count": 1,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -86606,6 +86606,77 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Cemex USA:1441537433",
+  "lineage_first_seen": "2026-11-22",
+  "ghost_status": "Unclear",
+  "ghost_evidence": "",
+  "alert_pending": true,
+  "alert_attempts": 1
+ },
+ {
+  "id": "Skyworks:1424064300",
+  "company": "Skyworks",
+  "role": "Quality Engineering Intern-Summer 2027",
+  "location": "Milpitas, CA, US, 95035",
+  "link": "https://careers.skyworksinc.com/job/Milpitas-Quality-Engineering-Intern-Summer-2027-CA-95035/1424064300/",
+  "posted": "2026-11-22",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-22",
+  "sponsorship_status": "Blocked",
+  "sponsorship_evidence": "[student exclusion] ...een Card) status. Unfortunately, students holding F-1, J-1, or similar visa statuses are not eligible for this position. We encourage those students to...",
+  "salary": "$23 - $49/hr (~$47.8k - $101.9k/yr)",
+  "salary_evidence": "[converted from hourly pay] [2 ranges listed, widest shown] ing intern across the U.S. is currently USD $29.00 - $49.00 per hour and for a Non-Engineering intern across the U.S. is currently USD $23.00 - $42.00 per hour. Starting pay will depend on le",
+  "kw_hits": [
+   "aerospace"
+  ],
+  "state": "auto_blocked",
+  "first_run": false,
+  "last_seen_live": "2026-11-22",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Skyworks:1424064300",
+  "lineage_first_seen": "2026-11-22",
+  "ghost_status": "Unclear",
+  "ghost_evidence": ""
+ },
+ {
+  "id": "Hubbell:1433946100",
+  "company": "Hubbell",
+  "role": "Co-Op: Manufacturing Engineer (Jan-May 2027)",
+  "location": "Leeds, AL, US, 35094",
+  "link": "https://careers.hubbell.com/job/Leeds-Co-Op-Manufacturing-Engineer-%28Jan-May-2027%29-AL-35094/1433946100/",
+  "posted": "2026-11-22",
+  "posted_source": "exact",
+  "posted_reverified": false,
+  "description_status": "ok",
+  "site": null,
+  "source": "job-scout",
+  "first_seen": "2026-11-22",
+  "sponsorship_status": "Unclear",
+  "sponsorship_evidence": "No sponsorship language in the description.",
+  "salary": "Unclear",
+  "salary_evidence": "",
+  "kw_hits": [
+   "controls",
+   "manufacturing"
+  ],
+  "state": "new",
+  "first_run": false,
+  "last_seen_live": "2026-11-22",
+  "miss_count": 0,
+  "closed_on": null,
+  "closed_reason": null,
+  "repost_count": 0,
+  "repost_of": null,
+  "reposted_on": null,
+  "lineage_root": "Hubbell:1433946100",
   "lineage_first_seen": "2026-11-22",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
