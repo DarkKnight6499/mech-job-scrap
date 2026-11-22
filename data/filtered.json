@@ -5,6 +5,14 @@
    "rows": [],
    "n": 0
   },
+  "Lear": {
+   "rows": [],
+   "n": 0
+  },
+  "Cemex USA": {
+   "rows": [],
+   "n": 0
+  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -6767,10 +6775,6 @@
    "rows": [],
    "n": 0
   },
-  "Lear": {
-   "rows": [],
-   "n": 0
-  },
   "Tenneco": {
    "rows": [],
    "n": 0
@@ -10288,9 +10292,21 @@
       "posted": "2026-11-16",
       "first_seen": ""
      }
+    ],
+    [
+     "1421653500",
+     "2027 Summer Intern: Operations - Supply Chain & Manufacturing Analytics",
+     "Portsmouth, NH, US, 03801",
+     "https://careers.hubbell.com/job/Portsmouth-2027-Summer-Intern-Operations-Supply-Chain-&-Manufacturing-Analytics-NH-03801/1421653500/",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "2026-11-15",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "nVent": {
    "rows": [
@@ -12836,18 +12852,6 @@
   "Olsson": {
    "rows": [
     [
-     "5408628008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
-     "title_exclude_unless",
-     "site design",
-     {
-      "posted": "2026-08-31",
-      "first_seen": ""
-     }
-    ],
-    [
      "5408543008",
      "Civil Engineering Internship - Data Centers Site Design",
      "North Kansas City, MO; Overland Park, KS",
@@ -12860,10 +12864,10 @@
      }
     ],
     [
-     "5408723008",
+     "5408678008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Des Moines, IA",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408723008",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
      "title_exclude_unless",
      "site design",
      {
@@ -12884,6 +12888,18 @@
      }
     ],
     [
+     "5408723008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Des Moines, IA",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408723008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
      "5408699008",
      "Civil Engineering Internship - Data Centers Site Design",
      "Lincoln, NE",
@@ -12896,10 +12912,10 @@
      }
     ],
     [
-     "5408678008",
+     "5408628008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
      "title_exclude_unless",
      "site design",
      {
@@ -12980,18 +12996,6 @@
      }
     ],
     [
-     "5394118008",
-     "Structural Engineering Internship - Facilities",
-     "Omaha, NE",
-     "https://job-boards.greenhouse.io/olsson/jobs/5394118008",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-01",
-      "first_seen": ""
-     }
-    ],
-    [
      "5441485008",
      "Structural Engineering Internship - Facilities",
      "Dallas, TX; Fort Worth, TX",
@@ -13000,6 +13004,18 @@
      "structural",
      {
       "posted": "2026-10-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5394118008",
+     "Structural Engineering Internship - Facilities",
+     "Omaha, NE",
+     "https://job-boards.greenhouse.io/olsson/jobs/5394118008",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-01",
       "first_seen": ""
      }
     ],
@@ -13144,10 +13160,6 @@
     ]
    ],
    "n": 2
-  },
-  "Cemex USA": {
-   "rows": [],
-   "n": 0
   },
   "Trimble": {
    "rows": [
@@ -13611,6 +13623,18 @@
      }
     ],
     [
+     "446720740636",
+     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740636",
+     "title_exclude_unless",
+     "cyber",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720740649",
      "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | Tempe, Arizona, United States of America | Santa Clara, California, United States of America",
@@ -13659,19 +13683,19 @@
      }
     ],
     [
-     "446720740636",
-     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720740636",
+     "446720740529",
+     "Software Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | Tempe, Arizona, United States of America | Irvine, California, United States of America | Louisville, Kentucky, United States of America | New York City, New York, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740529",
      "title_exclude_unless",
-     "cyber",
+     "software",
      {
-      "posted": "2026-08-25",
+      "posted": "2026-09-18",
       "first_seen": ""
      }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Cisco": {
    "rows": [
@@ -15627,6 +15651,18 @@
   "Flex": {
    "rows": [
     [
+     "/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046",
+     "Quality Engineering Co-Op - Spring 2027",
+     "USA, SC, Orangeburg",
+     "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-04",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/USA-SC-Orangeburg/EHS-Co-Op---Fall-2025_WD226611",
      "EHS Co-Op - Spring 2027",
      "USA, SC, Orangeburg",
@@ -15671,18 +15707,6 @@
      "electrical",
      {
       "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046",
-     "Quality Engineering Co-Op - Spring 2027",
-     "USA, SC, Orangeburg",
-     "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Quality-Engineering-Co-Op---Fall-2026_WD226046",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-04",
       "first_seen": ""
      }
     ]
