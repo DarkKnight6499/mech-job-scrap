@@ -1,78 +1,107 @@
-# Filter audit (2026-11-22)
+# Filter audit (2026-11-25)
 
-1220 roles hidden by title rules across 467 companies; 1009 look like core fits, 46 new since the last audit.
+1189 roles hidden by title rules across 467 companies; 986 look like core fits, 75 new since the last audit.
 
 ## New flagged roles (check each rule)
-- Aerospace Corporation: [2027 Software Systems Engineer and Acquisition Grad Intern](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175) (2 Locations (El Segundo CA)) hidden by title_exclude_unless: **software**
-- Aerospace Corporation: [2027 Electrical Characterization Graduate Intern](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Electrical-Characterization-Graduate-Intern_R017278) (El Segundo, CA) hidden by title_exclude_unless: **electrical**
-- Amgen: [Graduate Intern – R&D Execution, Operations & Strategy (R&D EOS)(summer 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Graduate-Intern---R-D-Execution--Operations---Strategy--R-D-EOS--summer-2027-_R-260018) (United States - Remote) hidden by title_exclude_unless: **strategy**
-- Black and Veatch: [Engineering Technician Intern (Overland Park) - Federal](https://careers.bv.com/job/Overland-Park-Engineering-Technician-Intern-%28Overland-Park%29-Federal-KS-66062/1459377633/) (Overland Park, KS, US) hidden by title_exclude: **technician**
-- CACI: [Hardware Production Technician Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/External/job/Dulles-VA-US/Hardware-Production-Technician-Intern---Summer-2027_335319) (Dulles, VA, US) hidden by title_exclude: **technician**
-- Carrier: [Electrical Engineering Intern - Summer](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Electrical-Engineering-Intern---Summer_30220218) (CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA) hidden by title_exclude_unless: **electrical**
-- Cisco: [AI Cybersecurity Engineer I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/AI-Cybersecurity-Engineer-I--Intern----United-States_2030295) (RTP, North Carolina, US) hidden by title_exclude: **cybersecurity**
-- Cisco: [Software Engineer Data & AI PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) (3 Locations (San Jose California US)) hidden by title_exclude_unless: **software**
-- Constellation Energy: [Summer 2027 Electrical Engineering Internship - Marseilles, IL](https://jobs.constellationenergy.com/careers-home/jobs/138702) (Kennett Square, Pennsylvania; Marseilles, Illinois; Warrenville, Illinois) hidden by title_exclude_unless: **electrical**
-- Fluor: [Part Time Civil/Structural Intern](https://careers.fluor.com/careers/job/1099557279690) (Aliso Viejo, US-CA, United States) hidden by title_exclude_unless: **structural**
-- Garmin: [Software Engineering Intern (Web/Mobile)](https://careers.garmin.com/en-US/jobs/22650) (Yarmouth, Maine) hidden by title_exclude_unless: **software**
-- GlobalFoundries: [AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570) (USA - New York - Malta) hidden by title_exclude: **analytics intern**
-- Hermeus: [Mechanical Engineering Intern  - Fall 2027](https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60) (Los Angeles, CA) hidden by title_exclude: **fall 2027**
-- Howmet: [Summer 2027 EHS Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119770) (Cleveland, OH, United States) hidden by title_exclude_unless: **ehs**
-- Howmet: [Continuous Improvement Intern Winter 2027](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120590) (Rochester, NY, United States) hidden by title_exclude: **winter 2027**
-- Intuitive Surgical: [Data Engineering Intern](https://jobs.smartrecruiters.com/Intuitive/744000162832659) (Sunnyvale, CA, us) hidden by title_exclude: **data engineering**
-- Jabil: [Software Engineering Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2472697) (Austin, TX) hidden by title_exclude_unless: **software**
-- Kimley-Horn: [MEP Electrical Engineering Intern](https://careers.kimley-horn.com/jobs/29338) (St. Petersburg, Florida) hidden by title_exclude_unless: **electrical**
-- Lawrence Livermore: [Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016984696) (Livermore, CA, us) hidden by title_exclude: **cybersecurity**
-- Leidos: [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994) (Fort Belvoir, VA) hidden by title_exclude: **data engineer**
-- Lucid Motors: [Intern, AI/ML, Vehicle Infotainment, Summer 2027](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) (Newark, CA) hidden by title_exclude_unless: **ai**
-- Lucid Motors: [Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) (Newark, CA) hidden by title_exclude_unless: **embedded**
-- Lucid Motors: [Intern, Embedded Software, Summer 2027](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) (Newark, CA) hidden by title_exclude_unless: **embedded**
-- Lucid Motors: [Intern, Motor Control Software Development and Validation Engineer, Summer 2027](https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007) (Newark, CA) hidden by title_exclude_unless: **software**
-- Lucid Motors: [Intern, Software Engineer, SDET, Summer 2027](https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007) (Newark, CA) hidden by title_exclude_unless: **software**
-- Lucid Motors: [Intern, Software QA Engineer, Infotainment, Summer 2027](https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007) (Newark, CA) hidden by title_exclude_unless: **software**
-- Lucid Motors: [Power Electronics Control Engineer Intern, Summer 2027   ](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) (Newark, CA) hidden by title_exclude_unless: **electronics**
-- Moog: [Intern, Electrical Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-21567) (Buffalo, NY) hidden by title_exclude_unless: **electrical**
-- NVIDIA: [Finance AI Engineering Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) (US, CA, Santa Clara) hidden by title_exclude: **finance**
-- NVIDIA: [Product Management MBA Intern, GenAI Data Strategy - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639) (US, CA, Santa Clara) hidden by title_exclude: **mba intern**
-- NVIDIA: [NVIDIA 2027 Internships: Hardware Verification](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) (US, CA, Santa Clara) hidden by title_exclude_unless: **verification**
-- NVIDIA: [NVIDIA 2027 Internships: Hardware ASIC Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) (US, CA, Santa Clara) hidden by title_exclude_unless: **asic**
-- NVIDIA: [PhD Research Intern, Electronic Design Automation - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) (US, CA, Santa Clara) hidden by title_exclude_unless: **electronic**
-- Neros: [Electrical Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) (Torrance, California, United States) hidden by title_exclude_unless: **electrical**
-- Neros: [Firmware/Embedded Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) (Torrance, California, United States) hidden by title_exclude_unless: **firmware**
-- Northrop Grumman: [2027 AI/ML Engineering Intern - Morrisville NC](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1) (United States-North Carolina-Morrisville) hidden by title_exclude_unless: **ai**
-- Northrop Grumman: [2027 Fall Co-op Tooling Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Fall-Co-op-Tooling-Engineer_R10261559) (United States-Mississippi-Iuka) hidden by title_exclude: **fall**
-- Philips North America: [Co-op - Procurement Engineering - Murrysville, PA - January-June 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Procurement-Engineering---Murrysville--PA---January-June-2027_587483) (Murrysville, Pennsylvania, United States) hidden by title_exclude: **procurement**
-- Philips North America: [Intern – Electrical Engineer – San Diego, CA – Summer 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Electrical-Engineer---San-Diego--CA---Summer-2027_594811) (San Diego, California, United States) hidden by title_exclude_unless: **electrical**
-- Regal Rexnord: [Electronics Co-Op (Summer 2027)](https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Fort-Wayne-Indiana-United-States/Electronics-Co-Op--Summer-2027-_R26_06205) (Fort Wayne, Indiana, United States) hidden by title_exclude_unless: **electronics**
-- Samsung Semiconductor: [Intern, Serdes Analog Design Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) (San Jose, California, United States) hidden by title_exclude_unless: **analog**
-- Skyworks: [RF Front-End Engineer Summer/Fall Co-Op (June-Dec '27)](https://careers.skyworksinc.com/job/San-Jose-RF-Front-End-Engineer-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1433516700/) (San Jose, CA, US, 95134) hidden by title_exclude_unless: **rf**
-- Skyworks: [RF Validation Engineer Co-op (Summer/Fall 2027)](https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Validation-Engineer-Co-op-%28SummerFall-2027%29-IA-52411/1422974400/) (Cedar Rapids, IA, US, 52411) hidden by title_exclude_unless: **rf**
-- Skyworks: [Data Engineering Summer Intern (May-Aug '27)](https://careers.skyworksinc.com/job/Irvine-Data-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-92617/1423190000/) (Irvine, CA, US, 92617) hidden by title_exclude: **data engineering**
-- Texas Instruments: [Synthetic Data for Edge AI System Engineer Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016339) (Dallas, TX, United States) hidden by title_exclude_unless: **ai**
-- Westinghouse: [Summer Intern - Electrical Engineering](http://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Electrical-Engineering-SC-29730/1452766900/) (Rock Hill, SC, US, 29730) hidden by title_exclude_unless: **electrical**
+- 3M: [Internship - 2027 Undergraduate Environmental Health & Safety (EHS) Intern](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Environmental-Health---Safety--EHS--Intern_R01174378) (US, Minnesota, Maplewood) hidden by title_exclude_unless: **environmental health**
+- AECOM: [Traffic Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000163534449) (Columbus, OH, us) hidden by title_exclude_unless: **traffic**
+- AECOM: [Highway Design Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000163324070) (Mechanicsburg, PA, us) hidden by title_exclude_unless: **highway**
+- AGCO: [Working Student (m/f/d) - Purchasing Project Management (Summer term 2027)](https://careers.agcocorp.com/job/Marktoberdorf-Working-Student-%28mfd%29-Purchasing-Project-Management-%28Summer-term-2027%29/1443945400/) (Marktoberdorf, DE) hidden by title_exclude_unless: **purchasing**
+- ASML US: [Internship/Co-Op: AI Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship-Co-Op--AI-Engineer_J-00358477) (San Jose, CA, USA) hidden by title_exclude: **ai engineer**
+- ASML US: [Internship/Co-Op: AI Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00358475) (San Diego, CA, USA) hidden by title_exclude: **ai engineer**
+- ASML US: [Internship - Electrical Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00358102) (Wilton, CT, USA) hidden by title_exclude_unless: **electrical**
+- Aerospace Corporation: [2027 Power and Analog Circuit Engineering Undergrad Intern](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergrad-Intern_R017288) (El Segundo, CA) hidden by title_exclude_unless: **analog**
+- Aerospace Corporation: [2027 Embedded Software Engineering Undergrad Intern](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R017321) (El Segundo, CA) hidden by title_exclude_unless: **embedded**
+- Amentum: [Intern - Electrical/Imagery Test & Design Engineer Spring Intern](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Intern---Electrical-Imagery-Test---Design-Engineer-Spring-Intern_R0176177) (US-AL-Huntsville) hidden by title_exclude: **spring**
+- Amgen: [Undergrad Co-op - Operations - Facilities & Engineering (Electrical) (Jan -Mar 2027)](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Operations---Facilities---Engineering--Electrical---Jan--Mar-2027-_R-262184) (US - Rhode Island - West Greenwich) hidden by title_exclude_unless: **electrical**
+- Anduril: [Winter 2027 Test & Evaluation Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) (Costa Mesa, California, United States) hidden by title_exclude: **winter 2027**
+- Black and Veatch: [Electrical Engineer Intern - Substation (Chattanooga)](https://careers.bv.com/job/Chattanooga-Electrical-Engineer-Intern-Substation-%28Chattanooga%29-TN-37401/1459794233/) (Chattanooga, TN, US) hidden by title_exclude_unless: **electrical**
+- Black and Veatch: [Engineering Technician Intern (Ann Arbor)](https://careers.bv.com/job/Ann-Arbor-Engineering-Technician-Intern-%28Ann-Arbor%29-MI-48103/1459815333/) (Ann Arbor, MI, US) hidden by title_exclude: **technician**
+- Bloom Energy: [Electrical Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/San-Jose-California/Electrical-Engineering-Intern_JR-25623) (San Jose, California) hidden by title_exclude_unless: **electrical**
+- Bloom Energy: [Electrical Engineering Intern](https://bloomenergy.wd1.myworkdayjobs.com/BloomEnergyCareers/job/Newark-Delaware/Electrical-Engineering-Intern_JR-25416) (Newark, Delaware) hidden by title_exclude_unless: **electrical**
+- Boston Scientific: [Software Test Engineer Co-op (Jan- Aug)](https://jobs.bostonscientific.com/job/Waltham-Software-Test-Engineer-Co-op-%28Jan-Aug%29-MA-02451/1432952100/) (Waltham, MA, US) hidden by title_exclude_unless: **software**
+- Clarios: [EHS Intern - Toledo, OH (Summer 2027)](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Ohio-Holland/EHS-Intern---Toledo--OH--Summer-2027-_WD51207) (United States, Ohio, Holland) hidden by title_exclude_unless: **ehs**
+- Gannett Fleming: [Intern - Bridge Engineering](https://careers-gannettfleming.icims.com/jobs/15487/intern---bridge-engineering/job) (Boston, MA, US) hidden by title_exclude_unless: **bridge**
+- General Motors: [2027 Summer Intern – Software Verification Engineer, AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) (Warren, Michigan, United States of America) hidden by title_exclude_unless: **software**
+- GlobalFoundries: [Device Engineering Intern, Silicon Photonics (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605131) (USA - New York - Malta) hidden by title_exclude_unless: **silicon**
+- Hubbell: [2027 Summer Intern: Engineering - Software](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Engineering-Software-MO-63146/1424513200/) (St. Louis, MO, US, 63146) hidden by title_exclude_unless: **software**
+- Intuitive Surgical: [Product Management MBA Intern](https://jobs.smartrecruiters.com/Intuitive/744000163546809) (Sunnyvale, CA, us) hidden by title_exclude: **mba intern**
+- Johns Hopkins APL: [2027 Internship - Optical, Electrical, or Computer Engineer - Imaging Systems](https://careers.jhuapl.edu/jobs/59996) (Laurel, Maryland) hidden by title_exclude_unless: **electrical**
+- KLA: [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1) (Milpitas, CA) hidden by title_exclude_unless: **software**
+- Leidos: [Software Engineering Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526) (Arlington, VA) hidden by title_exclude_unless: **software**
+- Lubrizol: [Mechanical Test Engineering Co-Op Fall 2027](https://jobs.lubrizol.com/job/Wickliffe-Mechanical-Test-Engineering-Co-Op-Fall-2027-OH-44092-2298/1431424500/) (Wickliffe, OH, US, 44092-2298) hidden by title_exclude: **fall 2027**
+- Moog: [Intern, EHS](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--EHS_R-26-19825) (Torrance, CA) hidden by title_exclude_unless: **ehs**
+- Moog: [Intern, EHS](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/EHS-Intern_R-26-21597) (Buffalo, NY) hidden by title_exclude_unless: **ehs**
+- Motorola Solutions: [Software Engineering Intern - 2027 Internship Program](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950) (Salt Lake City, UT (UT17)) hidden by title_exclude_unless: **software**
+- Motorola Solutions: [Mission Critical Networks Software Engineer - Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2027-Internship_R70631) (Schaumburg, IL, More...) hidden by title_exclude_unless: **software**
+- NREL (Golden CO): [Graduate Student Intern (Spring Semester) – Commercial Vehicle Logistics and Data Science](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Student-Intern--Spring-Semester----Commercial-Vehicle-Logistics-and-Data-Science_R14649) (Golden, CO) hidden by title_exclude: **spring**
+- NVIDIA: [Software Engineering Intern, Simulation Technology - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531) (US, CA, Santa Clara) hidden by title_exclude_unless: **software**
+- NVIDIA: [AI and Quant DevTech Engineering Intern – Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517) (US, CA, Santa Clara) hidden by title_exclude_unless: **ai**
+- Neuralink: [Electrical Test Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003) (South San Francisco, California, United States) hidden by title_exclude_unless: **electrical**
+- Northrop Grumman: [2027 Electronics Engineer Intern - Manhattan Beach CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electronics-Engineer-Intern---Manhattan-Beach-CA_R10262095) (United States-California-Manhattan Beach) hidden by title_exclude_unless: **electronics**
+- Northrop Grumman: [2027 Electrical Engineer Intern - Gilbert AZ](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern---Gilbert-AZ_R10262079) (United States-Arizona-Gilbert) hidden by title_exclude_unless: **electrical**
+- Northrop Grumman: [2027 Electronics Engineer Intern - Manhattan Beach CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Electronics-Engineer-Intern---Manhattan-Beach-CA_R10262075) (United States-California-Manhattan Beach) hidden by title_exclude_unless: **electronics**
+- Northrop Grumman: [2027 Electronics Engineer Intern - Azusa CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Electronics-Engineer-Intern---Azusa-CA_R10262073-1) (United States-California-Azusa) hidden by title_exclude_unless: **electronics**
+- Northrop Grumman: [2027 Software Engineering Intern - Colorado Springs CO](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918) (United States-Colorado-Colorado Springs) hidden by title_exclude_unless: **software**
+- Northrop Grumman: [2027 Software Engineer Intern - Linthicum Maryland](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) (United States-Maryland-Linthicum) hidden by title_exclude_unless: **software**
+- Northrop Grumman: [2027 Cyber Systems Engineer Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471) (United States-Utah-Roy) hidden by title_exclude_unless: **cyber**
+- Northrop Grumman: [2027 Software Engineering Intern - Boulder CO](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) (United States-Colorado-Boulder) hidden by title_exclude_unless: **software**
+- Northrop Grumman: [2027 Software Test Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728) (United States-Utah-Roy) hidden by title_exclude_unless: **software**
+- Nucor: [Structural Engineer Intern](https://jobs.nucor.com/job/Rock-Hill-Structural-Engineer-Intern-SC-29730/1453154300/) (Rock Hill, SC, US, 29730) hidden by title_exclude_unless: **structural**
+- Philips North America: [Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989) (Bothell, Washington, United States) hidden by title_exclude_unless: **ai**
+- RTX: [FPGA Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/FPGA-Electrical-Engineer-Intern--Summer-2027-_01890532) (US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01) hidden by title_exclude_unless: **fpga**
+- RTX: [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983) (US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A) hidden by title_exclude_unless: **software**
+- RTX: [Electrical Engineering Electromagnetic Environmental Effects Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Electrical-Engineering-Electromagnetic-Environmental-Effects-Intern--Summer-2027-_01885207) (US-AZ-TUCSON-M02 ~ 1151 E Hermans Rd ~ BLDG M02) hidden by title_exclude_unless: **electrical**
+- RTX: [Avionics Supplier Quality Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Avionics-Supplier-Quality-Intern--Summer-2027-_01890601) (US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108) hidden by title_exclude_unless: **avionics**
+- RTX: [Embedded System Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Embedded-System-Engineering-Intern_01890950) (US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1) hidden by title_exclude_unless: **embedded**
+- Rockwell Automation: [Intern, Software Engineer](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2) (Milwaukee, Wisconsin, United States) hidden by title_exclude_unless: **software**
+- Samsung Semiconductor: [Intern, RF Analog Circuit Design Engineer](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8213439003) (San Jose, California, United States) hidden by title_exclude_unless: **rf**
+- Shield AI: [2027 Summer Intern - Software Engineering - 5815](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503) (Dallas, TX, US) hidden by title_exclude_unless: **software**
+- Shield AI: [2027 Summer Intern - Software Test Automation - 5796](https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86) (Dallas, TX, US) hidden by title_exclude_unless: **software**
+- Skanska USA: [Heavy Civil Estimating Winter 2027 Internship](https://skanska.jibeapply.com/jobs/10486) (Orlando, Florida) hidden by title_exclude: **winter 2027**
+- Skyworks: [Electrical Design Engineering Intern](https://careers.skyworksinc.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1444054200/) (Richardson, US, 75081) hidden by title_exclude_unless: **electrical**
+- Skyworks: [RF Design Engineering Intern](https://careers.skyworksinc.com/job/Richardson-RF-Design-Engineering-Intern-TX-75081/1444249700/) (Richardson, US, 75081) hidden by title_exclude_unless: **rf**
+- Skyworks: [Software Engineering Intern](https://careers.skyworksinc.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1444250500/) (Greensboro, US, 27409) hidden by title_exclude_unless: **software**
+- Skyworks: [Software Characterization Engineering Intern](https://careers.skyworksinc.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1444239700/) (Greensboro, US, 27409) hidden by title_exclude_unless: **software**
+- Skyworks: [Software Engineer Summer/Fall Co-Op (June - Dec '27)](https://careers.skyworksinc.com/job/Austin-Software-Engineer-SummerFall-Co-Op-%28June-Dec-'27%29-TX-78702/1453533600/) (Austin, TX, US, 78702) hidden by title_exclude_unless: **software**
+- Skyworks: [Data Engineering Summer/Fall Co-Op (June - Dec '27)](https://careers.skyworksinc.com/job/Irvine-Data-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1424302600/) (Irvine, CA, US, 92617) hidden by title_exclude: **data engineering**
+- Smith and Nephew: [Co-Op Electrical Engineering](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Co-Op-Electrical-Engineering_R92956-1) (Andover, MA) hidden by title_exclude_unless: **electrical**
+- Stanley Black and Decker: [Engineering Intern, Electronics - Summer 2027](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineering-Intern--Electronics---Summer-2027_REQ-1000052694) (Towson, MD, United States) hidden by title_exclude_unless: **electronics**
+- Stanley Consultants: [Student Intern 2027 - Transportation Traffic](https://jobs.lever.co/stanleygroup/d35b6223-29dd-474e-8920-29eaed01111f) (Chicago, IL) hidden by title_exclude_unless: **transportation**
+- Terracon: [Environmental & Geotechnical Intern](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4391) (Auburn, AL, United States) hidden by title_exclude_unless: **geotechnical**
+- Terracon: [Geotechnical Intern](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4394) (Columbus, GA, United States) hidden by title_exclude_unless: **geotechnical**
+- Terracon: [Geotechnical Intern](https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4396) (Macon, GA, United States) hidden by title_exclude_unless: **geotechnical**
+- Trimble: [AI Software Developer Engineer in Test Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/AI-Software-Developer-Engineer-in-Test-Intern_R58210) (US - OR, Lake Oswego) hidden by title_exclude_unless: **ai**
+- Under Armour: [2027 Summer Internship, AI Automation](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-AI-Automation-MD-21230/1434354900/) (Baltimore, MD, US, 21230) hidden by title_exclude_unless: **ai**
+- VHB: [Structural Intern - Summer 2027](https://careers-vhb.icims.com/jobs/6435/structural-intern---summer-2027/job) (Wethersfield, CT, US) hidden by title_exclude_unless: **structural**
+- Walter P Moore: [Intern - MME Structural](https://careers-walterpmoore.icims.com/jobs/4799/intern---mme-structural/job) (Houston | US-TX-Dallas, TX, US) hidden by title_exclude_unless: **structural**
+- Walter P Moore: [Intern - MME Structural](https://careers-walterpmoore.icims.com/jobs/4798/intern---mme-structural/job) (Austin, TX, US) hidden by title_exclude_unless: **structural**
+- Zoox: [AI Engineering Intern, Operational Safety [Summer 2027]](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) (Foster City, CA) hidden by title_exclude_unless: **ai**
+- Zoox: [Contract Student Worker - Program Manager](https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f) (Foster City, CA) hidden by title_exclude: **contract student worker**
 
 ## Top rules by roles hidden
-- electrical: 157
-- software: 149
-- structural: 99
-- spring 2027: 87
-- sales: 76
-- transportation: 43
-- technician: 41
-- january: 40
-- ai: 37
-- geotechnical: 36
-- winter 2027: 33
+- electrical: 158
+- software: 153
+- structural: 96
+- spring 2027: 82
+- sales: 74
+- ai: 41
+- transportation: 40
+- january: 39
+- technician: 38
+- winter 2027: 31
 - embedded: 23
-- phd intern: 23
-- winter: 19
-- spring: 17
-- fall 2027: 15
+- geotechnical: 21
+- phd intern: 19
+- winter: 18
+- fall 2027: 16
+- spring: 16
 - machine learning: 14
 - marketing: 13
-- traffic: 12
-- ehs: 12
-- rf: 12
-- analog: 10
+- ehs: 13
+- rf: 13
+- electronics: 12
+- analog: 11
+- traffic: 10
+- bridge: 9
 - fall: 9
-- firmware: 9
-- business: 8
