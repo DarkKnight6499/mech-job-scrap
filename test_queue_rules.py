@@ -91,3 +91,33 @@ def test_blatant_roles_rejected(title):
 ])
 def test_borderline_roles_kept(title):
     assert reason(title) is None
+
+
+@pytest.mark.parametrize("title", [
+    "Mechanical Engineering Intern (U.S. Person Required)", "Systems Engineering Intern (U.S. Citizen Required)",
+    "Engineering Intern Talent Pool", "Mechanical Engineering Intern Hiring Event", "Video Production Intern",
+    "Advanced Packaging Intern", "Firmware Engineer Intern, Robotics",
+])
+def test_picked_deletions(title):
+    assert reason(title) is not None
+
+
+@pytest.mark.parametrize("title", [
+    "Combustion Devices Intern Summer 2027", "Flight Dynamics Internship", "Quality Intern", "Operational Excellence Co-Op",
+    "Intern, Production", "Tool & Die Intern", "Packaging Co-Op", "Acoustic and Vibration Technologies Intern",
+    "Research Associate Intern", "Program Management Intern",
+])
+def test_picked_additions_match(title):
+    job = {"title": title, "location": "Boulder, CO"}
+    assert js.matches(job, F)
+
+
+def test_company_title_rules_only_hit_that_company():
+    for company, title, kept in [("Terracon", "Materials Engineering Intern", False), ("Hexcel", "Materials Engineering Intern", True),
+                                 ("Granite Construction", "Engineer Intern", False),
+                                 ("Granite Construction", "Mechanical Engineer Intern", True), ("Acme", "Engineer Intern", True)]:
+        assert (js.title_filter_reason({"title": title}, js.company_filters(company, F)) is None) is kept, (company, title)
+
+
+def test_gebze_is_not_us():
+    assert not js.matches({"title": "Manufacturing Engineering Intern", "location": "GEBZE PLANT; SEKERPINAR DC"}, F)

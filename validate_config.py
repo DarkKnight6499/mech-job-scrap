@@ -107,6 +107,12 @@ def validate_filters(config):
     if not isinstance(rules, list) or any(not isinstance(rule, dict) or not _strings(rule.get("terms"))
                                           or not _strings(rule.get("unless")) for rule in rules):
         errors.append("filters.title_exclude_unless requires nonempty terms and unless lists")
+    by_company = filters.get("company_title_rules", {})
+    if not isinstance(by_company, dict) or any(
+            not isinstance(group, list) or any(not isinstance(rule, dict) or not _strings(rule.get("terms"))
+                                               or not _strings(rule.get("unless")) for rule in group)
+            for group in by_company.values()):
+        errors.append("filters.company_title_rules requires, per company, rules with nonempty terms and unless lists")
     year = filters.get("internship_year")
     if year is not None and (type(year) is not int or not 2000 <= year <= 2099):
         errors.append("filters.internship_year must be an integer from 2000 to 2099")

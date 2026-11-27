@@ -193,7 +193,42 @@
    "R & D",
    "R and D",
    "science and engineering",
-   "technology development"
+   "technology development",
+   "combustion",
+   "turbomachinery",
+   "fluid systems",
+   "fluid component",
+   "compression aero",
+   "flight dynamics",
+   "flight control",
+   "flight guidance",
+   "flight navigation",
+   "guidance, navigation",
+   "aerostructures",
+   "quality intern",
+   "quality internship",
+   "intern, quality",
+   "internship, quality",
+   "quality management",
+   "quality co-op",
+   "process improvement",
+   "operational excellence",
+   "operations excellence",
+   "print process",
+   "print optimization",
+   "production intern",
+   "intern, production",
+   "machining",
+   "tool & die",
+   "design drafter",
+   "packaging",
+   "acoustic",
+   "vibration",
+   "sound lab",
+   "research associate",
+   "microanalysis",
+   "nanoparticle",
+   "program management"
   ],
   "title_require_all_groups": [
    [
@@ -396,7 +431,42 @@
     "R & D",
     "R and D",
     "science and engineering",
-    "technology development"
+    "technology development",
+    "combustion",
+    "turbomachinery",
+    "fluid systems",
+    "fluid component",
+    "compression aero",
+    "flight dynamics",
+    "flight control",
+    "flight guidance",
+    "flight navigation",
+    "guidance, navigation",
+    "aerostructures",
+    "quality intern",
+    "quality internship",
+    "intern, quality",
+    "internship, quality",
+    "quality management",
+    "quality co-op",
+    "process improvement",
+    "operational excellence",
+    "operations excellence",
+    "print process",
+    "print optimization",
+    "production intern",
+    "intern, production",
+    "machining",
+    "tool & die",
+    "design drafter",
+    "packaging",
+    "acoustic",
+    "vibration",
+    "sound lab",
+    "research associate",
+    "microanalysis",
+    "nanoparticle",
+    "program management"
    ]
   ],
   "title_exclude": [
@@ -485,7 +555,34 @@
    "Intern Experience",
    "Workplace Experience",
    "Product Management Intern - MBA",
-   "Product Management MBA"
+   "Product Management MBA",
+   "video production",
+   "advanced packaging",
+   "corporate affairs",
+   "citizen required",
+   "citizenship required",
+   "U.S. citizen",
+   "US citizen",
+   "person required",
+   "career fair",
+   "career expo",
+   "hiring event",
+   "networking event",
+   "talent pool",
+   "firmware engineer",
+   "multimedia",
+   "representation learning",
+   "applied science internship",
+   "product manager technical",
+   "computational engineering division",
+   "manufacturing software",
+   "lithography",
+   "yield enhancement",
+   "architecture research engineer",
+   "device engineering",
+   "test wafer",
+   "Kilby",
+   "MEMS"
   ],
   "title_exclude_unless": [
    {
@@ -1044,7 +1141,9 @@
    "Remote Europe",
    "Remote worldwide",
    "Worldwide",
-   "Global"
+   "Global",
+   "gebze",
+   "sekerpinar"
   ],
   "search_terms": [
    "intern",
@@ -1059,7 +1158,38 @@
    "fall 2027"
   ],
   "exclude_phd_only": true,
-  "exclude_undergrad_only": true
+  "exclude_undergrad_only": true,
+  "company_title_rules": {
+   "Terracon": [
+    {
+     "terms": [
+      "material",
+      "materials"
+     ],
+     "unless": [
+      "mechanical",
+      "polymer",
+      "membrane"
+     ]
+    }
+   ],
+   "Granite Construction": [
+    {
+     "terms": [
+      "engineer intern",
+      "engineering intern"
+     ],
+     "unless": [
+      "mechanical",
+      "mechatronic",
+      "materials",
+      "manufacturing",
+      "aerospace",
+      "thermal"
+     ]
+    }
+   ]
+  }
  },
  "companies": [
   {

@@ -3260,6 +3260,12 @@ def title_filter_reason(job, f):
     return internship_filter_reason(job, f)
 
 
+def company_filters(name, f):
+    """Shared filters plus any title rules for one employer, e.g. "materials" meaning soil testing at a geotech firm."""
+    extra = (f.get("company_title_rules") or {}).get(name)
+    return dict(f, title_exclude_unless=list(f.get("title_exclude_unless", [])) + extra) if extra else f
+
+
 def matches(job, f):
     title = " ".join(job["title"].split())
     if not _title_candidate(title, f) or title_filter_reason(job, f):
@@ -5030,9 +5036,10 @@ def run(args):
                 continue
             counts["companies"] += 1
             jobs = list({j["id"]: j for j in jobs}.values())  # a fetcher that repeats an id must not double-queue it
-            hits = [j for j in jobs if matches(j, filters)]
+            own_filters = company_filters(name, filters)
+            hits = [j for j in jobs if matches(j, own_filters)]
             if not args.check:
-                hits += _rescue_multi_site(c, jobs, hits, filters)
+                hits += _rescue_multi_site(c, jobs, hits, own_filters)
             if args.check:
                 warn = "  <- 0 jobs, check slug" if not jobs else ""
                 trunc = "  [truncated - raise max_per_term or narrow search terms]" if not complete else ""
@@ -5040,7 +5047,7 @@ def run(args):
                 continue
 
             if not args.dry_run:
-                filtered_fresh[name] = _filtered_rows(jobs, hits, filters)
+                filtered_fresh[name] = _filtered_rows(jobs, hits, own_filters)
             seen = set(state.get(name, []))
             first_run = name not in state
             fresh = [j for j in (hits if first_run else [j for j in hits if j["id"] not in seen])
@@ -5124,7 +5131,7 @@ def _drop_title_filtered(queue, filters, counts):
     """Re-applies the current title rules to unmarked rows, so a tightened rule also clears rows queued before it.
     Not tombstoned: a loosened rule changes the filter signature and the auto recall brings the row back."""
     keep = [e for e in queue if e.get("state") not in _UNMARKED_STATES
-            or not title_filter_reason({"title": e.get("role") or ""}, filters)]
+            or not title_filter_reason({"title": e.get("role") or ""}, company_filters(e.get("company"), filters))]
     counts["title_dropped"] = len(queue) - len(keep)
     queue[:] = keep
 
