@@ -270,22 +270,79 @@
    ],
    "n": 22
   },
-  "GE Vernova": {
+  "Booz Allen Hamilton": {
    "rows": [
     [
-     "/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
-     "GE Vernova Electrical Intern - Summer 2027",
-     "Salem VA USA",
-     "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "University, AI RAN Telecommunications Engineer Intern",
+     "McLean, VA",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
      "title_exclude_unless",
-     "electrical",
+     "ai",
      {
-      "posted": "2026-11-17",
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "Design and Verification Engineer Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "title_exclude_unless",
+     "verification",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "",
       "first_seen": ""
      }
     ]
    ],
-   "n": 1
+   "n": 3
+  },
+  "GE Aerospace": {
+   "rows": [],
+   "n": 0
+  },
+  "DPR Construction": {
+   "rows": [
+    [
+     "/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
+     "Electrical Design Intern",
+     "3 Locations (Baltimore MD)",
+     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
+     "Structural Design Intern",
+     "3 Locations (Baltimore MD)",
+     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
   },
   "Relativity Space": {
    "rows": [],
@@ -672,6 +729,18 @@
      }
     ],
     [
+     "36d75e36-eeb2-4399-8887-37c4a5ff5800",
+     "Hardware Test and Reliability Intern - Summer 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-10-20",
+      "first_seen": ""
+     }
+    ],
+    [
      "79fdda46-4ff5-42c7-b208-55f2084cdb8c",
      "Software Engineer Intern - Summer 2027",
      "San Mateo, California, United States",
@@ -680,6 +749,18 @@
      "software",
      {
       "posted": "2026-10-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1ac972b1-8094-4765-8869-63e1c4d50dea",
+     "Wireless Hardware Engineer Intern - Summer 2027",
+     "San Mateo, California, United States",
+     "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-10-20",
       "first_seen": ""
      }
     ],
@@ -792,7 +873,7 @@
      }
     ]
    ],
-   "n": 11
+   "n": 13
   },
   "Vast": {
    "rows": [
@@ -1198,6 +1279,18 @@
      }
     ],
     [
+     "8172394",
+     "Hardware R&D Engineering Intern (Summer 2027)",
+     "Somerville, MA",
+     "https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-09-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "8172226",
      "Hardware R&D Engineering Intern (Winter/Spring 2027)",
      "Somerville, MA",
@@ -1206,6 +1299,30 @@
      "winter",
      {
       "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8186619",
+     "Hardware Reliability Intern (Summer 2027)",
+     "Somerville, MA",
+     "https://careers.formlabs.com/job/8186619/apply/?gh_jid=8186619",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-09-08",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8212683",
+     "Hardware Systems Integration Intern (Summer 2027)",
+     "Somerville, MA",
+     "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-10-14",
       "first_seen": ""
      }
     ],
@@ -1306,7 +1423,7 @@
      }
     ]
    ],
-   "n": 10
+   "n": 13
   },
   "Anybotics": {
    "rows": [],
@@ -1464,6 +1581,30 @@
      }
     ],
     [
+     "0accbf9e-9b09-4733-b495-fb6dce13ba62",
+     "Hardware Engineer Intern, Vehicle Development [Summer 2027]",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+     "Hardware Engineer Intern, Vehicle Systems [Summer 2027]",
+     "Foster City, CA",
+     "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-02",
+      "first_seen": ""
+     }
+    ],
+    [
      "7b20b929-d9a4-4995-a472-16cd4925a877",
      "PhD Software Engineer Intern, Autonomy Software [Summer 2027]",
      "Foster City, CA",
@@ -1500,7 +1641,7 @@
      }
     ]
    ],
-   "n": 10
+   "n": 12
   },
   "Sila Nano": {
    "rows": [],
@@ -2916,9 +3057,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720",
+     "Hardware Engineering Intern",
+     "Vista, California, United States",
+     "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Xylem": {
    "rows": [],
@@ -3044,12 +3197,36 @@
      }
     ],
     [
+     "/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1",
+     "Intern, Hardware Development Engineer (May - Aug 2027)",
+     "Mayfield Heights, Ohio, United States",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-1",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
      "Co-op, Electrical Engineer (June - Dec 2027)",
      "Chelmsford, Massachusetts, United States",
      "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
      "title_exclude_unless",
      "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
+     "Co-op, Hardware Development Engineer (June - Dec 2027)",
+     "Mayfield Heights, Ohio, United States",
+     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
+     "title_exclude_unless",
+     "hardware",
      {
       "posted": "",
       "first_seen": ""
@@ -3092,10 +3269,22 @@
      }
     ]
    ],
-   "n": 8
+   "n": 10
   },
   "Micron": {
    "rows": [
+    [
+     "/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
+     "Intern - SSD Hardware Engineering",
+     "Longmont-MAX- Office, CO",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
      "Intern -  AI Engineer Platform",
@@ -3169,7 +3358,7 @@
      }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Carrier": {
    "rows": [
@@ -3904,6 +4093,18 @@
      }
     ],
     [
+     "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+     "NVIDIA 2027 Internships: Hardware Engineering",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-26",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
      "NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
      "US, CA, Santa Clara",
@@ -4036,6 +4237,18 @@
      }
     ],
     [
+     "/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1",
+     "Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027",
+     "US, CA, Santa Clara",
+     "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1",
+     "title_exclude",
+     "accountant",
+     {
+      "posted": "2026-11-26",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-CA-Santa-Clara/Financial-Analyst-Intern--Hardware-FP-A---Summer-2027_JR2029523-1",
      "Financial Analyst Intern, Hardware FP&A - Summer 2027",
      "US, CA, Santa Clara",
@@ -4124,8 +4337,8 @@
      "PhD Research Intern, Hardware and Systems Architecture - 2027",
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
-     "description_exclude",
-     "phd-only title",
+     "title_exclude_unless",
+     "hardware",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -4144,7 +4357,7 @@
      }
     ]
    ],
-   "n": 29
+   "n": 31
   },
   "Moog": {
    "rows": [
@@ -4323,6 +4536,18 @@
      }
     ],
     [
+     "ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
+     "2027 June Co-op - Hardware Test - #6426",
+     "Dallas, TX, US",
+     "https://jobs.ashbyhq.com/shield/ec8a822c-ccbf-4b4e-b41c-2f0db5c8342d",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
      "f96617c2-a120-4b3b-844d-790fcda42503",
      "2027 Summer Intern - Software Engineering - 5815",
      "Dallas, TX, US",
@@ -4347,7 +4572,7 @@
      }
     ]
    ],
-   "n": 9
+   "n": 10
   },
   "Apex Space": {
    "rows": [],
@@ -4380,6 +4605,18 @@
      }
     ],
     [
+     "5252677007",
+     "GNC Hardware Engineering Intern (Summer 2027)",
+     "Mountain View, CA",
+     "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-09-29",
+      "first_seen": ""
+     }
+    ],
+    [
      "5252680007",
      "GNC Software Engineering Intern (Summer 2027)",
      "Mountain View, CA",
@@ -4404,7 +4641,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Stellantis": {
    "rows": [],
@@ -5068,6 +5305,23 @@
    ],
    "n": 4
   },
+  "GE Vernova": {
+   "rows": [
+    [
+     "/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+     "GE Vernova Electrical Intern - Summer 2027",
+     "Salem VA USA",
+     "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
+  },
   "Bloom Energy": {
    "rows": [
     [
@@ -5371,6 +5625,18 @@
      }
     ],
     [
+     "744000160975864",
+     "Summer 2027 Intern - Hardware Engineering",
+     "San Jose, CA, us",
+     "https://jobs.smartrecruiters.com/WesternDigital/744000160975864",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
      "744000160975819",
      "Summer 2027 Intern - Software Engineering",
      "San Jose, CA, us",
@@ -5407,7 +5673,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Lawrence Livermore": {
    "rows": [
@@ -5754,6 +6020,30 @@
      }
     ],
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
+     "2027 Hardware Security Engineering Grad Intern",
+     "2 Locations (El Segundo CA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+     "2027 Hardware Security Engineering Undergrad \u202fIntern",
+     "2 Locations (El Segundo CA)",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Grad-Intern_R016848",
      "2027 Signal Processing and RF Engineering Grad Intern",
      "El Segundo, CA",
@@ -5802,7 +6092,7 @@
      }
     ]
    ],
-   "n": 16
+   "n": 18
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -6623,47 +6913,6 @@
    ],
    "n": 9
   },
-  "Booz Allen Hamilton": {
-   "rows": [
-    [
-     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "University, AI RAN Telecommunications Engineer Intern",
-     "McLean, VA",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-11-10",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
-     "Design and Verification Engineer Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
-     "title_exclude_unless",
-     "verification",
-     {
-      "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 3
-  },
   "Parsons": {
    "rows": [],
    "n": 0
@@ -6992,10 +7241,6 @@
    "n": 12
   },
   "Electric Hydrogen": {
-   "rows": [],
-   "n": 0
-  },
-  "GE Aerospace": {
    "rows": [],
    "n": 0
   },
@@ -11227,6 +11472,18 @@
      }
     ],
     [
+     "0af72d5a-87b7-49a1-b49e-424d28758c9e",
+     "Hardware Test Engineering Intern (Summer 2027)",
+     "Mountain View, CA",
+     "https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "f4073938-ccdb-46fb-aa65-6715981d27ee",
      "Avionics Intern (Summer 2027)",
      "Mountain View, CA",
@@ -11251,7 +11508,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Teledyne FLIR": {
    "rows": [
@@ -11297,6 +11554,18 @@
   "Draper Laboratory": {
    "rows": [
     [
+     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
+     "Sensor Electrical Engineering Intern (Summer 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189",
      "Cyber Effects Engineering Intern (Summer 2027)",
      "Cambridge, MA",
@@ -11305,6 +11574,30 @@
      "cyber",
      {
       "posted": "2026-11-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
+     "Optics-Physics Sensor Engineering Co-op (Spring 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
+     "Sensor Electrical Engineering Co-op (Spring 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -11333,46 +11626,10 @@
      }
     ],
     [
-     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
-     "Sensor Electrical Engineering Intern (Summer 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-11-05",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941",
      "Electrical Engineering Co-Op (Spring 2027)",
      "Cambridge, MA",
      "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
-     "Optics-Physics Sensor Engineering Co-op (Spring 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
-     "Sensor Electrical Engineering Co-op (Spring 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
      "title_exclude",
      "spring 2027",
      {
@@ -12969,35 +13226,6 @@
    ],
    "n": 1
   },
-  "DPR Construction": {
-   "rows": [
-    [
-     "/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
-     "Electrical Design Intern",
-     "3 Locations (Baltimore MD)",
-     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
-     "Structural Design Intern",
-     "3 Locations (Baltimore MD)",
-     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 2
-  },
   "Holder Construction": {
    "rows": [],
    "n": 0
@@ -13724,6 +13952,18 @@
   "Qualcomm": {
    "rows": [
     [
+     "446720737089",
+     "Embedded Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720737089",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720740525",
      "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
@@ -13748,6 +13988,18 @@
      }
     ],
     [
+     "446720741668",
+     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720741668",
+     "title_exclude",
+     "cloud",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720740649",
      "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | Tempe, Arizona, United States of America | Santa Clara, California, United States of America",
@@ -13756,18 +14008,6 @@
      "digital design",
      {
       "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "446720737089",
-     "Embedded Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720737089",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-09-18",
       "first_seen": ""
      }
     ],
@@ -13790,18 +14030,6 @@
      "https://careers.qualcomm.com/careers/job/446720740912",
      "title_exclude_unless",
      "rf",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "446720741668",
-     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720741668",
-     "title_exclude",
-     "cloud",
      {
       "posted": "2026-08-25",
       "first_seen": ""
@@ -13849,14 +14077,50 @@
      }
     ],
     [
+     "/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
+     "Hardware Engineer I (Intern) - United States",
+     "2 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
      "Hardware Engineer PhD Co-op - United States",
      "San Jose, California, US",
      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
-     "description_exclude",
-     "phd-only title",
+     "title_exclude_unless",
+     "hardware",
      {
       "posted": "2026-11-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
+     "Hardware Engineer II Intern - United States",
+     "4 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
+     "Hardware Engineer II (Co-op) - United States",
+     "San Jose, California, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "",
       "first_seen": ""
      }
     ],
@@ -13865,8 +14129,8 @@
      "Hardware Engineer PhD (Intern) - United States",
      "2 Locations (San Jose California US)",
      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
-     "description_exclude",
-     "phd-only title",
+     "title_exclude_unless",
+     "hardware",
      {
       "posted": "",
       "first_seen": ""
@@ -13879,6 +14143,18 @@
      "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
      "title_exclude_unless",
      "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369",
+     "Hardware Engineer I (Co-op) - United States",
+     "San Jose, California, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Co-op----United-States_2025369",
+     "title_exclude_unless",
+     "hardware",
      {
       "posted": "",
       "first_seen": ""
@@ -13909,7 +14185,7 @@
      }
     ]
    ],
-   "n": 8
+   "n": 12
   },
   "Xcel Energy": {
    "rows": [],
@@ -14886,6 +15162,18 @@
      }
     ],
     [
+     "/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1",
+     "Summer Intern - Hardware Engineering - Indianapolis, Indiana",
+     "Indianapolis, IN - Hague Rd",
+     "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1",
      "Summer Intern - Robotics Technician",
      "Indianapolis, IN - Tobey Dr",
@@ -14898,7 +15186,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 6
   },
   "Ingredion": {
    "rows": [
@@ -15942,18 +16230,6 @@
      }
     ],
     [
-     "8816500002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Houston, Texas, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "8757448002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Waltham, Massachusetts, United States",
@@ -15978,6 +16254,18 @@
      }
     ],
     [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "8806894002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Washington, District of Columbia, United States",
@@ -15990,22 +16278,22 @@
      }
     ],
     [
-     "8827635002",
+     "8816500002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Los Angeles, California, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
+     "Houston, Texas, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
      "title_exclude_unless",
      "structural",
      {
-      "posted": "2026-09-21",
+      "posted": "2026-09-17",
       "first_seen": ""
      }
     ],
     [
-     "8827599002",
+     "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
+     "Los Angeles, California, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
      "title_exclude_unless",
      "structural",
      {
