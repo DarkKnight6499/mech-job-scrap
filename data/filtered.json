@@ -270,9 +270,303 @@
    ],
    "n": 22
   },
-  "Sonoco": {
-   "rows": [],
-   "n": 0
+  "Leidos": {
+   "rows": [
+    [
+     "/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
+     "Software Engineering Intern",
+     "Arlington, VA",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+     "Network Engineering & Operations Intern",
+     "Shiloh, IL",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+     "title_exclude_unless",
+     "network",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
+     "Data Engineer Intern",
+     "Fort Belvoir, VA",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
+     "title_exclude",
+     "data engineer",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
+     "Chief Engineer Intern",
+     "6314 Remote/Teleworker US",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
+     "title_exclude",
+     "chief",
+     {
+      "posted": "2026-11-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601",
+     "Power Delivery Engineering Intern",
+     "Greenville, SC",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601",
+     "title_exclude_unless",
+     "power delivery",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+     "Systems, Integration and Software Engineer Intern",
+     "Atlantic City, NJ",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 6
+  },
+  "Vertiv": {
+   "rows": [
+    [
+     "20286643",
+     "Engineering Intern - DC Power Systems (Summer 2027)",
+     "Lorain, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643",
+     "title_exclude_unless",
+     "dc power",
+     {
+      "posted": "2026-11-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278722",
+     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
+     "Columbus, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278720",
+     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
+     "Columbus, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278720",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278777",
+     "Software Engineering Intern (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278957",
+     "Firmware Engineer Intern (Graduate Level) (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957",
+     "title_exclude",
+     "firmware engineer",
+     {
+      "posted": "2026-08-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278958",
+     "Product Management Intern - MBA (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
+     "title_exclude",
+     "product management intern - mba",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278959",
+     "Product Management Intern - MBA (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
+     "title_exclude",
+     "product management intern - mba",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278896",
+     "Cost Engineering Intern (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896",
+     "title_exclude",
+     "cost engineering",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279047",
+     "Product Management Intern - Product Marketing (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047",
+     "title_exclude",
+     "marketing",
+     {
+      "posted": "2026-08-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279030",
+     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
+     "Westerville, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279030",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279239",
+     "IT Systems Product Management Intern (Summer 2027)",
+     "Westerville, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
+     "title_exclude_unless",
+     "it systems",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279203",
+     "Procurement Intern - Infrastructure Solutions (Summer 2027)",
+     "Greenville, SC, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203",
+     "title_exclude",
+     "procurement",
+     {
+      "posted": "2026-10-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279303",
+     "Engineering Intern - AC Power (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279303",
+     "title_exclude_unless",
+     "ac power",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279271",
+     "Electrical Engineering Intern - Energy Storage (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279305",
+     "Software Engineering Test Intern (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-09-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20279952",
+     "DC Power Product Management MBA Intern (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
+     "title_exclude",
+     "product management mba",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20281025",
+     "Electrical Engineering Intern \u2013 Product Architecture (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-10-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20284817",
+     "Software Engineering Intern (Graduate) (Summer 2027)",
+     "Huntsville, AL, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 18
   },
   "Relativity Space": {
    "rows": [],
@@ -2272,6 +2566,18 @@
      }
     ],
     [
+     "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
+     "Hardware Electrical Engineering Co-Op (Spring 2027)",
+     "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
      "Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)",
      "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
@@ -2412,18 +2718,6 @@
      "spring",
      {
       "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
-     "Hardware Electrical Engineering Co-Op (Spring 2027)",
-     "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-10-29",
       "first_seen": ""
      }
     ]
@@ -2977,83 +3271,6 @@
    "rows": [],
    "n": 0
   },
-  "Leidos": {
-   "rows": [
-    [
-     "/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
-     "Software Engineering Intern",
-     "Arlington, VA",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-24",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
-     "Network Engineering & Operations Intern",
-     "Shiloh, IL",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
-     "title_exclude_unless",
-     "network",
-     {
-      "posted": "2026-11-24",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
-     "Data Engineer Intern",
-     "Fort Belvoir, VA",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
-     "title_exclude",
-     "data engineer",
-     {
-      "posted": "2026-11-21",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
-     "Chief Engineer Intern",
-     "6314 Remote/Teleworker US",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859",
-     "title_exclude",
-     "chief",
-     {
-      "posted": "2026-11-14",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601",
-     "Power Delivery Engineering Intern",
-     "Greenville, SC",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601",
-     "title_exclude_unless",
-     "power delivery",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
-     "Systems, Integration and Software Engineer Intern",
-     "Atlantic City, NJ",
-     "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 6
-  },
   "3M": {
    "rows": [
     [
@@ -3445,6 +3662,18 @@
      }
     ],
     [
+     "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
+     "Intern - Yield Enhancement  Engineer",
+     "Boise, ID - ID1",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
+     "title_exclude",
+     "yield enhancement",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
      "Intern - SSD Hardware Engineering",
      "Longmont-MAX- Office, CO",
@@ -3501,6 +3730,18 @@
      "device engineer",
      {
       "posted": "2026-11-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+     "Physical Failure Analysis Technician - 6 Month Intern 2027",
+     "Boise, ID - ID1",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -3693,30 +3934,6 @@
      "dram",
      {
       "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
-     "Intern - Yield Enhancement  Engineer",
-     "Boise, ID - ID1",
-     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
-     "title_exclude",
-     "yield enhancement",
-     {
-      "posted": "2026-11-19",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
-     "Physical Failure Analysis Technician - 6 Month Intern 2027",
-     "Boise, ID - ID1",
-     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "2026-11-13",
       "first_seen": ""
      }
     ]
@@ -18531,227 +18748,6 @@
    "rows": [],
    "n": 0
   },
-  "Vertiv": {
-   "rows": [
-    [
-     "20286643",
-     "Engineering Intern - DC Power Systems (Summer 2027)",
-     "Lorain, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643",
-     "title_exclude_unless",
-     "dc power",
-     {
-      "posted": "2026-11-23",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278722",
-     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
-     "Columbus, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-08-13",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278720",
-     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
-     "Columbus, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278720",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-08-13",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278777",
-     "Software Engineering Intern (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-10-06",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278957",
-     "Firmware Engineer Intern (Graduate Level) (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957",
-     "title_exclude",
-     "firmware engineer",
-     {
-      "posted": "2026-08-26",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278958",
-     "Product Management Intern - MBA (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
-     "title_exclude",
-     "product management intern - mba",
-     {
-      "posted": "2026-08-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278959",
-     "Product Management Intern - MBA (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
-     "title_exclude",
-     "product management intern - mba",
-     {
-      "posted": "2026-08-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20278896",
-     "Cost Engineering Intern (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896",
-     "title_exclude",
-     "cost engineering",
-     {
-      "posted": "2026-08-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279047",
-     "Product Management Intern - Product Marketing (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279047",
-     "title_exclude",
-     "marketing",
-     {
-      "posted": "2026-08-21",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279030",
-     "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
-     "Westerville, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279030",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-08-31",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279239",
-     "IT Systems Product Management Intern (Summer 2027)",
-     "Westerville, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
-     "title_exclude_unless",
-     "it systems",
-     {
-      "posted": "2026-08-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279203",
-     "Procurement Intern - Infrastructure Solutions (Summer 2027)",
-     "Greenville, SC, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279203",
-     "title_exclude",
-     "procurement",
-     {
-      "posted": "2026-10-09",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279303",
-     "Engineering Intern - AC Power (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279303",
-     "title_exclude_unless",
-     "ac power",
-     {
-      "posted": "2026-08-13",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279271",
-     "Electrical Engineering Intern - Energy Storage (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-08-12",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279305",
-     "Software Engineering Test Intern (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-09-27",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20279952",
-     "DC Power Product Management MBA Intern (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
-     "title_exclude",
-     "product management mba",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20281025",
-     "Electrical Engineering Intern \u2013 Product Architecture (Summer 2027)",
-     "Delaware, OH, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281025",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-10-02",
-      "first_seen": ""
-     }
-    ],
-    [
-     "20284817",
-     "Software Engineering Intern (Graduate) (Summer 2027)",
-     "Huntsville, AL, United States",
-     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 18
-  },
   "Qualcomm": {
    "rows": [
     [
@@ -19158,24 +19154,24 @@
      }
     ],
     [
-     "/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
-     "Metrology & Quality Technician - Internship / Co-op",
-     "Clinton, MA",
-     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
      "Manufacturing Engineering Co-op - January 4, 2027-July 6, 2027",
      "Elmira, NY",
      "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
      "title_exclude",
      "january",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
+     "Metrology & Quality Technician - Internship / Co-op",
+     "Clinton, MA",
+     "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Metrology---Quality-Technician---Internship---Co-op_J2467577",
+     "title_exclude",
+     "technician",
      {
       "posted": "",
       "first_seen": ""
@@ -20147,6 +20143,10 @@
    "n": 78
   },
   "Procter & Gamble": {
+   "rows": [],
+   "n": 0
+  },
+  "Sonoco": {
    "rows": [],
    "n": 0
   },
@@ -21521,6 +21521,18 @@
      }
     ],
     [
+     "8816500002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Houston, Texas, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "8757448002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Waltham, Massachusetts, United States",
@@ -21545,18 +21557,6 @@
      }
     ],
     [
-     "8827599002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-21",
-      "first_seen": ""
-     }
-    ],
-    [
      "8806894002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Washington, District of Columbia, United States",
@@ -21569,22 +21569,22 @@
      }
     ],
     [
-     "8816500002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Houston, Texas, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Los Angeles, California, United States",
      "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
      "title_exclude_unless",
      "structural",
      {
