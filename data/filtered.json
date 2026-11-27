@@ -270,14 +270,6 @@
    ],
    "n": 22
   },
-  "Terex": {
-   "rows": [],
-   "n": 0
-  },
-  "Cleveland Clinic": {
-   "rows": [],
-   "n": 0
-  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -853,6 +845,18 @@
      }
     ],
     [
+     "5290937007",
+     "Intern, Infotainment SW Validation Automation, Summer 2027",
+     "Newark, CA",
+     "https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007",
+     "title_exclude_unless",
+     "infotainment sw",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "5290947007",
      "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
      "Newark, CA",
@@ -901,6 +905,18 @@
      }
     ],
     [
+     "5290941007",
+     "Product Security Engineering Intern, Summer 2027",
+     "Newark, CA",
+     "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+     "title_exclude_unless",
+     "product security",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "5306844007",
      "Salesforce Engineer Intern",
      "Amsterdam, NH",
@@ -913,7 +929,7 @@
      }
     ]
    ],
-   "n": 7
+   "n": 9
   },
   "Waymo": {
    "rows": [
@@ -1608,6 +1624,18 @@
      }
     ],
     [
+     "7090489003",
+     "Digital IC Design Engineer Intern",
+     "South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
+     "title_exclude_unless",
+     "digital ic",
+     {
+      "posted": "2025-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
      "7702527003",
      "Electrical Engineer Intern, Implant Embedded Systems",
      "Austin, Texas, United States; South San Francisco, California, United States",
@@ -1616,6 +1644,18 @@
      "embedded",
      {
       "posted": "2026-04-15",
+      "first_seen": ""
+     }
+    ],
+    [
+     "6607398003",
+     "Electrical Engineer Intern, Robotics and Surgery Engineering",
+     "South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
+     "title_exclude_unless",
+     "electrical engineer",
+     {
+      "posted": "2025-06-13",
       "first_seen": ""
      }
     ],
@@ -1702,9 +1742,21 @@
       "posted": "2024-12-13",
       "first_seen": ""
      }
+    ],
+    [
+     "5469305003",
+     "Software Engineer Intern, Robotics",
+     "Austin, Texas, United States; South San Francisco, California, United States",
+     "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
+     "title_exclude_unless",
+     "software engineer",
+     {
+      "posted": "2025-01-14",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 9
+   "n": 12
   },
   "Via Separations": {
    "rows": [],
@@ -1728,8 +1780,21 @@
    "n": 1
   },
   "PsiQuantum": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "7761881003",
+     "Intern, Optical Packaging and Characterization Engineer",
+     "Milpitas, California",
+     "https://www.psiquantum.com/apply?gh_jid=7761881003",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-06-02",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "IonQ": {
    "rows": [],
@@ -1937,6 +2002,18 @@
   "Kairos Power": {
    "rows": [
     [
+     "6123620004",
+     "Civil Engineering Internship - Summer 2027",
+     "Alameda, CA, Albuquerque, NM or Oak Ridge TN ",
+     "https://job-boards.greenhouse.io/kairospower/jobs/6123620004",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-23",
+      "first_seen": ""
+     }
+    ],
+    [
      "6123657004",
      "Electrical Engineering Internship - Summer 2027",
      "Alameda, CA, Albuquerque, NM or Oak Ridge, TN ",
@@ -1949,7 +2026,7 @@
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Valar Atomics": {
    "rows": [],
@@ -2263,6 +2340,18 @@
      }
     ],
     [
+     "/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666",
+     "2027 Network Engineering Intern",
+     "US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site)",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/XMLNAME-2027-Network-Engineering-Intern_01877666",
+     "title_exclude_unless",
+     "network",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
      "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
      "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
@@ -2287,7 +2376,7 @@
      }
     ]
    ],
-   "n": 25
+   "n": 26
   },
   "Northrop Grumman": {
    "rows": [
@@ -2614,6 +2703,18 @@
      }
     ],
     [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740",
+     "2027 Summer Intern \u2013 Research and Developement \u2013 Display Optical Simulation",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Developement---Display-Optical-Simulation_JR-202621740",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
      "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
      "Sunnyvale, California, United States of America",
@@ -2806,7 +2907,7 @@
      }
     ]
    ],
-   "n": 20
+   "n": 21
   },
   "Baxter": {
    "rows": [],
@@ -2821,6 +2922,18 @@
      "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
      "title_exclude_unless",
      "software",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+     "Network Engineering & Operations Intern",
+     "Shiloh, IL",
+     "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+     "title_exclude_unless",
+     "network",
      {
       "posted": "2026-11-24",
       "first_seen": ""
@@ -2875,7 +2988,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 6
   },
   "3M": {
    "rows": [
@@ -3256,6 +3369,18 @@
      }
     ],
     [
+     "/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR117268",
+     "Intern - DRAM Customer Enablement Engineering",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR117268",
+     "title_exclude_unless",
+     "dram",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
      "Intern -  AI Engineer Platform",
      "Boise, ID - Main Site",
@@ -3292,6 +3417,30 @@
      }
     ],
     [
+     "/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161",
+     "Intern - Front End Materials Category Supplier Manager (CSM)",
+     "Boise, ID - North Office",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Front-End-Materials-Category-Supplier-Manager--CSM-_JR116161",
+     "title_exclude",
+     "category supplier manager",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
+     "Intern - System Engineer, HBM",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538",
      "Intern - YE-Electrical Failure Analysis Engineer",
      "Boise, ID - ID1",
@@ -3316,6 +3465,54 @@
      }
     ],
     [
+     "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
+     "Intern - Design Engineer, HBM",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+     "Intern - Design Engineer, HBM",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618",
+     "Intern - Engineer, HIG HBM DTPCO",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+     "Intern - Design Engineer, HBM",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
      "Intern - Semiconductor Research & Technology Development",
      "Albany, NY",
@@ -3326,9 +3523,81 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
+     "Intern Design Engineer - HIG HBM",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814",
+     "Intern - Design Engineer, HBM",
+     "Richardson, TX",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111814",
+     "title_exclude_unless",
+     "hbm",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582",
+     "Intern - DRAM Technology DTCO & PPA Assessment Engineer",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582",
+     "title_exclude_unless",
+     "dram",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
+     "Intern - Process Development Engineer, 3D DRAM CMP",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
+     "title_exclude_unless",
+     "dram",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060",
+     "Intern - Process Development Engineer, Planar DRAM CMP",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060",
+     "title_exclude_unless",
+     "dram",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
+     "Intern - Process Development Engineer, 3D DRAM Dry Etch",
+     "Boise, ID - Main Site",
+     "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
+     "title_exclude_unless",
+     "dram",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 7
+   "n": 20
   },
   "Carrier": {
    "rows": [
@@ -3378,6 +3647,18 @@
   },
   "Analog Devices": {
    "rows": [
+    [
+     "/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543",
+     "Robot Learning Engineer Intern",
+     "US, CA, San Jose, Rio Robles",
+     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Robot-Learning-Engineer-Intern_R269543",
+     "title_exclude_unless",
+     "robot learning",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/US-CA-San-Jose-Rio-Robles/Analog-Design-Engineer-Intern_R269549",
      "Analog Design Engineer Intern",
@@ -3487,10 +3768,22 @@
      }
     ]
    ],
-   "n": 9
+   "n": 10
   },
   "Intel": {
    "rows": [
+    [
+     "/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+     "Signal Integrity Engineering Intern",
+     "US, Arizona, Phoenix",
+     "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Signal-Integrity-Engineering-Intern_JR0289449",
+     "title_exclude_unless",
+     "signal integrity",
+     {
+      "posted": "2026-11-21",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/US-New-Mexico-Albuquerque/Facilities-Water-Treatment-Technician-Intern_JR0287403",
      "Facilities Water Treatment Technician Intern",
@@ -3732,7 +4025,7 @@
      }
     ]
    ],
-   "n": 20
+   "n": 21
   },
   "Dow": {
    "rows": [
@@ -4105,7 +4398,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -4285,7 +4578,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -4381,7 +4674,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -4417,7 +4710,7 @@
      "US, CA, Santa Clara",
      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -4531,6 +4824,18 @@
      }
     ],
     [
+     "af061c1a-f291-4540-be30-2df5adc22cc5",
+     "Program Manager, Intern Experience",
+     "Seattle, WA, US",
+     "https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5",
+     "title_exclude",
+     "intern experience",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "c546e532-4378-41d3-8ef3-4861cc3427e6",
      "Summer 2027 - Electrical Engineering Intern",
      "Dallas, TX, US",
@@ -4639,7 +4944,7 @@
      }
     ]
    ],
-   "n": 10
+   "n": 11
   },
   "Apex Space": {
    "rows": [],
@@ -4715,8 +5020,105 @@
    "n": 0
   },
   "Toyota Research Institute": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
+     "Research Intern, Spatial Intelligence for Robotics",
+     "Cambridge, MA",
+     "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
+     "title_exclude_unless",
+     "spatial intelligence",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4cac9569-cc90-4dcd-96b8-d9777c35c943",
+     "Robotics Intern, Generalist Robot Learning (GRL)",
+     "Los Altos, CA",
+     "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
+     "title_exclude_unless",
+     "robot learning",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "f6541d1f-b72f-456f-829f-bf118ac10c43",
+     "Robotics Intern, Post-Training and Continual Learning",
+     "Los Altos, CA",
+     "https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43",
+     "title_exclude_unless",
+     "continual learning",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "6f60ff79-c902-466a-912c-7ab849ce6424",
+     "Robotics Intern, Trustworthy Learning under Uncertainty",
+     "Los Altos, CA",
+     "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424",
+     "title_exclude_unless",
+     "trustworthy learning",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "2d9833d5-a940-4862-b13b-a1ecc9378fea",
+     "Robotics Intern, UX Design",
+     "Los Altos, CA",
+     "https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea",
+     "title_exclude_unless",
+     "ux design",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "e1ed2b1f-d345-4e7c-b963-76195369538d",
+     "Robotics Intern, World Action Models for Robot Policy",
+     "Cambridge, MA",
+     "https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d",
+     "title_exclude_unless",
+     "world action models",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "016bbb58-857a-4367-b1aa-0cdc9f818478",
+     "Robotics Intern, World Foundation Models",
+     "Los Altos, CA",
+     "https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478",
+     "title_exclude_unless",
+     "world foundation models",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "c6569529-4b6b-4229-b2c9-f97467c26cd3",
+     "Robotics Intern, World Models, Multimodal Sensing",
+     "Cambridge, MA",
+     "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
+     "title_exclude_unless",
+     "world models",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 8
   },
   "Toyota Motor North America": {
    "rows": [],
@@ -4859,6 +5261,18 @@
      }
     ],
     [
+     "/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040",
+     "Electric Machine Design Engineering Intern",
+     "Kokomo Technical Center - Indiana - USA",
+     "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electric-Machine-Design-Engineering-Intern_R2026-4040",
+     "title_exclude_unless",
+     "electric machine design",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Auburn-Hills---Michigan---USA/System-Engineering-Intern--Year-Round-_R2026-3983",
      "System Engineering Intern (Year-Round)",
      "Auburn Hills - Michigan - USA",
@@ -4883,7 +5297,7 @@
      }
     ]
    ],
-   "n": 4
+   "n": 5
   },
   "Aptiv": {
    "rows": [
@@ -5307,9 +5721,21 @@
       "posted": "2026-11-26",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----WWAN-Cellular-Engineer_JR103951",
+     "2027 Summer Internship (US) \u2013 WWAN Cellular Engineer",
+     "Holtsville, New York",
+     "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----WWAN-Cellular-Engineer_JR103951",
+     "title_exclude_unless",
+     "wwan",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Cognex": {
    "rows": [],
@@ -5470,7 +5896,7 @@
      "Sunnyvale, CA, us",
      "https://jobs.smartrecruiters.com/Intuitive/744000163546809",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-11-24",
       "first_seen": ""
@@ -5525,8 +5951,21 @@
    "n": 2
   },
   "Smith and Nephew": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
+     "Intern Optics and Optical Engineering R&D",
+     "Andover, MA",
+     "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Optics-and-Optical-Engineering-R-D_R93286",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "ResMed": {
    "rows": [],
@@ -5543,6 +5982,18 @@
      "software",
      {
       "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
+     "Optical Systems Engineering Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Systems-Student-Engineer_2641844-1",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -5643,6 +6094,30 @@
      }
     ],
     [
+     "/job/Ann-Arbor-MI/Optical-Engineering-Intern_2641705-2",
+     "Optical Engineering Intern",
+     "Ann Arbor, MI",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Optical-Engineering-Intern_2641705-2",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
+     "Optical Engineer Intern",
+     "Milpitas, CA",
+     "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
      "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
      "Milpitas, CA",
@@ -5667,7 +6142,7 @@
      }
     ]
    ],
-   "n": 11
+   "n": 14
   },
   "Tokyo Electron US": {
    "rows": [],
@@ -6087,6 +6562,18 @@
      }
     ],
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
+     "2027 Power Systems Engineering Graduate Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527",
+     "title_exclude_unless",
+     "power systems engineering",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430",
      "2027 Power and Analog Circuit Engineering Grad Intern",
      "El Segundo, CA",
@@ -6147,12 +6634,24 @@
      }
     ],
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Grad-Intern_R016684",
+     "2027 Electro-Optical Engineering Grad Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Grad-Intern_R016684",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Undergrad-Intern_R016683",
      "2027 Electro-Optical Engineering Undergrad Intern",
      "El Segundo, CA",
      "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Undergrad-Intern_R016683",
-     "description_exclude",
-     "undergrad-only title",
+     "title_exclude_unless",
+     "optical",
      {
       "posted": "2026-11-17",
       "first_seen": ""
@@ -6267,7 +6766,7 @@
      }
     ]
    ],
-   "n": 22
+   "n": 24
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -6286,9 +6785,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060",
+     "Data Processing Systems Engineer Intern",
+     "Sioux Falls, South Dakota",
+     "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Data-Processing-Systems-Engineer-Intern_R2130060",
+     "title_exclude_unless",
+     "data processing",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Plug Power": {
    "rows": [],
@@ -6424,8 +6935,21 @@
    "n": 0
   },
   "X-energy": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Rockville-MD/Civil-Engineering-Internship---Summer-2027_R101321",
+     "Civil Engineering Internship - Summer 2027",
+     "Rockville, MD",
+     "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Civil-Engineering-Internship---Summer-2027_R101321",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "Sunrun": {
    "rows": [],
@@ -6596,6 +7120,18 @@
      }
     ],
     [
+     "5291546007",
+     "2027 Optical Payload Engineer Intern",
+     "Costa Mesa, California, United States",
+     "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
      "5148079007",
      "2027 Software Engineer Intern",
      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -6728,7 +7264,7 @@
      }
     ]
    ],
-   "n": 17
+   "n": 18
   },
   "Vannevar Labs": {
    "rows": [],
@@ -7322,6 +7858,18 @@
      }
     ],
     [
+     "/job/San-Diego-CA-USA/Internship---Optical-and-Metrology-Engineering_J-00358248",
+     "Internship - Optical and Metrology Engineering",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship---Optical-and-Metrology-Engineering_J-00358248",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/San-Jose-CA-USA/Internship-Co-Op--AI-Engineer_J-00358477",
      "Internship/Co-Op: AI Engineer",
      "San Jose, CA, USA",
@@ -7358,6 +7906,30 @@
      }
     ],
     [
+     "/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00354940",
+     "Internship-Optical Modeling and Simulation Engineering",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00354940",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00355370",
+     "Internship-Optical Modeling and Simulation Engineering",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship-Optical-Modeling-and-Simulation-Engineering_J-00355370",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356268",
      "Internship - Electrical Engineer",
      "Wilton, CT, USA",
@@ -7366,6 +7938,18 @@
      "electrical",
      {
       "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357286",
+     "Internship - Optical Engineer (Co-op)",
+     "Wilton, CT, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357286",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-19",
       "first_seen": ""
      }
     ],
@@ -7382,12 +7966,72 @@
      }
     ],
     [
+     "/job/San-Jose-CA-USA/Internship-Optical-Imaging-Product-Engineer_J-00355188",
+     "Internship-Optical Imaging Product Engineer",
+     "San Jose, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship-Optical-Imaging-Product-Engineer_J-00355188",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship---EUV-Optical-Metrology-Engineer_J-00358146",
+     "Internship \u2013 EUV Optical Metrology Engineer",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship---EUV-Optical-Metrology-Engineer_J-00358146",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship---Optical-Engineering_J-00355371",
+     "Internship - Optical Engineering",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship---Optical-Engineering_J-00355371",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369",
+     "Internship - Optical Engineering, Non Product Metrology",
+     "San Diego, CA, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/San-Jose-CA-USA/Internship--AI-Research-and-Development_J-00357860",
      "Internship- AI Research and Development",
      "San Jose, CA, USA",
      "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship--AI-Research-and-Development_J-00357860",
      "title_exclude_unless",
      "ai",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
+     "Internship - Optical Engineer (Co-op)",
+     "Wilton, CT, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357417",
+     "title_exclude_unless",
+     "optical",
      {
       "posted": "2026-11-17",
       "first_seen": ""
@@ -7430,12 +8074,36 @@
      }
     ],
     [
+     "/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324",
+     "Co-Op - Optical Engineer (Internship)",
+     "Wilton, CT, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Co-Op---Optical-Engineer--Internship-_J-00355324",
+     "title_exclude_unless",
+     "optical",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
      "Internship- Software Development Engineer in Test",
      "San Diego, CA, USA",
      "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459",
      "title_exclude_unless",
      "software",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451",
+     "Co-op - Optical Engineer (Internship)",
+     "Wilton, CT, USA",
+     "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451",
+     "title_exclude_unless",
+     "optical",
      {
       "posted": "2026-10-29",
       "first_seen": ""
@@ -7454,7 +8122,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 23
   },
   "Electric Hydrogen": {
    "rows": [],
@@ -7640,9 +8308,33 @@
       "posted": "2026-11-12",
       "first_seen": ""
      }
+    ],
+    [
+     "1430056400",
+     "2027 COLLEGE SUMMER INTERN - INFRASTRUCTURE & SUSTAINABILITY",
+     "Pascagoula, Mississippi, United States",
+     "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-INFRASTRUCTURE-&-SUSTAINABILITY-Miss/1430056400/",
+     "title_exclude_unless",
+     "infrastructure & sustainability",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1430053700",
+     "2027 COLLEGE SUMMER INTERN-COMPUTER ENGINEERING",
+     "Pascagoula, Mississippi, United States",
+     "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/",
+     "title_exclude_unless",
+     "computer engineering",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 3
+   "n": 5
   },
   "Joby Aviation": {
    "rows": [
@@ -7678,8 +8370,21 @@
    "n": 0
   },
   "Hyundai": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "1425016100",
+     "2027 Summer Internship (Non-Engineering)",
+     "Montgomery, AL, US",
+     "https://careers-americas.hyundai.com/hmma/job/Montgomery-2027-Summer-Internship-%28Non-Engineering%29-AL-36101/1425016100/",
+     "title_exclude",
+     "non-engineering",
+     {
+      "posted": "2026-10-28",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "Navistar (International)": {
    "rows": [],
@@ -8062,6 +8767,18 @@
      }
     ],
     [
+     "25016331",
+     "Compute In-Memory System Engineer Intern",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016331",
+     "title_exclude_unless",
+     "compute in-memory",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "25020319",
      "Analog IC Design (AI/ML) Engineering Intern",
      "Dallas, TX, United States",
@@ -8186,8 +8903,20 @@
      "Digital IC Design Engineering Intern - Bachelors",
      "Dallas, TX, United States",
      "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
-     "description_exclude",
-     "undergrad-only title",
+     "title_exclude_unless",
+     "digital ic",
+     {
+      "posted": "2026-09-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25017548",
+     "Digital IC Design Engineering Intern - MS/PhD",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548",
+     "title_exclude_unless",
+     "digital ic",
      {
       "posted": "2026-09-02",
       "first_seen": ""
@@ -8242,7 +8971,7 @@
      }
     ]
    ],
-   "n": 16
+   "n": 18
   },
   "Skyworks": {
    "rows": [
@@ -8509,9 +9238,21 @@
       "posted": "2026-09-01",
       "first_seen": ""
      }
+    ],
+    [
+     "59477",
+     "2027 Co-op \u2013 Spacecraft Power Engineering",
+     "Laurel, Maryland",
+     "https://careers.jhuapl.edu/jobs/59477",
+     "title_exclude_unless",
+     "spacecraft power",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 11
+   "n": 12
   },
   "Hach": {
    "rows": [],
@@ -8532,6 +9273,42 @@
      "structural",
      {
       "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1099556940479",
+     "Infrastructure Construction Intern",
+     "Austin, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556940479",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "2026-11-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1099556889731",
+     "Construction Engineering Aide I- Summer Internship",
+     "Lebanon, US-IN, United States",
+     "https://careers.fluor.com/careers/job/1099556889731",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1099556886863",
+     "Construction Engineering Aide II- Summer Internship",
+     "Lebanon, US-IN, United States",
+     "https://careers.fluor.com/careers/job/1099556886863",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "2026-10-29",
       "first_seen": ""
      }
     ],
@@ -8632,6 +9409,18 @@
      }
     ],
     [
+     "1099556137670",
+     "Project Controls Tech II - Intern",
+     "Houston, US-TX, United States",
+     "https://careers.fluor.com/careers/job/1099556137670",
+     "title_exclude",
+     "project controls",
+     {
+      "posted": "2026-09-15",
+      "first_seen": ""
+     }
+    ],
+    [
      "1099556116892",
      "Engineering Technician I- Chemical Engineering Internship",
      "Houston, US-TX, United States",
@@ -8668,7 +9457,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 16
   },
   "Black and Veatch": {
    "rows": [
@@ -8707,12 +9496,48 @@
       "posted": "2026-11-23",
       "first_seen": ""
      }
+    ],
+    [
+     "1450985533",
+     "Civil Engineer Intern - Water (Oklahoma City)",
+     "Oklahoma City, OK, US",
+     "https://careers.bv.com/job/Oklahoma-City-Civil-Engineer-Intern-Water-%28Oklahoma-City%29-OK-73101/1450985533/",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-22",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "Kimley-Horn": {
    "rows": [
+    [
+     "26833",
+     "Civil Engineering Intern",
+     "Indianapolis, Indiana",
+     "https://careers.kimley-horn.com/jobs/26833",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "29932",
+     "CAD Intern- Water/ Wastewater",
+     "St. Petersburg, Florida",
+     "https://careers.kimley-horn.com/jobs/29932",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
     [
      "26855",
      "Electrical Engineering Intern",
@@ -8738,12 +9563,36 @@
      }
     ],
     [
+     "24772",
+     "Civil Engineering Intern",
+     "Austin, Texas",
+     "https://careers.kimley-horn.com/jobs/24772",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "27521",
      "Structural Intern",
      "Austin, Texas",
      "https://careers.kimley-horn.com/jobs/27521",
      "title_exclude_unless",
      "structural",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24774",
+     "Civil Engineering Intern",
+     "Austin, Texas",
+     "https://careers.kimley-horn.com/jobs/24774",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-11-19",
       "first_seen": ""
@@ -8762,6 +9611,42 @@
      }
     ],
     [
+     "28777",
+     "Part-Time Civil Engineering Intern",
+     "College Station, Texas",
+     "https://careers.kimley-horn.com/jobs/28777",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24852",
+     "Civil Engineering Intern",
+     "Mobile, Alabama",
+     "https://careers.kimley-horn.com/jobs/24852",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "28546",
+     "Part-Time Civil Engineering Intern",
+     "Terrell, Texas",
+     "https://careers.kimley-horn.com/jobs/28546",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "28423",
      "Renewable Energy Structural Intern",
      "Akron, Ohio",
@@ -8774,12 +9659,36 @@
      }
     ],
     [
+     "28421",
+     "Civil Engineering Intern",
+     "Akron, Ohio",
+     "https://careers.kimley-horn.com/jobs/28421",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "28417",
      "Civil Engineering Intern- Land Development",
      "Southfield, Michigan",
      "https://careers.kimley-horn.com/jobs/28417",
      "title_exclude_unless",
      "land development",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "28416",
+     "Civil Engineering Intern",
+     "Columbus, Ohio",
+     "https://careers.kimley-horn.com/jobs/28416",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-11-18",
       "first_seen": ""
@@ -8834,6 +9743,114 @@
      }
     ],
     [
+     "27247",
+     "Civil Engineering Intern",
+     "Rosemont, Illinois",
+     "https://careers.kimley-horn.com/jobs/27247",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27235",
+     "Civil Engineering Intern",
+     "Schaumburg, Illinois",
+     "https://careers.kimley-horn.com/jobs/27235",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25276",
+     "Civil Engineering Intern",
+     "Warrenville, Illinois",
+     "https://careers.kimley-horn.com/jobs/25276",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25035",
+     "Civil Engineering Intern",
+     "Overland Park, Kansas",
+     "https://careers.kimley-horn.com/jobs/25035",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25026",
+     "Civil Engineering Intern",
+     "Kansas City, Missouri",
+     "https://careers.kimley-horn.com/jobs/25026",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27863",
+     "Civil Engineering Intern",
+     "Raleigh, North Carolina",
+     "https://careers.kimley-horn.com/jobs/27863",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27859",
+     "Civil Engineering Intern",
+     "Holly Springs, North Carolina",
+     "https://careers.kimley-horn.com/jobs/27859",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27857",
+     "Civil Engineering Intern",
+     "Durham, North Carolina",
+     "https://careers.kimley-horn.com/jobs/27857",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27853",
+     "Civil Engineering Intern",
+     "Cary, North Carolina",
+     "https://careers.kimley-horn.com/jobs/27853",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-16",
+      "first_seen": ""
+     }
+    ],
+    [
      "27754",
      "Land Development Civil Engineering Intern",
      "Bradenton, Florida",
@@ -8870,12 +9887,36 @@
      }
     ],
     [
+     "27730",
+     "Civil Engineering Intern- Roadway",
+     "Sacramento, California",
+     "https://careers.kimley-horn.com/jobs/27730",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
      "27662",
      "Electrical Engineering Intern",
      "Warrenville, Illinois",
      "https://careers.kimley-horn.com/jobs/27662",
      "title_exclude_unless",
      "electrical",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25274",
+     "Civil Engineering Intern",
+     "Deerfield, Illinois",
+     "https://careers.kimley-horn.com/jobs/25274",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-11-12",
       "first_seen": ""
@@ -8894,12 +9935,60 @@
      }
     ],
     [
+     "25275",
+     "Civil Engineering Intern",
+     "Chicago, Illinois",
+     "https://careers.kimley-horn.com/jobs/25275",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25102",
+     "Civil Engineering Intern",
+     "Puerto Rico, Puerto Rico",
+     "https://careers.kimley-horn.com/jobs/25102",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27575",
+     "Civil Engineering Intern",
+     "Fort Lauderdale, Florida",
+     "https://careers.kimley-horn.com/jobs/27575",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
      "26942",
      "Electrical Engineering Intern",
      "Palm Beach Gardens, Florida",
      "https://careers.kimley-horn.com/jobs/26942",
      "title_exclude_unless",
      "electrical",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25077",
+     "Civil Engineering Intern",
+     "Miami, Florida",
+     "https://careers.kimley-horn.com/jobs/25077",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-11-11",
       "first_seen": ""
@@ -8930,12 +10019,60 @@
      }
     ],
     [
+     "25051",
+     "Civil Engineering Intern",
+     "Doral, Florida",
+     "https://careers.kimley-horn.com/jobs/25051",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27698",
+     "Civil Engineering Intern",
+     "Tucson, Arizona",
+     "https://careers.kimley-horn.com/jobs/27698",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
      "26035",
      "Electrical Engineering Intern - Renewable Energy",
      "Sacramento, California",
      "https://careers.kimley-horn.com/jobs/26035",
      "title_exclude_unless",
      "electrical",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27289",
+     "Civil Engineering Intern- Roadway",
+     "South San Francisco, California",
+     "https://careers.kimley-horn.com/jobs/27289",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26028",
+     "Civil Engineering Intern",
+     "San Jose, California",
+     "https://careers.kimley-horn.com/jobs/26028",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-11-11",
       "first_seen": ""
@@ -8978,6 +10115,30 @@
      }
     ],
     [
+     "27668",
+     "Civil Engineering Intern - Water/Wastewater",
+     "Weatherford, Texas",
+     "https://careers.kimley-horn.com/jobs/27668",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27664",
+     "Civil Engineering Intern",
+     "Westlake, Texas",
+     "https://careers.kimley-horn.com/jobs/27664",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ],
+    [
      "27636",
      "Structural Intern",
      "Dallas, Texas",
@@ -8986,6 +10147,102 @@
      "structural",
      {
       "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26027",
+     "Civil Engineering Intern",
+     "Roseville, California",
+     "https://careers.kimley-horn.com/jobs/26027",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27591",
+     "Civil Engineering Intern",
+     "Denver, Colorado",
+     "https://careers.kimley-horn.com/jobs/27591",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27574",
+     "Civil Engineering Intern",
+     "Virginia Beach, Virginia",
+     "https://careers.kimley-horn.com/jobs/27574",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27539",
+     "Civil Engineering Intern",
+     "Richmond, Virginia",
+     "https://careers.kimley-horn.com/jobs/27539",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27537",
+     "Civil Engineering Intern",
+     "Richmond, Virginia",
+     "https://careers.kimley-horn.com/jobs/27537",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24782",
+     "Civil Engineering Intern",
+     "Alpharetta, Georgia",
+     "https://careers.kimley-horn.com/jobs/24782",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24919",
+     "Civil Engineering Intern",
+     "Chattanooga, Tennessee",
+     "https://careers.kimley-horn.com/jobs/24919",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24834",
+     "Civil Engineering Intern",
+     "Cumming, Georgia",
+     "https://careers.kimley-horn.com/jobs/24834",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -9002,12 +10259,36 @@
      }
     ],
     [
+     "27430",
+     "Civil Engineering Intern",
+     "Murfreesboro, Tennessee",
+     "https://careers.kimley-horn.com/jobs/27430",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
      "24799",
      "Structural Intern",
      "Atlanta, Georgia",
      "https://careers.kimley-horn.com/jobs/24799",
      "title_exclude_unless",
      "structural",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24884",
+     "Civil Engineering Intern",
+     "Birmingham, Alabama",
+     "https://careers.kimley-horn.com/jobs/24884",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-10-30",
       "first_seen": ""
@@ -9062,6 +10343,18 @@
      }
     ],
     [
+     "27380",
+     "Civil Engineering Intern- Water/Wastewater",
+     "Sacramento, California",
+     "https://careers.kimley-horn.com/jobs/27380",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-28",
+      "first_seen": ""
+     }
+    ],
+    [
      "26842",
      "Structural Intern",
      "Salt Lake City, Utah",
@@ -9070,6 +10363,54 @@
      "structural",
      {
       "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26850",
+     "Civil Engineering Intern",
+     "Fort Myers, Florida",
+     "https://careers.kimley-horn.com/jobs/26850",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26367",
+     "Civil Engineering Intern",
+     "Apple Valley, Minnesota",
+     "https://careers.kimley-horn.com/jobs/26367",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25231",
+     "Civil Engineering Intern",
+     "Saint Paul, Minnesota",
+     "https://careers.kimley-horn.com/jobs/25231",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25227",
+     "Civil Engineering Intern",
+     "St. Louis Park, Minnesota",
+     "https://careers.kimley-horn.com/jobs/25227",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-23",
       "first_seen": ""
      }
     ],
@@ -9086,12 +10427,36 @@
      }
     ],
     [
+     "24924",
+     "Civil Engineering Intern",
+     "Nashville, Tennessee",
+     "https://careers.kimley-horn.com/jobs/24924",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-16",
+      "first_seen": ""
+     }
+    ],
+    [
      "27185",
      "Civil Engineering Intern - Traffic",
      "San Antonio, Texas",
      "https://careers.kimley-horn.com/jobs/27185",
      "title_exclude_unless",
      "traffic",
+     {
+      "posted": "2026-10-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27184",
+     "Civil Engineering Intern - Aviation",
+     "San Antonio, Texas",
+     "https://careers.kimley-horn.com/jobs/27184",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-10-14",
       "first_seen": ""
@@ -9110,6 +10475,66 @@
      }
     ],
     [
+     "27163",
+     "Civil Engineering Intern",
+     "Charlotte, North Carolina",
+     "https://careers.kimley-horn.com/jobs/27163",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27164",
+     "Civil Engineering Intern",
+     "Sarasota, Florida",
+     "https://careers.kimley-horn.com/jobs/27164",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27122",
+     "Civil Engineering Intern",
+     "Portland, Oregon",
+     "https://careers.kimley-horn.com/jobs/27122",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "27037",
+     "Civil Engineering Intern",
+     "Irvine, California",
+     "https://careers.kimley-horn.com/jobs/27037",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25931",
+     "Civil Engineering Intern",
+     "Sherman, Texas",
+     "https://careers.kimley-horn.com/jobs/25931",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
      "26583",
      "Electrical Engineering Intern",
      "Richardson, Texas",
@@ -9122,12 +10547,516 @@
      }
     ],
     [
+     "25942",
+     "Civil Engineering Intern",
+     "Richardson, Texas",
+     "https://careers.kimley-horn.com/jobs/25942",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25928",
+     "Civil Engineering Intern",
+     "McKinney, Texas",
+     "https://careers.kimley-horn.com/jobs/25928",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25927",
+     "Civil Engineering Intern",
+     "Frisco, Texas",
+     "https://careers.kimley-horn.com/jobs/25927",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25926",
+     "Civil Engineering Intern",
+     "Denton, Texas",
+     "https://careers.kimley-horn.com/jobs/25926",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25925",
+     "Civil Engineering Intern",
+     "Celina, Texas",
+     "https://careers.kimley-horn.com/jobs/25925",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26973",
+     "Civil Engineering Intern",
+     "Wesley Chapel, Florida",
+     "https://careers.kimley-horn.com/jobs/26973",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25230",
+     "Civil Engineering Intern",
+     "Eden Prairie, Minnesota",
+     "https://careers.kimley-horn.com/jobs/25230",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26166",
+     "Civil Engineering Intern",
+     "Rogers, Arkansas",
+     "https://careers.kimley-horn.com/jobs/26166",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26898",
+     "Civil Engineering Intern",
+     "Tampa, Florida",
+     "https://careers.kimley-horn.com/jobs/26898",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26896",
+     "Civil Engineering Intern",
+     "St. Petersburg, Florida",
+     "https://careers.kimley-horn.com/jobs/26896",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26894",
+     "Civil Engineering Intern",
+     "Childress, Texas",
+     "https://careers.kimley-horn.com/jobs/26894",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26827",
+     "Civil Engineering Intern",
+     "West Palm Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/26827",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26826",
+     "Civil Engineering Intern",
+     "Delray Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/26826",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26782",
+     "Civil Engineering Intern",
+     "Prescott, Arizona",
+     "https://careers.kimley-horn.com/jobs/26782",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26741",
+     "Civil Engineering Intern",
+     "Escondido, California",
+     "https://careers.kimley-horn.com/jobs/26741",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26740",
+     "Civil Engineering Intern",
+     "San Diego, California",
+     "https://careers.kimley-horn.com/jobs/26740",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26608",
+     "Civil Engineering Intern",
+     "Palm Beach Gardens, Florida",
+     "https://careers.kimley-horn.com/jobs/26608",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25140",
+     "Civil Engineering Intern",
+     "Stuart, Florida",
+     "https://careers.kimley-horn.com/jobs/25140",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25174",
+     "Civil Engineering Intern",
+     "Fort Collins, Colorado",
+     "https://careers.kimley-horn.com/jobs/25174",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26542",
+     "Civil Engineering Intern",
+     "College Station, Texas",
+     "https://careers.kimley-horn.com/jobs/26542",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25364",
+     "Civil Engineering Intern",
+     "Orange, California",
+     "https://careers.kimley-horn.com/jobs/25364",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26497",
+     "Civil Engineering Intern",
+     "Woodstock, Georgia",
+     "https://careers.kimley-horn.com/jobs/26497",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26283",
+     "Civil Engineering Intern",
+     "Temecula, California",
+     "https://careers.kimley-horn.com/jobs/26283",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26281",
+     "Civil Engineering Intern",
+     "Santa Clarita, California",
+     "https://careers.kimley-horn.com/jobs/26281",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26277",
+     "Civil Engineering Intern",
+     "Riverside, California",
+     "https://careers.kimley-horn.com/jobs/26277",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26274",
+     "Civil Engineering Intern",
+     "Pasadena, California",
+     "https://careers.kimley-horn.com/jobs/26274",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26404",
+     "Civil Engineering Intern",
+     "Phoenix, Arizona",
+     "https://careers.kimley-horn.com/jobs/26404",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-08",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26384",
+     "Civil Engineering Intern",
+     "Everett, Washington",
+     "https://careers.kimley-horn.com/jobs/26384",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-08",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25009",
+     "Civil Engineering Intern",
+     "Greenwood Village, Colorado",
+     "https://careers.kimley-horn.com/jobs/25009",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-08",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24905",
+     "Civil Engineering Intern",
+     "Salt Lake City, Utah",
+     "https://careers.kimley-horn.com/jobs/24905",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25651",
+     "Civil Engineering Intern",
+     "Las Vegas, Nevada",
+     "https://careers.kimley-horn.com/jobs/25651",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26025",
+     "Civil Engineering Intern",
+     "Pleasanton, California",
+     "https://careers.kimley-horn.com/jobs/26025",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26244",
+     "Civil Engineering Intern",
+     "Daytona Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/26244",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26190",
+     "Civil Engineering Intern",
+     "Wilmington, North Carolina",
+     "https://careers.kimley-horn.com/jobs/26190",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26180",
+     "Civil Engineering Intern",
+     "Tyler, Texas",
+     "https://careers.kimley-horn.com/jobs/26180",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26175",
+     "Civil Engineering Intern",
+     "Tulsa, Oklahoma",
+     "https://careers.kimley-horn.com/jobs/26175",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26172",
+     "Civil Engineering Intern",
+     "Terrell, Texas",
+     "https://careers.kimley-horn.com/jobs/26172",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26170",
+     "Civil Engineering Intern",
+     "Oklahoma City, Oklahoma",
+     "https://careers.kimley-horn.com/jobs/26170",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26163",
+     "Civil Engineering Intern",
+     "Dallas, Texas",
+     "https://careers.kimley-horn.com/jobs/26163",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26161",
+     "Civil Engineering Intern",
+     "Dallas, Texas",
+     "https://careers.kimley-horn.com/jobs/26161",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26135",
+     "Civil Engineering Intern",
+     "Towson, Maryland",
+     "https://careers.kimley-horn.com/jobs/26135",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-27",
+      "first_seen": ""
+     }
+    ],
+    [
      "26060",
      "Structural Intern",
      "Richardson, Texas",
      "https://careers.kimley-horn.com/jobs/26060",
      "title_exclude_unless",
      "structural",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "26052",
+     "Civil Engineering Intern",
+     "San Marcos, Texas",
+     "https://careers.kimley-horn.com/jobs/26052",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-08-25",
       "first_seen": ""
@@ -9170,6 +11099,390 @@
      }
     ],
     [
+     "25899",
+     "Civil Engineering Intern",
+     "Weatherford, Texas",
+     "https://careers.kimley-horn.com/jobs/25899",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25897",
+     "Civil Engineering Intern",
+     "Lubbock, Texas",
+     "https://careers.kimley-horn.com/jobs/25897",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25892",
+     "Civil Engineering Intern",
+     "Irving, Texas",
+     "https://careers.kimley-horn.com/jobs/25892",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25890",
+     "Civil Engineering Intern",
+     "Fort Worth, Texas",
+     "https://careers.kimley-horn.com/jobs/25890",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25881",
+     "Civil Engineering Intern",
+     "Fort Worth, Texas",
+     "https://careers.kimley-horn.com/jobs/25881",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24975",
+     "Civil Engineering Intern",
+     "Boise, Idaho",
+     "https://careers.kimley-horn.com/jobs/24975",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25841",
+     "Civil Engineering Intern",
+     "Philadelphia, Pennsylvania",
+     "https://careers.kimley-horn.com/jobs/25841",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25831",
+     "Civil Engineering Intern",
+     "Washington, Washington, DC",
+     "https://careers.kimley-horn.com/jobs/25831",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25828",
+     "Civil Engineering Intern",
+     "Arlington, Virginia",
+     "https://careers.kimley-horn.com/jobs/25828",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24804",
+     "Civil Engineering Intern",
+     "Peachtree Corners, Georgia",
+     "https://careers.kimley-horn.com/jobs/24804",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24797",
+     "Civil Engineering Intern",
+     "Atlanta, Georgia",
+     "https://careers.kimley-horn.com/jobs/24797",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25215",
+     "Civil Engineering Intern",
+     "Reston, Virginia",
+     "https://careers.kimley-horn.com/jobs/25215",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25059",
+     "Civil Engineering Intern",
+     "The Woodlands, Texas",
+     "https://careers.kimley-horn.com/jobs/25059",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25054",
+     "Civil Engineering Intern",
+     "San Antonio, Texas",
+     "https://careers.kimley-horn.com/jobs/25054",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25047",
+     "Civil Engineering Intern",
+     "Pearland, Texas",
+     "https://careers.kimley-horn.com/jobs/25047",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24955",
+     "Civil Engineering Intern",
+     "Houston, Texas",
+     "https://careers.kimley-horn.com/jobs/24955",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24932",
+     "Civil Engineering Intern",
+     "Franklin, Tennessee",
+     "https://careers.kimley-horn.com/jobs/24932",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24915",
+     "Civil Engineering Intern",
+     "Memphis, Tennessee",
+     "https://careers.kimley-horn.com/jobs/24915",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25075",
+     "Civil Engineering Intern",
+     "Jupiter, Florida",
+     "https://careers.kimley-horn.com/jobs/25075",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25107",
+     "Civil Engineering Intern",
+     "West Palm Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/25107",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25104",
+     "Civil Engineering Intern",
+     "Vero Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/25104",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25183",
+     "Civil Engineering Intern",
+     "Scottsdale, Arizona",
+     "https://careers.kimley-horn.com/jobs/25183",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25177",
+     "Civil Engineering Intern",
+     "Phoenix, Arizona",
+     "https://careers.kimley-horn.com/jobs/25177",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25181",
+     "Civil Engineering Intern",
+     "Mesa, Arizona",
+     "https://careers.kimley-horn.com/jobs/25181",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24949",
+     "Civil Engineering Intern",
+     "Mooresville, North Carolina",
+     "https://careers.kimley-horn.com/jobs/24949",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24954",
+     "Civil Engineering Intern",
+     "Columbia, South Carolina",
+     "https://careers.kimley-horn.com/jobs/24954",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24959",
+     "Civil Engineering Intern",
+     "Fort Mill, South Carolina",
+     "https://careers.kimley-horn.com/jobs/24959",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24944",
+     "Civil Engineering Intern",
+     "Charlotte, North Carolina",
+     "https://careers.kimley-horn.com/jobs/24944",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24939",
+     "Civil Engineering Intern",
+     "Charleston, South Carolina",
+     "https://careers.kimley-horn.com/jobs/24939",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25178",
+     "Civil Engineering Intern",
+     "Reno, Nevada",
+     "https://careers.kimley-horn.com/jobs/25178",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25127",
+     "Civil Engineering Intern",
+     "Panama City Beach, Florida",
+     "https://careers.kimley-horn.com/jobs/25127",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25116",
+     "Civil Engineering Intern",
+     "Jacksonville, Florida",
+     "https://careers.kimley-horn.com/jobs/25116",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
      "24543",
      "Civil Engineering Co-Op (Fall/Winter 2026)",
      "Ocala, Florida",
@@ -9180,9 +11493,81 @@
       "posted": "2026-07-29",
       "first_seen": ""
      }
+    ],
+    [
+     "25124",
+     "Civil Engineering Intern",
+     "Orlando, Florida",
+     "https://careers.kimley-horn.com/jobs/25124",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25123",
+     "Civil Engineering Intern",
+     "Ocala, Florida",
+     "https://careers.kimley-horn.com/jobs/25123",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25118",
+     "Civil Engineering Intern",
+     "Orlando, Florida",
+     "https://careers.kimley-horn.com/jobs/25118",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24877",
+     "Civil Engineering Intern",
+     "Gainesville, Florida",
+     "https://careers.kimley-horn.com/jobs/24877",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "24806",
+     "Civil Engineering Intern",
+     "Savannah, Georgia",
+     "https://careers.kimley-horn.com/jobs/24806",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "25006",
+     "Civil Engineering Intern",
+     "Colorado Springs, Colorado",
+     "https://careers.kimley-horn.com/jobs/25006",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-07-22",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 39
+   "n": 171
   },
   "Terracon": {
    "rows": [
@@ -9199,12 +11584,36 @@
      }
     ],
     [
+     "4351",
+     "Construction Materials Testing (CMT) Intern",
+     "Lawrenceville, GA, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4351",
+     "title_exclude",
+     "construction materials",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "4391",
      "Environmental & Geotechnical Intern",
      "Auburn, AL, United States",
      "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4391",
      "title_exclude_unless",
      "geotechnical",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4392",
+     "Construction Materials Testing (CMT) Intern",
+     "Auburn, AL, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4392",
+     "title_exclude",
+     "construction materials",
      {
       "posted": "2026-11-25",
       "first_seen": ""
@@ -9229,6 +11638,18 @@
      "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4396",
      "title_exclude_unless",
      "geotechnical",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4397",
+     "Construction Materials Testing (CMT) Intern",
+     "Macon, GA, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4397",
+     "title_exclude",
+     "construction materials",
      {
       "posted": "2026-11-25",
       "first_seen": ""
@@ -9307,6 +11728,18 @@
      }
     ],
     [
+     "4314",
+     "Construction Materials Services Intern",
+     "Austin, TX, United States",
+     "https://ibspjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4314",
+     "title_exclude",
+     "construction materials",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "2940",
      "Specialty Engineering and Consulting Intern - CU Boulder",
      "Wheat Ridge, CO, United States",
@@ -9319,7 +11752,7 @@
      }
     ]
    ],
-   "n": 11
+   "n": 15
   },
   "Westinghouse": {
    "rows": [
@@ -9467,6 +11900,18 @@
   "Shaw Industries": {
    "rows": [
     [
+     "/job/Shaw-Plant-W3-11400-Atlantis-Place-Suite-200-Alpharetta-GA-30022-USA/Civil-Engineering-Intern_R-157687",
+     "Civil Engineering Intern",
+     "Shaw Plant W3, 11400 Atlantis Place, Suite 200, Alpharetta, GA 30022 USA",
+     "https://shawinc.wd1.myworkdayjobs.com/External/job/Shaw-Plant-W3-11400-Atlantis-Place-Suite-200-Alpharetta-GA-30022-USA/Civil-Engineering-Intern_R-157687",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Shaw-Plant-7C-2208-S-Hamilton-Street-Dalton-GA-30721-USA/Engineering-Internship-Co-op-Spring-2027_R-156324",
      "Engineering Internship/Co-op Spring 2027",
      "Shaw Plant 7C, 2208 S Hamilton Street, Dalton, GA 30721, USA",
@@ -9479,7 +11924,7 @@
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Interface": {
    "rows": [],
@@ -9586,6 +12031,18 @@
   "BWX Technologies": {
    "rows": [
     [
+     "1452135500",
+     "Intern, Materials & Inventory Analyst",
+     "Barberton, OH, US",
+     "https://careers.bwxt.com/job/Barberton-Intern%2C-Materials-&-Inventory-Analyst-OH/1452135500/",
+     "title_exclude",
+     "inventory analyst",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "1451051300",
      "Intern, Electrical Engineer",
      "Barberton, OH, US",
@@ -9598,11 +12055,36 @@
      }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Centrus Energy": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "767",
+     "Project Controls Intern - Summer 2027",
+     "Piketon, OH, United States",
+     "https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/767",
+     "title_exclude",
+     "project controls",
+     {
+      "posted": "2026-11-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "774",
+     "Project Controls Intern - 2027 (Piketon)",
+     "Piketon, OH, United States",
+     "https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/774",
+     "title_exclude",
+     "project controls",
+     {
+      "posted": "2026-11-01",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
   },
   "Hexcel": {
    "rows": [],
@@ -10025,6 +12507,18 @@
      }
     ],
     [
+     "/job/Scotts-Valley-California-United-States-of-America/Audio-and-DSP-Development-Engineering-Intern_UNI4508-2",
+     "Audio and DSP Development Engineering Intern",
+     "Scotts Valley, California, United States of America",
+     "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Scotts-Valley-California-United-States-of-America/Audio-and-DSP-Development-Engineering-Intern_UNI4508-2",
+     "title_exclude_unless",
+     "audio",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765-1",
      "Chemical Engineer / Chemist Postdoctoral Intern",
      "Corvallis, Oregon, United States of America",
@@ -10109,7 +12603,7 @@
      }
     ]
    ],
-   "n": 13
+   "n": 14
   },
   "Garmin": {
    "rows": [
@@ -10198,6 +12692,18 @@
      }
     ],
     [
+     "20216",
+     "EMC Engineer Intern",
+     "Olathe, Kansas",
+     "https://careers.garmin.com/en-US/jobs/20216",
+     "title_exclude_unless",
+     "emc",
+     {
+      "posted": "2026-09-22",
+      "first_seen": ""
+     }
+    ],
+    [
      "19976",
      "Transportation Analyst Intern",
      "Olathe, Kansas",
@@ -10282,6 +12788,30 @@
      }
     ],
     [
+     "20289",
+     "Audio Engineer Intern",
+     "Miramar, Florida",
+     "https://careers.garmin.com/en-US/jobs/20289",
+     "title_exclude_unless",
+     "audio",
+     {
+      "posted": "2026-10-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "19048",
+     "Antenna Engineering Intern",
+     "Olathe, Kansas",
+     "https://careers.garmin.com/en-US/jobs/19048",
+     "title_exclude_unless",
+     "antenna",
+     {
+      "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
      "19693",
      "Software Engineer Intern",
      "Olathe, Kansas",
@@ -10306,7 +12836,7 @@
      }
     ]
    ],
-   "n": 16
+   "n": 19
   },
   "Sonos": {
    "rows": [],
@@ -10372,6 +12902,18 @@
      }
     ],
     [
+     "8202902003",
+     "Intern, Compiler Engineer",
+     "San Jose, California, United States",
+     "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+     "title_exclude_unless",
+     "compiler",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "8213439003",
      "Intern, RF Analog Circuit Design Engineer",
      "San Jose, California, United States",
@@ -10392,6 +12934,18 @@
      "analog",
      {
       "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8081483003",
+     "Intern, SRAM Design Engineer",
+     "San Jose, California, United States",
+     "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003",
+     "title_exclude_unless",
+     "sram",
+     {
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ],
@@ -10420,7 +12974,7 @@
      }
     ]
    ],
-   "n": 7
+   "n": 9
   },
   "SK hynix America": {
    "rows": [],
@@ -10566,6 +13120,18 @@
      }
     ],
     [
+     "/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212",
+     "Intern/Co-op - Midstream Logistics and Storage Engineering (L&SE) Project Controls (Summer 2027)",
+     "Findlay, Ohio",
+     "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Intern-Co-op---Logistics-and-Storage-Engineering--L-SE--Project-Controls--Summer-2027-_00024212",
+     "title_exclude",
+     "project controls",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Findlay-Ohio/Intern-Co-op---Midstream-Logistics-and-Storage-Mechanical-Civil-Electrical-Engineering--Fall-2027-_00024208",
      "Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Fall 2027)",
      "4 Locations (Findlay Ohio)",
@@ -10614,15 +13180,28 @@
      }
     ]
    ],
-   "n": 10
+   "n": 11
   },
   "Duke Energy": {
    "rows": [],
    "n": 0
   },
   "Dominion Energy": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "1427451500",
+     "Graduate Intern - Electric Transmission Planning",
+     "GLEN ALLEN, VA, US, 23060",
+     "https://careers.dominionenergy.com/job/GLEN-ALLEN-Graduate-Intern-Electric-Transmission-Planning-VA-23060/1427451500/",
+     "title_exclude_unless",
+     "electric transmission",
+     {
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
   },
   "NextEra Energy": {
    "rows": [],
@@ -11391,6 +13970,30 @@
      }
     ],
     [
+     "8346",
+     "Environmental Engineering Intern",
+     "Columbus, MS, US",
+     "https://careers-steeldynamics.icims.com/jobs/8346/environmental-engineering-intern/job",
+     "title_exclude_unless",
+     "environmental engineering",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8044",
+     "Environmental Engineering Internship",
+     "Columbia City, IN, US",
+     "https://careers-steeldynamics.icims.com/jobs/8044/environmental-engineering-internship/job",
+     "title_exclude_unless",
+     "environmental engineering",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "8043",
      "Electrical Engineering Internship",
      "Butler, IN, US",
@@ -11439,6 +14042,18 @@
      }
     ],
     [
+     "7935",
+     "Civil Engineering Internship",
+     "Fort Wayne, IN, US",
+     "https://careers-steeldynamics.icims.com/jobs/7935/civil-engineering-internship/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "7897",
      "Electrical Engineering Internship",
      "Sinton, TX, US",
@@ -11451,7 +14066,7 @@
      }
     ]
    ],
-   "n": 6
+   "n": 9
   },
   "Carpenter Technology": {
    "rows": [
@@ -11513,6 +14128,18 @@
      }
     ],
     [
+     "/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736",
+     "Engineer Intern - Environmental (Summer 2027)",
+     "Appleton, Wisconsin, United States",
+     "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736",
+     "title_exclude_unless",
+     "intern - environmental",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Appleton-Wisconsin-United-States/Materials-Management-Intern--Summer-2027-or-Year-Round-_R49751",
      "Materials Management Intern (Summer 2027 or Year Round)",
      "Appleton, Wisconsin, United States",
@@ -11549,7 +14176,11 @@
      }
     ]
    ],
-   "n": 6
+   "n": 7
+  },
+  "Terex": {
+   "rows": [],
+   "n": 0
   },
   "Hyster-Yale": {
    "rows": [],
@@ -12018,11 +14649,27 @@
       "posted": "2026-10-19",
       "first_seen": ""
      }
+    ],
+    [
+     "62783",
+     "Systems Security Engineer Intern, Summer 2027",
+     "Indianapolis, Indiana",
+     "https://careers.gov2x.com/jobs/62783",
+     "title_exclude_unless",
+     "systems security",
+     {
+      "posted": "2026-09-03",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 7
+   "n": 8
   },
   "General Dynamics Electric Boat": {
+   "rows": [],
+   "n": 0
+  },
+  "Cleveland Clinic": {
    "rows": [],
    "n": 0
   },
@@ -12212,8 +14859,8 @@
      "Undergrad Intern \u2013 R&D Local Safety Officer (Summer 2027)",
      "United States - Remote",
      "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Local-Safety-Officer--Summer-2027-_R-261779",
-     "description_exclude",
-     "undergrad-only title",
+     "title_exclude",
+     "safety officer",
      {
       "posted": "2026-11-26",
       "first_seen": ""
@@ -12280,6 +14927,18 @@
      }
     ],
     [
+     "/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
+     "Grad Intern \u2013 R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
+     "United States - Remote",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585",
+     "title_exclude_unless",
+     "data sciences",
+     {
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/United-States---Remote/Graduate-Intern---R-D-Execution--Operations---Strategy--R-D-EOS---Summer-2027-_R-259574",
      "Graduate Intern \u2013 R&D Execution, Operations & Strategy (R&D EOS) (Summer 2027)",
      "United States - Remote",
@@ -12320,8 +14979,8 @@
      "Undergrad Intern \u2013 R&D Knowledge Management (Summer 2027)",
      "United States - Remote",
      "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905",
-     "description_exclude",
-     "undergrad-only title",
+     "title_exclude",
+     "knowledge management",
      {
       "posted": "2026-10-28",
       "first_seen": ""
@@ -12340,7 +14999,7 @@
      }
     ]
    ],
-   "n": 11
+   "n": 12
   },
   "Gilead Sciences": {
    "rows": [],
@@ -12363,6 +15022,18 @@
      "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Undergraduate-R-D-Wet-Lab-Summer-Internship---Gaithersburg--MD_R-264650",
      "description_exclude",
      "undergrad-only title",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US---Gaithersburg---MD/Materials-Planning-Summer-Intern_R-264423",
+     "Materials Planning Summer Intern",
+     "US - Gaithersburg - MD",
+     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Materials-Planning-Summer-Intern_R-264423",
+     "title_exclude",
+     "materials planning",
      {
       "posted": "2026-11-19",
       "first_seen": ""
@@ -12393,7 +15064,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "GSK US": {
    "rows": [],
@@ -12592,6 +15263,42 @@
      }
     ],
     [
+     "1008180",
+     "Civil Engineering Internship - Infrastructure (Summer 2027)",
+     "Okemos, MI, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008180",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008928",
+     "Civil/Environmental Engineering Co-op/Intern \u2013 Water (Summer 2027)",
+     "Richmond, VA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008928",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008995",
+     "Civil Engineering Intern - Infrastructure (Summer 2027)",
+     "Charleston, SC, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008995",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "1007184",
      "Civil Engineering Intern/Co-op - Transportation (Spring/Summer 2027)",
      "Albany, NY, United States",
@@ -12612,6 +15319,42 @@
      "spring",
      {
       "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007361",
+     "Roadway Design Intern - Infrastructure (Summer 2027)",
+     "Raleigh, NC, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007361",
+     "title_exclude_unless",
+     "roadway",
+     {
+      "posted": "2026-08-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007363",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Houston, TX, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007363",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007472",
+     "Geology/Geological Engineering - Hydro & Dams Intern(Summer 2027)",
+     "Denver, CO, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007472",
+     "title_exclude_unless",
+     "geology",
+     {
+      "posted": "2026-09-03",
       "first_seen": ""
      }
     ],
@@ -12648,6 +15391,18 @@
      "transportation",
      {
       "posted": "2026-09-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007640",
+     "Water Resources-Co-Op (Summer 2027)",
+     "Cincinnati, OH, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007640",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "2026-09-10",
       "first_seen": ""
      }
     ],
@@ -12700,6 +15455,30 @@
      }
     ],
     [
+     "1007807",
+     "Civil Engineer Intern (EIT)",
+     "Naples, FL, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007807",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007798",
+     "Civil Engineering Intern \u2013 Water (Summer 2027)",
+     "Salt Lake City, UT, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007798",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
      "1007815",
      "Transportation Engineering Co-op/Intern (Summer 2027)",
      "New York, NY, United States",
@@ -12720,6 +15499,30 @@
      "transportation",
      {
       "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007861",
+     "Civil Engineering Internship - Community Development (Summer 2027)",
+     "Mequon, WI, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007861",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007923",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Austin, TX, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007923",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-22",
       "first_seen": ""
      }
     ],
@@ -12760,6 +15563,30 @@
      }
     ],
     [
+     "1007934",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Knoxville, TN, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007934",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-22",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007942",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Nashville, TN, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007942",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-22",
+      "first_seen": ""
+     }
+    ],
+    [
      "1007943",
      "Civil/Geotechnical Engineering Intern - Water (Summer 2027)",
      "Nashville, TN, United States",
@@ -12784,12 +15611,96 @@
      }
     ],
     [
+     "1008016",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Charleston, SC, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008016",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1007994",
+     "Civil Engineering Internship - Community Development (Summer 2027)",
+     "Des Moines, IA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1007994",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008018",
+     "Mining Engineering Intern - Energy & Resources (Summer 2027)",
+     "Phoenix, AZ, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008018",
+     "title_exclude_unless",
+     "mining",
+     {
+      "posted": "2026-10-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008019",
+     "Mining Engineering Intern - Energy & Resources (Summer 2027)",
+     "Denver, CO, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008019",
+     "title_exclude_unless",
+     "mining",
+     {
+      "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008051",
+     "Civil Engineering Intern - Community Development (Summer 2027)",
+     "Portland, OR, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008051",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-05",
+      "first_seen": ""
+     }
+    ],
+    [
      "1008052",
      "Data Science Intern - Infrastructure (Summer 2027)",
      "Orlando, FL, United States",
      "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008052",
      "title_exclude_unless",
      "data science",
+     {
+      "posted": "2026-09-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008053",
+     "Project Coordinator Intern - Infrastructure (Summer 2027)",
+     "Raleigh, NC, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008053",
+     "title_exclude",
+     "project coordinator",
+     {
+      "posted": "2026-09-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008055",
+     "Project Coordinator Intern - Infrastructure (Summer 2027)",
+     "Burlington, MA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008055",
+     "title_exclude",
+     "project coordinator",
      {
       "posted": "2026-09-30",
       "first_seen": ""
@@ -12804,6 +15715,18 @@
      "geotechnical",
      {
       "posted": "2026-10-05",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008076",
+     "Geological/Environmental Engineering Intern - Energy & Resources (Summer 2027)",
+     "Denver, CO, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008076",
+     "title_exclude_unless",
+     "geological",
+     {
+      "posted": "2026-10-09",
       "first_seen": ""
      }
     ],
@@ -12838,6 +15761,18 @@
      "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008115",
      "title_exclude_unless",
      "geotechnical",
+     {
+      "posted": "2026-10-01",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008120",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Charlotte, NC, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008120",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-10-01",
       "first_seen": ""
@@ -13000,6 +15935,30 @@
      }
     ],
     [
+     "1008302",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Orlando, FL, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008302",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-15",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008346",
+     "Civil Engineering Intern - Community Development (Summer 2027)",
+     "Pasadena, CA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008346",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
      "1008372",
      "Electrical Engineering Intern - Buildings (Summer 2027)",
      "Austin, TX, United States",
@@ -13084,12 +16043,72 @@
      }
     ],
     [
+     "1008446",
+     "Civil Engineering Intern - Infrastructure (Summer 2027)",
+     "Fort Myers, FL, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008446",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008448",
+     "Civil Engineering Intern - Infrastructure (Summer 2027)",
+     "Naples, FL, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008448",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
      "1008527",
      "Engineering Intern - Water (Spring/Summer 2027)",
      "Las Vegas, NV, United States",
      "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008527",
      "title_exclude",
      "spring",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008526",
+     "Civil Engineering Internship - Community Development (Summer 2027)",
+     "Minneapolis, MN, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008526",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008539",
+     "Civil Engineering Intern - Water (Summer 2027)",
+     "Coral Gables, FL, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008539",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008550",
+     "Coastal Engineering Intern - Water (Summer 2027)",
+     "Austin, TX, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008550",
+     "title_exclude_unless",
+     "coastal",
      {
       "posted": "2026-10-29",
       "first_seen": ""
@@ -13118,9 +16137,33 @@
       "posted": "2026-10-29",
       "first_seen": ""
      }
+    ],
+    [
+     "1008644",
+     "Water Resources Intern/Co-op \u2013 Environmental Services (Summer 2027)",
+     "Richmond, VA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008644",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1008828",
+     "Civil/Environmental Engineering Co-op/Intern \u2013 Water (Summer 2027)",
+     "Fairfax, VA, United States",
+     "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1008828",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 48
+   "n": 79
   },
   "Michael Baker International": {
    "rows": [
@@ -13131,6 +16174,18 @@
      "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309780",
      "title_exclude_unless",
      "transportation",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "309782",
+     "Water Resources Intern",
+     "Detroit, MI, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309782",
+     "title_exclude_unless",
+     "water resources",
      {
       "posted": "2026-08-31",
       "first_seen": ""
@@ -13169,6 +16224,30 @@
      "bridge",
      {
       "posted": "2026-09-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "309887",
+     "Civil Engineering Intern, Summer 2027",
+     "Houston, TX, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309887",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-15",
+      "first_seen": ""
+     }
+    ],
+    [
+     "309888",
+     "Civil Associate I, Summer 2027",
+     "Houston, TX, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309888",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-15",
       "first_seen": ""
      }
     ],
@@ -13281,6 +16360,30 @@
      }
     ],
     [
+     "310064",
+     "Civil Engineering Intern, Federal - Summer 2027",
+     "Jacksonville, FL, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310064",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "310079",
+     "Intern, Water Resources -Summer 2027",
+     "Moon Township, PA, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310079",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "2026-10-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "310091",
      "Bridge Engineering Intern, Summer 2027",
      "Rocky Hill, CT, United States",
@@ -13303,9 +16406,21 @@
       "posted": "2026-11-05",
       "first_seen": ""
      }
+    ],
+    [
+     "310189",
+     "Civil Engineering Intern, Rotational Program - Summer 2027",
+     "Harrisburg, PA, United States",
+     "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310189",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 15
+   "n": 21
   },
   "Gannett Fleming": {
    "rows": [
@@ -13370,6 +16485,18 @@
      }
     ],
     [
+     "15123",
+     "Intern - Roadway Engineering",
+     "Columbus, OH, US",
+     "https://careers-gannettfleming.icims.com/jobs/15123/intern---roadway-engineering/job",
+     "title_exclude_unless",
+     "roadway",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "15071",
      "Intern - Construction Management",
      "Kansas City, MO, US",
@@ -13380,9 +16507,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "14958",
+     "Intern - Water Engineering",
+     "Marlton, NJ, US",
+     "https://careers-gannettfleming.icims.com/jobs/14958/intern---water-engineering/job",
+     "title_exclude_unless",
+     "water engineering",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 6
+   "n": 8
   },
   "Sundt Construction": {
    "rows": [],
@@ -13399,6 +16538,18 @@
      "winter 2027",
      {
       "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9277",
+     "Summer 2027 Construction Project Engineer Intern",
+     "Portland, Oregon",
+     "https://skanska.jibeapply.com/jobs/9277",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "2026-11-13",
       "first_seen": ""
      }
     ],
@@ -13423,6 +16574,42 @@
      "geotechnical",
      {
       "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9299",
+     "2027 Summer Internship (Heavy Civil Construction)",
+     "Seattle, Washington; Bothell, Washington",
+     "https://skanska.jibeapply.com/jobs/9299",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9298",
+     "2027 Summer Internship (Heavy Civil Construction)",
+     "Los Angeles, California; Riverside, California",
+     "https://skanska.jibeapply.com/jobs/9298",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9278",
+     "Summer 2027 Construction Project Engineer Intern",
+     "Bend, Oregon",
+     "https://skanska.jibeapply.com/jobs/9278",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "2026-09-14",
       "first_seen": ""
      }
     ],
@@ -13499,12 +16686,96 @@
      }
     ],
     [
+     "9158",
+     "Heavy Civil Infrastructure Summer 2027 Intern",
+     "Queens, New York",
+     "https://skanska.jibeapply.com/jobs/9158",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9152",
+     "Heavy Civil Infrastructure Summer 2027 Intern",
+     "Providence, Rhode Island",
+     "https://skanska.jibeapply.com/jobs/9152",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9142",
+     "Heavy Civil Infrastructure Summer 2027 Intern",
+     "District of Columbia, Washington, DC",
+     "https://skanska.jibeapply.com/jobs/9142",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-11",
+      "first_seen": ""
+     }
+    ],
+    [
      "9138",
      "Heavy Civil Estimating Summer 2027 Internship",
      "Orlando, Florida",
      "https://skanska.jibeapply.com/jobs/9138",
      "title_exclude_unless",
      "estimating",
+     {
+      "posted": "2026-08-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9137",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "Alexandria, Virginia",
+     "https://skanska.jibeapply.com/jobs/9137",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9136",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "District of Columbia, Washington, DC",
+     "https://skanska.jibeapply.com/jobs/9136",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9135",
+     "Heavy Civil Infrastructure Summer 2027 Intern",
+     "Waltham, Massachusetts",
+     "https://skanska.jibeapply.com/jobs/9135",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9134",
+     "Heavy Civil Infrastructure Co-Op 2027 (Summer/Fall)",
+     "Boston, Massachusetts",
+     "https://skanska.jibeapply.com/jobs/9134",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-08-11",
       "first_seen": ""
@@ -13523,6 +16794,54 @@
      }
     ],
     [
+     "9110",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "Orlando, Florida",
+     "https://skanska.jibeapply.com/jobs/9110",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9108",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "Outer Banks, North Carolina",
+     "https://skanska.jibeapply.com/jobs/9108",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9106",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "Virginia Beach, Virginia",
+     "https://skanska.jibeapply.com/jobs/9106",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "9104",
+     "Heavy Civil Infrastructure Summer 2027 Internship",
+     "Hyattsville, Maryland",
+     "https://skanska.jibeapply.com/jobs/9104",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-08-04",
+      "first_seen": ""
+     }
+    ],
+    [
      "9064",
      "EHS Intern",
      "Cincinnati, Ohio",
@@ -13535,11 +16854,84 @@
      }
     ]
    ],
-   "n": 12
+   "n": 27
   },
   "Clark Construction": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Atlanta-GA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024348-1",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Atlanta, GA",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Atlanta-GA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024348-1",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Louisa-VA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024347-1",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Louisa, VA",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Louisa-VA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024347-1",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Myrtle-Beach-SC/Summer-Associate--Summer-2027-_R5025417",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Myrtle Beach, SC",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Myrtle-Beach-SC/Summer-Associate--Summer-2027-_R5025417",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Alexandria-VA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024345-1",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Arlington, VA; Bethesda, MD; Washington, DC; Alexandria, VA; Fairfax, VA",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Alexandria-VA/Summer-Associate---Water-Wastewater--Summer-2027-_R5024345-1",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Charleston-SC/Summer-Associate---Water-Wastewater--Summer-2027-_R5025813",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Charleston, SC",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Charleston-SC/Summer-Associate---Water-Wastewater--Summer-2027-_R5025813",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Philadelphia-PA/Summer-Associate---Water-Wastewater--Summer-2027-_R5025590",
+     "Summer Associate - Water/Wastewater (Summer 2027)",
+     "Philadelphia, PA\u00a0",
+     "https://clark.wd503.myworkdayjobs.com/ClarkExternal/job/Philadelphia-PA/Summer-Associate---Water-Wastewater--Summer-2027-_R5025590",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-07",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 6
   },
   "Hensel Phelps": {
    "rows": [
@@ -13600,8 +16992,57 @@
    "n": 0
   },
   "Granite Construction": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Westminster-Colorado/Civil-Engineering-Intern_R0000008317",
+     "Civil Engineering Intern",
+     "Westminster, Colorado",
+     "https://granite.wd1.myworkdayjobs.com/careers/job/Westminster-Colorado/Civil-Engineering-Intern_R0000008317",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Laredo-Texas/Civil-Engineering-Intern_R0000008316",
+     "Civil Engineering Intern",
+     "Laredo, Texas",
+     "https://granite.wd1.myworkdayjobs.com/careers/job/Laredo-Texas/Civil-Engineering-Intern_R0000008316",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Anchorage-Alaska/Environmental-Engineer-Intern_R0000008293-1",
+     "Environmental Engineer Intern",
+     "Anchorage, Alaska",
+     "https://granite.wd1.myworkdayjobs.com/careers/job/Anchorage-Alaska/Environmental-Engineer-Intern_R0000008293-1",
+     "title_exclude_unless",
+     "environmental engineer",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Garland-Texas/Intern---Construction-Engineering--Garland--TX-_R0000008250",
+     "Intern \u2013 Construction/Engineering (Garland, TX)",
+     "Garland, Texas",
+     "https://granite.wd1.myworkdayjobs.com/careers/job/Garland-Texas/Intern---Construction-Engineering--Garland--TX-_R0000008250",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 4
   },
   "Tutor Perini": {
    "rows": [],
@@ -13614,6 +17055,18 @@
      "Civil Engineering Internship - Data Centers Site Design",
      "Lincoln, NE",
      "https://job-boards.greenhouse.io/olsson/jobs/5408699008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5408678008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
      "title_exclude_unless",
      "site design",
      {
@@ -13646,10 +17099,10 @@
      }
     ],
     [
-     "5408678008",
+     "5408628008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
      "title_exclude_unless",
      "site design",
      {
@@ -13670,12 +17123,12 @@
      }
     ],
     [
-     "5408628008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
+     "5405885008",
+     "Civil Engineering Internship - Roadway",
+     "Dallas, TX; Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5405885008",
      "title_exclude_unless",
-     "site design",
+     "civil",
      {
       "posted": "2026-08-31",
       "first_seen": ""
@@ -13766,6 +17219,54 @@
      }
     ],
     [
+     "5473405008",
+     "Student Internship - Construction Materials Testing",
+     "La Vista, NE; Omaha, NE",
+     "https://job-boards.greenhouse.io/olsson/jobs/5473405008",
+     "title_exclude",
+     "construction materials",
+     {
+      "posted": "2026-11-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5473398008",
+     "Student Internship - Construction Materials Testing",
+     "Lincoln, NE",
+     "https://job-boards.greenhouse.io/olsson/jobs/5473398008",
+     "title_exclude",
+     "construction materials",
+     {
+      "posted": "2026-11-04",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5396195008",
+     "Student Internship - Construction Materials Testing",
+     "Olathe, KS",
+     "https://job-boards.greenhouse.io/olsson/jobs/5396195008",
+     "title_exclude",
+     "construction materials",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5462183008",
+     "Student Internship - Network and Server Infrastructure",
+     "Lincoln, NE",
+     "https://job-boards.greenhouse.io/olsson/jobs/5462183008",
+     "title_exclude_unless",
+     "network",
+     {
+      "posted": "2026-10-23",
+      "first_seen": ""
+     }
+    ],
+    [
      "5405921008",
      "Student Internship - Rail Geotechnical",
      "La Vista, NE; Lincoln, NE",
@@ -13778,18 +17279,55 @@
      }
     ]
    ],
-   "n": 14
+   "n": 19
   },
   "Kleinfelder": {
    "rows": [],
    "n": 0
   },
   "Carollo Engineers": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "4682",
+     "Water/Wastewater Engineering Intern",
+     "Seattle, WA, US",
+     "https://careers-carollo.icims.com/jobs/4682/water-wastewater-engineering-intern/job",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4644",
+     "Infrastructure Engineering Intern - Civil/Environmental",
+     "Seattle, WA, US",
+     "https://careers-carollo.icims.com/jobs/4644/infrastructure-engineering-intern---civil-environmental/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
   },
   "Brown and Caldwell": {
    "rows": [
+    [
+     "67adffd8-1a3c-46d5-adfc-1c26938e0b35",
+     "Environmental Engineering Co-op (Boston, MA)",
+     "Andover, MA, USA",
+     "https://recruiting2.ultipro.com/BRO1018BRACA/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=67adffd8-1a3c-46d5-adfc-1c26938e0b35",
+     "title_exclude_unless",
+     "environmental engineering",
+     {
+      "posted": "2026-11-22",
+      "first_seen": ""
+     }
+    ],
     [
      "dde995f5-29e0-40f7-a559-a56c5fd3e68d",
      "Electrical Engineering Intern - Summer 2027 (Denver or Boise)",
@@ -13827,7 +17365,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 4
   },
   "Union Pacific": {
    "rows": [],
@@ -13869,6 +17407,18 @@
      }
     ],
     [
+     "/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
+     "Intern, IS Infrastructure (Summer 2027)",
+     "Raleigh, NC",
+     "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
+     "title_exclude_unless",
+     "is infrastructure",
+     {
+      "posted": "2026-11-12",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Colorado-Springs-CO/Intern---Estimating_JR023705-1",
      "Intern - Estimating",
      "Colorado Springs, CO",
@@ -13881,7 +17431,7 @@
      }
     ]
    ],
-   "n": 2
+   "n": 3
   },
   "Cemex USA": {
    "rows": [],
@@ -13898,6 +17448,18 @@
      "ai",
      {
       "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US---CO-Westminster/Workplace-Experience-Data-and-Automation-Intern_R58488-1",
+     "Workplace Experience Data and Automation Intern",
+     "US - CO, Westminster",
+     "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Workplace-Experience-Data-and-Automation-Intern_R58488-1",
+     "title_exclude",
+     "workplace experience",
+     {
+      "posted": "2026-11-20",
       "first_seen": ""
      }
     ],
@@ -13950,7 +17512,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 6
   },
   "Autodesk": {
    "rows": [],
@@ -13987,6 +17549,30 @@
      }
     ],
     [
+     "744000162593289",
+     "Civil Engineering Intern",
+     "Minneapolis, MN SUITE 1100 800, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000162593289",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000162363429",
+     "Civil Engineering Intern",
+     "Murray, UT, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000162363429",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "744000162187579",
      "Highway Civil Engineering Intern",
      "Conshohocken, PA, us",
@@ -13995,6 +17581,30 @@
      "highway",
      {
       "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000160727549",
+     "Water Resources Engineering Intern",
+     "Philadelphia, PA, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000160727549",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "2026-11-09",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000159925579",
+     "Water/Wastewater Engineering Intern",
+     "Buffalo, NY, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000159925579",
+     "title_exclude_unless",
+     "wastewater",
+     {
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -14023,6 +17633,18 @@
      }
     ],
     [
+     "744000158802849",
+     "Civil Engineering Co-Op Student",
+     "Philadelphia, PA, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000158802849",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
      "744000155897740",
      "Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA",
      "Roanoke, VA, us",
@@ -14039,8 +17661,8 @@
      "Internship and Entry-Level Graduate Opportunities - 2026 ASCE Career Fair (American Society of Civil Engineers)",
      "Minneapolis, MN, us",
      "https://jobs.smartrecruiters.com/AECOM2/744000154492489",
-     "internship_year",
-     "2026",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-10-08",
       "first_seen": ""
@@ -14051,8 +17673,8 @@
      "Internship and Entry-Level Graduate Opportunities - 2026 Cesac Civil and Construction Engineering",
      "Indianapolis, IN, us",
      "https://jobs.smartrecruiters.com/AECOM2/744000154492369",
-     "internship_year",
-     "2026",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-10-08",
       "first_seen": ""
@@ -14071,12 +17693,48 @@
      }
     ],
     [
+     "744000152547609",
+     "Internship and Entry-Level Graduate Opportunities - ASU - SSEBE Civil & Environmental Engineering Career Fair",
+     "Arizona City, AZ, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000152547609",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000150692494",
+     "Internship and Entry-Level Graduate Opportunities - Construction, Civil & Environmental Engineering Career Fair",
+     "Columbus, OH, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000150692494",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
      "744000150692859",
      "Internship and Entry-Level Graduate Opportunities - MSU Civil & Environmental Engineering Career Fair 2026",
      "Detroit, MI, us",
      "https://jobs.smartrecruiters.com/AECOM2/744000150692859",
-     "internship_year",
-     "2026",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000150692589",
+     "Internship and Entry-Level Graduate Opportunities - Pigman Civil Engineering Career Expo",
+     "Lexington, KY, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000150692589",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "2026-09-21",
       "first_seen": ""
@@ -14095,12 +17753,36 @@
      }
     ],
     [
+     "744000149852635",
+     "Civil Engineering Intern",
+     "Des Moines, IA, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000149852635",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-16",
+      "first_seen": ""
+     }
+    ],
+    [
      "744000148858699",
      "Civil Engineering Intern - Transportation",
      "Milwaukee, WI, us",
      "https://jobs.smartrecruiters.com/AECOM2/744000148858699",
      "title_exclude_unless",
      "transportation",
+     {
+      "posted": "2026-09-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "744000148788754",
+     "Transit (Bus) Engineering Intern II",
+     "Middleton, WI, us",
+     "https://jobs.smartrecruiters.com/AECOM2/744000148788754",
+     "title_exclude_unless",
+     "transit",
      {
       "posted": "2026-09-10",
       "first_seen": ""
@@ -14143,7 +17825,7 @@
      }
     ]
    ],
-   "n": 15
+   "n": 25
   },
   "Boston Dynamics": {
    "rows": [],
@@ -14151,6 +17833,18 @@
   },
   "Vertiv": {
    "rows": [
+    [
+     "20286643",
+     "Engineering Intern - DC Power Systems (Summer 2027)",
+     "Lorain, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286643",
+     "title_exclude_unless",
+     "dc power",
+     {
+      "posted": "2026-11-23",
+      "first_seen": ""
+     }
+    ],
     [
      "20278722",
      "Technical Sales Engineering Intern - IT Channel (Summer 2027)",
@@ -14196,6 +17890,42 @@
      "firmware",
      {
       "posted": "2026-08-26",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278958",
+     "Product Management Intern - MBA (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958",
+     "title_exclude",
+     "product management intern - mba",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278959",
+     "Product Management Intern - MBA (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959",
+     "title_exclude",
+     "product management intern - mba",
+     {
+      "posted": "2026-08-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "20278896",
+     "Cost Engineering Intern (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896",
+     "title_exclude",
+     "cost engineering",
+     {
+      "posted": "2026-08-12",
       "first_seen": ""
      }
     ],
@@ -14248,6 +17978,18 @@
      }
     ],
     [
+     "20279303",
+     "Engineering Intern - AC Power (Summer 2027)",
+     "Delaware, OH, United States",
+     "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279303",
+     "title_exclude_unless",
+     "ac power",
+     {
+      "posted": "2026-08-13",
+      "first_seen": ""
+     }
+    ],
+    [
      "20279271",
      "Electrical Engineering Intern - Energy Storage (Summer 2027)",
      "Delaware, OH, United States",
@@ -14277,7 +18019,7 @@
      "Delaware, OH, United States",
      "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
      "title_exclude",
-     "mba intern",
+     "product management mba",
      {
       "posted": "2026-08-25",
       "first_seen": ""
@@ -14308,10 +18050,22 @@
      }
     ]
    ],
-   "n": 13
+   "n": 18
   },
   "Qualcomm": {
    "rows": [
+    [
+     "446720737089",
+     "Embedded Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720737089",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
     [
      "446720740525",
      "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
@@ -14321,6 +18075,18 @@
      "machine learning",
      {
       "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720741668",
+     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720741668",
+     "title_exclude",
+     "cloud",
+     {
+      "posted": "2026-08-25",
       "first_seen": ""
      }
     ],
@@ -14337,18 +18103,6 @@
      }
     ],
     [
-     "446720737089",
-     "Embedded Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720737089",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-09-18",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740529",
      "Software Engineering Internship - Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | Tempe, Arizona, United States of America | Irvine, California, United States of America | Louisville, Kentucky, United States of America | New York City, New York, United States of America",
@@ -14357,6 +18111,18 @@
      "software",
      {
       "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720740637",
+     "Wireless Systems Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740637",
+     "title_exclude_unless",
+     "wireless",
+     {
+      "posted": "2026-08-25",
       "first_seen": ""
      }
     ],
@@ -14383,24 +18149,24 @@
       "posted": "2026-08-25",
       "first_seen": ""
      }
-    ],
-    [
-     "446720741668",
-     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720741668",
-     "title_exclude",
-     "cloud",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 7
+   "n": 8
   },
   "Cisco": {
    "rows": [
+    [
+     "/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+     "Security Engineer I (Intern) - United States",
+     "RTP, North Carolina, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+     "title_exclude_unless",
+     "security engineer",
+     {
+      "posted": "2026-11-26",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032790",
      "Technical Sales I (Intern) - United States",
@@ -14546,7 +18312,7 @@
      }
     ]
    ],
-   "n": 12
+   "n": 13
   },
   "Xcel Energy": {
    "rows": [],
@@ -14591,6 +18357,18 @@
      }
     ],
     [
+     "/job/Plantation-FL/Summer-2027-Internship---RFIC-Design-Engineer_R70731",
+     "Summer 2027 Internship - RFIC Design Engineer",
+     "Plantation, FL, More...",
+     "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Summer-2027-Internship---RFIC-Design-Engineer_R70731",
+     "title_exclude_unless",
+     "rfic",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Chicago-IL/COEE-Presales-System-Engineer--2027-Internship-_R68359",
      "COEE Presales System Engineer (2027 Internship)",
      "Chicago, IL",
@@ -14627,7 +18405,7 @@
      }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Jabil": {
    "rows": [
@@ -14850,6 +18628,18 @@
      }
     ],
     [
+     "/job/Ashland-Virginia/XMLNAME-2027-Construction-Project-Management-Intern-1_JR-17836",
+     "2027 Construction Project Management Intern-1",
+     "Ashland, Virginia",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Ashland-Virginia/XMLNAME-2027-Construction-Project-Management-Intern-1_JR-17836",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Charlotte-North-Carolina/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15279-1",
      "2027 Technical Sales Intern - Services",
      "Charlotte, North Carolina",
@@ -14880,6 +18670,18 @@
      "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/East-Syracuse-NY--6211-Molloy/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15115-1",
      "title_exclude",
      "sales",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Willowbrook-Illinois/XMLNAME-2027-Construction-Project-Management-Intern_JR-17505-1",
+     "2027 Construction Project Management Intern",
+     "Willowbrook, Illinois",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Willowbrook-Illinois/XMLNAME-2027-Construction-Project-Management-Intern_JR-17505-1",
+     "title_exclude_unless",
+     "construction",
      {
       "posted": "",
       "first_seen": ""
@@ -14922,12 +18724,96 @@
      }
     ],
     [
+     "/job/Knoxville-Tennessee/XMLNAME-2027-Construction-Project-Management-Intern_JR-9972-1",
+     "2027 Construction Project Management Intern",
+     "Knoxville, Tennessee",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Knoxville-Tennessee/XMLNAME-2027-Construction-Project-Management-Intern_JR-9972-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Atlanta-Georgia/XMLNAME-2027-Construction-Project-Management-Intern_JR-9969-1",
+     "2027 Construction Project Management Intern",
+     "Atlanta, Georgia",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Atlanta-Georgia/XMLNAME-2027-Construction-Project-Management-Intern_JR-9969-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317",
      "2027 Technical Sales Intern - Equipment",
      "Carrollton, Texas",
      "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-13317",
      "title_exclude",
      "sales",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Denver-Colorado/XMLNAME-2027-Construction-Project-Management-Intern_JR-15213",
+     "2027 Construction Project Management Intern",
+     "Denver, Colorado",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Denver-Colorado/XMLNAME-2027-Construction-Project-Management-Intern_JR-15213",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Grand-Junction-Colorado/XMLNAME-2027-Construction-Project-Management-Intern_JR-15219-1",
+     "2027 Construction Project Management Intern",
+     "Grand Junction, Colorado",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Grand-Junction-Colorado/XMLNAME-2027-Construction-Project-Management-Intern_JR-15219-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Atlanta-Georgia/XMLNAME-2027-Construction-Project-Management-Intern_JR-15286-1",
+     "2027 Construction Project Management Intern",
+     "Atlanta, Georgia",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Atlanta-Georgia/XMLNAME-2027-Construction-Project-Management-Intern_JR-15286-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Nashville-Tennessee/XMLNAME-2027-Construction-Project-Management-Intern_JR-15287-1",
+     "2027 Construction Project Management Intern",
+     "Nashville, Tennessee",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Nashville-Tennessee/XMLNAME-2027-Construction-Project-Management-Intern_JR-15287-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Antonio-Texas/XMLNAME-2027-Construction-Project-Management-Intern_JR-15317-1",
+     "2027 Construction Project Management Intern",
+     "San Antonio, Texas",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/San-Antonio-Texas/XMLNAME-2027-Construction-Project-Management-Intern_JR-15317-1",
+     "title_exclude_unless",
+     "construction",
      {
       "posted": "",
       "first_seen": ""
@@ -15180,6 +19066,78 @@
      "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Carrollton-Texas/XMLNAME-2027-Technical-Sales-Intern---Services_JR-15311-1",
      "title_exclude",
      "sales",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Miramar-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15051-1",
+     "2027 Construction Project Management Intern",
+     "Miramar, Florida",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Miramar-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15051-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Maitland-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15052-1",
+     "2027 Construction Project Management Intern",
+     "Maitland, Florida",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Maitland-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15052-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Jacksonville-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15053-1",
+     "2027 Construction Project Management Intern",
+     "Jacksonville, Florida",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Jacksonville-Florida/XMLNAME-2027-Construction-Project-Management-Intern_JR-15053-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Livonia-Michigan/XMLNAME-2027-Construction-Project-Management-Intern_JR-15069-1",
+     "2027 Construction Project Management Intern",
+     "Livonia, Michigan",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Livonia-Michigan/XMLNAME-2027-Construction-Project-Management-Intern_JR-15069-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Cincinnati-Ohio/XMLNAME-2027-Construction-Project-Management-Intern_JR-15086-1",
+     "2027 Construction Project Management Intern",
+     "Cincinnati, Ohio",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Cincinnati-Ohio/XMLNAME-2027-Construction-Project-Management-Intern_JR-15086-1",
+     "title_exclude_unless",
+     "construction",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Flint-Michigan/XMLNAME-2027-Construction-Project-Management-Intern_JR-15087-1",
+     "2027 Construction Project Management Intern",
+     "Flint, Michigan",
+     "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Flint-Michigan/XMLNAME-2027-Construction-Project-Management-Intern_JR-15087-1",
+     "title_exclude_unless",
+     "construction",
      {
       "posted": "",
       "first_seen": ""
@@ -15462,7 +19420,7 @@
      }
     ]
    ],
-   "n": 63
+   "n": 78
   },
   "Procter & Gamble": {
    "rows": [],
@@ -15669,6 +19627,30 @@
      }
     ],
     [
+     "/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
+     "Tapeout Engineering Intern, Tapeout Operations (Summer 2027)",
+     "USA - Vermont - Essex Junction",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
+     "title_exclude_unless",
+     "tapeout",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/USA---Vermont---Essex-Junction/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
+     "Systems/Process Engineering, Tapeout Operations Intern (Summer 2027)",
+     "USA - Vermont - Essex Junction",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924",
+     "title_exclude_unless",
+     "tapeout",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/USA---Texas---Austin/Finance-Project-Management-Analyst-Intern--Summer-2027-_JR-2604486",
      "Finance Project Management & Financial Systems Analyst Intern (Summer 2027)",
      "2 Locations (USA   Texas   Austin)",
@@ -15753,7 +19735,7 @@
      }
     ]
    ],
-   "n": 15
+   "n": 17
   },
   "Eversource": {
    "rows": [
@@ -15768,9 +19750,141 @@
       "posted": "2026-11-26",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/Newtown-CT/XMLNAME-2027-Distribution-Engineering-Intern--CT--Hybrid-Schedule-_R-032403",
+     "2027 Distribution Engineering Intern (CT, Hybrid Schedule)",
+     "4 Locations (Newtown CT)",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Newtown-CT/XMLNAME-2027-Distribution-Engineering-Intern--CT--Hybrid-Schedule-_R-032403",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Dorchester-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Dorchester--MA-Hybrid-Schedule-_R-032415",
+     "2027 Summer: Distribution Engineering Intern (Dorchester, MA-Hybrid Schedule)",
+     "Dorchester, MA",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Dorchester--MA-Hybrid-Schedule-_R-032415",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Portsmouth-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern-NH_R-032406",
+     "2027 Summer: Distribution Engineering Intern-NH",
+     "Portsmouth, NH",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Portsmouth-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern-NH_R-032406",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Hooksett-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hooksett--NH-Hybrid-Schedule-_R-032404",
+     "2027 Summer: Distribution Engineering Intern (Hooksett, NH-Hybrid Schedule)",
+     "Hooksett, NH",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hooksett-NH/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hooksett--NH-Hybrid-Schedule-_R-032404",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-13",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/East-Springfield-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Springfield--MA-Hybrid-Schedule-_R-032401",
+     "2027 Summer: Distribution Engineering Intern (Springfield, MA-Hybrid Schedule)",
+     "East Springfield, MA",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/East-Springfield-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Springfield--MA-Hybrid-Schedule-_R-032401",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Yarmouth-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hybrid-Schedule-_R-032402",
+     "2027 Summer: Distribution Engineering Intern (Hybrid Schedule)",
+     "2 Locations (Yarmouth MA)",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Yarmouth-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Hybrid-Schedule-_R-032402",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-System-Planning-Interns_R-032377",
+     "2027 Summer: Transmission System Planning Interns",
+     "3 Locations (Westwood MA)",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-System-Planning-Interns_R-032377",
+     "title_exclude_unless",
+     "transmission system",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Tilton-NH/XMLNAME-2027-Summer-Distribution-Engineering-Intern--Tilton--NH-Hybrid-Schedule-_R-032407",
+     "2027 Summer Distribution Engineering Intern (Tilton, NH-Hybrid Schedule)",
+     "Tilton, NH",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Tilton-NH/XMLNAME-2027-Summer-Distribution-Engineering-Intern--Tilton--NH-Hybrid-Schedule-_R-032407",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-and-Distribution-Standards-Engineering-Intern--MA--Hybrid-Schedule-_R-032409",
+     "2027 Summer: Transmission and Distribution Standards Engineering Intern (MA, Hybrid Schedule)",
+     "Westwood, MA",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2027-Summer--Transmission-and-Distribution-Standards-Engineering-Intern--MA--Hybrid-Schedule-_R-032409",
+     "title_exclude_unless",
+     "transmission and distribution",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Waltham-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Waltham--MA-Hybrid-Schedule-_R-032412",
+     "2027 Summer: Distribution Engineering Intern (Waltham, MA-Hybrid Schedule)",
+     "Waltham, MA",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Waltham-MA/XMLNAME-2027-Summer--Distribution-Engineering-Intern--Waltham--MA-Hybrid-Schedule-_R-032412",
+     "title_exclude_unless",
+     "distribution engineering",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
+     "2027 Telecommunications Engineering Intern",
+     "Manchester, NH",
+     "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Telecommunications-Engineering-Intern_R-031906",
+     "title_exclude_unless",
+     "telecommunications",
+     {
+      "posted": "2026-11-04",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 12
   },
   "Talen Energy": {
    "rows": [],
@@ -15782,6 +19896,18 @@
   },
   "AES": {
    "rows": [
+    [
+     "/job/US-Dayton-OH/Transmission-Planning-Engineer---Intern--Summer-2027-_R1064789",
+     "Transmission Planning Engineer - Intern (Summer 2027)",
+     "US, Dayton, OH",
+     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Transmission-Planning-Engineer---Intern--Summer-2027-_R1064789",
+     "title_exclude_unless",
+     "transmission planning",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
     [
      "/job/US-Dayton-OH/Investment-Planning-Co-Op-Engineer---Fall-2027_R1064787",
      "Investment Planning Co-Op Engineer - Fall 2027",
@@ -15829,9 +19955,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/US-Indianapolis-IN/Transmission-Planning-Engineer-Intern--Summer-2027-_R1064788",
+     "Transmission Planning Engineer Intern (Summer 2027)",
+     "US, Indianapolis, IN",
+     "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Transmission-Planning-Engineer-Intern--Summer-2027-_R1064788",
+     "title_exclude_unless",
+     "transmission planning",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 4
+   "n": 6
   },
   "Constellation Energy": {
    "rows": [
@@ -16615,6 +20753,18 @@
      }
     ],
     [
+     "8803206002",
+     "Technical Intern, Civil Engineering Summer 2027",
+     "Waltham, Massachusetts, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8803206002?gh_jid=8803206002",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-11",
+      "first_seen": ""
+     }
+    ],
+    [
      "8803590002",
      "Technical Intern, Geotechnical Summer 2027",
      "Waltham, Massachusetts, United States",
@@ -16699,7 +20849,7 @@
      }
     ]
    ],
-   "n": 9
+   "n": 10
   },
   "Stanley Consultants": {
    "rows": [
@@ -16873,6 +21023,18 @@
      }
     ],
     [
+     "3743990016541066",
+     "Civil Engineering Internship ",
+     "Long Beach, CA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990016541066",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-30",
+      "first_seen": ""
+     }
+    ],
+    [
      "3743990016464336",
      "Survey - Land Surveying Intern",
      "Los Angeles, CA, us",
@@ -16909,6 +21071,30 @@
      }
     ],
     [
+     "3743990015861706",
+     "Civil Engineering Internship ",
+     "Seattle, WA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015861706",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-10-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990015825096",
+     "Water Resources/Fish Passage Intern - 2027",
+     "Lacey, WA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015825096",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "2026-10-01",
+      "first_seen": ""
+     }
+    ],
+    [
      "3743990015734838",
      "Structural Engineering Internship - Summer 2027",
      "San Diego, CA, us",
@@ -16933,6 +21119,30 @@
      }
     ],
     [
+     "3743990015612236",
+     "2027 Civil Engineer Internship",
+     "Sacramento, CA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015612236",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-23",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990015612146",
+     "2027 Civil Engineer Internship ",
+     "San Francisco, CA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015612146",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-23",
+      "first_seen": ""
+     }
+    ],
+    [
      "3743990015407616",
      "Structural Engineering Internship ",
      "Seattle, WA, us",
@@ -16941,6 +21151,18 @@
      "structural",
      {
       "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990015271676",
+     "Engineering - Civil Engineering Internship",
+     "Los Angeles, CA, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015271676",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-15",
       "first_seen": ""
      }
     ],
@@ -16969,6 +21191,18 @@
      }
     ],
     [
+     "3743990015022066",
+     "Civil Engineering Intern - 2027",
+     "Portland, OR, us",
+     "https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015022066",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-09-02",
+      "first_seen": ""
+     }
+    ],
+    [
      "3743990014980746",
      "Transportation Engineering Internship ",
      "Seattle, WA, us",
@@ -16993,7 +21227,7 @@
      }
     ]
    ],
-   "n": 18
+   "n": 25
   },
   "Merit Medical": {
    "rows": [],
@@ -17044,6 +21278,30 @@
      "https://careers-vhb.icims.com/jobs/6517/transportation-intern---summer-2027/job",
      "title_exclude_unless",
      "transportation",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "6509",
+     "Civil Engineering Intern - Summer 2027",
+     "Winooski, VT, US",
+     "https://careers-vhb.icims.com/jobs/6509/civil-engineering-intern---summer-2027/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "6508",
+     "Civil Engineering Intern - Summer 2027",
+     "Winooski, VT, US",
+     "https://careers-vhb.icims.com/jobs/6508/civil-engineering-intern---summer-2027/job",
+     "title_exclude_unless",
+     "civil",
      {
       "posted": "",
       "first_seen": ""
@@ -17182,7 +21440,7 @@
      }
     ]
    ],
-   "n": 15
+   "n": 17
   },
   "Repligen": {
    "rows": [],
@@ -17337,6 +21595,18 @@
      }
     ],
     [
+     "4317",
+     "Engineering Intern - Water Resources",
+     "Ahmedabad, GJ, IN",
+     "https://careers-walterpmoore.icims.com/jobs/4317/engineering-intern---water-resources/job",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "4315",
      "Structural Intern",
      "Chicago, IL, US",
@@ -17367,6 +21637,18 @@
      "https://careers-walterpmoore.icims.com/jobs/4291/structural-intern/job",
      "title_exclude_unless",
      "structural",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4254",
+     "Engineering Intern - Water Resources",
+     "Delhi, IN",
+     "https://careers-walterpmoore.icims.com/jobs/4254/engineering-intern---water-resources/job",
+     "title_exclude_unless",
+     "water resources",
      {
       "posted": "",
       "first_seen": ""
@@ -17421,6 +21703,66 @@
      }
     ],
     [
+     "4094",
+     "Civil Engineering Intern",
+     "Dallas, TX, US",
+     "https://careers-walterpmoore.icims.com/jobs/4094/civil-engineering-intern/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4081",
+     "Civil Engineering Intern",
+     "Bentonville, AR, US",
+     "https://careers-walterpmoore.icims.com/jobs/4081/civil-engineering-intern/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4079",
+     "Civil Engineering Intern",
+     "Houston, TX, US",
+     "https://careers-walterpmoore.icims.com/jobs/4079/civil-engineering-intern/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "4076",
+     "Civil Engineering Intern",
+     "Austin, TX, US",
+     "https://careers-walterpmoore.icims.com/jobs/4076/civil-engineering-intern/job",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3996",
+     "Engineering Intern - Water Resources",
+     "Houston | US-TX-Dallas | US-TX-Fort Worth, TX, US",
+     "https://careers-walterpmoore.icims.com/jobs/3996/engineering-intern---water-resources/job",
+     "title_exclude_unless",
+     "water resources",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "3965",
      "Structural Intern",
      "Houston | US-TX-Dallas | US-TX-Austin | US-MO-Kansas City | US-PA-Philadelphia | US-FL-Orlando | US-FL-Miami | US-FL-Tampa | US-NC-Charlotte | US-NC-Raleigh | US-NV-Las Vegas..., TX, US",
@@ -17443,9 +21785,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "2554",
+     "Engineering Intern - Parking",
+     "Houston, TX, US",
+     "https://careers-walterpmoore.icims.com/jobs/2554/engineering-intern---parking/job",
+     "title_exclude_unless",
+     "parking",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 16
+   "n": 24
   },
   "RES": {
    "rows": [],

@@ -1842,8 +1842,8 @@
   "changed": "2026-11-26"
  },
  "Terex": {
-  "n": 337,
-  "sig": "3cdf834e6d1d",
+  "n": 458,
+  "sig": "947ae67d8f5f",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -1920,8 +1920,8 @@
   "changed": "2026-11-26"
  },
  "Cleveland Clinic": {
-  "n": 571,
-  "sig": "03100287f904",
+  "n": 2318,
+  "sig": "ba32bcf39cad",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -1969,7 +1969,7 @@
  },
  "Fresenius Medical Care North America": {
   "n": 2703,
-  "sig": "b1c785c03d5e",
+  "sig": "46e4d51fb9ad",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -1998,8 +1998,8 @@
   "changed": "2026-11-25"
  },
  "Pfizer": {
-  "n": 739,
-  "sig": "de0d61b9f1e1",
+  "n": 738,
+  "sig": "7349f3acfb95",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -2094,8 +2094,8 @@
   "changed": "2026-11-20"
  },
  "Cochlear Americas": {
-  "n": 97,
-  "sig": "4bae82b3ca4b",
+  "n": 95,
+  "sig": "49d2ff0d63e5",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -2286,8 +2286,8 @@
   "changed": "2026-11-25"
  },
  "AECOM": {
-  "n": 5609,
-  "sig": "3c55ffb55f89",
+  "n": 5607,
+  "sig": "0d3ffe68e20d",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -2310,8 +2310,8 @@
   "changed": "2026-11-26"
  },
  "Qualcomm": {
-  "n": 147,
-  "sig": "fd1a5874227d",
+  "n": 2072,
+  "sig": "a98596341e14",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
@@ -2346,8 +2346,8 @@
   "changed": "2026-11-27"
  },
  "Thermo Fisher Scientific": {
-  "n": 3227,
-  "sig": "13af7dfcd08c",
+  "n": 3228,
+  "sig": "cea0426b0b04",
   "checked": "2026-11-27",
   "changed": "2026-11-27"
  },
