@@ -865,7 +865,8 @@
    "semester",
    "fall 2027"
   ],
-  "exclude_phd_only": true
+  "exclude_phd_only": true,
+  "exclude_undergrad_only": true
  },
  "companies": [
   {

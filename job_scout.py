@@ -3189,6 +3189,10 @@ _PHD_RE = re.compile(r"\bph\.?\s?d\b|\bdoctoral\b|\bpost-?doc", re.I)
 _BELOW_PHD_RE = re.compile(r"(?<![a-z])(?:ms|m\.s\.?|msc|bs|b\.s\.?|masters?|master's|bachelors?|bachelor's|undergraduate)(?![a-z])", re.I)
 
 
+_UNDERGRAD_RE = re.compile(r"(?<![a-z])(?:undergrad(?:uate)?s?|bachelor'?s?|sophomore|freshman|junior)(?![a-z])", re.I)
+_GRAD_LEVEL_RE = re.compile(r"(?<![a-z])(?:graduate|grad|masters?|master's|ms|m\.s\.?|msc)(?![a-z])", re.I)
+
+
 def _off_summer_months(title):
     """True for a month range that does not start in summer; how late it ends does not matter."""
     for match in _MONTH_RANGE_RE.finditer(title):
@@ -3210,6 +3214,8 @@ def internship_filter_reason(job, f):
         return ("internship_season", "months")
     if f.get("exclude_phd_only") and _PHD_RE.search(title) and not _BELOW_PHD_RE.search(title):
         return ("description_exclude", "phd-only title")
+    if f.get("exclude_undergrad_only") and _UNDERGRAD_RE.search(title) and not _GRAD_LEVEL_RE.search(title):
+        return ("description_exclude", "undergrad-only title")
     if year is not None:
         years = _INTERNSHIP_YEAR_RE.findall(title)
         if years and str(year) not in years:

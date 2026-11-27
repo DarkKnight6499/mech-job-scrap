@@ -55,3 +55,21 @@ def test_drop_title_filtered_spares_marked_rows():
     js._drop_title_filtered(queue, F, counts)
     assert [e["state"] for e in queue] == ["applied", "shortlisted", "dismissed", "new"]
     assert counts["title_dropped"] == 3
+
+
+@pytest.mark.parametrize("title", [
+    "Mechanical Engineering Undergraduate Intern", "Materials Engineering Intern - Bachelors",
+    "Mechanical Engineering Intern (Bachelor's)", "Manufacturing Engineering Intern - Sophomore",
+    "Mechanical Engineering Intern - Junior", "Post Undergraduate Mechanical Engineering Intern",
+])
+def test_undergrad_only_rejected(title):
+    assert reason(title) == ("description_exclude", "undergrad-only title")
+
+
+@pytest.mark.parametrize("title", [
+    "Undergraduate/Graduate Mechanical Engineering Intern", "Mechanical Engineer Intern - BS or MS",
+    "Mechanical Engineering Intern - Bachelors/Masters", "Undergrad or Grad Materials Intern",
+    "Graduate Mechanical Engineering Intern",
+])
+def test_graduate_open_kept(title):
+    assert reason(title) is None
