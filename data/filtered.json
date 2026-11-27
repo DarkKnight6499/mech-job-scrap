@@ -270,10 +270,6 @@
    ],
    "n": 22
   },
-  "Granite Construction": {
-   "rows": [],
-   "n": 0
-  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -883,9 +879,21 @@
       "posted": "2026-11-20",
       "first_seen": ""
      }
+    ],
+    [
+     "5306844007",
+     "Salesforce Engineer Intern",
+     "Amsterdam, NH",
+     "https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007",
+     "title_exclude",
+     "salesforce",
+     {
+      "posted": "2026-11-26",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 6
+   "n": 7
   },
   "Waymo": {
    "rows": [
@@ -922,6 +930,18 @@
      "machine learning",
      {
       "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8198582",
+     "2027 Summer Intern, MBA, Salesforce Product Owner",
+     "Los Angeles, California, United States",
+     "https://careers.withwaymo.com/jobs?gh_jid=8198582",
+     "title_exclude",
+     "salesforce",
+     {
+      "posted": "2026-09-15",
       "first_seen": ""
      }
     ],
@@ -1046,7 +1066,7 @@
      }
     ]
    ],
-   "n": 13
+   "n": 14
   },
   "Nuro": {
    "rows": [
@@ -3954,42 +3974,6 @@
      }
     ],
     [
-     "/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
-     "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "title_exclude",
-     "supply chain",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
-     "Austin,TX",
-     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "title_exclude",
-     "supply chain",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
      "2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara)",
      "Santa Clara,CA",
@@ -4056,6 +4040,42 @@
      "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
      "title_exclude_unless",
      "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
+     "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "title_exclude",
+     "supply chain",
      {
       "posted": "",
       "first_seen": ""
@@ -13434,6 +13454,10 @@
    "rows": [],
    "n": 0
   },
+  "Granite Construction": {
+   "rows": [],
+   "n": 0
+  },
   "Tutor Perini": {
    "rows": [],
    "n": 0
@@ -13445,6 +13469,18 @@
      "Civil Engineering Internship - Data Centers Site Design",
      "Lincoln, NE",
      "https://job-boards.greenhouse.io/olsson/jobs/5408699008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5408678008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
      "title_exclude_unless",
      "site design",
      {
@@ -13477,10 +13513,10 @@
      }
     ],
     [
-     "5408678008",
+     "5408628008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
      "title_exclude_unless",
      "site design",
      {
@@ -13497,18 +13533,6 @@
      "site design",
      {
       "posted": "2026-09-02",
-      "first_seen": ""
-     }
-    ],
-    [
-     "5408628008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
-     "title_exclude_unless",
-     "site design",
-     {
-      "posted": "2026-08-31",
       "first_seen": ""
      }
     ],
@@ -14144,18 +14168,6 @@
   "Qualcomm": {
    "rows": [
     [
-     "446720737089",
-     "Embedded Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720737089",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "2026-09-18",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740525",
      "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
@@ -14180,18 +14192,6 @@
      }
     ],
     [
-     "446720741668",
-     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720741668",
-     "title_exclude",
-     "cloud",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740649",
      "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
      "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | Tempe, Arizona, United States of America | Santa Clara, California, United States of America",
@@ -14200,6 +14200,18 @@
      "digital design",
      {
       "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720737089",
+     "Embedded Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720737089",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "2026-09-18",
       "first_seen": ""
      }
     ],
@@ -14222,6 +14234,18 @@
      "https://careers.qualcomm.com/careers/job/446720740912",
      "title_exclude_unless",
      "rf",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720741668",
+     "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720741668",
+     "title_exclude",
+     "cloud",
      {
       "posted": "2026-08-25",
       "first_seen": ""

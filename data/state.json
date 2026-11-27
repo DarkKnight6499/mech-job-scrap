@@ -11444,6 +11444,7 @@
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Kierowniczka---Kierownik-Zespou_01875714-1",
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Inspektorka---Modszy-Inspektor-Kontroli-Jakoci_01849897",
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Inspektorka---Modszy-Inspektor-Kontroli-Jakoci_01880053",
+  "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Operatorka---Modszy-Operator-CNC_01842639",
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Operatorka---Modszy-Operator_01827753",
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modsza-Operatorka---Modszy-Operator_01884314",
   "/job/PL-12-NIEPOLOMICE-004--Grabska-4--GRABSKA/Modszy-Inspektor-Kontroli-Jakoci-I_01883998",
@@ -41762,6 +41763,8 @@
   "/job/Hiroshima---Fab-15-Japan/MFG-PEE-PH-PR-TECH_JR110958-1",
   "/job/Hiroshima---Fab-15-Japan/Mechanical-Engineer_JR89333",
   "/job/Hiroshima---Fab-15-Japan/Metrology-Process-Development-Engineer--Open-_JR108388",
+  "/job/Hiroshima---Fab-15-Japan/PFA-Engineer_JR118236",
+  "/job/Hiroshima---Fab-15-Japan/PROBE-TEST-SOLUTION-ENGINEERING-TSE_JR118329",
   "/job/Hiroshima---Fab-15-Japan/People-Program-Specialist_JR112652",
   "/job/Hiroshima---Fab-15-Japan/Physical-Security-Technology-Specialist_JR113371-5",
   "/job/Hiroshima---Fab-15-Japan/Principal---Senior---Engineer--DRAM-Reliability_JR99586",
@@ -43495,6 +43498,7 @@
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR112581-6",
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR115607",
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR115609",
+  "/job/Tokyo-Japan/NAND-Designer---Layout_JR115610",
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR115700",
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR115701-5",
   "/job/Tokyo-Japan/NAND-Designer---Layout_JR98100",
@@ -53001,6 +53005,7 @@
   "/job/TokyoJPN/Safety-Engineer-IV_R2632243",
   "/job/TokyoJPN/Supplier-Account-Management_R2634115",
   "/job/TokyoJPN/Supplier-Engineer--E4-_R2619269",
+  "/job/TokyoJPN/Supplier-Engineer-III_R2634174",
   "/job/TokyoJPN/Talent-Acquisition-Recruiter---Japan--B4-_R2624964",
   "/job/TokyoJPN/Worldwide-Manufacturing-Operations-II_R2627107",
   "/job/TracyCA/Logistics-Operations-New-College-Grad--Bachelor-s-Master-s--Tracy--CA-_R2627536-1",
@@ -133142,6 +133147,7 @@
   "/job/Riyadh/Engineering-Apprentice-for-System-Engineering_JR10433107",
   "/job/Riyadh/Engineering-Apprentice-for-System-Engineering_JR10433109",
   "/job/Riyadh/Finance-COOP-internship_JR10415602",
+  "/job/Riyadh/H125-B1-Mechanical-Technician_JR10461863-1",
   "/job/Riyadh/H125-B1-Mechanical-Training-instructor_JR10447878",
   "/job/Riyadh/H125-B2-Electrical---Avionics-Training-instructor_JR10448221",
   "/job/Riyadh/Head-of-Aircraft-Technical-Services_JR10399790",
@@ -181951,7 +181957,8 @@
   "3743990017108336",
   "3743990017108466",
   "3743990017108577",
-  "3743990017109086"
+  "3743990017109086",
+  "3743990017109536"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -212194,7 +212201,8 @@
   "744000163923369",
   "744000163923489",
   "744000163923539",
-  "744000163930059"
+  "744000163930059",
+  "744000163931999"
  ],
  "Boston Dynamics": [
   "/job/Austria-Remote/Field-Application-Engineer_R3235",
@@ -233367,6 +233375,7 @@
   "/job/SGP---Woodlands/Sr-Engineer-Module-Engineering_JR-2600201",
   "/job/SGP---Woodlands/Sr-Engineer-Quality_JR-2604795",
   "/job/SGP---Woodlands/Sr-Technician-Production-Control_JR-2504838",
+  "/job/SGP---Woodlands/Trainee-Associate-Engineer--Equipment-_JR-2603813",
   "/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Clean-Tech-Engineering-Module_JR-2502753",
   "/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Environmental---Sustainability_JR-2502696",
   "/job/SGP---Woodlands/XMLNAME-2H-University-Intern---IP-Program-Management---QA_JR-2502782",
