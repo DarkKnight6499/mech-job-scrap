@@ -73,3 +73,21 @@ def test_undergrad_only_rejected(title):
 ])
 def test_graduate_open_kept(title):
     assert reason(title) is None
+
+
+@pytest.mark.parametrize("title", [
+    "Civil Engineering Intern", "Roadway Engineering Intern", "Water Resources Intern", "Construction Engineering Intern",
+    "Software Engineer Intern, Robotics", "Electrical Engineer Intern, Robotics", "Optical Engineering Intern",
+    "Distribution Engineering Intern", "Digital IC Design Engineer Intern", "Project Controls Intern", "Cost Accountant Intern, Global Operations and Manufacturing",
+])
+def test_blatant_roles_rejected(title):
+    assert reason(title) is not None
+
+
+@pytest.mark.parametrize("title", [
+    "Field Engineering Intern", "Water Treatment Engineering Co-op", "Mechanical Engineering Intern Water",
+    "Instrumentation & Controls Engineering Intern", "Electrical/Controls Engineering Intern", "Product Management Intern",
+    "Acoustic Algorithm Development Engineer Intern", "Radiation Protection Engineering Intern", "Environmental Test Engineering Intern",
+])
+def test_borderline_roles_kept(title):
+    assert reason(title) is None
