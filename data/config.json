@@ -470,7 +470,8 @@
    "Information Technology",
    "IT Intern",
    "Analytics Intern",
-   "Salesforce"
+   "Salesforce",
+   "Accountant"
   ],
   "title_exclude_unless": [
    {
@@ -608,6 +609,19 @@
      "analysis",
      "stress",
      "FEA"
+    ]
+   },
+   {
+    "terms": [
+     "hardware"
+    ],
+    "unless": [
+     "mechanical",
+     "mechatronic",
+     "electromechanical",
+     "thermal",
+     "materials",
+     "manufacturing"
     ]
    }
   ],

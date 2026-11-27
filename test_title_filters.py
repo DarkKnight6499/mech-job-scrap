@@ -20,7 +20,7 @@ def kept(title, filters=FILTERS):
 @pytest.mark.parametrize("title", [
     "Mechanical Engineering Intern", "Mechatronics Student", "Aerospace Co-op",
     "Summer 2027 Robotics Engineer", "Controls Engineering Internship",
-    "Automation Intern", "Electromechanical Intern", "Hardware Intern",
+    "Automation Intern", "Electromechanical Intern",
     "Design Engineering Intern", "Test Engineer Intern", "Manufacturing Engineering Intern",
     "Process Engineering Intern", "Materials Intern", "Thermal Intern", "Fluids Intern",
     "Structures Intern", "Propulsion Intern", "Systems Engineering Intern", "R&D Intern",
