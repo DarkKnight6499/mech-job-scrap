@@ -270,70 +270,183 @@
    ],
    "n": 22
   },
-  "Johnson Controls": {
+  "Booz Allen Hamilton": {
    "rows": [
     [
-     "/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
-     "Software Engineering Co-Op",
-     "Burlington-Massachusetts-United States of America",
-     "https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
+     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "University, AI RAN Telecommunications Engineer Intern",
+     "McLean, VA",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
      "title_exclude_unless",
-     "software",
+     "ai",
      {
-      "posted": "2026-11-19",
+      "posted": "2026-11-09",
       "first_seen": ""
      }
     ],
     [
-     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364",
-     "BEST Sales Intern - HVAC",
-     "Irving-Texas-United States of America",
-     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
-     "BEST Sales Intern - HVAC",
-     "Irving-Texas-United States of America",
-     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
-     "BEST Sales Intern - HVAC",
-     "Irving-Texas-United States of America",
-     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
-     "Electrical Engineering Intern",
-     "Glendale-Wisconsin-United States of America",
-     "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
+     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "Design and Verification Engineer Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
      "title_exclude_unless",
-     "electrical",
+     "verification",
      {
-      "posted": "2026-11-18",
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "",
       "first_seen": ""
      }
     ]
    ],
-   "n": 5
+   "n": 3
+  },
+  "Cisco": {
+   "rows": [
+    [
+     "/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+     "Security Engineer I (Intern) - United States",
+     "RTP, North Carolina, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+     "title_exclude_unless",
+     "security engineer",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032790",
+     "Technical Sales I (Intern) - United States",
+     "RTP, North Carolina, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032790",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
+     "Software Engineer Data & AI PhD (Intern) - United States",
+     "3 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
+     "Software Engineer Embedded Systems I (Intern) - United States",
+     "3 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
+     "Hardware Engineer I (Intern) - United States",
+     "2 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
+     "Hardware Engineer PhD Co-op - United States",
+     "San Jose, California, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
+     "Hardware Engineer II Intern - United States",
+     "4 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "2026-11-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
+     "Hardware Engineer II (Co-op) - United States",
+     "San Jose, California, US",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
+     "title_exclude_unless",
+     "hardware",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+     "Software Engineer Full Stack / Backend I (Co-op) - United States",
+     "2 Locations (San Jose California US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+     "Software Consulting Engineer I (Intern) United States",
+     "USA-RESEARCH TRIANGLE PARK",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816",
+     "Consulting Engineer I (Intern) - United States",
+     "3 Locations (RTP North Carolina US)",
+     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816",
+     "title_exclude_unless",
+     "consulting",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 11
   },
   "Relativity Space": {
    "rows": [],
@@ -366,18 +479,6 @@
      }
     ],
     [
-     "8042094003",
-     "Ground Systems Engineering Intern Spring 2027",
-     "Middle River, MD",
-     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-02",
-      "first_seen": ""
-     }
-    ],
-    [
      "8007204003",
      "Ground Systems Engineering Intern Spring 2027",
      "Stennis Space Center, MS",
@@ -386,6 +487,18 @@
      "spring 2027",
      {
       "posted": "2026-10-12",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8042094003",
+     "Ground Systems Engineering Intern Spring 2027",
+     "Middle River, MD",
+     "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-02",
       "first_seen": ""
      }
     ],
@@ -2333,18 +2446,6 @@
      }
     ],
     [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
-     "Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
-     "title_exclude_unless",
-     "environmental health",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
      "Summer 2027 RF Systems Engineer Intern - Onsite",
      "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
@@ -2471,6 +2572,18 @@
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
      "title_exclude",
      "spring",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
+     "Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)",
+     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
+     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
+     "title_exclude_unless",
+     "environmental health",
      {
       "posted": "",
       "first_seen": ""
@@ -3260,6 +3373,71 @@
   "Xylem": {
    "rows": [],
    "n": 0
+  },
+  "Johnson Controls": {
+   "rows": [
+    [
+     "/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
+     "Software Engineering Co-Op",
+     "Burlington-Massachusetts-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364",
+     "BEST Sales Intern - HVAC",
+     "Irving-Texas-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285364",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
+     "BEST Sales Intern - HVAC",
+     "Irving-Texas-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285253",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
+     "BEST Sales Intern - HVAC",
+     "Irving-Texas-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/BEST-Sales-Intern---HVAC_WD30285251",
+     "title_exclude",
+     "sales",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
+     "Electrical Engineering Intern",
+     "Glendale-Wisconsin-United States of America",
+     "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Electrical-Engineering-Intern_WD30285272",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 5
   },
   "Medtronic": {
    "rows": [],
@@ -7732,47 +7910,6 @@
    ],
    "n": 8
   },
-  "Booz Allen Hamilton": {
-   "rows": [
-    [
-     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "University, AI RAN Telecommunications Engineer Intern",
-     "McLean, VA",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-11-09",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
-     "Design and Verification Engineer Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
-     "title_exclude_unless",
-     "verification",
-     {
-      "posted": "2026-11-05",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 3
-  },
   "Parsons": {
    "rows": [],
    "n": 0
@@ -8457,21 +8594,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "5483",
-     "Flight Test Intern (Dec 2026-Feb 2027)",
-     "Marina, CA, US",
-     "https://careers-jobyaviation.icims.com/jobs/5483/flight-test-intern-%28dec-2026-feb-2027%29/job",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 2
+   "n": 1
   },
   "Ford": {
    "rows": [],
@@ -9240,18 +9365,6 @@
   "Skyworks": {
    "rows": [
     [
-     "1445108300",
-     "Analog Design Engineering Intern",
-     "San Jose, US, 95134",
-     "https://careers.skyworksinc.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1445108300/",
-     "title_exclude_unless",
-     "analog",
-     {
-      "posted": "2026-11-27",
-      "first_seen": ""
-     }
-    ],
-    [
      "1445078400",
      "Software Engineer Intern",
      "Bend, US, 97703",
@@ -9270,6 +9383,18 @@
      "https://careers.skyworksinc.com/job/Richardson-Software-Engineer-Intern-TX-75080/1445151900/",
      "title_exclude_unless",
      "software",
+     {
+      "posted": "2026-11-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "1445108300",
+     "Analog Design Engineering Intern",
+     "San Jose, US, 95134",
+     "https://careers.skyworksinc.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1445108300/",
+     "title_exclude_unless",
+     "analog",
      {
       "posted": "2026-11-27",
       "first_seen": ""
@@ -9300,6 +9425,18 @@
      }
     ],
     [
+     "1424302600",
+     "Data Engineering Summer/Fall Co-Op (June - Dec '27)",
+     "Irvine, CA, US, 92617",
+     "https://careers.skyworksinc.com/job/Irvine-Data-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1424302600/",
+     "title_exclude",
+     "data engineering",
+     {
+      "posted": "2026-11-23",
+      "first_seen": ""
+     }
+    ],
+    [
      "1424305900",
      "Compound semiconductor TCAD (GaAs and GaN) Engineering Winter/Spring Co-op (Jan-June '27)",
      "Newbury Park, CA, US, 91320",
@@ -9318,18 +9455,6 @@
      "https://careers.skyworksinc.com/job/Newbury-Park-High-frequency-PA-design%2C-WinterSpring-Engineering-Co-op-%28Jan-June-'27%29-CA-91320/1424304500/",
      "title_exclude",
      "winter",
-     {
-      "posted": "2026-11-23",
-      "first_seen": ""
-     }
-    ],
-    [
-     "1424302600",
-     "Data Engineering Summer/Fall Co-Op (June - Dec '27)",
-     "Irvine, CA, US, 92617",
-     "https://careers.skyworksinc.com/job/Irvine-Data-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1424302600/",
-     "title_exclude",
-     "data engineering",
      {
       "posted": "2026-11-23",
       "first_seen": ""
@@ -9802,6 +9927,30 @@
   },
   "Kimley-Horn": {
    "rows": [
+    [
+     "26032",
+     "Structural Intern",
+     "Pleasanton, California",
+     "https://careers.kimley-horn.com/jobs/26032",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-11-27",
+      "first_seen": ""
+     }
+    ],
+    [
+     "30034",
+     "Civil Engineering Intern",
+     "Rockville, Maryland",
+     "https://careers.kimley-horn.com/jobs/30034",
+     "title_exclude_unless",
+     "civil",
+     {
+      "posted": "2026-11-27",
+      "first_seen": ""
+     }
+    ],
     [
      "26833",
      "Civil Engineering Intern",
@@ -10435,18 +10584,6 @@
      "structural",
      {
       "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
-     "26027",
-     "Civil Engineering Intern",
-     "Roseville, California",
-     "https://careers.kimley-horn.com/jobs/26027",
-     "title_exclude_unless",
-     "civil",
-     {
-      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -11855,7 +11992,7 @@
      }
     ]
    ],
-   "n": 171
+   "n": 172
   },
   "Terracon": {
    "rows": [
@@ -12533,30 +12670,6 @@
      }
     ],
     [
-     "/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
-     "Co-op, Manufacturing: January - June 2027 (Onsite)",
-     "Irvine, California",
-     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
-     "title_exclude",
-     "january",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Acton-Massachusetts/Co-op--Quality-Engineering--January-June--Onsite-_REQ-2026-18150",
-     "Co-op, Quality Engineering: January-June (Onsite)",
-     "Acton, Massachusetts",
-     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Quality-Engineering--January-June--Onsite-_REQ-2026-18150",
-     "title_exclude",
-     "january",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026",
      "Co-op, Software Development Engineer in Test: January - June 2027 (Hybrid)",
      "Acton, Massachusetts",
@@ -12587,18 +12700,6 @@
      "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027",
      "title_exclude",
      "devops",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149",
-     "Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid)",
-     "Acton, Massachusetts",
-     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149",
-     "title_exclude",
-     "january",
      {
       "posted": "",
       "first_seen": ""
@@ -12653,34 +12754,10 @@
      }
     ],
     [
-     "/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
-     "Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)",
-     "Acton, Massachusetts",
-     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
-     "title_exclude",
-     "january",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Acton-Massachusetts/Co-op--Next-Gen-Platforms--NGP--Systems-Engineering--January-June-2027--Onsite-_REQ-2026-18071",
      "Co-op, Next Gen Platforms (NGP) Systems Engineering: January-June 2027 (Onsite)",
      "Acton, Massachusetts",
      "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Next-Gen-Platforms--NGP--Systems-Engineering--January-June-2027--Onsite-_REQ-2026-18071",
-     "title_exclude",
-     "january",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
-     "Co-op, Embedded Software Engineering: January-June 2027 (Onsite)",
-     "Acton, Massachusetts",
-     "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
      "title_exclude",
      "january",
      {
@@ -12713,7 +12790,7 @@
      }
     ]
    ],
-   "n": 22
+   "n": 17
   },
   "Dexcom": {
    "rows": [],
@@ -15164,7 +15241,7 @@
      "30388",
      "IT Intern - Software Development Platform Engineer",
      "Milford, MA, US",
-     "https://uscareers-waters.icims.com/jobs/30388/2026-30388/job",
+     "https://uscareers-waters.icims.com/jobs/30388/it-intern---software-development-platform-engineer/job",
      "title_exclude",
      "it intern",
      {
@@ -17680,6 +17757,18 @@
      }
     ],
     [
+     "5408678008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
+      "first_seen": ""
+     }
+    ],
+    [
      "5408723008",
      "Civil Engineering Internship - Data Centers Site Design",
      "Des Moines, IA",
@@ -17704,10 +17793,10 @@
      }
     ],
     [
-     "5408678008",
+     "5408628008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
      "title_exclude_unless",
      "site design",
      {
@@ -17724,18 +17813,6 @@
      "site design",
      {
       "posted": "2026-09-02",
-      "first_seen": ""
-     }
-    ],
-    [
-     "5408628008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
-     "title_exclude_unless",
-     "site design",
-     {
-      "posted": "2026-08-31",
       "first_seen": ""
      }
     ],
@@ -17836,14 +17913,14 @@
      }
     ],
     [
-     "5396195008",
+     "5473405008",
      "Student Internship - Construction Materials Testing",
-     "Olathe, KS",
-     "https://job-boards.greenhouse.io/olsson/jobs/5396195008",
+     "La Vista, NE; Omaha, NE",
+     "https://job-boards.greenhouse.io/olsson/jobs/5473405008",
      "title_exclude",
      "construction materials",
      {
-      "posted": "2026-08-25",
+      "posted": "2026-11-04",
       "first_seen": ""
      }
     ],
@@ -17860,14 +17937,14 @@
      }
     ],
     [
-     "5473405008",
+     "5396195008",
      "Student Internship - Construction Materials Testing",
-     "La Vista, NE; Omaha, NE",
-     "https://job-boards.greenhouse.io/olsson/jobs/5473405008",
+     "Olathe, KS",
+     "https://job-boards.greenhouse.io/olsson/jobs/5396195008",
      "title_exclude",
      "construction materials",
      {
-      "posted": "2026-11-04",
+      "posted": "2026-08-25",
       "first_seen": ""
      }
     ],
@@ -18708,6 +18785,30 @@
   "Qualcomm": {
    "rows": [
     [
+     "446720740636",
+     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+     "San Diego, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740636",
+     "title_exclude_unless",
+     "cyber",
+     {
+      "posted": "2026-08-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "446720740525",
+     "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
+     "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
+     "https://careers.qualcomm.com/careers/job/446720740525",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-09-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "446720737089",
      "Embedded Engineering Internship - Summer 2027",
      "San Diego, California, United States of America | Boxborough, Massachusetts, United States of America | Santa Clara, California, United States of America",
@@ -18780,30 +18881,6 @@
      }
     ],
     [
-     "446720740636",
-     "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-     "San Diego, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720740636",
-     "title_exclude_unless",
-     "cyber",
-     {
-      "posted": "2026-08-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "446720740525",
-     "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
-     "San Diego, California, United States of America | Austin, Texas, United States of America | Boxborough, Massachusetts, United States of America | New Jersey, United States of America | New York City, New York, United States of America | Raleigh, North Carolina, United States of America | Santa Clara, California, United States of America",
-     "https://careers.qualcomm.com/careers/job/446720740525",
-     "title_exclude",
-     "machine learning",
-     {
-      "posted": "2026-09-18",
-      "first_seen": ""
-     }
-    ],
-    [
      "446720740540",
      "Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
      "San Diego, California, United States of America",
@@ -18829,143 +18906,6 @@
     ]
    ],
    "n": 10
-  },
-  "Cisco": {
-   "rows": [
-    [
-     "/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-     "Security Engineer I (Intern) - United States",
-     "RTP, North Carolina, US",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-     "title_exclude_unless",
-     "security engineer",
-     {
-      "posted": "2026-11-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032790",
-     "Technical Sales I (Intern) - United States",
-     "RTP, North Carolina, US",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Sales-I--Intern----United-States_2032790",
-     "title_exclude",
-     "sales",
-     {
-      "posted": "2026-11-24",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
-     "Software Engineer Data & AI PhD (Intern) - United States",
-     "3 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-20",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
-     "Software Engineer Embedded Systems I (Intern) - United States",
-     "3 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-10",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
-     "Hardware Engineer I (Intern) - United States",
-     "2 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
-     "title_exclude_unless",
-     "hardware",
-     {
-      "posted": "2026-11-10",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
-     "Hardware Engineer PhD Co-op - United States",
-     "San Jose, California, US",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD-Co-op---United-States_2025378",
-     "title_exclude_unless",
-     "hardware",
-     {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
-     "Hardware Engineer II Intern - United States",
-     "4 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
-     "title_exclude_unless",
-     "hardware",
-     {
-      "posted": "2026-11-02",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
-     "Hardware Engineer II (Co-op) - United States",
-     "San Jose, California, US",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
-     "title_exclude_unless",
-     "hardware",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-     "Software Engineer Full Stack / Backend I (Co-op) - United States",
-     "2 Locations (San Jose California US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
-     "Software Consulting Engineer I (Intern) United States",
-     "USA-RESEARCH TRIANGLE PARK",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816",
-     "Consulting Engineer I (Intern) - United States",
-     "3 Locations (RTP North Carolina US)",
-     "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816",
-     "title_exclude_unless",
-     "consulting",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 11
   },
   "Xcel Energy": {
    "rows": [],
@@ -21454,6 +21394,18 @@
      }
     ],
     [
+     "8816500002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Houston, Texas, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "8757448002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Waltham, Massachusetts, United States",
@@ -21478,18 +21430,6 @@
      }
     ],
     [
-     "8827599002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-21",
-      "first_seen": ""
-     }
-    ],
-    [
      "8806894002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Washington, District of Columbia, United States",
@@ -21502,22 +21442,22 @@
      }
     ],
     [
-     "8816500002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Houston, Texas, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Los Angeles, California, United States",
      "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
      "title_exclude_unless",
      "structural",
      {
