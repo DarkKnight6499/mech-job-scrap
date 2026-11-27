@@ -427,7 +427,6 @@
    "Winter",
    "Summer 2026",
    "Summer 2028",
-   "PhD Intern",
    "Tax",
    "Procurement",
    "Supply Chain",
@@ -844,7 +843,11 @@
    "internship",
    "co-op",
    "summer 2027"
-  ]
+  ],
+  "season_words_waived_by_summer": [
+   "semester"
+  ],
+  "exclude_phd_only": true
  },
  "companies": [
   {

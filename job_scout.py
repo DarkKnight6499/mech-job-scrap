@@ -65,7 +65,7 @@ from keyword_matching import contains_any, contains_term, first_match  # noqa: E
 
 HOME = Path(os.environ.get("JOB_SCOUT_HOME", REPO_DIR / "data"))
 # User-facing configuration.
-DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER = ("spring", "fall", "autumn", "winter", "semester")
+DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER = ("semester",)  # "Spring/Summer" and "Summer/Fall" co-ops are off-term
 JD_PROXY_URL = os.environ.get("JD_PROXY_URL", "")
 UA = {"User-Agent": "job-scout/1.0", "Accept": "application/json"}
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -3110,6 +3110,8 @@ _BARE_NON_US_CITY_RE = re.compile(r"^\s*(?:ottawa|north york|nassau|surrey|san s
 
 # Canadian Ontario, but not Ontario, California / Oregon / New York / Ohio.
 _ONTARIO_RE = re.compile(r"\bontario\b(?!,?\s*(?:ca|california|or|oregon|ny|oh|ohio)\b)")
+# "Milton, Ontario, CA" is Canada; "Ontario, CA" with no city before it is California.
+_ONTARIO_CANADA_RE = re.compile(r"^[^,;|]+,\s*ontario,\s*(?:ca|canada)\s*$")
 
 # Lever-style boards (Tala) give a bare country code as the whole location ("PH", "MX"). Only codes that are not US
 # state or territory abbreviations are listed, so "IN", "DE", "CA", "ID", "AR" never match.
@@ -3178,6 +3180,24 @@ _COMPACT_SEASON_RE = re.compile(r"\b(spring|summer|fall|autumn|winter)(?=20\d{2}
 _WAIVABLE_SEASON_EXCLUDE_RE = re.compile(r"(spring|fall|autumn|winter|semester)(?:\s+20\d{2})?", re.I)
 
 
+_MONTH = (r"(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|june?|july?|aug(?:ust)?|sep(?:t(?:ember)?)?"
+          r"|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\b\.?")
+_MONTH_RANGE_RE = re.compile(r"\b" + _MONTH + r"\s*(?:(?:20|')\d\d)?\s*(?:-|–|—|/|\bto\b|\bthrough\b|\bthru\b)\s*" + _MONTH, re.I)
+_JAN_START_RE = re.compile(r"\bjan\.?\s*(?:20|')\d\d", re.I)
+_PHD_RE = re.compile(r"\bph\.?\s?d\b|\bdoctoral\b|\bpost-?doc", re.I)
+# a title that also names a lower degree stays open to a master's student
+_BELOW_PHD_RE = re.compile(r"(?<![a-z])(?:ms|m\.s\.?|msc|bs|b\.s\.?|masters?|master's|bachelors?|bachelor's|undergraduate)(?![a-z])", re.I)
+
+
+def _off_summer_months(title):
+    """True for a month range that starts in January or February or runs into September or later."""
+    for match in _MONTH_RANGE_RE.finditer(title):
+        start, end = (word[:3].lower() for word in match.groups())
+        if start in ("jan", "feb") or end in ("sep", "oct", "nov", "dec"):
+            return True
+    return bool(_JAN_START_RE.search(title))
+
+
 def internship_filter_reason(job, f):
     """Check title dates and exclusions across title and descriptions before intake."""
     text = " ".join(strip_html(str(job.get(key) or "")) for key in ("title", "desc", "description"))
@@ -3187,6 +3207,10 @@ def internship_filter_reason(job, f):
         return ("description_exclude", excluded.lower())
     title = _COMPACT_SEASON_RE.sub(r"\1 ", strip_html(str(job.get("title") or "")))
     year, season = f.get("internship_year"), f.get("internship_season")
+    if season == "summer" and _off_summer_months(title):
+        return ("internship_season", "months")
+    if f.get("exclude_phd_only") and _PHD_RE.search(title) and not _BELOW_PHD_RE.search(title):
+        return ("description_exclude", "phd-only title")
     if year is not None:
         years = _INTERNSHIP_YEAR_RE.findall(title)
         if years and str(year) not in years:
@@ -3195,7 +3219,10 @@ def internship_filter_reason(job, f):
         seasons = [m.group().lower() for m in _INTERNSHIP_SEASON_RE.finditer(title)]
         other = next((value for value in seasons
                       if value.replace("autumn", "fall") != season), None)
-        if other and not (season == "summer" and "summer" in seasons):
+        waived = {word.lower().split()[0] for word in
+                  f.get("season_words_waived_by_summer", DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER)}
+        if other and not (season == "summer" and "summer" in seasons
+                          and all(value in waived for value in seasons if value != season)):
             return ("internship_season", other)
     return None
 
@@ -3252,7 +3279,7 @@ def _location_matches(job_loc, f):
         return False
     if _BARE_NON_US_CODE_RE.match(loc_folded):
         return False
-    if _ONTARIO_RE.search(loc_folded):
+    if _ONTARIO_RE.search(loc_folded) or _ONTARIO_CANADA_RE.match(loc_folded):
         return False
     if _MEXICO_RE.search(loc_folded):
         return False
@@ -5057,6 +5084,7 @@ def run(args):
         _prune_stale(queue, counts, unverified, configured={c["name"] for c in cfg["companies"]})
         _write_tombstones(counts.get("pruned_ids", []), "pruned")
         _drop_location_filtered(queue, cfg.get("filters", {}), counts)
+        _drop_title_filtered(queue, cfg.get("filters", {}), counts)
         HOME.mkdir(parents=True, exist_ok=True)
         # queue first: a crash between the writes must never leave a job marked seen without its queue row
         atomic_json.write(str(HOME / "queue.json"), queue)
@@ -5069,7 +5097,8 @@ def run(args):
           f"{counts['blocked']} auto-blocked on sponsorship, {counts['queued']} queued, {counts['alerted']} alerts, "
           f"{counts['closed']} closed, {counts['reopened']} reopened, {counts['reposts']} reposts, "
           f"{counts['pruned']} pruned (posted > {PRUNE_AFTER_DAYS}d ago). "
-          f"{counts.get('no_sponsorship', 0)} No Sponsorship notes (alerts enabled).")
+          f"{counts.get('no_sponsorship', 0)} No Sponsorship notes (alerts enabled). "
+          f"Dropped by current rules: {counts.get('title_dropped', 0)} title, {counts.get('location_dropped', 0)} location.")
 
 
 def _drop_location_filtered(queue, filters, counts):
@@ -5078,8 +5107,20 @@ def _drop_location_filtered(queue, filters, counts):
     not tombstoned: if a term is later loosened the row simply comes back on the next fetch."""
     loc_only = {"title_include": [], "title_exclude": [], "locations_include": filters.get("locations_include", []),
                 "locations_exclude": filters.get("locations_exclude", []), "locations_us_only": filters.get("locations_us_only", False)}
-    keep = [e for e in queue if e.get("state") != "new" or matches({"title": e.get("role", "x"), "location": e.get("location", ""), "link": e.get("link", "")}, loc_only)]
+    keep = [e for e in queue if e.get("state") not in _UNMARKED_STATES or matches({"title": e.get("role", "x"), "location": e.get("location", ""), "link": e.get("link", "")}, loc_only)]
     counts["location_dropped"] = len(queue) - len(keep)
+    queue[:] = keep
+
+
+_UNMARKED_STATES = ("new", "opt_only", "auto_blocked")  # anything else came from a human --mark
+
+
+def _drop_title_filtered(queue, filters, counts):
+    """Re-applies the current title rules to unmarked rows, so a tightened rule also clears rows queued before it.
+    Not tombstoned: a loosened rule changes the filter signature and the auto recall brings the row back."""
+    keep = [e for e in queue if e.get("state") not in _UNMARKED_STATES
+            or not title_filter_reason({"title": e.get("role") or ""}, filters)]
+    counts["title_dropped"] = len(queue) - len(keep)
     queue[:] = keep
 
 

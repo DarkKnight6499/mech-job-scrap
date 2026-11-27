@@ -112,6 +112,8 @@ def validate_filters(config):
         errors.append("filters.internship_year must be an integer from 2000 to 2099")
     if "internship_season" in filters and filters["internship_season"] not in ("summer", "spring", "fall", "winter"):
         errors.append("filters.internship_season must be summer, spring, fall or winter")
+    if "exclude_phd_only" in filters and type(filters["exclude_phd_only"]) is not bool:
+        errors.append("filters.exclude_phd_only must be a boolean")
     if "locations_us_only" in filters and type(filters["locations_us_only"]) is not bool:
         errors.append("filters.locations_us_only must be a boolean")
     if filters.get("locations_us_only") and not _strings(filters.get("locations_include")):
