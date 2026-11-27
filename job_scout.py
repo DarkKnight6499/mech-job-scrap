@@ -65,7 +65,7 @@ from keyword_matching import contains_any, contains_term, first_match  # noqa: E
 
 HOME = Path(os.environ.get("JOB_SCOUT_HOME", REPO_DIR / "data"))
 # User-facing configuration.
-DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER = ("semester",)  # "Spring/Summer" and "Summer/Fall" co-ops are off-term
+DEFAULT_SEASON_WORDS_WAIVED_BY_SUMMER = ("fall", "autumn", "semester")  # must start in summer; may run later
 JD_PROXY_URL = os.environ.get("JD_PROXY_URL", "")
 UA = {"User-Agent": "job-scout/1.0", "Accept": "application/json"}
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -3190,10 +3190,9 @@ _BELOW_PHD_RE = re.compile(r"(?<![a-z])(?:ms|m\.s\.?|msc|bs|b\.s\.?|masters?|mas
 
 
 def _off_summer_months(title):
-    """True for a month range that starts in January or February or runs into September or later."""
+    """True for a month range that does not start in summer; how late it ends does not matter."""
     for match in _MONTH_RANGE_RE.finditer(title):
-        start, end = (word[:3].lower() for word in match.groups())
-        if start in ("jan", "feb") or end in ("sep", "oct", "nov", "dec"):
+        if match.group(1)[:3].lower() not in ("may", "jun", "jul"):
             return True
     return bool(_JAN_START_RE.search(title))
 

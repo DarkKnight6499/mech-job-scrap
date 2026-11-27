@@ -59,8 +59,8 @@ def test_audit_flags_engineering_rule_once():
     ("Fall 2027", ("internship_season", "fall")),
     ("Winter/Spring 2027", ("internship_season", "winter")),
     ("Fall Co-op", ("internship_season", "fall")),
-    ("Summer/Fall 2027", ("internship_season", "fall")), ("Spring & Summer 2027", ("internship_season", "spring")),
-    ("Spring/Summer 2027", ("internship_season", "spring")), ("Summer 2027 or Fall 2027", ("internship_season", "fall")),
+    ("Summer/Fall 2027", None), ("Spring & Summer 2027", ("internship_season", "spring")),
+    ("Spring/Summer 2027", ("internship_season", "spring")), ("Summer 2027 or Fall 2027", None),
     ("Summer Semester 2027", None),
 ])
 def test_title_date_reasons_use_target_presence(intake, expected):

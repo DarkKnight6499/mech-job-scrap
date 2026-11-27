@@ -846,7 +846,10 @@
    "summer 2027"
   ],
   "season_words_waived_by_summer": [
-   "semester"
+   "fall",
+   "autumn",
+   "semester",
+   "fall 2027"
   ],
   "exclude_phd_only": true
  },

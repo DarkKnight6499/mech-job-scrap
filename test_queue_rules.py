@@ -12,12 +12,16 @@ def reason(title):
 
 
 @pytest.mark.parametrize("title", [
-    "Manufacturing Engineering Intern (Jan 2027)", "Validation Engineering Co-op (May-December)",
-    "Product Engineering Co-Op, Jan-June 2027", "Mechanical Engineering Co-Op (June - December 2027)",
-    "Mechanical Reliability Co-Op (July - Dec) 2027", "Process Engineering Co-Op (Jan-Aug)",
-    "Reliability Co-Op (June – Dec '27) Engineering", "Mechanical Engineering Co-op (Spring/Summer 2027)",
-    "Mechanical Engineering Co-op (Summer/Fall 2027)", "Mechanical Engineering Intern Spring and Summer 2027",
-    "Mechanical Engineer PhD Intern", "Mechanical Engineering Intern - PhD", "Postdoctoral Mechanical Engineering Intern",
+    "Manufacturing Engineering Intern (Jan 2027)",
+    "Product Engineering Co-Op, Jan-June 2027",
+    "Process Engineering Co-Op (Jan-Aug)",
+    "Mechanical Engineering Co-Op (August - December 2027)",
+    "Mechanical Engineering Co-Op (March - August 2027)",
+    "Mechanical Engineering Co-op (Spring/Summer 2027)",
+    "Mechanical Engineering Intern Spring and Summer 2027",
+    "Mechanical Engineer PhD Intern",
+    "Mechanical Engineering Intern - PhD",
+    "Postdoctoral Mechanical Engineering Intern",
 ])
 def test_rejected(title):
     assert reason(title) is not None
@@ -28,6 +32,9 @@ def test_rejected(title):
     "Mechanical Engineering Intern (May-Aug '27)", "Process Engineering Intern - MS/PhD",
     "Mechanical Engineering Intern - BS, MS or PhD", "Mechanical Engineering Intern Summer Semester 2027",
     "Mechanical Engineering Intern (June - August 2027)",
+    "Validation Engineering Co-op (May-December)", "Mechanical Engineering Co-Op (June - December 2027)",
+    "Mechanical Reliability Co-Op (July - Dec) 2027", "Reliability Co-Op (June \u2013 Dec '27) Engineering",
+    "Mechanical Engineering Co-op (Summer/Fall 2027)",
 ])
 def test_kept(title):
     assert reason(title) is None
