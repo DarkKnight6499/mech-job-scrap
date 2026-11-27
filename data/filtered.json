@@ -270,79 +270,254 @@
    ],
    "n": 22
   },
-  "Booz Allen Hamilton": {
+  "General Motors": {
    "rows": [
     [
-     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-     "University, AI RAN Telecommunications Engineer Intern",
-     "McLean, VA",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
+     "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
+     "2027 Summer Intern \u2013 Manufacturing Supply Chain",
+     "11 Locations (Arlington Texas United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
+     "Summer 2027 PhD Battery Research & Development Intern",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
+     "description_exclude",
+     "phd-only title",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
+     "2027 Summer Intern - Automotive Technician",
+     "Milford, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
+     "title_exclude",
+     "technician",
+     {
+      "posted": "2026-11-14",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+     "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
+     "2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Aerodynamics and Machine Learning",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
+     "title_exclude",
+     "machine learning",
+     {
+      "posted": "2026-10-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048",
+     "2027 Summer Intern \u2013 Research and Development - Power Electronics & Energy Conversion Systems",
+     "2 Locations (Pontiac Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048",
+     "title_exclude_unless",
+     "electronics",
+     {
+      "posted": "2026-10-31",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+     "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
      "title_exclude_unless",
      "ai",
      {
-      "posted": "2026-11-10",
+      "posted": "2026-10-30",
       "first_seen": ""
      }
     ],
     [
-     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
-     "Design and Verification Engineer Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+     "2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
+     "2 Locations (Warren Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
      "title_exclude_unless",
-     "verification",
+     "ai",
      {
-      "posted": "2026-11-06",
+      "posted": "2026-10-28",
       "first_seen": ""
      }
     ],
     [
-     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
-     "Beavercreek, OH",
-     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+     "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+     "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+     "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+     "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+     "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+     "2027 Summer Intern- ADAS Software Engineer, ADPT",
+     "2 Locations (Warren Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+     "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+     "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+     "Sunnyvale, California, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+     "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+     "4 Locations (Warren Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+     "title_exclude_unless",
+     "embedded",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+     "2027 Summer Intern - Digital Product: Software Engineering",
+     "5 Locations (Warren Michigan United States of America)",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
+     "title_exclude_unless",
+     "software",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
+     "Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling",
+     "Warren, Michigan, United States of America",
+     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
      "title_exclude",
-     "spring 2027",
+     "fall 2026",
      {
       "posted": "",
       "first_seen": ""
      }
     ]
    ],
-   "n": 3
+   "n": 20
   },
-  "GE Aerospace": {
+  "Broadcom": {
    "rows": [],
    "n": 0
-  },
-  "DPR Construction": {
-   "rows": [
-    [
-     "/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
-     "Electrical Design Intern",
-     "3 Locations (Baltimore MD)",
-     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
-     "Structural Design Intern",
-     "3 Locations (Baltimore MD)",
-     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 2
   },
   "Relativity Space": {
    "rows": [],
@@ -2629,251 +2804,6 @@
    "rows": [],
    "n": 0
   },
-  "General Motors": {
-   "rows": [
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
-     "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "2026-11-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
-     "2027 Summer Intern \u2013 Manufacturing Supply Chain",
-     "11 Locations (Arlington Texas United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Supply-Chain_JR-202619467",
-     "title_exclude",
-     "supply chain",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
-     "Summer 2027 PhD Battery Research & Development Intern",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
-     "description_exclude",
-     "phd-only title",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
-     "2027 Summer Intern - Automotive Technician",
-     "Milford, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
-     "title_exclude",
-     "technician",
-     {
-      "posted": "2026-11-14",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-     "2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-     "title_exclude",
-     "machine learning",
-     {
-      "posted": "2026-11-11",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-     "2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Aerodynamics and Machine Learning",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-     "title_exclude",
-     "machine learning",
-     {
-      "posted": "2026-10-31",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048",
-     "2027 Summer Intern \u2013 Research and Development - Power Electronics & Energy Conversion Systems",
-     "2 Locations (Pontiac Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048",
-     "title_exclude_unless",
-     "electronics",
-     {
-      "posted": "2026-10-31",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
-     "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-10-30",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-     "2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
-     "2 Locations (Warren Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "2026-10-28",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-     "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
-     "2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-     "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-     "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
-     "2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
-     "2027 Summer Intern- ADAS Software Engineer, ADPT",
-     "2 Locations (Warren Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
-     "2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-     "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
-     "Sunnyvale, California, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-     "title_exclude_unless",
-     "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-     "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
-     "4 Locations (Warren Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-     "title_exclude_unless",
-     "embedded",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
-     "2027 Summer Intern - Digital Product: Software Engineering",
-     "5 Locations (Warren Michigan United States of America)",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546",
-     "title_exclude_unless",
-     "software",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
-     "Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling",
-     "Warren, Michigan, United States of America",
-     "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Fall-2026-PhD-Battery---Sustainability-Intern---Physics-Based-Battery-Modeling_JR-202618047",
-     "title_exclude",
-     "fall 2026",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 20
-  },
   "Baxter": {
    "rows": [],
    "n": 0
@@ -2946,12 +2876,48 @@
   "3M": {
    "rows": [
     [
+     "/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Manufacturing-Technology-Intern_R01174449",
+     "Internship - 2027 Undergraduate Manufacturing Technology Intern",
+     "US, Minnesota, Maplewood",
+     "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Manufacturing-Technology-Intern_R01174449",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Environmental-Health---Safety--EHS--Intern_R01174378",
      "Internship - 2027 Undergraduate Environmental Health & Safety (EHS) Intern",
      "US, Minnesota, Maplewood",
      "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Environmental-Health---Safety--EHS--Intern_R01174378",
      "title_exclude_unless",
      "environmental health",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Industrial-Engineer-Intern_R01174377",
+     "Internship - 2027 Undergraduate Industrial Engineer Intern",
+     "US, Minnesota, Maplewood",
+     "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Industrial-Engineer-Intern_R01174377",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-24",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Process-Engineer-Intern_R01174375",
+     "Internship - 2027 Undergraduate Process Engineer Intern",
+     "20 Locations (US Minnesota Maplewood)",
+     "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Process-Engineer-Intern_R01174375",
+     "description_exclude",
+     "undergrad-only title",
      {
       "posted": "2026-11-24",
       "first_seen": ""
@@ -3006,7 +2972,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 8
   },
   "Danaher": {
    "rows": [
@@ -3784,6 +3750,18 @@
   "Applied Materials": {
    "rows": [
     [
+     "/job/GloucesterMA/XMLNAME-2027-Summer-Facilities---Reals-Estate-Technical-Engineer-Intern---Bachelors--Gloucester--MA-_R2633688",
+     "2027 Summer Facilities & Reals Estate Technical Engineer Intern - Bachelors (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Facilities---Reals-Estate-Technical-Engineer-Intern---Bachelors--Gloucester--MA-_R2633688",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2633258",
      "2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA)",
      "Gloucester,MA",
@@ -3816,6 +3794,18 @@
      "winter",
      {
       "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/AustinTX/Summer-2027-Buyer-Intern--Advanced-Materials-Sourcing--Bachelor-s--Austin--TX-_R2631583-1",
+     "Summer 2027 Buyer Intern- Advanced Materials Sourcing- Bachelor's (Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Buyer-Intern--Advanced-Materials-Sourcing--Bachelor-s--Austin--TX-_R2631583-1",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-05",
       "first_seen": ""
      }
     ],
@@ -3868,12 +3858,48 @@
      }
     ],
     [
+     "/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770",
+     "Summer 2027 Mechanical Engineering Intern- Bachelor's (Chandler, AZ)",
+     "Chandler,AZ",
+     "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Summer-2027-Mechanical-Engineering-Intern--Bachelor-s--Chandler--AZ-_R2628770",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+     "Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-10-29",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
      "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
      "Gloucester,MA",
      "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
      "title_exclude_unless",
      "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
+     "2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
+     "description_exclude",
+     "undergrad-only title",
      {
       "posted": "",
       "first_seen": ""
@@ -3964,6 +3990,18 @@
      }
     ],
     [
+     "/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+     "Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
      "2026 Summer Intern - Physics & AI modeling Engineering",
      "Santa Clara,CA",
@@ -3976,11 +4014,36 @@
      }
     ]
    ],
-   "n": 16
+   "n": 22
   },
   "Blue Origin": {
-   "rows": [],
-   "n": 0
+   "rows": [
+    [
+     "/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
+     "Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate",
+     "Space Coast, FL",
+     "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
+     "Summer 2027 Manufacturing Engineering Internship - Undergraduate",
+     "4 Locations (Space Coast FL)",
+     "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
   },
   "NVIDIA": {
    "rows": [
@@ -5678,12 +5741,60 @@
   "Lawrence Livermore": {
    "rows": [
     [
+     "3743990016986011",
+     "Defense Technologies Engineering Division (DTED): Undergraduate Intern - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016986011",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990016985026",
+     "Materials Engineering Division (MED): Undergraduate Intern - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016985026",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-20",
+      "first_seen": ""
+     }
+    ],
+    [
      "3743990016984696",
      "Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
      "Livermore, CA, us",
      "https://jobs.smartrecruiters.com/LLNL/3743990016984696",
      "title_exclude",
      "cybersecurity",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990016984526",
+     "Materials and Chemistry Institute (MaCI) Undergraduate Intern - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016984526",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "3743990016984046",
+     "Laser and Experimental Systems Engineering Undergraduate Intern - Summer 2027",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016984046",
+     "description_exclude",
+     "undergrad-only title",
      {
       "posted": "2026-11-19",
       "first_seen": ""
@@ -5748,9 +5859,21 @@
       "posted": "2026-11-04",
       "first_seen": ""
      }
+    ],
+    [
+     "3743990016166026",
+     "Computing Undergraduate Student Intern: HPC Cluster Engineer Academy Internship Program",
+     "Livermore, CA, us",
+     "https://jobs.smartrecruiters.com/LLNL/3743990016166026",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-10-15",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 6
+   "n": 11
   },
   "NREL (Golden CO)": {
    "rows": [
@@ -5876,6 +5999,18 @@
   "Aerospace Corporation": {
    "rows": [
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Battery-Test-Lab-Undergraduate-Research-Intern_R017300",
+     "2027 Battery Test Lab Undergraduate Research Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Battery-Test-Lab-Undergraduate-Research-Intern_R017300",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergrad-Intern_R017288",
      "2027 Power and Analog Circuit Engineering Undergrad Intern",
      "El Segundo, CA",
@@ -5932,6 +6067,18 @@
      "cloud",
      {
       "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Undergraduate-Intern_R017009",
+     "2027 Communication Architectures Modeling and Analysis Engineering Undergraduate Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Undergraduate-Intern_R017009",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-17",
       "first_seen": ""
      }
     ],
@@ -5996,6 +6143,18 @@
      }
     ],
     [
+     "/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Undergrad-Intern_R016683",
+     "2027 Electro-Optical Engineering Undergrad Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Undergrad-Intern_R016683",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
      "2027 Embedded Software Engineering Grad Intern",
      "El Segundo, CA",
@@ -6038,6 +6197,18 @@
      "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
      "title_exclude_unless",
      "hardware",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/El-Segundo-CA/XMLNAME-2027-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892",
+     "2027 Microwave Measurements, Modeling and Simulation Undergrad Intern",
+     "El Segundo, CA",
+     "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892",
+     "description_exclude",
+     "undergrad-only title",
      {
       "posted": "2026-11-17",
       "first_seen": ""
@@ -6092,7 +6263,7 @@
      }
     ]
    ],
-   "n": 18
+   "n": 22
   },
   "Ursa Major (Berthoud CO)": {
    "rows": [],
@@ -6913,6 +7084,47 @@
    ],
    "n": 9
   },
+  "Booz Allen Hamilton": {
+   "rows": [
+    [
+     "/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "University, AI RAN Telecommunications Engineer Intern",
+     "McLean, VA",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+     "title_exclude_unless",
+     "ai",
+     {
+      "posted": "2026-11-10",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "Design and Verification Engineer Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482",
+     "title_exclude_unless",
+     "verification",
+     {
+      "posted": "2026-11-06",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "University - Spring 2027 Electronic Warfare FPGA Engineering Intern",
+     "Beavercreek, OH",
+     "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 3
+  },
   "Parsons": {
    "rows": [],
    "n": 0
@@ -7241,6 +7453,10 @@
    "n": 12
   },
   "Electric Hydrogen": {
+   "rows": [],
+   "n": 0
+  },
+  "GE Aerospace": {
    "rows": [],
    "n": 0
   },
@@ -7962,6 +8178,18 @@
      }
     ],
     [
+     "25017547",
+     "Digital IC Design Engineering Intern - Bachelors",
+     "Dallas, TX, United States",
+     "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-09-02",
+      "first_seen": ""
+     }
+    ],
+    [
      "25017582",
      "Product Marketing Engineering Intern",
      "Dallas, TX, United States",
@@ -8010,7 +8238,7 @@
      }
     ]
    ],
-   "n": 15
+   "n": 16
   },
   "Skyworks": {
    "rows": [
@@ -10097,10 +10325,6 @@
    ],
    "n": 1
   },
-  "Broadcom": {
-   "rows": [],
-   "n": 0
-  },
   "Samsung Semiconductor": {
    "rows": [
     [
@@ -11554,18 +11778,6 @@
   "Draper Laboratory": {
    "rows": [
     [
-     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
-     "Sensor Electrical Engineering Intern (Summer 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-11-05",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189",
      "Cyber Effects Engineering Intern (Summer 2027)",
      "Cambridge, MA",
@@ -11574,30 +11786,6 @@
      "cyber",
      {
       "posted": "2026-11-26",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
-     "Optics-Physics Sensor Engineering Co-op (Spring 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
-     "Sensor Electrical Engineering Co-op (Spring 2027)",
-     "Cambridge, MA",
-     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
-     "title_exclude",
-     "spring 2027",
-     {
-      "posted": "2026-11-03",
       "first_seen": ""
      }
     ],
@@ -11626,10 +11814,46 @@
      }
     ],
     [
+     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
+     "Sensor Electrical Engineering Intern (Summer 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-05",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941",
      "Electrical Engineering Co-Op (Spring 2027)",
      "Cambridge, MA",
      "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
+     "Optics-Physics Sensor Engineering Co-op (Spring 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
+     "title_exclude",
+     "spring 2027",
+     {
+      "posted": "2026-11-03",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
+     "Sensor Electrical Engineering Co-op (Spring 2027)",
+     "Cambridge, MA",
+     "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
      "title_exclude",
      "spring 2027",
      {
@@ -11708,6 +11932,18 @@
   "V2X": {
    "rows": [
     [
+     "66742",
+     "Manufacturing Engineer Intern- Junior",
+     "Indianapolis, Indiana",
+     "https://careers.gov2x.com/jobs/66742",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-25",
+      "first_seen": ""
+     }
+    ],
+    [
      "63954",
      "Electrical Engineer Production Support Intern - Junior",
      "Indianapolis, Indiana",
@@ -11756,6 +11992,18 @@
      }
     ],
     [
+     "63374",
+     "Mechanical Engineering Intern -  Junior",
+     "Indianapolis, Indiana",
+     "https://careers.gov2x.com/jobs/63374",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-10-26",
+      "first_seen": ""
+     }
+    ],
+    [
      "63585",
      "Project Engineering Intern - Senior",
      "Indianapolis, Indiana",
@@ -11768,7 +12016,7 @@
      }
     ]
    ],
-   "n": 5
+   "n": 7
   },
   "General Dynamics Electric Boat": {
    "rows": [],
@@ -11960,6 +12208,18 @@
   "Amgen": {
    "rows": [
     [
+     "/job/United-States---Remote/Undergrad-Intern---R-D-Local-Safety-Officer--Summer-2027-_R-261779",
+     "Undergrad Intern \u2013 R&D Local Safety Officer (Summer 2027)",
+     "United States - Remote",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Local-Safety-Officer--Summer-2027-_R-261779",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-26",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US---Rhode-Island---West-Greenwich/Undergrad-Co-op---Operations---Facilities---Engineering--Electrical---Jan--Mar-2027-_R-262184",
      "Undergrad Co-op - Operations - Facilities & Engineering (Electrical) (Jan -Mar 2027)",
      "US - Rhode Island - West Greenwich",
@@ -11984,6 +12244,18 @@
      }
     ],
     [
+     "/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924",
+     "Undergrad Intern \u2013 R&D EOS | Global Program Management (Summer 2027)",
+     "United States - Remote",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-18",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/United-States---Remote/Undergrad-Intern---R-D-Execution--Operations---Strategy--Summer-2027-_R-259964",
      "Undergrad Intern \u2013 R&D Execution, Operations & Strategy (Summer 2027)",
      "United States - Remote",
@@ -11992,6 +12264,18 @@
      "strategy",
      {
       "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US---California---South-San-Francisco/Undergraduate-Intern-R-D--Oncology-Research--Summer-2027-_R-260523",
+     "Undergraduate Intern-R&D -Oncology Research (Summer 2027)",
+     "US - California - South San Francisco",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Undergraduate-Intern-R-D--Oncology-Research--Summer-2027-_R-260523",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-06",
       "first_seen": ""
      }
     ],
@@ -12030,9 +12314,33 @@
       "posted": "2026-10-28",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905",
+     "Undergrad Intern \u2013 R&D Knowledge Management (Summer 2027)",
+     "United States - Remote",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-10-28",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434",
+     "Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027)",
+     "US - California - Thousand Oaks",
+     "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 6
+   "n": 11
   },
   "Gilead Sciences": {
    "rows": [],
@@ -12049,6 +12357,18 @@
   "AstraZeneca US": {
    "rows": [
     [
+     "/job/US---Gaithersburg---MD/Undergraduate-R-D-Wet-Lab-Summer-Internship---Gaithersburg--MD_R-264650",
+     "Undergraduate R&D Wet Lab Summer Internship \u2013 Gaithersburg, MD",
+     "US - Gaithersburg - MD",
+     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Undergraduate-R-D-Wet-Lab-Summer-Internship---Gaithersburg--MD_R-264650",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-19",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/US---Cambridge-Kendall-SQ---MA/Summer-2027-Automation-Technician-Intern_R-264285",
      "Summer 2027 Automation Technician Intern",
      "US - Cambridge Kendall SQ - MA",
@@ -12059,9 +12379,21 @@
       "posted": "2026-11-13",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/US---Gaithersburg---MD/Global-Engineering-Capital-Projects-Intern--Undergraduate_R-263950",
+     "Global Engineering Capital Projects Intern, Undergraduate",
+     "2 Locations (US   Gaithersburg   MD)",
+     "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Engineering-Capital-Projects-Intern--Undergraduate_R-263950",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "2026-11-11",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 3
   },
   "GSK US": {
    "rows": [],
@@ -13226,6 +13558,35 @@
    ],
    "n": 1
   },
+  "DPR Construction": {
+   "rows": [
+    [
+     "/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
+     "Electrical Design Intern",
+     "3 Locations (Baltimore MD)",
+     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Electrical-Design-Intern_JR-16280",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
+     "Structural Design Intern",
+     "3 Locations (Baltimore MD)",
+     "https://mydpr.wd5.myworkdayjobs.com/11212017/job/Baltimore-MD/Structural-Design-Intern_JR-16278",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 2
+  },
   "Holder Construction": {
    "rows": [],
    "n": 0
@@ -13261,18 +13622,6 @@
      }
     ],
     [
-     "5408678008",
-     "Civil Engineering Internship - Data Centers Site Design",
-     "Fort Worth, TX",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
-     "title_exclude_unless",
-     "site design",
-     {
-      "posted": "2026-08-31",
-      "first_seen": ""
-     }
-    ],
-    [
      "5408723008",
      "Civil Engineering Internship - Data Centers Site Design",
      "Des Moines, IA",
@@ -13297,10 +13646,10 @@
      }
     ],
     [
-     "5408628008",
+     "5408678008",
      "Civil Engineering Internship - Data Centers Site Design",
-     "Loveland, CO",
-     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
+     "Fort Worth, TX",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408678008",
      "title_exclude_unless",
      "site design",
      {
@@ -13317,6 +13666,18 @@
      "site design",
      {
       "posted": "2026-09-02",
+      "first_seen": ""
+     }
+    ],
+    [
+     "5408628008",
+     "Civil Engineering Internship - Data Centers Site Design",
+     "Loveland, CO",
+     "https://job-boards.greenhouse.io/olsson/jobs/5408628008",
+     "title_exclude_unless",
+     "site design",
+     {
+      "posted": "2026-08-31",
       "first_seen": ""
      }
     ],
@@ -15354,9 +15715,45 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639",
+     "Advanced Manufacturing Process Engineering Intern, Sophomore (Summer 2027)",
+     "USA - Vermont - Essex Junction",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Sophomore--Summer-2027-_JR-2604639",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661",
+     "Advanced Manufacturing Process Engineering Intern, Junior (Summer 2027)",
+     "USA - Vermont - Essex Junction",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Junior--Summer-2027-_JR-2604661",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+     "US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)",
+     "USA - Vermont - Essex Junction",
+     "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+     "description_exclude",
+     "undergrad-only title",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 12
+   "n": 15
   },
   "Eversource": {
    "rows": [
