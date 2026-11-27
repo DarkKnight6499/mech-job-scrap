@@ -270,6 +270,23 @@
    ],
    "n": 22
   },
+  "GE Vernova": {
+   "rows": [
+    [
+     "/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+     "GE Vernova Electrical Intern - Summer 2027",
+     "Salem VA USA",
+     "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "2026-11-17",
+      "first_seen": ""
+     }
+    ]
+   ],
+   "n": 1
+  },
   "Relativity Space": {
    "rows": [],
    "n": 0
@@ -554,18 +571,6 @@
      }
     ],
     [
-     "d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
-     "Propulsion Test Engineering Intern - Summer/Fall 2027",
-     "Jacksonville, FL",
-     "https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-09-23",
-      "first_seen": ""
-     }
-    ],
-    [
      "5b08e2df-c9db-4831-aece-67d89e744796",
      "Software Engineering Intern (Command & Control) - Summer 2027",
      "Atlanta, GA",
@@ -650,7 +655,7 @@
      }
     ]
    ],
-   "n": 19
+   "n": 18
   },
   "Skydio": {
    "rows": [
@@ -1931,18 +1936,6 @@
      }
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127",
-     "Systems Engineering Co-op (Summer/Fall 2027)",
-     "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op--Summer-Fall-2027-_01890127",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-11-25",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983",
      "Software Engineering Intern (Summer 2027)",
      "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
@@ -1951,18 +1944,6 @@
      "software",
      {
       "posted": "2026-11-25",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Co-Op-Summer-Fall-2027---Onsite_01886273",
-     "Systems Engineering Co-Op Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Systems-Engineering-Co-Op-Summer-Fall-2027---Onsite_01886273",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-11-24",
       "first_seen": ""
      }
     ],
@@ -1999,30 +1980,6 @@
      "embedded",
      {
       "posted": "2026-11-24",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-104--400-Collins-Rd-NE--BLDG-104/Systems-Engineering-Co-op---Open-Systems-Solutions--Summer-Fall-2027---Onsite_01887901",
-     "Systems Engineering Co-op - Open Systems Solutions- Summer/Fall 2027 - Onsite",
-     "2 Locations (US IA CEDAR RAPIDS 104  400 Collins Rd NE  BLDG 104)",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-104--400-Collins-Rd-NE--BLDG-104/Systems-Engineering-Co-op---Open-Systems-Solutions--Summer-Fall-2027---Onsite_01887901",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-11-18",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op----Open-Systems-Solutions---Summer-Fall-2027---Onsite_01887902",
-     "Systems Engineering Co-op  - Open Systems Solutions - Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Systems-Engineering-Co-op----Open-Systems-Solutions---Summer-Fall-2027---Onsite_01887902",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-11-18",
       "first_seen": ""
      }
     ],
@@ -2091,8 +2048,8 @@
      "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
      "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
-     "title_exclude",
-     "fall 2027",
+     "title_exclude_unless",
+     "software",
      {
       "posted": "2026-11-03",
       "first_seen": ""
@@ -2123,48 +2080,12 @@
      }
     ],
     [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163",
-     "Industrial/Manufacturing Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Industrial-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01883163",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114",
-     "Manufacturing Electrical Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01883114",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
      "Environmental Health & Safety / Facilities Engineering Co-Op (Summer/Fall 2027)",
      "US-IA-MANCHESTER-185 ~ 901 S 10th St ~ S 10TH",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Environmental-Health---Safety---Facilities-Engineering-Co-Op--Summer-Fall-2027-_01883110",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973",
-     "Co-op: Systems Engineering Co-op (Summer-Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Co-op--Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01873973",
-     "title_exclude",
-     "fall 2027",
+     "title_exclude_unless",
+     "environmental health",
      {
       "posted": "",
       "first_seen": ""
@@ -2183,36 +2104,12 @@
      }
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
-     "2027 Co-Op - Summer/Fall Systems Engineer - Onsite",
-     "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432",
      "2027 Co-op Spring/Summer Systems Engineer - Onsite",
      "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432",
      "title_exclude",
      "spring",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966",
-     "Systems Engineer Co-Op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Summer-Fall-2027----Onsite_01879966",
-     "title_exclude",
-     "fall 2027",
      {
       "posted": "",
       "first_seen": ""
@@ -2231,36 +2128,12 @@
      }
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-     "Systems Engineering Co-op - Boeing Platforms Displays (Summer/Fall)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineering-Co-op---Boeing-Platforms-Displays--Summer-Fall-_01871761",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
      "Avionics Test Engineering -Systems Engineer Intern (Onsite)",
      "US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518",
      "title_exclude_unless",
      "avionics",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934",
-     "Systems Engineering Co-Op (2027 Summer/Fall) \u2013 SOA CAAS Mainline Platform (Onsite)",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934",
-     "title_exclude",
-     "fall",
      {
       "posted": "",
       "first_seen": ""
@@ -2279,60 +2152,12 @@
      }
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
-     "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
-     "Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508",
-     "Systems Engineer - Summer/Fall Co-op 2027 - (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Systems-Engineer---Summer-Fall-Co-op-2027----Onsite-_01871508",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
      "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
      "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258",
-     "A2G 2027 Summer/Fall Co-op - Systems Engineering - Onsite",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/A2G-2027-Summer-Fall-Co-op---Systems-Engineering---Onsite_01869258",
-     "title_exclude",
-     "fall",
+     "title_exclude_unless",
+     "software",
      {
       "posted": "",
       "first_seen": ""
@@ -2363,84 +2188,12 @@
      }
     ],
     [
-     "/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438",
-     "2027 Summer-Fall Co-op - Systems Engineering (Onsite)",
-     "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op---Systems-Engineering--Onsite-_01868438",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
-     "Systems Engineering Co-Op (Summer/Fall 2027)",
-     "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-Op--Summer-Fall-2027-_01873117",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
      "Avionics Computer Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
      "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
      "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Avionics-Computer-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872715",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
-     "Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872651",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672",
-     "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872672",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917",
-     "CH-53K Systems Engineering Co-Op - Summer/Fall 2027 - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/CH-53K-Systems-Engineering-Co-Op---Summer-Fall-2027---Onsite_01872917",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
-     "Head-up Guidance Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
-     "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
-     "title_exclude",
-     "fall 2027",
+     "title_exclude_unless",
+     "avionics",
      {
       "posted": "",
       "first_seen": ""
@@ -2457,33 +2210,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552",
-     "Systems Engineering Co-op - Systems Integration (Summer/Fall 2027) - Onsite",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-op---Systems-Integration--Summer-Fall-2027----Onsite_01871552",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
-     "2027 Summer/Fall Co-Op - Systems Engineer - AVI MIL FMS/DAS (Onsite)",
-     "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-     "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Summer-Fall-Co-Op---Systems-Engineer---AVI-MIL-FMS-DAS--Onsite-_01872240",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 48
+   "n": 25
   },
   "Northrop Grumman": {
    "rows": [
@@ -3327,18 +3056,6 @@
      }
     ],
     [
-     "/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
-     "Co-op, Hardware Development Engineer (June - Dec 2027)",
-     "Mayfield Heights, Ohio, United States",
-     "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891-1",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
      "Co-op, Hardware Development Engineer (Jan - July 2027)",
      "Mayfield Heights, Ohio, United States",
@@ -3375,7 +3092,7 @@
      }
     ]
    ],
-   "n": 9
+   "n": 8
   },
   "Micron": {
    "rows": [
@@ -3563,18 +3280,6 @@
      }
     ],
     [
-     "/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545",
-     "Equipment Engineering Co-Op GFU (May-Dec)",
-     "US, OR, Beaverton",
-     "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545",
-     "internship_season",
-     "months",
-     {
-      "posted": "2026-11-06",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
      "Embedded Systems Co-Op",
      "US, MA, Boston",
@@ -3623,7 +3328,7 @@
      }
     ]
    ],
-   "n": 10
+   "n": 9
   },
   "Intel": {
    "rows": [
@@ -3974,6 +3679,42 @@
      }
     ],
     [
+     "/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
+     "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
+     "Gloucester,MA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
+     "title_exclude_unless",
+     "electrical",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
+     "Santa Clara,CA",
+     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
+     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
+     "Austin,TX",
+     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
+     "title_exclude",
+     "supply chain",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
+    ],
+    [
      "/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
      "2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara)",
      "Santa Clara,CA",
@@ -4040,42 +3781,6 @@
      "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095",
      "title_exclude_unless",
      "ai",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
-     "2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)",
-     "Gloucester,MA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineering-Intern---BS-or-MS--Gloucester--MA-_R2630812",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Santa Clara, CA)",
-     "Santa Clara,CA",
-     "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Santa-Clara--CA-_R2627074",
-     "title_exclude",
-     "supply chain",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "Summer 2027 Supply Chain Materials Project Manager Intern- Master's (Austin, TX)",
-     "Austin,TX",
-     "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Supply-Chain-Materials-Project-Manager-Intern--Master-s--Austin--TX-_R2627069",
-     "title_exclude",
-     "supply chain",
      {
       "posted": "",
       "first_seen": ""
@@ -5189,18 +4894,6 @@
      }
     ],
     [
-     "/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
-     "Manufacturing Engineering Co-op (May - December 2027)",
-     "Anoka, Minnesota, USA",
-     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
      "Manufacturing Engineering Co-op (January - August 2027)",
      "Dayton, Minnesota, USA",
@@ -5225,30 +4918,6 @@
      }
     ],
     [
-     "/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
-     "Manufacturing Engineering Co-Op (May - December 2027)",
-     "Rogers, Minnesota, USA (David Koch Center)",
-     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
-     "Manufacturing Engineering Co-Op (May - December 2027)",
-     "Dayton, Minnesota, USA",
-     "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
      "Manufacturing Engineering Co-Op (January - August 2027)",
      "Anoka, Minnesota, USA",
@@ -5261,7 +4930,7 @@
      }
     ]
    ],
-   "n": 13
+   "n": 10
   },
   "Regal Rexnord": {
    "rows": [
@@ -5295,18 +4964,6 @@
   "Stanley Black and Decker": {
    "rows": [
     [
-     "/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850",
-     "Engineering Co-Op; Summer and Fall 2027",
-     "Valley City, OH, United States",
-     "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2027_REQ-1000052850",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
      "Embedded Engineering Summer Intern 2027",
      "Towson, MD, United States",
@@ -5331,7 +4988,7 @@
      }
     ]
    ],
-   "n": 3
+   "n": 2
   },
   "Zebra": {
    "rows": [
@@ -5410,23 +5067,6 @@
     ]
    ],
    "n": 4
-  },
-  "GE Vernova": {
-   "rows": [
-    [
-     "/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
-     "GE Vernova Electrical Intern - Summer 2027",
-     "Salem VA USA",
-     "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-2",
-     "title_exclude_unless",
-     "electrical",
-     {
-      "posted": "2026-11-17",
-      "first_seen": ""
-     }
-    ]
-   ],
-   "n": 1
   },
   "Bloom Energy": {
    "rows": [
@@ -6973,8 +6613,8 @@
      "Software Engineering Co-op - Summer & Fall 2027",
      "Danbury, CT, US",
      "https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
-     "title_exclude",
-     "fall 2027",
+     "title_exclude_unless",
+     "software",
      {
       "posted": "",
       "first_seen": ""
@@ -7552,9 +7192,21 @@
       "posted": "",
       "first_seen": ""
      }
+    ],
+    [
+     "5483",
+     "Flight Test Intern (Dec 2026-Feb 2027)",
+     "Marina, CA, US",
+     "https://careers-jobyaviation.icims.com/jobs/5483/flight-test-intern-%28dec-2026-feb-2027%29/job",
+     "internship_season",
+     "months",
+     {
+      "posted": "",
+      "first_seen": ""
+     }
     ]
    ],
-   "n": 1
+   "n": 2
   },
   "Ford": {
    "rows": [],
@@ -7646,21 +7298,9 @@
       "posted": "2026-11-14",
       "first_seen": ""
      }
-    ],
-    [
-     "1445202600",
-     "Validation Engineering Co-op (May-December)",
-     "Hesston, KS, US",
-     "https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-%28May-December%29-KS-67062/1445202600/",
-     "internship_season",
-     "months",
-     {
-      "posted": "2026-10-29",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 3
+   "n": 2
   },
   "Ingersoll Rand": {
    "rows": [
@@ -7938,21 +7578,9 @@
       "posted": "2026-11-17",
       "first_seen": ""
      }
-    ],
-    [
-     "1447225000",
-     "Process Development Co-op - Summer/Fall 2027",
-     "Arden Hills, MN, US, 55112",
-     "https://jobs.bostonscientific.com/job/Arden-Hills-Process-Development-Co-op-SummerFall-2027-MN-55112/1447225000/",
-     "title_exclude",
-     "fall 2027",
-     {
-      "posted": "2026-11-03",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 3
+   "n": 2
   },
   "Texas Instruments": {
    "rows": [
@@ -8154,24 +7782,12 @@
      }
     ],
     [
-     "1434277600",
-     "Characterization Engineering Summer/Fall Co-Op (June-Dec '27)",
-     "Newbury Park, CA, US, 91320",
-     "https://careers.skyworksinc.com/job/Newbury-Park-Characterization-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1434277600/",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "2026-11-25",
-      "first_seen": ""
-     }
-    ],
-    [
      "1453533600",
      "Software Engineer Summer/Fall Co-Op (June - Dec '27)",
      "Austin, TX, US, 78702",
      "https://careers.skyworksinc.com/job/Austin-Software-Engineer-SummerFall-Co-Op-%28June-Dec-'27%29-TX-78702/1453533600/",
-     "title_exclude",
-     "fall",
+     "title_exclude_unless",
+     "software",
      {
       "posted": "2026-11-24",
       "first_seen": ""
@@ -8214,31 +7830,19 @@
      }
     ],
     [
-     "1453124300",
-     "Product Engineering Summer/Fall Co-Op (June-Dec'27)",
-     "Irvine, CA, US, 92617",
-     "https://careers.skyworksinc.com/job/Irvine-Product-Engineering-SummerFall-Co-Op-%28June-Dec'27%29-CA-92617/1453124300/",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "2026-11-23",
-      "first_seen": ""
-     }
-    ],
-    [
      "1433516700",
      "RF Front-End Engineer Summer/Fall Co-Op (June-Dec '27)",
      "San Jose, CA, US, 95134",
      "https://careers.skyworksinc.com/job/San-Jose-RF-Front-End-Engineer-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1433516700/",
-     "title_exclude",
-     "fall",
+     "title_exclude_unless",
+     "rf",
      {
       "posted": "2026-11-21",
       "first_seen": ""
      }
     ]
    ],
-   "n": 8
+   "n": 6
   },
   "Qorvo": {
    "rows": [
@@ -11034,18 +10638,6 @@
      }
     ],
     [
-     "/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626",
-     "Electrical/Controls Engineering Co-Op (June - December 2027)",
-     "Anoka, MN, US",
-     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--January---August-2027-_R23572",
      "Mechanical Engineering and Design Co-op (January - August 2027)",
      "Anoka, MN, US",
@@ -11056,33 +10648,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
-     "Manufacturing Engineering Co-op (June - December 2027)",
-     "Anoka, MN, US",
-     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
-    ],
-    [
-     "/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
-     "Mechanical Engineering and Design Co-op (June - December 2027)",
-     "Anoka, MN, US",
-     "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 7
+   "n": 4
   },
   "AMETEK": {
    "rows": [
@@ -13354,18 +12922,6 @@
      }
     ],
     [
-     "9134",
-     "Heavy Civil Infrastructure Co-Op 2027 (Summer/Fall)",
-     "Boston, Massachusetts",
-     "https://skanska.jibeapply.com/jobs/9134",
-     "title_exclude",
-     "fall",
-     {
-      "posted": "2026-08-11",
-      "first_seen": ""
-     }
-    ],
-    [
      "9133",
      "Heavy Civil Infrastructure Co-Op 2027 (Winter/Spring)",
      "Boston, Massachusetts",
@@ -13390,7 +12946,7 @@
      }
     ]
    ],
-   "n": 13
+   "n": 12
   },
   "Clark Construction": {
    "rows": [],
@@ -15347,18 +14903,6 @@
   "Ingredion": {
    "rows": [
     [
-     "/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1",
-     "Reliability Engineering Co-op (May-Dec) - Indianapolis, IN",
-     "Indianapolis, IN",
-     "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Indianapolis-IN/Reliability-Engineering-Co-op----Indianapolis--IN_Req-40019-1",
-     "internship_season",
-     "months",
-     {
-      "posted": "2026-10-28",
-      "first_seen": ""
-     }
-    ],
-    [
      "/job/Indianapolis-IN/Process-Engineering-Co-Op--January---May-2027-_Req-40234-1",
      "Process Engineering Co-Op (January - May 2027)",
      "3 Locations (Indianapolis IN)",
@@ -15369,21 +14913,9 @@
       "posted": "",
       "first_seen": ""
      }
-    ],
-    [
-     "/job/North-Kansas-City-MO/Process-Engineer-Co-op-2027--May-Dec-_Req-40188-1",
-     "Process Engineer Co-op 2027 (May-Dec)",
-     "North Kansas City, MO",
-     "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/North-Kansas-City-MO/Process-Engineer-Co-op-2027--May-Dec-_Req-40188-1",
-     "internship_season",
-     "months",
-     {
-      "posted": "",
-      "first_seen": ""
-     }
     ]
    ],
-   "n": 3
+   "n": 1
   },
   "Mosaic": {
    "rows": [],
@@ -16410,6 +15942,18 @@
      }
     ],
     [
+     "8816500002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Houston, Texas, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-17",
+      "first_seen": ""
+     }
+    ],
+    [
      "8757448002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Waltham, Massachusetts, United States",
@@ -16434,18 +15978,6 @@
      }
     ],
     [
-     "8827599002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Denver, Colorado, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-21",
-      "first_seen": ""
-     }
-    ],
-    [
      "8806894002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Washington, District of Columbia, United States",
@@ -16458,22 +15990,22 @@
      }
     ],
     [
-     "8816500002",
-     "Technical Intern, Structural Engineering Summer 2027",
-     "Houston, Texas, United States",
-     "https://www.sgh.com/careers/job-openings/view-job/8816500002?gh_jid=8816500002",
-     "title_exclude_unless",
-     "structural",
-     {
-      "posted": "2026-09-17",
-      "first_seen": ""
-     }
-    ],
-    [
      "8827635002",
      "Technical Intern, Structural Engineering Summer 2027",
      "Los Angeles, California, United States",
      "https://www.sgh.com/careers/job-openings/view-job/8827635002?gh_jid=8827635002",
+     "title_exclude_unless",
+     "structural",
+     {
+      "posted": "2026-09-21",
+      "first_seen": ""
+     }
+    ],
+    [
+     "8827599002",
+     "Technical Intern, Structural Engineering Summer 2027",
+     "Denver, Colorado, United States",
+     "https://www.sgh.com/careers/job-openings/view-job/8827599002?gh_jid=8827599002",
      "title_exclude_unless",
      "structural",
      {

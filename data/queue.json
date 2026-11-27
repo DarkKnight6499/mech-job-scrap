@@ -4413,7 +4413,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -7056,8 +7056,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -7096,7 +7096,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-25",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -14183,42 +14183,6 @@
   "ghost_evidence": ""
  },
  {
-  "id": "Joby Aviation:5483",
-  "company": "Joby Aviation",
-  "role": "Flight Test Intern (Dec 2026-Feb 2027)",
-  "location": "Marina, CA, US",
-  "link": "https://careers-jobyaviation.icims.com/jobs/5483/flight-test-intern-%28dec-2026-feb-2027%29/job",
-  "posted": "2026-11-03",
-  "posted_source": "approx",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-15",
-  "sponsorship_status": "Unclear",
-  "sponsorship_evidence": "No sponsorship language in the description.",
-  "salary": "$22 - $33/hr (~$45.8k - $68.6k/yr)",
-  "salary_evidence": "[converted from hourly pay] s freshman to senior level students, is $22.00-$33.00/ hour. The pay range for graduate inter",
-  "kw_hits": [
-   "mechanical",
-   "aerospace",
-   "manufacturing"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-27",
-  "miss_count": 0,
-  "closed_on": null,
-  "closed_reason": null,
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Joby Aviation:5483",
-  "lineage_first_seen": "2026-11-15",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
   "id": "Joby Aviation:5494",
   "company": "Joby Aviation",
   "role": "Mechanical Engineer Intern, Autonomy (Summer 2027)",
@@ -14454,9 +14418,9 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-25",
-  "miss_count": 4,
-  "closed_on": null,
-  "closed_reason": null,
+  "miss_count": 5,
+  "closed_on": "2026-11-27",
+  "closed_reason": "removed",
   "repost_count": 0,
   "repost_of": null,
   "reposted_on": null,
@@ -17576,7 +17540,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22742,7 +22706,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-26",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22777,7 +22741,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-26",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22812,7 +22776,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-26",
-  "miss_count": 2,
+  "miss_count": 3,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22847,7 +22811,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22881,8 +22845,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22916,8 +22880,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22951,8 +22915,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -22986,8 +22950,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23091,8 +23055,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23126,8 +23090,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23161,8 +23125,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23196,8 +23160,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23231,8 +23195,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23266,8 +23230,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23301,8 +23265,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23336,8 +23300,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -23371,8 +23335,8 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-25",
-  "miss_count": 5,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -38761,7 +38725,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -38893,7 +38857,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -38957,7 +38921,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -39053,7 +39017,7 @@
   "state": "auto_blocked",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -39117,7 +39081,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -39220,7 +39184,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -44887,7 +44851,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -48127,7 +48091,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -48848,7 +48812,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -48920,7 +48884,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -49348,7 +49312,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -50806,7 +50770,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -50969,7 +50933,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -51069,7 +51033,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -51101,7 +51065,7 @@
   "state": "new",
   "first_run": true,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -52644,7 +52608,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-25",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 1,
@@ -52682,7 +52646,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-25",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -53637,7 +53601,7 @@
   "state": "auto_blocked",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -54003,7 +53967,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -54191,7 +54155,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-25",
-  "miss_count": 4,
+  "miss_count": 5,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -57466,7 +57430,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -59684,7 +59648,7 @@
   "state": "new",
   "first_run": false,
   "last_seen_live": "2026-11-27",
-  "miss_count": 1,
+  "miss_count": 2,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -64578,7 +64542,7 @@
   "lineage_first_seen": "2026-11-23",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64614,7 +64578,7 @@
   "lineage_first_seen": "2026-11-23",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64652,7 +64616,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64691,7 +64655,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64767,7 +64731,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64808,7 +64772,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64849,7 +64813,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64886,7 +64850,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64923,7 +64887,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64961,7 +64925,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -64995,7 +64959,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65032,7 +64996,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65072,7 +65036,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65111,7 +65075,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65149,7 +65113,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65187,7 +65151,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65225,7 +65189,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65264,7 +65228,7 @@
   "lineage_first_seen": "2026-11-24",
   "ghost_status": "Unclear",
   "ghost_evidence": "",
-  "alert_pending": true,
+  "alert_pending": false,
   "alert_attempts": 3
  },
  {
@@ -65306,7 +65270,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Veolia:744000163461905",
@@ -65342,7 +65306,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "L3Harris:103737452032",
@@ -65563,7 +65527,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Westinghouse:1453379800",
@@ -65599,7 +65563,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Draper Laboratory:/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181",
@@ -65707,7 +65671,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Sanofi US:/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Purification-Process-Development--Framingham--MA_R2866055",
@@ -65744,7 +65708,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Sanofi US:/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Purification-Process-Development--Framingham--MA_R2866054",
@@ -65781,7 +65745,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Moderna:/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20129",
@@ -65852,7 +65816,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "RTX:/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Operations-Engineering-Intern--Summer-2027-_01891148",
@@ -66135,7 +66099,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Moog:/job/Buffalo-NY/Intern--Facilities-Project-Management_R-26-21590",
@@ -66173,7 +66137,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Shield AI:7378153f-32ca-426c-a157-8069d5b284c8",
@@ -66213,7 +66177,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Flowserve:/job/Corpus-Christi-Texas-US/Engineering-Co-op_R-21449",
@@ -66254,7 +66218,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 2
+  "alert_attempts": 3
  },
  {
   "id": "Bloom Energy:/job/Fremont-California/Equipment-Engineering-Intern_JR-25645-1",
@@ -66296,7 +66260,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Bloom Energy:/job/Fremont-California/Manufacturing-Engineer-Interns---Tool-Installation---Equipment-Ramp_JR-25382",
@@ -66335,7 +66299,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Bloom Energy:/job/Fremont-California/Manufacturing-Engineer-Interns---Tool-Installation---Equipment-Ramp_JR-25379",
@@ -66374,7 +66338,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Bloom Energy:/job/Fremont-California/Manufacturing-Engineer-Interns---Tool-Installation---Equipment-Ramp_JR-25381",
@@ -66413,7 +66377,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "KLA:/job/Ann-Arbor-MI/Internship--Flow--Thermal-and-Structural-Modeling_2642808-2",
@@ -66449,7 +66413,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Aerospace Corporation:/job/El-Segundo-CA/XMLNAME-2027-Battery-Test-Lab-Undergraduate-Research-Intern_R017300",
@@ -66562,7 +66526,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "ASML US:/job/San-Diego-CA-USA/Internship---Optical-and-Metrology-Engineering_J-00358248",
@@ -66598,7 +66562,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Johns Hopkins APL:61013",
@@ -66669,7 +66633,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Terracon:4351",
@@ -66706,7 +66670,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Terracon:4392",
@@ -66743,7 +66707,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Terracon:4397",
@@ -66780,7 +66744,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1",
@@ -66816,7 +66780,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Steel Dynamics:7968",
@@ -66854,7 +66818,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Clark Construction:/job/Charleston-SC/Summer-Associate---Water-Wastewater--Summer-2027-_R5025813",
@@ -66893,7 +66857,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Carollo Engineers:4675",
@@ -66930,7 +66894,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Carollo Engineers:4645",
@@ -66967,7 +66931,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Carollo Engineers:4644",
@@ -67003,7 +66967,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "AECOM:744000163552819",
@@ -67072,7 +67036,7 @@
   "ghost_status": "Unclear",
   "ghost_evidence": "",
   "alert_pending": true,
-  "alert_attempts": 1
+  "alert_attempts": 2
  },
  {
   "id": "Plastipak:/job/Plastipak---Garland-TX/Manufacturing-Operations---Logistics-Intern---Summer-2027_REQ25022",
@@ -68432,7 +68396,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68469,7 +68433,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68638,7 +68602,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68673,7 +68637,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68708,7 +68672,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68743,7 +68707,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68778,7 +68742,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68812,7 +68776,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68847,7 +68811,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68881,7 +68845,7 @@
   ],
   "state": "new",
   "first_run": true,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -68889,111 +68853,6 @@
   "repost_of": null,
   "reposted_on": null,
   "lineage_root": "Ingredion:/job/North-Kansas-City-MO/Process-Engineer-Co-op-2027--May-Dec-_Req-40188-1",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Constellation Energy:138655",
-  "company": "Constellation Energy",
-  "role": "Summer 2027 Engineering Internship - Limerick, Pottstown, PA",
-  "location": "Pottstown, Pennsylvania",
-  "link": "https://jobs.constellationenergy.com/careers-home/jobs/138655",
-  "posted": "2026-09-27",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[now or future] [sponsorship/support refused] ...nd verbal) and interpersonal skills Constellation will not be providing visa sponsorship for this position now or in the future. You m...",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [
-   "mechanical",
-   "thermal"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-19",
-  "miss_count": 3,
-  "closed_on": "2026-11-20",
-  "closed_reason": "removed",
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Constellation Energy:138655",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Constellation Energy:138637",
-  "company": "Constellation Energy",
-  "role": "Summer 2027 Design Engineering Internship - Lusby, MD",
-  "location": "Lusby, Maryland",
-  "link": "https://jobs.constellationenergy.com/careers-home/jobs/138637",
-  "posted": "2026-09-27",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[now or future] [sponsorship/support refused] ...nd verbal) and interpersonal skills Constellation will not be providing visa sponsorship for this position now or in the future. You m...",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [
-   "mechanical",
-   "thermal"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-20",
-  "miss_count": 2,
-  "closed_on": "2026-11-21",
-  "closed_reason": "removed",
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Constellation Energy:138637",
-  "lineage_first_seen": "2026-11-16",
-  "ghost_status": "Unclear",
-  "ghost_evidence": ""
- },
- {
-  "id": "Constellation Energy:138628",
-  "company": "Constellation Energy",
-  "role": "Summer 2027 Strategic/Systems Engineering Intern - Lusby, MD",
-  "location": "Lusby, Maryland",
-  "link": "https://jobs.constellationenergy.com/careers-home/jobs/138628",
-  "posted": "2026-09-27",
-  "posted_source": "exact",
-  "posted_reverified": false,
-  "description_status": "ok",
-  "site": null,
-  "source": "job-scout",
-  "first_seen": "2026-11-16",
-  "sponsorship_status": "No Sponsorship",
-  "sponsorship_evidence": "[now or future] [sponsorship/support refused] ...nd verbal) and interpersonal skills Constellation will not be providing visa sponsorship for this position now or in the future. You m...",
-  "salary": "Unclear",
-  "salary_evidence": "",
-  "kw_hits": [
-   "mechanical",
-   "thermal"
-  ],
-  "state": "new",
-  "first_run": true,
-  "last_seen_live": "2026-11-19",
-  "miss_count": 3,
-  "closed_on": "2026-11-20",
-  "closed_reason": "removed",
-  "repost_count": 0,
-  "repost_of": null,
-  "reposted_on": null,
-  "lineage_root": "Constellation Energy:138628",
   "lineage_first_seen": "2026-11-16",
   "ghost_status": "Unclear",
   "ghost_evidence": ""
@@ -69021,8 +68880,8 @@
   ],
   "state": "auto_blocked",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
-  "miss_count": 1,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69056,7 +68915,7 @@
   ],
   "state": "auto_blocked",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -69091,8 +68950,8 @@
   ],
   "state": "auto_blocked",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
-  "miss_count": 1,
+  "last_seen_live": "2026-11-27",
+  "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
   "repost_count": 0,
@@ -69161,7 +69020,7 @@
   ],
   "state": "auto_blocked",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -69376,7 +69235,7 @@
   ],
   "state": "new",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -69413,7 +69272,7 @@
   ],
   "state": "new",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -69451,7 +69310,7 @@
   ],
   "state": "auto_blocked",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
@@ -69485,7 +69344,7 @@
   ],
   "state": "new",
   "first_run": false,
-  "last_seen_live": "2026-11-26",
+  "last_seen_live": "2026-11-27",
   "miss_count": 0,
   "closed_on": null,
   "closed_reason": null,
